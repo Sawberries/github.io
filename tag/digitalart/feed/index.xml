@@ -9,8 +9,8 @@
 
 <channel>
 	<title>digital art &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/tag/digitalart/feed/?simply_static_page=434" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://localhost/sawberries/tag/digitalart/feed/?simply_static_page=593" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Apr 2024 11:11:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Unleashing Creativity with Procreate and Apple Pencil: A Comprehensive Guide</title>
-		<link>//2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/</link>
-					<comments>//2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/#respond</comments>
+		<link>https://www.sawberries.com/2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/</link>
+					<comments>https://www.sawberries.com/2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/#respond</comments>
 		
 		<dc:creator><![CDATA[sawberries]]></dc:creator>
 		<pubDate>Sun, 21 Apr 2024 11:06:38 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[digital art]]></category>
 		<category><![CDATA[science and art]]></category>
-		<guid isPermaLink="false">//?p=14</guid>
+		<guid isPermaLink="false">https://www.sawberries.com/?p=14</guid>
 
 					<description><![CDATA[Introduction: In the world of digital art, the combination of Procreate and the Apple Pencil has emerged as a powerhouse duo, offering unparalleled precision, versatility, and a natural drawing experience. Whether you’re a seasoned artist or a beginner eager to explore your creative potential, this guide will walk you through the essentials of using Procreate [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -135,7 +135,7 @@
 <p>Remember, the journey of art is endless and filled with continuous learning. Embrace each stroke, each layer, and every color blend as a step towards mastering the art of digital creativity with Procreate and Apple Pencil.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.sawberries.com/2024/04/21/unleashing-creativity-with-procreate-and-apple-pencil-a-comprehensive-guide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

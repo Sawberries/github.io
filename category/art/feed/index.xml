@@ -9,8 +9,8 @@
 
 <channel>
 	<title>art &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/art/feed/?simply_static_page=419" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://localhost/sawberries/category/art/feed/?simply_static_page=578" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 Apr 2024 11:31:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>The Future of AI: Navigating the Next Decade</title>
-		<link>//2024/04/21/the-future-of-ai-navigating-the-next-decade/</link>
-					<comments>//2024/04/21/the-future-of-ai-navigating-the-next-decade/#respond</comments>
+		<link>https://www.sawberries.com/2024/04/21/the-future-of-ai-navigating-the-next-decade/</link>
+					<comments>https://www.sawberries.com/2024/04/21/the-future-of-ai-navigating-the-next-decade/#respond</comments>
 		
 		<dc:creator><![CDATA[sawberries]]></dc:creator>
 		<pubDate>Sun, 21 Apr 2024 11:20:50 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[art]]></category>
 		<category><![CDATA[science art]]></category>
-		<guid isPermaLink="false">//?p=21</guid>
+		<guid isPermaLink="false">https://www.sawberries.com/?p=21</guid>
 
 					<description><![CDATA[As we stand on the precipice of a new era in technology, the evolution of Artificial Intelligence (AI) over the next ten years promises to usher in a transformative period not just for tech industries, but for every facet of human life. From healthcare and education to finance and entertainment, AI’s potential to revolutionize our [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="//wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54.webp" alt="" class="wp-image-23" srcset="//wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54.webp 1024w, //wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-300x300.webp 300w, //wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-150x150.webp 150w, //wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.sawberries.com/wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54.webp" alt="" class="wp-image-23" srcset="https://www.sawberries.com/wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54.webp 1024w, https://www.sawberries.com/wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-300x300.webp 300w, https://www.sawberries.com/wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-150x150.webp 150w, https://www.sawberries.com/wp-content/uploads/2024/04/4e44936e-ce33-4750-84fb-9ce5c306eb54-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -92,7 +92,7 @@
 <p>The next ten years will be critical in determining the trajectory of AI’s impact on our world. While the potential for positive change is immense, so too is the responsibility to guide this development wisely. By fostering an inclusive approach that prioritizes ethical considerations, education, and adaptability in the workforce, we can harness the power of AI to create a future that reflects our highest aspirations for society. The journey ahead is as much about the choices we make as it is about the capabilities of the technology itself. As we venture into this uncharted territory, one thing is clear: the future of AI is not just about what it can do, but about what we choose to do with it.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2024/04/21/the-future-of-ai-navigating-the-next-decade/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.sawberries.com/2024/04/21/the-future-of-ai-navigating-the-next-decade/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
