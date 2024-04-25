@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Neuroscience &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/neuroscience/feed/?simply_static_page=792" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>part of www.sawberry.com sites</description>
+	<lastBuildDate>Thu, 25 Apr 2024 08:58:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Mapping the brain pathways of visual memorability</title>
+		<link>https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Functional magnetic resonance imaging (fMRI)]]></category>
+		<category><![CDATA[Image Processing]]></category>
+		<category><![CDATA[Imaging]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Neuroscience]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</guid>
+
+					<description><![CDATA[For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the first time, scientists harnessed the combined strengths of magnetoencephalography (MEG), which captures the timing of brain activity, and functional magnetic resonance imaging (fMRI), which identifies active brain regions, to precisely determine when and where the brain processes a memorable image. </p>
+<p>Their open-access study, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002564" target="_blank" rel="noopener">published this month in <em>PLOS Biology</em></a>, used 78 pairs of images matched for the same concept but differing in their memorability scores — one was highly memorable and the other was easy to forget. These images were shown to 15 subjects, with scenes of skateboarding, animals in various environments, everyday objects like cups and chairs, natural landscapes like forests and beaches, urban scenes of streets and buildings, and faces displaying different expressions. What they found was that a more distributed network of brain regions than previously thought are actively involved in the encoding and retention processes that underpin memorability. </p>
+<p>“People tend to remember some images better than others, even when they are conceptually similar, like different scenes of a person skateboarding,” says Benjamin Lahner, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and first author of the study. “We&#8217;ve identified a brain signature of visual memorability that emerges around 300 milliseconds after seeing an image, involving areas across the ventral occipital cortex and temporal cortex, which processes information like color perception and object recognition. This signature indicates that highly memorable images prompt stronger and more sustained brain responses, especially in regions like the early visual cortex, which we previously underestimated in memory processing.”</p>
+<p>While highly memorable images maintain a higher and more sustained response for about half a second, the response to less memorable images quickly diminishes. This insight, Lahner elaborated, could redefine our understanding of how memories form and persist. The team envisions this research holding potential for future clinical applications, particularly in early diagnosis and treatment of memory-related disorders. </p>
+<p>The MEG/fMRI fusion method, developed in the lab of CSAIL Senior Research Scientist Aude Oliva, adeptly captures the brain&#8217;s spatial and temporal dynamics, overcoming the traditional constraints of either spatial or temporal specificity. The fusion method had a little help from its machine-learning friend, to better examine and compare the brain&#8217;s activity when looking at various images. They created a “representational matrix,” which is like a detailed chart, showing how similar neural responses are in various brain regions. This chart helped them identify the patterns of where and when the brain processes what we see.</p>
+<p>Picking the conceptually similar image pairs with high and low memorability scores was the crucial ingredient to unlocking these insights into memorability. Lahner explained the process of aggregating behavioral data to assign memorability scores to images, where they curated a diverse set of high- and low-memorability images with balanced representation across different visual categories. </p>
+<p>Despite strides made, the team notes a few limitations. While this work can identify brain regions showing significant memorability effects, it cannot elucidate the regions&#8217; function in how it is contributing to better encoding/retrieval from memory.</p>
+<p>“Understanding the neural underpinnings of memorability opens up exciting avenues for clinical advancements, particularly in diagnosing and treating memory-related disorders early on,” says Oliva. “The specific brain signatures we&#8217;ve identified for memorability could lead to early biomarkers for Alzheimer&#8217;s disease and other dementias. This research paves the way for novel intervention strategies that are finely tuned to the individual&#8217;s neural profile, potentially transforming the therapeutic landscape for memory impairments and significantly improving patient outcomes.”</p>
+<p>“These findings are exciting because they give us insight into what is happening in the brain between seeing something and saving it into memory,” says Wilma Bainbridge, assistant professor of psychology at the University of Chicago, who was not involved in the study. “The researchers here are picking up on a cortical signal that reflects what&#8217;s important to remember, and what can be forgotten early on.” </p>
+<p>Lahner and Oliva, who is also the director of strategic industry engagement at the MIT Schwarzman College of Computing, MIT director of the MIT-IBM Watson AI Lab, and CSAIL principal investigator, join Western University Assistant Professor Yalda Mohsenzadeh and York University researcher Caitlin Mullin on the paper. The team acknowledges a shared instrument grant from the National Institutes of Health, and their work was funded by the Vannevar Bush Faculty Fellowship via an Office of Naval Research grant, a National Science Foundation award, Multidisciplinary University Research Initiative award via an Army Research Office grant, and the EECS MathWorks Fellowship. Their paper is published in <em>PLOS Biology</em>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
