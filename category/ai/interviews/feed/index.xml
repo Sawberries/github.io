@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Interviews &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/interviews/feed/?simply_static_page=856" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/interviews/feed/?simply_static_page=1632" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
-	<lastBuildDate>Thu, 25 Apr 2024 08:58:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Apr 2024 12:13:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,39 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>Meet Malar, India’s First Autonomous AI Professor</title>
+		<link>https://www.sawberries.com/2024/04/25/meet-malar-teacher-indias-first-autonomous-ai-professor/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI in India]]></category>
+		<category><![CDATA[AI professor]]></category>
+		<category><![CDATA[Anna University]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chennai]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[HaiVE]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Malar Teacher]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Whatsapp]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/meet-malar-teacher-indias-first-autonomous-ai-professor/</guid>
+
+					<description><![CDATA[Two months after Kerala got its first AI teacher, Chennai researchers have developed the country’s first AI Professor! “Malar Teacher,” as she is named, is said to be the world’s first autonomous AI university professor. Malar is fully trained on the complete engineering syllabus of Anna University, ushering in a new era of teaching. This [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Two months after Kerala got its first AI teacher, Chennai researchers have developed the country’s first AI Professor! “Malar Teacher,” as she is named, is said to be the world’s first autonomous AI university professor. Malar is fully trained on the complete engineering syllabus of Anna University, ushering in a new era of teaching. This […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/meet-malar-teacher-indias-first-autonomous-ai-professor/">Meet Malar, India’s First Autonomous AI Professor</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 20+ RAG Interview Questions</title>
 		<link>https://www.sawberries.com/2024/04/25/top-20-rag-interview-questions/</link>
 		
