@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Cybersecurity &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/cybersecurity/feed/?simply_static_page=8159" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/cybersecurity/feed/?simply_static_page=8659" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
-	<lastBuildDate>Thu, 25 Apr 2024 08:58:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Apr 2024 10:32:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple Alerts iPhone Users in 92 Countries to Mercenary Spyware Attacks</title>
+		<link>https://www.sawberries.com/2024/04/26/apple-threat-notifications-mercenary-spyware/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 10:32:34 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[spyware]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/apple-threat-notifications-mercenary-spyware/</guid>
+
+					<description><![CDATA[Apple recommends that iPhone users install software updates, use strong passwords and 2FA, and don’t open links or attachments from suspicious emails to keep their device safe from spyware. Please enable JavaScript to view the comments powered by Disqus.]]></description>
+										<content:encoded><![CDATA[<div>Apple recommends that iPhone users install software updates, use strong passwords and 2FA, and don’t open links or attachments from suspicious emails to keep their device safe from spyware.</div>
+<p><!-- Disqus thread link for post ID  --></p>
+<div id='disqus_thread'></div>
+<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
 		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
 		
