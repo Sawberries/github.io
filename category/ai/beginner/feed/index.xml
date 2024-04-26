@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=20232" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=21148" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
-	<lastBuildDate>Fri, 26 Apr 2024 09:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Apr 2024 15:02:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,38 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 10 Programming Languages in 2024</title>
+		<link>https://www.sawberries.com/2024/04/26/top-programming-languages/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 15:02:41 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[C/C++]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[golang]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[Kotlin]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[R]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/top-programming-languages/</guid>
+
+					<description><![CDATA[Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Introduction to Natural Language Processing [Free NLP Course]</title>
 		<link>https://www.sawberries.com/2024/04/26/free-course-on-nlp/</link>
 		
