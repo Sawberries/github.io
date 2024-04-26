@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=1614" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=2096" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
-	<lastBuildDate>Thu, 25 Apr 2024 12:13:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Apr 2024 21:02:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,115 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>Cohere Launches Toolkit to Expedite Generative AI Application Development</title>
+		<link>https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 21:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI app]]></category>
+		<category><![CDATA[AI App Building]]></category>
+		<category><![CDATA[AI toolkit]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[deployment]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Generative AI Toolkit]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Toolkit]]></category>
+		<category><![CDATA[tools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</guid>
+
+					<description><![CDATA[Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/cohere-launches-toolkit-to-expedite-generative-ai-application-development/">Cohere Launches Toolkit to Expedite Generative AI Application Development</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flask Application Dockerization: Creating a Docker Image</title>
+		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 18:02:20 +0000</pubDate>
+				<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[Command Line]]></category>
+		<category><![CDATA[Container]]></category>
+		<category><![CDATA[Database]]></category>
+		<category><![CDATA[Docker]]></category>
+		<category><![CDATA[Docker Containers]]></category>
+		<category><![CDATA[Docker Hub]]></category>
+		<category><![CDATA[Dockerfile]]></category>
+		<category><![CDATA[EC2]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Flask]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Image Analysis]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</guid>
+
+					<description><![CDATA[Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A new report explores the economic impact of generative AI</title>
+		<link>https://www.sawberries.com/2024/04/25/a-new-report-explores-the-economic-impact-of-generative-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 18:02:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/a-new-report-explores-the-economic-impact-of-generative-ai/</guid>
+
+					<description><![CDATA[A new report from inaugural Technology &#38; Society Visiting Fellow Andrew McAfee looks at the potential economic impacts of generative AI.]]></description>
+										<content:encoded><![CDATA[<div><img decoding="async" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai-hero.max-600x600.format-webp.webp">A new report from inaugural Technology &amp; Society Visiting Fellow Andrew McAfee looks at the potential economic impacts of generative AI.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10+ Deepfake Videos that You Must Watch in 2024</title>
+		<link>https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 15:02:20 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[deepfake]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</guid>
+
+					<description><![CDATA[Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/deepfake-videos-that-you-must-watch/">10+ Deepfake Videos that You Must Watch in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>GhostFaceNets: Efficient Face Recognition on Edge Devices</title>
 		<link>https://www.sawberries.com/2024/04/25/ghostfacenets-efficient-face-recognition-on-edge-devices/</link>
 		
@@ -289,127 +398,6 @@
 <p>To that end, she designed nanoparticles that deliver IL-12, a cytokine that stimulates nearby T cells to spring into action and begin attacking tumor cells. In a study of mice, she found that this treatment induced a long-term memory T-cell response that prevented recurrence of ovarian cancer.</p>
 <p>Hammond closed her lecture by describing the impact that the Institute has had on her throughout her career.</p>
 <p>“It’s been a transformative experience,” she said. “I really think of this place as special because it brings people together and enables us to do things together that we couldn’t do alone. And it is that support we get from our friends, our colleagues, and our students that really makes things possible.”</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hyper-V Unveiled: Best Practices for Efficient Hyper-V Backup</title>
-		<link>https://www.sawberries.com/2024/04/25/hyper-v-unveiled-best-practices-for-efficient-hyper-v-backup/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 09:05:06 +0000</pubDate>
-				<category><![CDATA[Cloud]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/hyper-v-unveiled-best-practices-for-efficient-hyper-v-backup/</guid>
-
-					<description><![CDATA[Virtualization has become a cornerstone of modern IT infrastructure, enabling organizations to run multiple virtual machines (VMs) on a single physical server. In the field of virtualization, Microsoft’s Hyper-V stands out as a robust, scalable solution for creating and managing virtual machines. However, the advantages of digitization come with the responsibility of ensuring that your&#8230; [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Virtualization has become a cornerstone of modern IT infrastructure, enabling organizations to run multiple virtual machines (VMs) on a single physical server. In the field of virtualization, Microsoft’s Hyper-V stands out as a robust, scalable solution for creating and managing virtual machines. However, the advantages of digitization come with the responsibility of ensuring that your&#8230;</p>
-<p>The post <a href="https://1reddrop.com/2024/04/15/hyper-v-unveiled-best-practices-for-efficient-hyper-v-backup/">Hyper-V Unveiled: Best Practices for Efficient Hyper-V Backup</a> appeared first on <a href="https://1reddrop.com/">1redDrop</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Navigating the Crypto Landscape: Where Can I Buy Bitcoin in Turkey?</title>
-		<link>https://www.sawberries.com/2024/04/25/navigating-the-crypto-landscape-where-can-i-buy-bitcoin-in-turkey/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 09:05:04 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[Disruptors]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Finance]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/navigating-the-crypto-landscape-where-can-i-buy-bitcoin-in-turkey/</guid>
-
-					<description><![CDATA[As cryptocurrency, especially Bitcoin, becomes more and more popular, many people in Turkey want to get their hands on a slice of the lucrative digital assets pie. Some may see it as a serious investment while others are just looking to explore the idea for the fun of it. Perhaps, you have already found yourself&#8230; [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>As cryptocurrency, especially Bitcoin, becomes more and more popular, many people in Turkey want to get their hands on a slice of the lucrative digital assets pie. Some may see it as a serious investment while others are just looking to explore the idea for the fun of it. Perhaps, you have already found yourself&#8230;</p>
-<p>The post <a href="https://1reddrop.com/2024/02/11/navigating-the-crypto-landscape-where-can-i-buy-bitcoin-in-turkey/">Navigating the Crypto Landscape: Where Can I Buy Bitcoin in Turkey?</a> appeared first on <a href="https://1reddrop.com/">1redDrop</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Clever Ways To Beat Your Competitors When It Comes To Online Presence</title>
-		<link>https://www.sawberries.com/2024/04/25/clever-ways-to-beat-your-competitors-when-it-comes-to-online-presence/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 09:05:03 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/clever-ways-to-beat-your-competitors-when-it-comes-to-online-presence/</guid>
-
-					<description><![CDATA[In today’s digital landscape, companies have to work harder than ever to capture their audience’s attention. A strong online presence is crucial, so how can you set yourself apart and beat your competitors when it comes to online presence? Firstly, it’s essential to employ clever and innovative tactics and lead with a data-driven approach. Know&#8230; [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>In today’s digital landscape, companies have to work harder than ever to capture their audience’s attention. A strong online presence is crucial, so how can you set yourself apart and beat your competitors when it comes to online presence? Firstly, it’s essential to employ clever and innovative tactics and lead with a data-driven approach. Know&#8230;</p>
-<p>The post <a href="https://1reddrop.com/2024/02/01/clever-ways-to-beat-your-competitors-when-it-comes-to-online-presence/">Clever Ways To Beat Your Competitors When It Comes To Online Presence</a> appeared first on <a href="https://1reddrop.com/">1redDrop</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
-		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Computer science and technology]]></category>
-		<category><![CDATA[Cybersecurity]]></category>
-		<category><![CDATA[Data]]></category>
-		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
-		<category><![CDATA[Electronics]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
-		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
-		<category><![CDATA[National Science Foundation (NSF)]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
-
-					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
-<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
-<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
-<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
-<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
-<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
-<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
-<p><strong>Side-channel susceptibility</strong></p>
-<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
-<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
-<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
-<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
-<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
-<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
-<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
-<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
-<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
-<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
-<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
-<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
-<p><strong>Safety testing</strong></p>
-<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
-<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
-<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
-<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
-<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
-<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
 </div>
 ]]></content:encoded>
 					

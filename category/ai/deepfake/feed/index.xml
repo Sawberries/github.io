@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>deepfake &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/deepfake/feed/?simply_static_page=2169" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>part of www.sawberry.com sites</description>
+	<lastBuildDate>Thu, 25 Apr 2024 15:02:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>10+ Deepfake Videos that You Must Watch in 2024</title>
+		<link>https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 15:02:20 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[deepfake]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</guid>
+
+					<description><![CDATA[Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/deepfake-videos-that-you-must-watch/">10+ Deepfake Videos that You Must Watch in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
