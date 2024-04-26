@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Awards, honors and fellowships &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/nano/awards-honors-and-fellowships/feed/?simply_static_page=5088" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/nano/awards-honors-and-fellowships/feed/?simply_static_page=5789" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
 	<lastBuildDate>Thu, 25 Apr 2024 14:14:54 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Awards, honors and fellowships &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Seven from MIT elected to American Academy of Arts and Sciences for 2024</title>
 		<link>https://www.sawberries.com/2024/04/25/seven-mit-elected-american-academy-arts-and-sciences-0425/</link>

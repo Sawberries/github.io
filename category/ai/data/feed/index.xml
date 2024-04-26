@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Data &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/data/feed/?simply_static_page=5272" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/data/feed/?simply_static_page=6169" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
 	<lastBuildDate>Thu, 25 Apr 2024 08:58:32 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Data &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
 		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>

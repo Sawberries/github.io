@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ethereum &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/ethereum/feed/?simply_static_page=5053" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/ethereum/feed/?simply_static_page=5716" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
 	<lastBuildDate>Thu, 25 Apr 2024 18:02:20 +0000</lastBuildDate>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Ethereum &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Flask Application Dockerization: Creating a Docker Image</title>
 		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
