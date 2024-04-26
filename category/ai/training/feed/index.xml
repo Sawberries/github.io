@@ -9,10 +9,10 @@
 
 <channel>
 	<title>training &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/training/feed/?simply_static_page=12922" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/training/feed/?simply_static_page=13448" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
-	<lastBuildDate>Thu, 25 Apr 2024 08:58:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Apr 2024 12:01:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Data Efficient GANs Generate Images of Cats and Dogs?</title>
+		<link>https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 12:01:22 +0000</pubDate>
+				<category><![CDATA[ada]]></category>
+		<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[GANs]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Image Analysis]]></category>
+		<category><![CDATA[image generattor]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[keras]]></category>
+		<category><![CDATA[Probability]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unstructured Data]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</guid>
+
+					<description><![CDATA[Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Implementing Query2Model: Simplifying Machine Learning</title>
 		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
 		
