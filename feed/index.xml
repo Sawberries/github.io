@@ -9,7 +9,7 @@
 
 <channel>
 	<title>sawberries</title>
-	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=42964" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=44459" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
 	<lastBuildDate>Sat, 27 Apr 2024 10:50:09 +0000</lastBuildDate>
