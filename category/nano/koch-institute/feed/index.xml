@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Koch Institute &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/nano/koch-institute/feed/?simply_static_page=35410" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/nano/koch-institute/feed/?simply_static_page=36884" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>part of www.sawberry.com sites</description>
 	<lastBuildDate>Thu, 25 Apr 2024 12:13:36 +0000</lastBuildDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[Community]]></category>
 		<category><![CDATA[Faculty]]></category>
 		<category><![CDATA[Koch Institute]]></category>
-		<category><![CDATA[Nano]]></category>
+		<category><![CDATA[nano]]></category>
 		<category><![CDATA[Nanoscience and nanotechnology]]></category>
 		<category><![CDATA[School of Engineering]]></category>
 		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/killian-lecture-speaker-paula-hammond-nanoparticles-0410/</guid>
