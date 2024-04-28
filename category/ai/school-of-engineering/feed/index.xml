@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>School of Engineering &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/school-of-engineering/feed/?simply_static_page=53037" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>part of www.sawberry.com sites</description>
+	<lastBuildDate>Thu, 25 Apr 2024 12:13:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>School of Engineering &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>“Nanostitches” enable lighter and tougher composite materials</title>
+		<link>https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:37 +0000</pubDate>
+				<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Aircraft]]></category>
+		<category><![CDATA[Carbon materials]]></category>
+		<category><![CDATA[Materials science and engineering]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</guid>
+
+					<description><![CDATA[To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures. But composite [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures.</p>
+<p>But composite materials have one main vulnerability: the space between layers, which is typically filled with polymer “glue” to bond the layers together. In the event of an impact or strike, cracks can easily spread between layers and weaken the material, even though there may be no visible damage to the layers themselves. Over time, as these hidden cracks spread between layers, the composite could suddenly crumble without warning.</p>
+<p>Now, MIT engineers have shown they can prevent cracks from spreading between composite’s layers, using an approach they developed called “nanostitching,” in which they deposit chemically grown microscopic forests of carbon nanotubes between composite layers. The tiny, densely packed fibers grip and hold the layers together, like ultrastrong Velcro, preventing the layers from peeling or shearing apart.</p>
+<p>In experiments with an advanced composite known as thin-ply carbon fiber laminate, the team demonstrated that layers bonded with nanostitching improved the material’s resistance to cracks by up to 60 percent, compared with composites with conventional polymers. The researchers say the results help to address the main vulnerability in advanced composites.</p>
+<p>“Just like phyllo dough flakes apart, composite layers can peel apart because this interlaminar region is the Achilles’ heel of composites,” says Brian Wardle, professor of aeronautics and astronautics at MIT. “We’re showing that nanostitching makes this normally weak region so strong and tough that a crack will not grow there. So, we could expect the next generation of aircraft to have composites held together with this nano-Velcro, to make aircraft safer and have greater longevity.”</p>
+<p>Wardle and his colleagues have <a href="https://pubs.acs.org/doi/10.1021/acsami.3c17333" target="_blank" rel="noopener">published their results</a> today in the journal <em>ACS Applied Materials and Interfaces</em>. The study’s first author is former MIT visiting graduate student and postdoc Carolina Furtado, along with Reed Kopp, Xinchen Ni, Carlos Sarrado, Estelle Kalfon-Cohen, and Pedro Camanho.</p>
+<p><strong>Forest growth</strong></p>
+<p>At MIT, Wardle is director of the necstlab (pronounced “next lab”), where he and his group <a href="https://news.mit.edu/2016/carbon-nanotube-stitches-strengthen-composites-0803" target="_blank" rel="noopener">first developed</a> the concept for nanostitching. The approach involves “growing” a forest of vertically aligned carbon nanotubes — hollow fibers of carbon, each so small that tens of billions of the the nanotubes can stand in an area smaller than a fingernail. To grow the nanotubes, the team used a process of chemical vapor deposition to react various catalysts in an oven, causing carbon to settle onto a surface as tiny, hair-like supports. The supports are eventually removed, leaving behind a densely packed forest of microscopic, vertical rolls of carbon.</p>
+<p>The lab has previously shown that the nanotube forests can be grown and adhered to layers of composite material, and that this fiber-reinforced compound improves the material’s overall strength. The researchers had also seen some signs that the fibers can improve a composite’s resistance to cracks between layers.</p>
+<p>In their new study, the engineers took a more in-depth look at the between-layer region in composites to test and quantify how nanostitching would improve the region’s resistance to cracks. In particular, the study focused on an advanced composite material known as thin-ply carbon fiber laminates.</p>
+<p>“This is an emerging composite technology, where each layer, or ply, is about 50 microns thin, compared to standard composite plies that are 150 microns, which is about the diameter of a human hair. There’s evidence to suggest they are better than standard-thickness composites. And we wanted to see whether there might be synergy between our nanostitching and this thin-ply technology, since it could lead to more resilient aircraft, high-value aerospace structures, and space and military vehicles,” Wardle says.</p>
+<p><strong>Velcro grip</strong></p>
+<p>The study’s experiments were led by Carolina Furtado, who joined the effort as part of the MIT-Portugal program in 2016, continued the project as a postdoc, and is now a professor at the University of Porto in Portugal, where her research focuses on modeling cracks and damage in advanced composites.</p>
+<p>In her tests, Furtado used the group’s techniques of chemical vapor deposition to grow densely packed forests of vertically aligned carbon nanotubes. She also fabricated samples of thin-ply carbon fiber laminates. The resulting advanced composite was about 3 millimeters thick and comprised 60 layers, each made from stiff, horizontal fibers embedded in a polymer sheet.</p>
+<p>She transferred and adhered the nanotube forest in between the two middle layers of the composite, then cooked the material in an autoclave to cure. To test crack resistance, the researchers placed a crack on the edge of the composite, right at the start of the region between the two middle layers.</p>
+<p>“In fracture testing, we always start with a crack because we want to test whether and how far the crack will spread,” Furtado explains.</p>
+<p>The researchers then placed samples of the nanotube-reinforced composite in an experimental setup to test their resilience to “delamination,” or the potential for layers to separate.</p>
+<p>“There’s lots of ways you can get precursors to delamination, such as from impacts, like tool drop, bird strike, runway kickup in aircraft, and there could be almost no visible damage, but internally it has a delamination,” Wardle says. “Just like a human, if you’ve got a hairline fracture in a bone, it’s not good. Just because you can’t see it doesn’t mean it’s not impacting you. And damage in composites is hard to inspect.”</p>
+<p>To examine nanostitching’s potential to prevent delamination, the team placed their samples in a setup to test three delamination modes, in which a crack could spread through the between-layer region and peel the layers apart or cause them to slide against each other, or do a combination of both. All three of these modes are the most common ways in which conventional composites can internally flake and crumble.</p>
+<p>The tests, in which the researchers precisely measured the force required to peel or shear the composite’s layers, revealed that the nanostitched held fast, and the initial crack that the researchers made was unable to spread further between the layers. The nanostitched samples were up to 62 percent tougher and more resistant to cracks, compared with the same advanced composite material that was held together with conventional polymers.</p>
+<p>“This is a new composite technology, turbocharged by our nanotubes,” Wardle says.</p>
+<p>“The authors have demonsrated that thin plies and nanostitching together have made significant increase in toughness,” says Stephen Tsai, emeritus professor of aeronautics and astronautics at Stanford University. “Composites are degraded by their weak interlaminar strength. Any improvement shown in this work will increase the design allowable, and reduce the weight and cost of composites technology.”</p>
+<p>The researchers envision that any vehicle or structure that incorporates conventional composites could be made lighter, tougher, and more resilient with nanostitching.</p>
+<p>“You could have selective reinforcement of problematic areas, to reinforce holes or bolted joints, or places where delamination might happen,” Furtado says. “This opens a big window of opportunity.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How light can vaporize water without the need for heat</title>
+		<link>https://www.sawberries.com/2024/04/25/how-light-can-vaporize-water-without-heat-0423/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:37 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Desalination]]></category>
+		<category><![CDATA[Heat]]></category>
+		<category><![CDATA[Light]]></category>
+		<category><![CDATA[Mechanical engineering]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/how-light-can-vaporize-water-without-heat-0423/</guid>
+
+					<description><![CDATA[It’s the most fundamental of processes — the evaporation of water from the surfaces of oceans and lakes, the burning off of fog in the morning sun, and the drying of briny ponds that leaves solid salt behind. Evaporation is all around us, and humans have been observing it and making use of it for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>It’s the most fundamental of processes — the evaporation of water from the surfaces of oceans and lakes, the burning off of fog in the morning sun, and the drying of briny ponds that leaves solid salt behind. Evaporation is all around us, and humans have been observing it and making use of it for as long as we have existed.</p>
+</p>
+<p>And yet, it turns out, we’ve been missing a major part of the picture all along.</p>
+</p>
+<p>In a series of painstakingly precise experiments, a team of researchers at MIT has demonstrated that heat isn’t alone in causing water to evaporate. Light, striking the water’s surface where air and water meet, can break water molecules away and float them into the air, causing evaporation in the absence of any source of heat.</p>
+</p>
+<p>The astonishing new discovery could have a wide range of significant implications. It could help explain mysterious measurements over the years of how sunlight affects clouds, and therefore affect calculations of the effects of climate change on cloud cover and precipitation. It could also lead to new ways of designing industrial processes such as solar-powered desalination or drying of materials.</p>
+</p>
+<p>The findings, and the many different lines of evidence that demonstrate the reality of the phenomenon and the details of how it works, are described today in the journal <em>PNAS, </em>in a <a href="https://www.pnas.org/doi/10.1073/pnas.2320844121" target="_blank" rel="noopener">paper</a> by Carl Richard Soderberg Professor of Power Engineering Gang Chen, postdocs Guangxin Lv and Yaodong Tu, and graduate student James Zhang.</p>
+</p>
+<p>The authors say their study suggests that the effect should happen widely in nature— everywhere from clouds to fogs to the surfaces of oceans, soils, and plants — and that it could also lead to new practical applications, including in energy and clean water production. “I think this has a lot of applications,” Chen says. “We’re exploring all these different directions. And of course, it also affects the basic science, like the effects of clouds on climate, because clouds are the most uncertain aspect of climate models.”</p>
+</p>
+<p><strong>A newfound phenomenon</strong></p>
+</p>
+<p>The new work builds on research <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_blank" rel="noopener">reported last year</a>, which described this new “photomolecular effect” but only under very specialized conditions: on the surface of specially prepared hydrogels soaked with water. In the new study, the researchers demonstrate that the hydrogel is not necessary for the process; it occurs at any water surface exposed to light, whether it’s a flat surface like a body of water or a curved surface like a droplet of cloud vapor.</p>
+</p>
+<p>Because the effect was so unexpected, the team worked to prove its existence with as many different lines of evidence as possible. In this study, they report 14 different kinds of tests and measurements they carried out to establish that water was indeed evaporating — that is, molecules of water were being knocked loose from the water’s surface and wafted into the air — due to the light alone, not by heat, which was long assumed to be the only mechanism involved.</p>
+</p>
+<p>One key indicator, which showed up consistently in four different kinds of experiments under different conditions, was that as the water began to evaporate from a test container under visible light, the air temperature measured above the water’s surface cooled down and then leveled off, showing that thermal energy was not the driving force behind the effect.</p>
+</p>
+<p>Other key indicators that showed up included the way the evaporation effect varied depending on the angle of the light, the exact color of the light, and its polarization. None of these varying characteristics should happen because at these wavelengths, water hardly absorbs light at all — and yet the researchers observed them.</p>
+</p>
+<p>The effect is strongest when light hits the water surface at an angle of 45 degrees. It is also strongest with a certain type of polarization, called transverse magnetic polarization. And it peaks in green light — which, oddly, is the color for which water is most transparent and thus interacts the least.</p>
+</p>
+<p>Chen and his co-researchers have proposed a physical mechanism that can explain the angle and polarization dependence of the effect, showing that the photons of light can impart a net force on water molecules at the water surface that is sufficient to knock them loose from the body of water. But they cannot yet account for the color dependence, which they say will require further study.</p>
+</p>
+<p>They have named this the photomolecular effect, by analogy with the photoelectric effect that was discovered by Heinrich Hertz in 1887 and finally explained by Albert Einstein in 1905. That effect was one of the first demonstrations that light also has particle characteristics, which had major implications in physics and led to a wide variety of applications, including LEDs. Just as the photoelectric effect liberates electrons from atoms in a material in response to being hit by a photon of light, the photomolecular effect shows that photons can liberate entire molecules from a liquid surface, the researchers say.</p>
+</p>
+<p>“The finding of evaporation caused by light instead of heat provides new disruptive knowledge of light-water interaction,” says Xiulin Ruan, professor of mechanical engineering at Purdue University, who was not involved in the study. “It could help us gain new understanding of how sunlight interacts with cloud, fog, oceans, and other natural water bodies to affect weather and climate. It has significant potential practical applications such as high-performance water desalination driven by solar energy. This research is among the rare group of truly revolutionary discoveries which are not widely accepted by the community right away but take time, sometimes a long time, to be confirmed.”</p>
+</p>
+<p><strong>Solving a cloud conundrum</strong></p>
+</p>
+<p>The finding may solve an 80-year-old mystery in climate science. Measurements of how clouds absorb sunlight have often shown that they are absorbing more sunlight than conventional physics dictates possible. The additional evaporation caused by this effect could account for the longstanding discrepancy, which has been a subject of dispute since such measurements are difficult to make.</p>
+</p>
+<p>“Those experiments are based on satellite data and flight data,“ Chen explains. “They fly an airplane on top of and below the clouds, and there are also data based on the ocean temperature and radiation balance. And they all conclude that there is more absorption by clouds than theory could calculate. However, due to the complexity of clouds and the difficulties of making such measurements, researchers have been debating whether such discrepancies are real or not. And what we discovered suggests that hey, there’s another mechanism for cloud absorption, which was not accounted for, and this mechanism might explain the discrepancies.”</p>
+</p>
+<p>Chen says he recently spoke about the phenomenon at an American Physical Society conference, and one physicist there who studies clouds and climate said they had never thought about this possibility, which could affect calculations of the complex effects of clouds on climate. The team conducted experiments using LEDs shining on an artificial cloud chamber, and they observed heating of the fog, which was not supposed to happen since water does not absorb in the visible spectrum. “Such heating can be explained based on the photomolecular effect more easily,” he says.</p>
+</p>
+<p>Lv says that of the many lines of evidence, “the flat region in the air-side temperature distribution above hot water will be the easiest for people to reproduce.” That temperature profile “is a signature” that demonstrates the effect clearly, he says.</p>
+</p>
+<p>Zhang adds: “It is quite hard to explain how this kind of flat temperature profile comes about without invoking some other mechanism” beyond the accepted theories of thermal evaporation. “It ties together what a whole lot of people are reporting in their solar desalination devices,” which again show evaporation rates that cannot be explained by the thermal input.</p>
+<p>The effect can be substantial. Under the optimum conditions of color, angle, and polarization, Lv says, “the evaporation rate is four times the thermal limit.”</p>
+</p>
+<p>Already, since publication of the first paper, the team has been approached by companies that hope to harness the effect, Chen says, including for evaporating syrup and drying paper in a paper mill. The likeliest first applications will come in the areas of solar desalinization systems or other industrial drying processes, he says. “Drying consumes 20 percent of all industrial energy usage,” he points out.</p>
+</p>
+<p>Because the effect is so new and unexpected, Chen says, “This phenomenon should be very general, and our experiment is really just the beginning.” The experiments needed to demonstrate and quantify the effect are very time-consuming. “There are many variables, from understanding water itself, to extending to other materials, other liquids and even solids,” he says.</p>
+</p>
+<p>“The observations in the manuscript points to a new physical mechanism that foundationally alters our thinking on the kinetics of evaporation,” says Shannon Yee, an associate professor of mechanical engineering at Georgia Tech, who was not associated with this work. He adds, “Who would have thought that we are still learning about something as quotidian as water evaporating?”</p>
+</p>
+<p>“I think this work is very significant scientifically because it presents a new mechanism,” says University of Alberta Distinguished Professor Janet A.W. Elliott, who also was not associated with this work. “It may also turn out to be practically important for technology and our understanding of nature, because evaporation of water is ubiquitous and the effect appears to deliver significantly higher evaporation rates than the known thermal mechanism. …  My overall impression is this work is outstanding. It appears to be carefully done with many precise experiments lending support for one another.”</p>
+</p>
+<p>The work was partly supported by an MIT Bose Award. The authors are currently working on ways to make use of this effect for water desalination, in a project funded by the Abdul Latif Jameel Water and Food Systems Lab and the MIT-UMRP program.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tackling cancer at the nanoscale</title>
+		<link>https://www.sawberries.com/2024/04/25/killian-lecture-speaker-paula-hammond-nanoparticles-0410/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:36 +0000</pubDate>
+				<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Awards, honors and fellowships]]></category>
+		<category><![CDATA[Cancer]]></category>
+		<category><![CDATA[Chemical engineering]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Koch Institute]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/killian-lecture-speaker-paula-hammond-nanoparticles-0410/</guid>
+
+					<description><![CDATA[When Paula Hammond first arrived on MIT’s campus as a first-year student in the early 1980s, she wasn’t sure if she belonged. In fact, as she told an MIT audience yesterday, she felt like “an imposter.” However, that feeling didn’t last long, as Hammond began to find support among her fellow students and MIT’s faculty. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>When Paula Hammond first arrived on MIT’s campus as a first-year student in the early 1980s, she wasn’t sure if she belonged. In fact, as she told an MIT audience yesterday, she felt like “an imposter.”</p>
+<p>However, that feeling didn’t last long, as Hammond began to find support among her fellow students and MIT’s faculty. “Community was really important for me, to feel that I belonged, to feel that I had a place here, and I found people who were willing to embrace me and support me,” she said.</p>
+<p>Hammond, a world-renowned chemical engineer who has spent most of her academic career at MIT, made her remarks during the 2023-24 James R. Killian Jr. Faculty Achievement Award lecture.</p>
+<p>Established in 1971 to honor MIT’s 10th president, James Killian, the Killian Award recognizes extraordinary professional achievements by an MIT faculty member. Hammond was chosen for this year’s award “not only for her tremendous professional achievements and contributions, but also for her genuine warmth and humanity, her thoughtfulness and effective leadership, and her empathy and ethics,” according to the award citation.</p>
+<p>“Professor Hammond is a pioneer in nanotechnology research. With a program that extends from basic science to translational research in medicine and energy, she has introduced new approaches for the design and development of complex drug delivery systems for cancer treatment and noninvasive imaging,” said Mary Fuller, chair of MIT’s faculty and a professor of literature, who presented the award. “As her colleagues, we are delighted to celebrate her career today.”</p>
+<p>In January, Hammond began serving as MIT’s vice provost for faculty. Before that, she chaired the Department of Chemical Engineering for eight years, and she was named an Institute Professor in 2021.</p>
+<p><strong>A versatile technique</strong></p>
+<p>Hammond, who grew up in Detroit, credits her parents with instilling a love of science. Her father was one of very few Black PhDs in biochemistry at the time, while her mother earned a master’s degree in nursing from Howard University and founded the nursing school at Wayne County Community College. “That provided a huge amount of opportunity for women in the area of Detroit, including women of color,” Hammond noted.</p>
+<p>After earning her bachelor’s degree from MIT in 1984, Hammond worked as an engineer before returning to the Institute as a graduate student, earning her PhD in 1993. After a two-year postdoc at Harvard University, she returned to join the MIT faculty in 1995.</p>
+<p>At the heart of Hammond’s research is a technique she developed to create thin films that can essentially “shrink-wrap” nanoparticles. By tuning the chemical composition of these films, the particles can be customized to deliver drugs or nucleic acids and to target specific cells in the body, including cancer cells.</p>
+<p>To make these films, Hammond begins by layering positively charged polymers onto a negatively charged surface. Then, more layers can be added, alternating positively and negatively charged polymers. Each of these layers may contain drugs or other useful molecules, such as DNA or RNA. Some of these films contain hundreds of layers, others just one, making them useful for a wide range of applications.</p>
+<p>“What’s nice about the layer-by-layer process is I can choose a group of degradable polymers that are nicely biocompatible, and I can alternate them with our drug materials. This means that I can build up thin film layers that contain different drugs at different points within the film,” Hammond said. “Then, when the film degrades, it can release those drugs in reverse order. This is enabling us to create complex, multidrug films, using a simple water-based technique.”</p>
+<p>Hammond described how these layer-by-layer films can be used to promote bone growth, in an application that could help people born with congenital bone defects or people who experience traumatic injuries.</p>
+<p>For that use, her lab has created films with layers of two proteins. One of these, BMP-2, is a protein that interacts with adult stem cells and induces them to differentiate into bone cells, generating new bone. The second is a growth factor called VEGF, which stimulates the growth of new blood vessels that help bone to regenerate. These layers are applied to a very thin tissue scaffold that can be implanted at the injury site.</p>
+<p>Hammond and her students designed the coating so that once implanted, it would release VEGF early, over a week or so, and continue releasing BMP-2 for up to 40 days. In a study of mice, they found that this tissue scaffold stimulated the growth of <a href="https://news.mit.edu/2014/bone-repair-treat-injuries-0818" target="_blank" rel="noopener">new bone</a> that was nearly indistinguishable from natural bone.</p>
+<p><strong>Targeting cancer</strong></p>
+<p>As a member of MIT’s Koch Institute for Integrative Cancer Research, Hammond has also developed layer-by-layer coatings that can improve the performance of nanoparticles used for cancer drug delivery, such as liposomes or nanoparticles made from a polymer called PLGA.</p>
+<p>“We have a broad range of drug carriers that we can wrap this way. I think of them like a gobstopper, where there are all those different layers of candy and they dissolve one at a time,” Hammond said.</p>
+<p>Using this approach, Hammond has created particles that can deliver a one-two punch to cancer cells. First, the particles release a dose of a nucleic acid such as short interfering RNA (siRNA), which can turn off a cancerous gene, or microRNA, which can activate tumor suppressor genes. Then, the particles release a chemotherapy drug such as cisplatin, to which the cells are now more vulnerable.</p>
+<p>The particles also include a negatively charged outer “stealth layer” that protects them from being broken down in the bloodstream before they can reach their targets. This outer layer can also be modified to help the particles get taken up by cancer cells, by incorporating molecules that bind to proteins that are abundant on tumor cells.</p>
+<p>In more recent work, Hammond has begun developing nanoparticles that can target ovarian cancer and help prevent recurrence of the disease after chemotherapy. In about 70 percent of ovarian cancer patients, the first round of treatment is highly effective, but tumors recur in about 85 percent of those cases, and these new tumors are usually highly drug resistant.</p>
+<p>By altering the type of coating applied to drug-delivering nanoparticles, Hammond has found that the particles can be designed to either get inside tumor cells or stick to their surfaces. Using particles that stick to the cells, she has designed a treatment that could help to jumpstart a patient’s immune response to any recurrent tumor cells.</p>
+<p>“With ovarian cancer, very few immune cells exist in that space, and because they don’t have a lot of immune cells present, it’s very difficult to rev up an immune response,” she said. “However, if we can deliver a molecule to neighboring cells, those few that are present, and get them revved up, then we might be able to do something.”</p>
+<p>To that end, she designed nanoparticles that deliver IL-12, a cytokine that stimulates nearby T cells to spring into action and begin attacking tumor cells. In a study of mice, she found that this treatment induced a long-term memory T-cell response that prevented recurrence of ovarian cancer.</p>
+<p>Hammond closed her lecture by describing the impact that the Institute has had on her throughout her career.</p>
+<p>“It’s been a transformative experience,” she said. “I really think of this place as special because it brings people together and enables us to do things together that we couldn’t do alone. And it is that support we get from our friends, our colleagues, and our students that really makes things possible.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
+		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Electronics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
+
+					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
+<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
+<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
+<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
+<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
+<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
+<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
+<p><strong>Side-channel susceptibility</strong></p>
+<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
+<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
+<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
+<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
+<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
+<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
+<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
+<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
+<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
+<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
+<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
+<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
+<p><strong>Safety testing</strong></p>
+<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
+<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
+<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
+<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
+<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
+<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mapping the brain pathways of visual memorability</title>
+		<link>https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Functional magnetic resonance imaging (fMRI)]]></category>
+		<category><![CDATA[Image Processing]]></category>
+		<category><![CDATA[Imaging]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Neuroscience]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</guid>
+
+					<description><![CDATA[For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the first time, scientists harnessed the combined strengths of magnetoencephalography (MEG), which captures the timing of brain activity, and functional magnetic resonance imaging (fMRI), which identifies active brain regions, to precisely determine when and where the brain processes a memorable image. </p>
+<p>Their open-access study, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002564" target="_blank" rel="noopener">published this month in <em>PLOS Biology</em></a>, used 78 pairs of images matched for the same concept but differing in their memorability scores — one was highly memorable and the other was easy to forget. These images were shown to 15 subjects, with scenes of skateboarding, animals in various environments, everyday objects like cups and chairs, natural landscapes like forests and beaches, urban scenes of streets and buildings, and faces displaying different expressions. What they found was that a more distributed network of brain regions than previously thought are actively involved in the encoding and retention processes that underpin memorability. </p>
+<p>“People tend to remember some images better than others, even when they are conceptually similar, like different scenes of a person skateboarding,” says Benjamin Lahner, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and first author of the study. “We&#8217;ve identified a brain signature of visual memorability that emerges around 300 milliseconds after seeing an image, involving areas across the ventral occipital cortex and temporal cortex, which processes information like color perception and object recognition. This signature indicates that highly memorable images prompt stronger and more sustained brain responses, especially in regions like the early visual cortex, which we previously underestimated in memory processing.”</p>
+<p>While highly memorable images maintain a higher and more sustained response for about half a second, the response to less memorable images quickly diminishes. This insight, Lahner elaborated, could redefine our understanding of how memories form and persist. The team envisions this research holding potential for future clinical applications, particularly in early diagnosis and treatment of memory-related disorders. </p>
+<p>The MEG/fMRI fusion method, developed in the lab of CSAIL Senior Research Scientist Aude Oliva, adeptly captures the brain&#8217;s spatial and temporal dynamics, overcoming the traditional constraints of either spatial or temporal specificity. The fusion method had a little help from its machine-learning friend, to better examine and compare the brain&#8217;s activity when looking at various images. They created a “representational matrix,” which is like a detailed chart, showing how similar neural responses are in various brain regions. This chart helped them identify the patterns of where and when the brain processes what we see.</p>
+<p>Picking the conceptually similar image pairs with high and low memorability scores was the crucial ingredient to unlocking these insights into memorability. Lahner explained the process of aggregating behavioral data to assign memorability scores to images, where they curated a diverse set of high- and low-memorability images with balanced representation across different visual categories. </p>
+<p>Despite strides made, the team notes a few limitations. While this work can identify brain regions showing significant memorability effects, it cannot elucidate the regions&#8217; function in how it is contributing to better encoding/retrieval from memory.</p>
+<p>“Understanding the neural underpinnings of memorability opens up exciting avenues for clinical advancements, particularly in diagnosing and treating memory-related disorders early on,” says Oliva. “The specific brain signatures we&#8217;ve identified for memorability could lead to early biomarkers for Alzheimer&#8217;s disease and other dementias. This research paves the way for novel intervention strategies that are finely tuned to the individual&#8217;s neural profile, potentially transforming the therapeutic landscape for memory impairments and significantly improving patient outcomes.”</p>
+<p>“These findings are exciting because they give us insight into what is happening in the brain between seeing something and saving it into memory,” says Wilma Bainbridge, assistant professor of psychology at the University of Chicago, who was not involved in the study. “The researchers here are picking up on a cortical signal that reflects what&#8217;s important to remember, and what can be forgotten early on.” </p>
+<p>Lahner and Oliva, who is also the director of strategic industry engagement at the MIT Schwarzman College of Computing, MIT director of the MIT-IBM Watson AI Lab, and CSAIL principal investigator, join Western University Assistant Professor Yalda Mohsenzadeh and York University researcher Caitlin Mullin on the paper. The team acknowledges a shared instrument grant from the National Institutes of Health, and their work was funded by the Vannevar Bush Faculty Fellowship via an Office of Naval Research grant, a National Science Foundation award, Multidisciplinary University Research Initiative award via an Army Research Office grant, and the EECS MathWorks Fellowship. Their paper is published in <em>PLOS Biology</em>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>To build a better AI helper, start by modeling the irrational behavior of humans</title>
+		<link>https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:31 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</guid>
+
+					<description><![CDATA[To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions. This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions.</p>
+<p>This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal solution to a single problem.</p>
+<p>Researchers at MIT and the University of Washington developed a way to model the behavior of an agent, whether human or machine, that accounts for the unknown computational constraints that may hamper the agent’s problem-solving abilities.</p>
+<p>Their model can automatically infer an agent’s computational constraints by seeing just a few traces of their previous actions. The result, an agent’s so-called “inference budget,” can be used to predict that agent’s future behavior.</p>
+<p>In a new paper, the researchers demonstrate how their method can be used to infer someone’s navigation goals from prior routes and to predict players’ subsequent moves in chess matches. Their technique matches or outperforms another popular method for modeling this type of decision-making.</p>
+<p>Ultimately, this work could help scientists teach AI systems how humans behave, which could enable these systems to respond better to their human collaborators. Being able to understand a human’s behavior, and then to infer their goals from that behavior, could make an AI assistant much more useful, says Athul Paul Jacob, an electrical engineering and computer science (EECS) graduate student and lead author of a <a href="https://openreview.net/pdf?id=W3VsHuga3j" target="_blank" rel="noopener">paper on this technique</a>.</p>
+<p>“If we know that a human is about to make a mistake, having seen how they have behaved before, the AI agent could step in and offer a better way to do it. Or the agent could adapt to the weaknesses that its human collaborators have. Being able to model human behavior is an important step toward building an AI agent that can actually help that human,” he says.</p>
+<p>Jacob wrote the paper with Abhishek Gupta, assistant professor at the University of Washington, and senior author Jacob Andreas, associate professor in EECS and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). The research will be presented at the International Conference on Learning Representations.</p>
+<p><strong>Modeling behavior</strong></p>
+<p>Researchers have been building computational models of human behavior for decades. Many prior approaches try to account for suboptimal decision-making by adding noise to the model. Instead of the agent always choosing the correct option, the model might have that agent make the correct choice 95 percent of the time.</p>
+<p>However, these methods can fail to capture the fact that humans do not always<em> </em>behave suboptimally in the same way.</p>
+<p>Others at MIT have also <a href="https://news.mit.edu/2020/building-machines-better-understand-human-goals-1214" target="_blank" rel="noopener">studied more effective ways</a> to plan and infer goals in the face of suboptimal decision-making.</p>
+<p>To build their model, Jacob and his collaborators drew inspiration from prior studies of chess players. They noticed that players took less time to think before acting when making simple moves and that stronger players tended to spend more time planning than weaker ones in challenging matches.</p>
+<p>“At the end of the day, we saw that the depth of the planning, or how long someone thinks about the problem, is a really good proxy of how humans behave,” Jacob says.</p>
+<p>They built a framework that could infer an agent’s depth of planning from prior actions and use that information to model the agent’s decision-making process.</p>
+<p>The first step in their method involves running an algorithm for a set amount of time to solve the problem being studied. For instance, if they are studying a chess match, they might let the chess-playing algorithm run for a certain number of steps. At the end, the researchers can see the decisions the algorithm made at each step.</p>
+<p>Their model compares these decisions to the behaviors of an agent solving the same problem. It will align the agent’s decisions with the algorithm’s decisions and identify the step where the agent stopped planning.</p>
+<p>From this, the model can determine the agent’s inference budget, or how long that agent will plan for this problem. It can use the inference budget to predict how that agent would react when solving a similar problem.</p>
+<p><strong>An interpretable solution</strong></p>
+<p>This method can be very efficient because the researchers can access the full set of decisions made by the problem-solving algorithm without doing any extra work. This framework could also be applied to any problem that can be solved with a particular class of algorithms.</p>
+<p>“For me, the most striking thing was the fact that this inference budget is very interpretable. It is saying tougher problems require more planning or being a strong player means planning for longer. When we first set out to do this, we didn’t think that our algorithm would be able to pick up on those behaviors naturally,” Jacob says.</p>
+<p>The researchers tested their approach in three different modeling tasks: inferring navigation goals from previous routes, guessing someone’s communicative intent from their verbal cues, and predicting subsequent moves in human-human chess matches.</p>
+<p>Their method either matched or outperformed a popular alternative in each experiment. Moreover, the researchers saw that their model of human behavior matched up well with measures of player skill (in chess matches) and task difficulty.</p>
+<p>Moving forward, the researchers want to use this approach to model the planning process in other domains, such as reinforcement learning (a trial-and-error method commonly used in robotics). In the long run, they intend to keep building on this work toward the larger goal of developing more effective AI collaborators.</p>
+<p>This work was supported, in part, by the MIT Schwarzman College of Computing Artificial Intelligence for Augmentation and Productivity program and the National Science Foundation.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
