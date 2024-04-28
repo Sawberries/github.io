@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=63360" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Sat, 27 Apr 2024 06:28:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>News &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</title>
+		<link>https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 27 Apr 2024 06:28:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Run:ai]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</guid>
+
+					<description><![CDATA[Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/">Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple Introduces OpenELM: Open-Source AI Models for On-Device Processing</title>
+		<link>https://www.sawberries.com/2024/04/27/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/</guid>
+
+					<description><![CDATA[Apple has recently unveiled OpenELM, a family of open-source language models optimized for on-device processing. This model has been made open source, encouraging free usage and collaboration. Apple’s move towards transparency aims to empower developers and researchers while enhancing user privacy. Let’s find out more about this new release. Also Read: Apple Boosts AI Capabilities [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Apple has recently unveiled OpenELM, a family of open-source language models optimized for on-device processing. This model has been made open source, encouraging free usage and collaboration. Apple’s move towards transparency aims to empower developers and researchers while enhancing user privacy. Let’s find out more about this new release. Also Read: Apple Boosts AI Capabilities […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/">Apple Introduces OpenELM: Open-Source AI Models for On-Device Processing</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Chinese Model Outperforms GPT-4 Turbo!</title>
+		<link>https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 10:32:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI model]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[GPT]]></category>
+		<category><![CDATA[GPT-4 Turbo]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[SenseNova 5.0]]></category>
+		<category><![CDATA[SenseTime]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</guid>
+
+					<description><![CDATA[SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/">New Chinese Model Outperforms GPT-4 Turbo!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+<p><!-- Disqus thread link for post ID  --></p>
+<div id='disqus_thread'></div>
+<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cohere Launches Toolkit to Expedite Generative AI Application Development</title>
+		<link>https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 21:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI app]]></category>
+		<category><![CDATA[AI App Building]]></category>
+		<category><![CDATA[AI toolkit]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[deployment]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Generative AI Toolkit]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Toolkit]]></category>
+		<category><![CDATA[tools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</guid>
+
+					<description><![CDATA[Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/cohere-launches-toolkit-to-expedite-generative-ai-application-development/">Cohere Launches Toolkit to Expedite Generative AI Application Development</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Malar, India’s First Autonomous AI Professor</title>
+		<link>https://www.sawberries.com/2024/04/25/meet-malar-teacher-indias-first-autonomous-ai-professor/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:48 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI in India]]></category>
+		<category><![CDATA[AI professor]]></category>
+		<category><![CDATA[Anna University]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Chennai]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[HaiVE]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Malar Teacher]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Whatsapp]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/meet-malar-teacher-indias-first-autonomous-ai-professor/</guid>
+
+					<description><![CDATA[Two months after Kerala got its first AI teacher, Chennai researchers have developed the country’s first AI Professor! “Malar Teacher,” as she is named, is said to be the world’s first autonomous AI university professor. Malar is fully trained on the complete engineering syllabus of Anna University, ushering in a new era of teaching. This [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Two months after Kerala got its first AI teacher, Chennai researchers have developed the country’s first AI Professor! “Malar Teacher,” as she is named, is said to be the world’s first autonomous AI university professor. Malar is fully trained on the complete engineering syllabus of Anna University, ushering in a new era of teaching. This […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/meet-malar-teacher-indias-first-autonomous-ai-professor/">Meet Malar, India’s First Autonomous AI Professor</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Convert Blurry Videos to HD with Adobe’s New AI</title>
+		<link>https://www.sawberries.com/2024/04/25/adobe-videogigagan-elevates-video-quality-using-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:47 +0000</pubDate>
+				<category><![CDATA[adobe]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI video editing]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[challenges]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[GANs]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[VideoGigaGAN]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/adobe-videogigagan-elevates-video-quality-using-ai/</guid>
+
+					<description><![CDATA[Adobe’s latest innovation in AI technology, VideoGigaGAN, promises to revolutionize video upscaling by enhancing resolution without compromising on quality. With its new approach, Adobe aims to address the longstanding challenges of blurry videos. It presents a solution that offers remarkable results in converting blurry videos into HD. Let’s find out more about its features and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Adobe’s latest innovation in AI technology, VideoGigaGAN, promises to revolutionize video upscaling by enhancing resolution without compromising on quality. With its new approach, Adobe aims to address the longstanding challenges of blurry videos. It presents a solution that offers remarkable results in converting blurry videos into HD. Let’s find out more about its features and […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/adobe-videogigagan-elevates-video-quality-using-ai/">Convert Blurry Videos to HD with Adobe’s New AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

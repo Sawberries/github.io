@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>natural language nlu deep learning bert albert roberta &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/natural-language-nlu-deep-learning-bert-albert-roberta/feed/?simply_static_page=63353" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Sat, 27 Apr 2024 10:50:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>natural language nlu deep learning bert albert roberta &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Understanding SoTA Language Models (BERT, RoBERTA, ALBERT, ELECTRA)</title>
+		<link>https://www.sawberries.com/2024/04/27/understanding-state-of-art-language-html/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 27 Apr 2024 10:50:09 +0000</pubDate>
+				<category><![CDATA[natural language nlu deep learning bert albert roberta]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/understanding-state-of-art-language-html/</guid>
+
+					<description><![CDATA[ Hi everyone, There are a ton of language models out there today! Many of which have their unique way of learning &#8220;self-supervised&#8221; language representations that can be used by other downstream tasks.  In this article, I decided to summarize the current trends and share some key insights to glue all these novel approaches together.  😃 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p> Hi everyone,</p>
+<p>There are a ton of language models out there today! Many of which have their unique way of learning &#8220;self-supervised&#8221; language representations that can be used by other downstream tasks. </p>
+<p>In this article, I decided to summarize the current trends and share some key insights to glue all these novel approaches together.  <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f603.png" alt="😃" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (Slide credits: Delvin et. al. Stanford CS224n)</p>
+<p></p>
+</p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQBnFFCwJXTfqeZE77irx4Gv9gfKmroLr-cMb6xmQkASkUhPtIG0FoEl8phTt2TSwBKvhtjRFr2Fvom2hXZ6vYRLDYB8cBbMV8kOepKpyWMY76vMJbvof0gOZ6ovdc8VtFQYm2GtbdQST/" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" alt="" data-original-height="787" data-original-width="1400" height="255" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQBnFFCwJXTfqeZE77irx4Gv9gfKmroLr-cMb6xmQkASkUhPtIG0FoEl8phTt2TSwBKvhtjRFr2Fvom2hXZ6vYRLDYB8cBbMV8kOepKpyWMY76vMJbvof0gOZ6ovdc8VtFQYm2GtbdQST/w453-h255/image.png" width="453"></a></div>
+</p>
+<p><span></span><span><a name="more"></a></span></p>
+<p></p>
+<p><b><span style="font-size: medium;">Problem: Context-free/Atomic Word Representations</span></b></p>
+<p>We started with context-free approaches like <span style="color: #2b00fe;"><b>word2vec, GloVE embeddings </b><a href="http://ankit-ai.blogspot.com/2019/01/a-summary-of-natural-language-models.html">in my previous post</a></span>. The drawback of these approaches is that they do not account for syntactic context. e.g. &#8220;open a <b>bank</b> account&#8221; v/s &#8220;on the river <b>bank</b>&#8220;. The word <b>bank </b>has different meanings depending on the context the word is used in.</p>
+</p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAmZ14tnFvFbZfzQydZ8YCfcEyrb1NRyQs8Wkf-pXf-m-gpBCTQ5W8cX_RtAbhyuQnJpHlVZsGDYF6ziZv5u-Pn63Z5xtv1IAvV0pKTQf6uzoEVTHclW32sgXoB8N6zzelSLGF8NGWhU3/" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="1104" data-original-width="2048" height="187" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAmZ14tnFvFbZfzQydZ8YCfcEyrb1NRyQs8Wkf-pXf-m-gpBCTQ5W8cX_RtAbhyuQnJpHlVZsGDYF6ziZv5u-Pn63Z5xtv1IAvV0pKTQf6uzoEVTHclW32sgXoB8N6zzelSLGF8NGWhU3/w346-h187/image.png" width="346"></a></div>
+<p><b><span style="font-size: medium;">Solution #1: Contextual Word Representations</span></b></p>
+<p>With <span style="color: #2b00fe;"><b>ELMo</b></span> the community started building forward (left to right) and backward (right to left) sequence language models, and used embeddings extracted from both (concatenated) these models as pre-trained embeddings for downstream modeling tasks like classification (Sentiment etc.)</p>
+</p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_mgZY6p1kHIg8RXjrqxbJh_BagP93GhnAG3vNS0d45qS1a6z9yGnomHajyJo-rk3q1oQzUCv2vCNVPA0edPZMQ8_jdoggj_sQCXgtRHgyq_v1QOwJ6NfpRe1LfqUoGIpbCXfvq3GYDSK/" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="1097" data-original-width="2048" height="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_mgZY6p1kHIg8RXjrqxbJh_BagP93GhnAG3vNS0d45qS1a6z9yGnomHajyJo-rk3q1oQzUCv2vCNVPA0edPZMQ8_jdoggj_sQCXgtRHgyq_v1QOwJ6NfpRe1LfqUoGIpbCXfvq3GYDSK/" width="320"></a></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<p><b>Potential drawback:</b></p>
+<p>ELMo can be considered a &#8220;weakly bi-directional model&#8221; as they trained 2 separate models here.</p>
+<p><span style="font-size: medium;"><b>Solution #2: Truly bi-directional Contextual Representations</b></span></p>
+</p>
+<div class="separator" style="clear: both; text-align: justify;">To solve the drawback of &#8220;weakly bi-directional&#8221; approach and the information bottleneck that comes with LSTMs / Recurrent approaches &#8211; the Transformer architecture was developed. Transformers unlike LSTM/RNN are an entirely feedforward network. Here is a quick summary of the architecture:</div>
+<div class="separator" style="clear: both; font-size: large; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIn8_ApbVr3EjKhApGY7mhoFYYQ2_-hM-pgHoIUG8j15iP8EAWgfgvdQ5z9q7tOXye7uNwy2-6K7aQEo9CTQZHiQPRW0EibRde4gWIAx54FdJEtIhClV4rH3INi9RjlxeEjfCsZ1SGr7rt/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1078" data-original-width="2048" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIn8_ApbVr3EjKhApGY7mhoFYYQ2_-hM-pgHoIUG8j15iP8EAWgfgvdQ5z9q7tOXye7uNwy2-6K7aQEo9CTQZHiQPRW0EibRde4gWIAx54FdJEtIhClV4rH3INi9RjlxeEjfCsZ1SGr7rt/" width="320"></a></div>
+<div class="separator" style="clear: both; text-align: center;"><i><span style="font-size: x-small;"><b>Tip:</b> If you are new to transformers but are familiar with vanilla Multi-Layer Perceptron (MLP) or Fully connected Neural networks. You can think of transformers as being similar to MLP/standard NN with fancy bells and whistles on top of that.</span></i></div>
+<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><i><span style="font-size: x-small;"><br /></span></i></div>
+<div class="separator" style="clear: both; font-weight: bold; text-align: center;">But, what makes the transformer so much more effective?</div>
+<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><i><span style="font-size: x-small;"><br /></span></i></div>
+<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7EXeAdwPAlV2Zu2ZI3hV19CnDUBZXE7TjVCb61511OnHARjrnvv6VKaIT2b_uLzOybBb-Q3_F0M9nAbg9CUKMxgromdcqdhEwdcDJuQEJhB6jDtEqWXW897HxIouq8tnLSUF50YP0F5x/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1116" data-original-width="2048" height="174" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7EXeAdwPAlV2Zu2ZI3hV19CnDUBZXE7TjVCb61511OnHARjrnvv6VKaIT2b_uLzOybBb-Q3_F0M9nAbg9CUKMxgromdcqdhEwdcDJuQEJhB6jDtEqWXW897HxIouq8tnLSUF50YP0F5x/" width="320"></a></div>
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;"><span style="font-size: medium;"><b>2 key ideas:</b></span></div>
+<div class="separator" style="clear: both; text-align: center;"><span style="font-size: medium;"><br /></span></div>
+<div class="separator" style="clear: both; text-align: left;">1. <b>Every word has an opportunity to learn a representation with-respect-to every other word (Truly bi-directional)</b> in the sentence (think of every word as a feature given as input to a fully connected network). To further build on this idea let&#8217;s consider the transformer as a fully connected network with 1 hidden layer as shown below:</div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMSOusz3EymtlcMa-gzBotjNwRbcazKzYtHFUMCPmnvuhUQe-t3zwutc1C2LcsfyzquzLDEJ6JllB89Z-vVWaVH3jGP7I74qUGHtNmfr1e7C5TWtddmXj2Dask2s47vjYvGYWhyphenhyphen05MdBX/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="400" data-original-width="600" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMSOusz3EymtlcMa-gzBotjNwRbcazKzYtHFUMCPmnvuhUQe-t3zwutc1C2LcsfyzquzLDEJ6JllB89Z-vVWaVH3jGP7I74qUGHtNmfr1e7C5TWtddmXj2Dask2s47vjYvGYWhyphenhyphen05MdBX/" width="320"></a></div>
+<div class="separator" style="clear: both; text-align: center;">source: <a href="https://stackoverflow.com/questions/65528631/what-exactly-contains-the-word-vector-of-word2vec-or-generally-of-word-embeddin">Stackoverflow</a></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;">If x1 and x5 are 2 words/tokens from my earlier example (<b>on</b> the river <b>bank</b>), now x1 has access to x5 regardless of the distance between x1 and x5 (the word <b>on </b>can learn a representation depending on the context provided by the word <b>bank)</b></div>
+<div class="separator" style="clear: both; text-align: center;"><b><br /></b></div>
+<div class="separator" style="clear: both; text-align: left;">2. Essentially, since every layer can be represented as a <b>big matrix multiplication (parallel computation)</b> over one multiplication per token that happens in an LSTM, <b>the transformer is much faster than an LSTM.</b></div>
+<div class="separator" style="clear: both; text-align: left;"><b><br /></b></div>
+<div class="separator" style="clear: both; text-align: left;"><span><span id="more-143"></span></span><b><br /></b></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<p><b></p>
+<div style="text-align: justify;"><b><span style="font-size: medium;">Problem with bi-directional models:</span></b></div>
+<p></b></p>
+<div style="text-align: justify;"></div>
+</div>
+<div class="separator" style="clear: both; font-style: italic; font-weight: bold; text-align: center;">But, Language models (LM) are supposed to model P(w_t+1/w_1..w_t)? How does the model learn anything if you expose all the words to it?</div>
+<div class="separator" style="clear: both; font-style: italic; font-weight: bold; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;"><b><span style="color: #2b00fe; font-size: large;">BERT</span></b> develops upon this idea using transformers to learn Masked Language Modeling (MLM) and translates the task to P(w_masked/w_1..w-t)</div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;">Tradeoff: In MLM, you could be masking and predicting ~15% words in the sentence. However, in Left-to-Right LM you are predicting 100% of words in the sentence (higher sample efficiency).</div>
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxkLb7AL_yHS_aAQdSWYSO2ki04zwVTQAIfcS6RdSIXDV1WGC4DriJZNfSxNb_H5QGoeMjWf8xLyzRVy7hibA8bhzY8fpAHdctDeUXFWRfmnn4jofcPTxH4c8cLMlaLNPReltgIZow-AL2/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1121" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxkLb7AL_yHS_aAQdSWYSO2ki04zwVTQAIfcS6RdSIXDV1WGC4DriJZNfSxNb_H5QGoeMjWf8xLyzRVy7hibA8bhzY8fpAHdctDeUXFWRfmnn4jofcPTxH4c8cLMlaLNPReltgIZow-AL2/" width="320"></a></div>
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
+<p>There are some changes in the input to the model with respect to the previous LSTM based approach. The input now has 3 embeddings: </p></div>
+<div class="separator" style="clear: both; text-align: center;"></p>
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_NjTlJRI1GA2roz7xv5dZWHyiqFYdpXM4o72j0m5ozgwzc6erQ1lymKAh_LD8iumKjcMWDxSPhYnH0NJMcM3_pHB04Y1j0cW_bwG3Qn3szcLTgM765OzPG1syMy31Cd_Rtc3eBjlOnsW/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="762" data-original-width="1506" height="162" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_NjTlJRI1GA2roz7xv5dZWHyiqFYdpXM4o72j0m5ozgwzc6erQ1lymKAh_LD8iumKjcMWDxSPhYnH0NJMcM3_pHB04Y1j0cW_bwG3Qn3szcLTgM765OzPG1syMy31Cd_Rtc3eBjlOnsW/" width="320"></a></div>
+<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
+</div>
+<div class="separator" style="clear: both; text-align: justify;"><b>1. Token embeddings</b> &#8211; (Same as embeddings fed into the LSTM model) </div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"><b>2. Segment Embeddings</b> &#8211; </div>
+<div class="separator" style="clear: both; text-align: justify;">
+<ul>
+<li>Simply tells the model what sentence does this token belongs to e.g. &#8220;<b>Sentence A:</b> The man went to buy milk. <b>Sentence B:</b> The store was closed&#8221;.</li>
+</ul>
+</div>
+<div class="separator" style="clear: both; text-align: justify;"><b>3. Position Embeddings &#8211;</b> </div>
+<div class="separator" style="clear: both; text-align: justify;">
+<ul>
+<li>Can be thought as a token number e.g. The &#8211; 0, man &#8211; 1 and so on.</li>
+<p><span></span></ul>
+<div></div>
+<p><span><!--more--></span></p>
+<div></div>
+<div>Important to note:</div>
+<div></div>
+<div><b style="background-color: #fcff01;"></b></div>
+<blockquote>
+<div><b style="background-color: #fcff01;">BERT is a huge model (110M parameters ~1 GB filesize). Alright, How do we do better?</b></div>
+<div></div>
+</blockquote>
+<div><b style="background-color: #fcff01;"><br /></b></div>
+<div><span style="background-color: white;">Studies have shown that <b>overly parameterized models</b> are effective in learning language nuances <b>better</b>. This can be demonstrated by the graph below:</span></div>
+<div></div>
+<div>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3E-Z_CfOduhixn0MVdKZyKJS05n-SYKI3XmH7FQuuNs6Bms0QI85jgeNGQHMRPzh7EpavIf5yABx5FSbb8i6L9703NGyWDBxpyKrWqY1VhyY3FxY05WJ7JUNBO-UKQR40duut8us-y1mK/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1175" data-original-width="2048" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3E-Z_CfOduhixn0MVdKZyKJS05n-SYKI3XmH7FQuuNs6Bms0QI85jgeNGQHMRPzh7EpavIf5yABx5FSbb8i6L9703NGyWDBxpyKrWqY1VhyY3FxY05WJ7JUNBO-UKQR40duut8us-y1mK/w348-h200/image.png" width="348"></a></div>
+<div class="separator" style="clear: both; text-align: center;"><i>The graph affirms<b></p>
+<blockquote><p>&#8220;Bigger the LM, the better it is&#8221;</p></blockquote>
+<p></b></i></p>
+</p>
+</div>
+<div class="separator" style="clear: both; text-align: justify;">This is going to be some of our motivation as we look into advancements over the BERT model &#8211;</div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;">We will look into 4 models that have fundamentally improved upon the ideas we introduced for the BERT model.</div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe; font-size: medium;">1. RoBERTA</span></b></div>
+<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kWMQBKn-AB0ewxR2ZTkn-t2gyvAsNTXEpTKwzJZyJd1ytmMhSAst75mZnSQfB9KVbLt-4DleLiwvDFf41On0VomDI0i2GelCSIgXw3U5KrWLuv6AtQ_QqnCvVAGe6eQPoA33L0ZelpmK/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1127" data-original-width="2048" height="176" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kWMQBKn-AB0ewxR2ZTkn-t2gyvAsNTXEpTKwzJZyJd1ytmMhSAst75mZnSQfB9KVbLt-4DleLiwvDFf41On0VomDI0i2GelCSIgXw3U5KrWLuv6AtQ_QqnCvVAGe6eQPoA33L0ZelpmK/" width="320"></a></div>
+<p><span style="font-size: medium;">The central idea was to train the same BERT model for longer (more epochs) and on more data. The evaluation results show that it does better than the standard BERT model we saw earlier.</span></div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe; font-size: medium;">2. XLNet</span></b></div>
+<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
+<div class="separator" style="clear: both; color: #2b00fe; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsKJG2HUTgom2OoJQmFR0VB8zEpnOyybAAc2GdKxoEx9UnGeLZeVk_Rzt9R7BfutMzRRje-7iVvdJHfgsf8EFW_x2QwXQhyphenhyphenwawGx-n9zcFJMJ1_I8JZdtD4YOduGJoDea22aq3TMGBHii/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1101" data-original-width="2048" height="172" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsKJG2HUTgom2OoJQmFR0VB8zEpnOyybAAc2GdKxoEx9UnGeLZeVk_Rzt9R7BfutMzRRje-7iVvdJHfgsf8EFW_x2QwXQhyphenhyphenwawGx-n9zcFJMJ1_I8JZdtD4YOduGJoDea22aq3TMGBHii/" width="320"></a></div>
+<p>XLNet introduced this idea of relative position embeddings instead of static position embeddings that we saw earlier. These start out as linear relationships and are combined together in deeper layers to learn a non-linear attention function.</span></div>
+<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"><br /></span></div>
+<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvVPppYdlowluLinjiV5numYQLrAHIvTYJYrt3dgoljHc_6Nq8p7RP1cOB0B3G1vq6-RdD2jSY5MA9X8aWxcB3IFRPwf-TJQknNHW43l6BZvhWZ0RS-d8dJCl7J03DALdi8R0w1cMkS35/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1122" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvVPppYdlowluLinjiV5numYQLrAHIvTYJYrt3dgoljHc_6Nq8p7RP1cOB0B3G1vq6-RdD2jSY5MA9X8aWxcB3IFRPwf-TJQknNHW43l6BZvhWZ0RS-d8dJCl7J03DALdi8R0w1cMkS35/" width="320"></a></div>
+<p>Additionally, instead of going just Left-to-Right, XLNet introduced this idea of Permutation Language Modelling (PLM) which allows us to randomly permute the order for every training sentence as shown in the figure. You are still predicting one &#8220;MASKED&#8221; word at a time given some permutation of the input. This gives us a much better sample efficiency.</span></div>
+<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"><br /></span></div>
+<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHqpg77Uwc3zHCyHQzq-YifzeStolUPrGGE8k1mndJjsNGPu_uhdajhBCknpnpBzpXQzWPhHzLJQRE5lpsvbUoNo1vEJ94Oy6cKgaGO3ZL3tauZhWdX4qhTVMiAzzDvMdOeOEwor-LL46/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1111" data-original-width="2048" height="174" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHqpg77Uwc3zHCyHQzq-YifzeStolUPrGGE8k1mndJjsNGPu_uhdajhBCknpnpBzpXQzWPhHzLJQRE5lpsvbUoNo1vEJ94Oy6cKgaGO3ZL3tauZhWdX4qhTVMiAzzDvMdOeOEwor-LL46/" width="320"></a></div>
+<p></span></div>
+<div class="separator" style="clear: both; text-align: left;"><b style="text-align: justify;"><span style="color: #2b00fe; font-size: medium;">3. ALBERT</span></b></div>
+<div class="separator" style="clear: both; text-align: left;"><span style="text-align: justify;"><span style="font-size: medium;"></p>
+<div class="separator" style="clear: both; color: #2b00fe; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI_6bKhOBgikzmqLhYfKewLuptboThFg9gIOPQeuu_bSsHKldvDQZWHZQmnWO1wUaPouEBawkVVPFs84TUmofFb3ECudg2Al7-2azJq4Xhlqvg-z1CPNCcXaZ04SELyyrD8SQjUQkK49T/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1119" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI_6bKhOBgikzmqLhYfKewLuptboThFg9gIOPQeuu_bSsHKldvDQZWHZQmnWO1wUaPouEBawkVVPFs84TUmofFb3ECudg2Al7-2azJq4Xhlqvg-z1CPNCcXaZ04SELyyrD8SQjUQkK49T/" width="320"></a></div>
+<div class="separator" style="clear: both; text-align: justify;">The idea here was to reduce overfitting by factorizing the input embedding layer. As an example, if the vocab size is 100k and the hidden size is <b>1024</b>. The model could have a hard time generalizing directly in this <b>high dimensional vector space</b> especially for rare words. Instead, ALBERT proposes a factorization technique which first learns a fairly small hidden dimension (128) per word and then learns to a separate function to project this to the transformers hidden dimension of 1024. </div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglI0HTnjqmOZIqOK1CVW1CjntQC-R1Spu5t8FuCiuk12DEOPtnfRMktEZhncWdB9ULI1oWrGGT9ZxUtIdE8mYMdJt_gdnj_Jmt0YgzzNPBER4TtbC0Id4KAdE5eQky8Ut-3tH9pMkNGPDP/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1102" data-original-width="2048" height="172" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglI0HTnjqmOZIqOK1CVW1CjntQC-R1Spu5t8FuCiuk12DEOPtnfRMktEZhncWdB9ULI1oWrGGT9ZxUtIdE8mYMdJt_gdnj_Jmt0YgzzNPBER4TtbC0Id4KAdE5eQky8Ut-3tH9pMkNGPDP/" width="320"></a></div>
+<p></div>
+<div class="separator" style="clear: both; text-align: justify;">To further reduce the number of parameters, ALBERT proposes to share all parameters between the transformers layers termed <b>Cross-layer parameter sharing </b>(All 12 layers of BERT share the same parameters). This comes at a cost of speed while training as shown in the table.</div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe;">4. ELECTRA</span></b></div>
+<div class="separator" style="clear: both; text-align: justify;"></div>
+<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbn1KcOwJpgWJJD_dr_GsR0v51DmLDUH9OSAriQ_MEcZpry09qRqbeB_6tGHXTbQzx-c9pLVridyQ2fYp4jvAm32qTC-2-4a1XrccBAHc3py7hdClejrhBi-AtI4_YHhkbURk-7b_I_c2F/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1140" data-original-width="2048" height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbn1KcOwJpgWJJD_dr_GsR0v51DmLDUH9OSAriQ_MEcZpry09qRqbeB_6tGHXTbQzx-c9pLVridyQ2fYp4jvAm32qTC-2-4a1XrccBAHc3py7hdClejrhBi-AtI4_YHhkbURk-7b_I_c2F/" width="320"></a></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: justify;">ELECTRA introduces the idea of using a discriminator to be able to evaluate the quality of the generative language model. This helps the language model (generator) learn better language representations to help misguide the discriminator as an optimization objective.</div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;">I hope you enjoyed this post! Stay tuned for more. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/270c.png" alt="✌" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+</div>
+<p></span></span></div>
+</div>
+</div>
+</div>
+<p><span><!--more--></span></p>
+<p></p>
+<p>Slide credits &#8211; Jacob Delvin, Google Language AI</p>
+<p><iframe loading="lazy" title="Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models" width="500" height="281" src="https://www.youtube.com/embed/knTc-NQSjKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI model &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/ai-model/feed/?simply_static_page=63627" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 26 Apr 2024 10:32:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>AI model &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Chinese Model Outperforms GPT-4 Turbo!</title>
+		<link>https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 10:32:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI model]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[GPT]]></category>
+		<category><![CDATA[GPT-4 Turbo]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[SenseNova 5.0]]></category>
+		<category><![CDATA[SenseTime]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</guid>
+
+					<description><![CDATA[SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/">New Chinese Model Outperforms GPT-4 Turbo!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+<p><!-- Disqus thread link for post ID  --></p>
+<div id='disqus_thread'></div>
+<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
