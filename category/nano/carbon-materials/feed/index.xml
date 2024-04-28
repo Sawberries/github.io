@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Carbon materials &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/nano/carbon-materials/feed/?simply_static_page=48822" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>part of www.sawberry.com sites</description>
+	<lastBuildDate>Thu, 25 Apr 2024 12:13:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Carbon materials &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>“Nanostitches” enable lighter and tougher composite materials</title>
+		<link>https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:37 +0000</pubDate>
+				<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Aircraft]]></category>
+		<category><![CDATA[Carbon materials]]></category>
+		<category><![CDATA[Materials science and engineering]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</guid>
+
+					<description><![CDATA[To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures. But composite [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures.</p>
+<p>But composite materials have one main vulnerability: the space between layers, which is typically filled with polymer “glue” to bond the layers together. In the event of an impact or strike, cracks can easily spread between layers and weaken the material, even though there may be no visible damage to the layers themselves. Over time, as these hidden cracks spread between layers, the composite could suddenly crumble without warning.</p>
+<p>Now, MIT engineers have shown they can prevent cracks from spreading between composite’s layers, using an approach they developed called “nanostitching,” in which they deposit chemically grown microscopic forests of carbon nanotubes between composite layers. The tiny, densely packed fibers grip and hold the layers together, like ultrastrong Velcro, preventing the layers from peeling or shearing apart.</p>
+<p>In experiments with an advanced composite known as thin-ply carbon fiber laminate, the team demonstrated that layers bonded with nanostitching improved the material’s resistance to cracks by up to 60 percent, compared with composites with conventional polymers. The researchers say the results help to address the main vulnerability in advanced composites.</p>
+<p>“Just like phyllo dough flakes apart, composite layers can peel apart because this interlaminar region is the Achilles’ heel of composites,” says Brian Wardle, professor of aeronautics and astronautics at MIT. “We’re showing that nanostitching makes this normally weak region so strong and tough that a crack will not grow there. So, we could expect the next generation of aircraft to have composites held together with this nano-Velcro, to make aircraft safer and have greater longevity.”</p>
+<p>Wardle and his colleagues have <a href="https://pubs.acs.org/doi/10.1021/acsami.3c17333" target="_blank" rel="noopener">published their results</a> today in the journal <em>ACS Applied Materials and Interfaces</em>. The study’s first author is former MIT visiting graduate student and postdoc Carolina Furtado, along with Reed Kopp, Xinchen Ni, Carlos Sarrado, Estelle Kalfon-Cohen, and Pedro Camanho.</p>
+<p><strong>Forest growth</strong></p>
+<p>At MIT, Wardle is director of the necstlab (pronounced “next lab”), where he and his group <a href="https://news.mit.edu/2016/carbon-nanotube-stitches-strengthen-composites-0803" target="_blank" rel="noopener">first developed</a> the concept for nanostitching. The approach involves “growing” a forest of vertically aligned carbon nanotubes — hollow fibers of carbon, each so small that tens of billions of the the nanotubes can stand in an area smaller than a fingernail. To grow the nanotubes, the team used a process of chemical vapor deposition to react various catalysts in an oven, causing carbon to settle onto a surface as tiny, hair-like supports. The supports are eventually removed, leaving behind a densely packed forest of microscopic, vertical rolls of carbon.</p>
+<p>The lab has previously shown that the nanotube forests can be grown and adhered to layers of composite material, and that this fiber-reinforced compound improves the material’s overall strength. The researchers had also seen some signs that the fibers can improve a composite’s resistance to cracks between layers.</p>
+<p>In their new study, the engineers took a more in-depth look at the between-layer region in composites to test and quantify how nanostitching would improve the region’s resistance to cracks. In particular, the study focused on an advanced composite material known as thin-ply carbon fiber laminates.</p>
+<p>“This is an emerging composite technology, where each layer, or ply, is about 50 microns thin, compared to standard composite plies that are 150 microns, which is about the diameter of a human hair. There’s evidence to suggest they are better than standard-thickness composites. And we wanted to see whether there might be synergy between our nanostitching and this thin-ply technology, since it could lead to more resilient aircraft, high-value aerospace structures, and space and military vehicles,” Wardle says.</p>
+<p><strong>Velcro grip</strong></p>
+<p>The study’s experiments were led by Carolina Furtado, who joined the effort as part of the MIT-Portugal program in 2016, continued the project as a postdoc, and is now a professor at the University of Porto in Portugal, where her research focuses on modeling cracks and damage in advanced composites.</p>
+<p>In her tests, Furtado used the group’s techniques of chemical vapor deposition to grow densely packed forests of vertically aligned carbon nanotubes. She also fabricated samples of thin-ply carbon fiber laminates. The resulting advanced composite was about 3 millimeters thick and comprised 60 layers, each made from stiff, horizontal fibers embedded in a polymer sheet.</p>
+<p>She transferred and adhered the nanotube forest in between the two middle layers of the composite, then cooked the material in an autoclave to cure. To test crack resistance, the researchers placed a crack on the edge of the composite, right at the start of the region between the two middle layers.</p>
+<p>“In fracture testing, we always start with a crack because we want to test whether and how far the crack will spread,” Furtado explains.</p>
+<p>The researchers then placed samples of the nanotube-reinforced composite in an experimental setup to test their resilience to “delamination,” or the potential for layers to separate.</p>
+<p>“There’s lots of ways you can get precursors to delamination, such as from impacts, like tool drop, bird strike, runway kickup in aircraft, and there could be almost no visible damage, but internally it has a delamination,” Wardle says. “Just like a human, if you’ve got a hairline fracture in a bone, it’s not good. Just because you can’t see it doesn’t mean it’s not impacting you. And damage in composites is hard to inspect.”</p>
+<p>To examine nanostitching’s potential to prevent delamination, the team placed their samples in a setup to test three delamination modes, in which a crack could spread through the between-layer region and peel the layers apart or cause them to slide against each other, or do a combination of both. All three of these modes are the most common ways in which conventional composites can internally flake and crumble.</p>
+<p>The tests, in which the researchers precisely measured the force required to peel or shear the composite’s layers, revealed that the nanostitched held fast, and the initial crack that the researchers made was unable to spread further between the layers. The nanostitched samples were up to 62 percent tougher and more resistant to cracks, compared with the same advanced composite material that was held together with conventional polymers.</p>
+<p>“This is a new composite technology, turbocharged by our nanotubes,” Wardle says.</p>
+<p>“The authors have demonsrated that thin plies and nanostitching together have made significant increase in toughness,” says Stephen Tsai, emeritus professor of aeronautics and astronautics at Stanford University. “Composites are degraded by their weak interlaminar strength. Any improvement shown in this work will increase the design allowable, and reduce the weight and cost of composites technology.”</p>
+<p>The researchers envision that any vehicle or structure that incorporates conventional composites could be made lighter, tougher, and more resilient with nanostitching.</p>
+<p>“You could have selective reinforcement of problematic areas, to reinforce holes or bolted joints, or places where delamination might happen,” Furtado says. “This opens a big window of opportunity.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
