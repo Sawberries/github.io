@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Data Analysis &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/data-analysis/feed/?simply_static_page=133826" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/data-analysis/feed/?simply_static_page=135405" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 26 Apr 2024 12:01:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>10 Ways to Use AI in Data Analytics</title>
+		<link>https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:35 +0000</pubDate>
+				<category><![CDATA[AI in Data Analystics]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[Data Analytics and AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</guid>
+
+					<description><![CDATA[ Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p> Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-in-data-analytics/">10 Ways to Use AI in Data Analytics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How Data Efficient GANs Generate Images of Cats and Dogs?</title>
 		<link>https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</link>
 		

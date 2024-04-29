@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Technology &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/technology/feed/?simply_static_page=134595" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/technology/feed/?simply_static_page=135448" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 25 Apr 2024 12:13:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 10 AI Sales Assistant Tools</title>
+		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
+				<category><![CDATA[AI Sales Tools]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[AI Tools for Sales]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
+
+					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Meet Malar, India’s First Autonomous AI Professor</title>
 		<link>https://www.sawberries.com/2024/04/25/meet-malar-teacher-indias-first-autonomous-ai-professor/</link>
 		

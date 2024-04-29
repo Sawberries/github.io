@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=133367" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=134992" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 15:15:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,245 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Julie Shah named head of the Department of Aeronautics and Astronautics</title>
+		<link>https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:36 +0000</pubDate>
+				<category><![CDATA[Administration]]></category>
+		<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</guid>
+
+					<description><![CDATA[Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1. “Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1.</p>
+<p>“Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of robotics and AI, particularly as it relates to the future of work, and has bridged important gaps in the social, ethical, and economic implications of AI and computing,” says Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of Electrical Engineering and Computer Science.</p>
+<p>In addition to her role as a faculty member in AeroAstro, Shah served as associate dean of Social and Ethical Responsibilities of Computing in the MIT Schwarzman College of Computing from 2019 to 2022, helping launch a coordinated curriculum that engages more than 2,000 students a year at the Institute. She currently directs the Interactive Robotics Group in MIT’s Computer Science and Artificial Intelligence Lab (CSAIL), and MIT’s Industrial Performance Center.</p>
+<p>Shah and her team at the Interactive Robotics Group conduct research that aims to imagine the future of work by designing collaborative robot teammates that enhance human capability. She is expanding the use of human cognitive models for artificial intelligence and has translated her work to manufacturing assembly lines, health-care applications, transportation, and defense. In 2020, Shah co-authored the popular book “What to Expect When You’re Expecting Robots,” which explores the future of human-robot collaboration.</p>
+<p>As an expert on how humans and robots interact in the workforce, Shah was named co-director of the Work of the Future Initiative, a successor group of MIT’s Task Force on the Work of the Future, alongside Ben Armstrong, executive director and research scientist at MIT’s Industrial Performance Center. In March of this year, Shah was named a co-leader of the Working Group on Generative AI and the Work of the Future, alongside Armstrong and Kate Kellogg, the David J. McGrath Jr. Professor of Management and Innovation. The group is examining how generative AI tools can contribute to higher-quality jobs and inclusive access to the latest technologies across sectors.</p>
+<p>Shah’s contributions as both a researcher and educator have been recognized with many awards and honors throughout her career. She was named an associate fellow of the American Institute of Aeronautics and Astronautics (AIAA) in 2017, and in 2018 she was the recipient of the IEEE Robotics and Automation Society Academic Early Career Award. Shah was also named a Bisplinghoff Faculty Fellow, was named to <em>MIT Technology Review</em>’s TR35 List, and received an NSF Faculty Early Career Development Award. In 2013, her work on human-robot collaboration was included on <em>MIT Technology Review</em>’s list of 10 Breakthrough Technologies.</p>
+<p>In January 2024, she was appointed to the first-ever AIAA Aerospace Artificial Intelligence Advisory Group, which was founded “to advance the appropriate use of AI technology particularly in aeronautics, aerospace R&amp;D, and space.” Shah currently serves as editor-in-chief of <em>Foundations and Trends in Robotics</em>, as an editorial board member of the AIAA Progress Series, and as an executive council member of the Association for the Advancement of Artificial Intelligence.</p>
+<p>A dedicated educator, Shah has been recognized for her collaborative and supportive approach as a mentor. She was honored by graduate students as “Committed to Caring” (C2C) in 2019. For the past 10 years, she has served as an advocate, community steward, and mentor for students in her role as head of house of the Sidney Pacific Graduate Community.</p>
+<p>Shah received her bachelor’s and master’s degrees in aeronautical and astronautical engineering, and her PhD in autonomous systems, all from MIT. After receiving her doctoral degree, she joined Boeing as a postdoc, before returning to MIT in 2011 as a faculty member.</p>
+<p>Shah succeeds Professor Steven Barrett, who has led AeroAstro as both interim department head and then department head since May 2023.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10 Ways to Use AI in Data Analytics</title>
+		<link>https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:35 +0000</pubDate>
+				<category><![CDATA[AI in Data Analystics]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[Data Analytics and AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</guid>
+
+					<description><![CDATA[ Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p> Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-in-data-analytics/">10 Ways to Use AI in Data Analytics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 AI Sales Assistant Tools</title>
+		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
+				<category><![CDATA[AI Sales Tools]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[AI Tools for Sales]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
+
+					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 5 Free AI Resume Building Apps</title>
+		<link>https://www.sawberries.com/2024/04/29/ai-resume-building-apps/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Free Ai resume building tools]]></category>
+		<category><![CDATA[free AI tools]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[resume tools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/ai-resume-building-apps/</guid>
+
+					<description><![CDATA[Introduction Are you trying to find your next significant professional step? It can be rather difficult to write the ideal resume, but fortunately, there are some amazing AI-powered tools available to help. These incredible tools are free! With the aid of clever technology, these tools may make your resume stand out in a crowded employment [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you trying to find your next significant professional step? It can be rather difficult to write the ideal resume, but fortunately, there are some amazing AI-powered tools available to help. These incredible tools are free! With the aid of clever technology, these tools may make your resume stand out in a crowded employment […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-resume-building-apps/">Top 5 Free AI Resume Building Apps</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How Prados Beauty is using Gemini to grow their business</title>
 		<link>https://www.sawberries.com/2024/04/29/google-gemini-ai-entrepreneur-business-growth/</link>
 		
@@ -130,291 +369,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Understanding SoTA Language Models (BERT, RoBERTA, ALBERT, ELECTRA)</title>
-		<link>https://www.sawberries.com/2024/04/27/understanding-state-of-art-language-html/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 10:50:09 +0000</pubDate>
-				<category><![CDATA[natural language nlu deep learning bert albert roberta]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/understanding-state-of-art-language-html/</guid>
-
-					<description><![CDATA[ Hi everyone, There are a ton of language models out there today! Many of which have their unique way of learning &#8220;self-supervised&#8221; language representations that can be used by other downstream tasks.  In this article, I decided to summarize the current trends and share some key insights to glue all these novel approaches together.  😃 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p> Hi everyone,</p>
-<p>There are a ton of language models out there today! Many of which have their unique way of learning &#8220;self-supervised&#8221; language representations that can be used by other downstream tasks. </p>
-<p>In this article, I decided to summarize the current trends and share some key insights to glue all these novel approaches together.  <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f603.png" alt="😃" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (Slide credits: Delvin et. al. Stanford CS224n)</p>
-<p></p>
-</p>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQBnFFCwJXTfqeZE77irx4Gv9gfKmroLr-cMb6xmQkASkUhPtIG0FoEl8phTt2TSwBKvhtjRFr2Fvom2hXZ6vYRLDYB8cBbMV8kOepKpyWMY76vMJbvof0gOZ6ovdc8VtFQYm2GtbdQST/" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" alt="" data-original-height="787" data-original-width="1400" height="255" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQBnFFCwJXTfqeZE77irx4Gv9gfKmroLr-cMb6xmQkASkUhPtIG0FoEl8phTt2TSwBKvhtjRFr2Fvom2hXZ6vYRLDYB8cBbMV8kOepKpyWMY76vMJbvof0gOZ6ovdc8VtFQYm2GtbdQST/w453-h255/image.png" width="453"></a></div>
-</p>
-<p><span></span><span><a name="more"></a></span></p>
-<p></p>
-<p><b><span style="font-size: medium;">Problem: Context-free/Atomic Word Representations</span></b></p>
-<p>We started with context-free approaches like <span style="color: #2b00fe;"><b>word2vec, GloVE embeddings </b><a href="http://ankit-ai.blogspot.com/2019/01/a-summary-of-natural-language-models.html">in my previous post</a></span>. The drawback of these approaches is that they do not account for syntactic context. e.g. &#8220;open a <b>bank</b> account&#8221; v/s &#8220;on the river <b>bank</b>&#8220;. The word <b>bank </b>has different meanings depending on the context the word is used in.</p>
-</p>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAmZ14tnFvFbZfzQydZ8YCfcEyrb1NRyQs8Wkf-pXf-m-gpBCTQ5W8cX_RtAbhyuQnJpHlVZsGDYF6ziZv5u-Pn63Z5xtv1IAvV0pKTQf6uzoEVTHclW32sgXoB8N6zzelSLGF8NGWhU3/" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="1104" data-original-width="2048" height="187" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAmZ14tnFvFbZfzQydZ8YCfcEyrb1NRyQs8Wkf-pXf-m-gpBCTQ5W8cX_RtAbhyuQnJpHlVZsGDYF6ziZv5u-Pn63Z5xtv1IAvV0pKTQf6uzoEVTHclW32sgXoB8N6zzelSLGF8NGWhU3/w346-h187/image.png" width="346"></a></div>
-<p><b><span style="font-size: medium;">Solution #1: Contextual Word Representations</span></b></p>
-<p>With <span style="color: #2b00fe;"><b>ELMo</b></span> the community started building forward (left to right) and backward (right to left) sequence language models, and used embeddings extracted from both (concatenated) these models as pre-trained embeddings for downstream modeling tasks like classification (Sentiment etc.)</p>
-</p>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_mgZY6p1kHIg8RXjrqxbJh_BagP93GhnAG3vNS0d45qS1a6z9yGnomHajyJo-rk3q1oQzUCv2vCNVPA0edPZMQ8_jdoggj_sQCXgtRHgyq_v1QOwJ6NfpRe1LfqUoGIpbCXfvq3GYDSK/" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="1097" data-original-width="2048" height="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_mgZY6p1kHIg8RXjrqxbJh_BagP93GhnAG3vNS0d45qS1a6z9yGnomHajyJo-rk3q1oQzUCv2vCNVPA0edPZMQ8_jdoggj_sQCXgtRHgyq_v1QOwJ6NfpRe1LfqUoGIpbCXfvq3GYDSK/" width="320"></a></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<p><b>Potential drawback:</b></p>
-<p>ELMo can be considered a &#8220;weakly bi-directional model&#8221; as they trained 2 separate models here.</p>
-<p><span style="font-size: medium;"><b>Solution #2: Truly bi-directional Contextual Representations</b></span></p>
-</p>
-<div class="separator" style="clear: both; text-align: justify;">To solve the drawback of &#8220;weakly bi-directional&#8221; approach and the information bottleneck that comes with LSTMs / Recurrent approaches &#8211; the Transformer architecture was developed. Transformers unlike LSTM/RNN are an entirely feedforward network. Here is a quick summary of the architecture:</div>
-<div class="separator" style="clear: both; font-size: large; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIn8_ApbVr3EjKhApGY7mhoFYYQ2_-hM-pgHoIUG8j15iP8EAWgfgvdQ5z9q7tOXye7uNwy2-6K7aQEo9CTQZHiQPRW0EibRde4gWIAx54FdJEtIhClV4rH3INi9RjlxeEjfCsZ1SGr7rt/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1078" data-original-width="2048" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIn8_ApbVr3EjKhApGY7mhoFYYQ2_-hM-pgHoIUG8j15iP8EAWgfgvdQ5z9q7tOXye7uNwy2-6K7aQEo9CTQZHiQPRW0EibRde4gWIAx54FdJEtIhClV4rH3INi9RjlxeEjfCsZ1SGr7rt/" width="320"></a></div>
-<div class="separator" style="clear: both; text-align: center;"><i><span style="font-size: x-small;"><b>Tip:</b> If you are new to transformers but are familiar with vanilla Multi-Layer Perceptron (MLP) or Fully connected Neural networks. You can think of transformers as being similar to MLP/standard NN with fancy bells and whistles on top of that.</span></i></div>
-<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><i><span style="font-size: x-small;"><br /></span></i></div>
-<div class="separator" style="clear: both; font-weight: bold; text-align: center;">But, what makes the transformer so much more effective?</div>
-<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><i><span style="font-size: x-small;"><br /></span></i></div>
-<div class="separator" style="clear: both; text-align: center;">
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7EXeAdwPAlV2Zu2ZI3hV19CnDUBZXE7TjVCb61511OnHARjrnvv6VKaIT2b_uLzOybBb-Q3_F0M9nAbg9CUKMxgromdcqdhEwdcDJuQEJhB6jDtEqWXW897HxIouq8tnLSUF50YP0F5x/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1116" data-original-width="2048" height="174" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7EXeAdwPAlV2Zu2ZI3hV19CnDUBZXE7TjVCb61511OnHARjrnvv6VKaIT2b_uLzOybBb-Q3_F0M9nAbg9CUKMxgromdcqdhEwdcDJuQEJhB6jDtEqWXW897HxIouq8tnLSUF50YP0F5x/" width="320"></a></div>
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;"><span style="font-size: medium;"><b>2 key ideas:</b></span></div>
-<div class="separator" style="clear: both; text-align: center;"><span style="font-size: medium;"><br /></span></div>
-<div class="separator" style="clear: both; text-align: left;">1. <b>Every word has an opportunity to learn a representation with-respect-to every other word (Truly bi-directional)</b> in the sentence (think of every word as a feature given as input to a fully connected network). To further build on this idea let&#8217;s consider the transformer as a fully connected network with 1 hidden layer as shown below:</div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMSOusz3EymtlcMa-gzBotjNwRbcazKzYtHFUMCPmnvuhUQe-t3zwutc1C2LcsfyzquzLDEJ6JllB89Z-vVWaVH3jGP7I74qUGHtNmfr1e7C5TWtddmXj2Dask2s47vjYvGYWhyphenhyphen05MdBX/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="400" data-original-width="600" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVMSOusz3EymtlcMa-gzBotjNwRbcazKzYtHFUMCPmnvuhUQe-t3zwutc1C2LcsfyzquzLDEJ6JllB89Z-vVWaVH3jGP7I74qUGHtNmfr1e7C5TWtddmXj2Dask2s47vjYvGYWhyphenhyphen05MdBX/" width="320"></a></div>
-<div class="separator" style="clear: both; text-align: center;">source: <a href="https://stackoverflow.com/questions/65528631/what-exactly-contains-the-word-vector-of-word2vec-or-generally-of-word-embeddin">Stackoverflow</a></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;">If x1 and x5 are 2 words/tokens from my earlier example (<b>on</b> the river <b>bank</b>), now x1 has access to x5 regardless of the distance between x1 and x5 (the word <b>on </b>can learn a representation depending on the context provided by the word <b>bank)</b></div>
-<div class="separator" style="clear: both; text-align: center;"><b><br /></b></div>
-<div class="separator" style="clear: both; text-align: left;">2. Essentially, since every layer can be represented as a <b>big matrix multiplication (parallel computation)</b> over one multiplication per token that happens in an LSTM, <b>the transformer is much faster than an LSTM.</b></div>
-<div class="separator" style="clear: both; text-align: left;"><b><br /></b></div>
-<div class="separator" style="clear: both; text-align: left;"><span><span id="more-143"></span></span><b><br /></b></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<p><b></p>
-<div style="text-align: justify;"><b><span style="font-size: medium;">Problem with bi-directional models:</span></b></div>
-<p></b></p>
-<div style="text-align: justify;"></div>
-</div>
-<div class="separator" style="clear: both; font-style: italic; font-weight: bold; text-align: center;">But, Language models (LM) are supposed to model P(w_t+1/w_1..w_t)? How does the model learn anything if you expose all the words to it?</div>
-<div class="separator" style="clear: both; font-style: italic; font-weight: bold; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;"><b><span style="color: #2b00fe; font-size: large;">BERT</span></b> develops upon this idea using transformers to learn Masked Language Modeling (MLM) and translates the task to P(w_masked/w_1..w-t)</div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;">Tradeoff: In MLM, you could be masking and predicting ~15% words in the sentence. However, in Left-to-Right LM you are predicting 100% of words in the sentence (higher sample efficiency).</div>
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxkLb7AL_yHS_aAQdSWYSO2ki04zwVTQAIfcS6RdSIXDV1WGC4DriJZNfSxNb_H5QGoeMjWf8xLyzRVy7hibA8bhzY8fpAHdctDeUXFWRfmnn4jofcPTxH4c8cLMlaLNPReltgIZow-AL2/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1121" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxkLb7AL_yHS_aAQdSWYSO2ki04zwVTQAIfcS6RdSIXDV1WGC4DriJZNfSxNb_H5QGoeMjWf8xLyzRVy7hibA8bhzY8fpAHdctDeUXFWRfmnn4jofcPTxH4c8cLMlaLNPReltgIZow-AL2/" width="320"></a></div>
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
-<p>There are some changes in the input to the model with respect to the previous LSTM based approach. The input now has 3 embeddings: </p></div>
-<div class="separator" style="clear: both; text-align: center;"></p>
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_NjTlJRI1GA2roz7xv5dZWHyiqFYdpXM4o72j0m5ozgwzc6erQ1lymKAh_LD8iumKjcMWDxSPhYnH0NJMcM3_pHB04Y1j0cW_bwG3Qn3szcLTgM765OzPG1syMy31Cd_Rtc3eBjlOnsW/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="762" data-original-width="1506" height="162" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_NjTlJRI1GA2roz7xv5dZWHyiqFYdpXM4o72j0m5ozgwzc6erQ1lymKAh_LD8iumKjcMWDxSPhYnH0NJMcM3_pHB04Y1j0cW_bwG3Qn3szcLTgM765OzPG1syMy31Cd_Rtc3eBjlOnsW/" width="320"></a></div>
-<div class="separator" style="clear: both; font-size: small; font-style: italic; font-weight: bold; text-align: center;"></div>
-</div>
-<div class="separator" style="clear: both; text-align: justify;"><b>1. Token embeddings</b> &#8211; (Same as embeddings fed into the LSTM model) </div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"><b>2. Segment Embeddings</b> &#8211; </div>
-<div class="separator" style="clear: both; text-align: justify;">
-<ul>
-<li>Simply tells the model what sentence does this token belongs to e.g. &#8220;<b>Sentence A:</b> The man went to buy milk. <b>Sentence B:</b> The store was closed&#8221;.</li>
-</ul>
-</div>
-<div class="separator" style="clear: both; text-align: justify;"><b>3. Position Embeddings &#8211;</b> </div>
-<div class="separator" style="clear: both; text-align: justify;">
-<ul>
-<li>Can be thought as a token number e.g. The &#8211; 0, man &#8211; 1 and so on.</li>
-<p><span></span></ul>
-<div></div>
-<p><span><!--more--></span></p>
-<div></div>
-<div>Important to note:</div>
-<div></div>
-<div><b style="background-color: #fcff01;"></b></div>
-<blockquote>
-<div><b style="background-color: #fcff01;">BERT is a huge model (110M parameters ~1 GB filesize). Alright, How do we do better?</b></div>
-<div></div>
-</blockquote>
-<div><b style="background-color: #fcff01;"><br /></b></div>
-<div><span style="background-color: white;">Studies have shown that <b>overly parameterized models</b> are effective in learning language nuances <b>better</b>. This can be demonstrated by the graph below:</span></div>
-<div></div>
-<div>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3E-Z_CfOduhixn0MVdKZyKJS05n-SYKI3XmH7FQuuNs6Bms0QI85jgeNGQHMRPzh7EpavIf5yABx5FSbb8i6L9703NGyWDBxpyKrWqY1VhyY3FxY05WJ7JUNBO-UKQR40duut8us-y1mK/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1175" data-original-width="2048" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3E-Z_CfOduhixn0MVdKZyKJS05n-SYKI3XmH7FQuuNs6Bms0QI85jgeNGQHMRPzh7EpavIf5yABx5FSbb8i6L9703NGyWDBxpyKrWqY1VhyY3FxY05WJ7JUNBO-UKQR40duut8us-y1mK/w348-h200/image.png" width="348"></a></div>
-<div class="separator" style="clear: both; text-align: center;"><i>The graph affirms<b></p>
-<blockquote><p>&#8220;Bigger the LM, the better it is&#8221;</p></blockquote>
-<p></b></i></p>
-</p>
-</div>
-<div class="separator" style="clear: both; text-align: justify;">This is going to be some of our motivation as we look into advancements over the BERT model &#8211;</div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;">We will look into 4 models that have fundamentally improved upon the ideas we introduced for the BERT model.</div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe; font-size: medium;">1. RoBERTA</span></b></div>
-<div class="separator" style="clear: both; text-align: justify;">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kWMQBKn-AB0ewxR2ZTkn-t2gyvAsNTXEpTKwzJZyJd1ytmMhSAst75mZnSQfB9KVbLt-4DleLiwvDFf41On0VomDI0i2GelCSIgXw3U5KrWLuv6AtQ_QqnCvVAGe6eQPoA33L0ZelpmK/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1127" data-original-width="2048" height="176" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0kWMQBKn-AB0ewxR2ZTkn-t2gyvAsNTXEpTKwzJZyJd1ytmMhSAst75mZnSQfB9KVbLt-4DleLiwvDFf41On0VomDI0i2GelCSIgXw3U5KrWLuv6AtQ_QqnCvVAGe6eQPoA33L0ZelpmK/" width="320"></a></div>
-<p><span style="font-size: medium;">The central idea was to train the same BERT model for longer (more epochs) and on more data. The evaluation results show that it does better than the standard BERT model we saw earlier.</span></div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe; font-size: medium;">2. XLNet</span></b></div>
-<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
-<div class="separator" style="clear: both; color: #2b00fe; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsKJG2HUTgom2OoJQmFR0VB8zEpnOyybAAc2GdKxoEx9UnGeLZeVk_Rzt9R7BfutMzRRje-7iVvdJHfgsf8EFW_x2QwXQhyphenhyphenwawGx-n9zcFJMJ1_I8JZdtD4YOduGJoDea22aq3TMGBHii/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1101" data-original-width="2048" height="172" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsKJG2HUTgom2OoJQmFR0VB8zEpnOyybAAc2GdKxoEx9UnGeLZeVk_Rzt9R7BfutMzRRje-7iVvdJHfgsf8EFW_x2QwXQhyphenhyphenwawGx-n9zcFJMJ1_I8JZdtD4YOduGJoDea22aq3TMGBHii/" width="320"></a></div>
-<p>XLNet introduced this idea of relative position embeddings instead of static position embeddings that we saw earlier. These start out as linear relationships and are combined together in deeper layers to learn a non-linear attention function.</span></div>
-<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"><br /></span></div>
-<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvVPppYdlowluLinjiV5numYQLrAHIvTYJYrt3dgoljHc_6Nq8p7RP1cOB0B3G1vq6-RdD2jSY5MA9X8aWxcB3IFRPwf-TJQknNHW43l6BZvhWZ0RS-d8dJCl7J03DALdi8R0w1cMkS35/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1122" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvVPppYdlowluLinjiV5numYQLrAHIvTYJYrt3dgoljHc_6Nq8p7RP1cOB0B3G1vq6-RdD2jSY5MA9X8aWxcB3IFRPwf-TJQknNHW43l6BZvhWZ0RS-d8dJCl7J03DALdi8R0w1cMkS35/" width="320"></a></div>
-<p>Additionally, instead of going just Left-to-Right, XLNet introduced this idea of Permutation Language Modelling (PLM) which allows us to randomly permute the order for every training sentence as shown in the figure. You are still predicting one &#8220;MASKED&#8221; word at a time given some permutation of the input. This gives us a much better sample efficiency.</span></div>
-<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"><br /></span></div>
-<div class="separator" style="clear: both; text-align: justify;"><span style="font-size: medium;"></p>
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHqpg77Uwc3zHCyHQzq-YifzeStolUPrGGE8k1mndJjsNGPu_uhdajhBCknpnpBzpXQzWPhHzLJQRE5lpsvbUoNo1vEJ94Oy6cKgaGO3ZL3tauZhWdX4qhTVMiAzzDvMdOeOEwor-LL46/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1111" data-original-width="2048" height="174" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHqpg77Uwc3zHCyHQzq-YifzeStolUPrGGE8k1mndJjsNGPu_uhdajhBCknpnpBzpXQzWPhHzLJQRE5lpsvbUoNo1vEJ94Oy6cKgaGO3ZL3tauZhWdX4qhTVMiAzzDvMdOeOEwor-LL46/" width="320"></a></div>
-<p></span></div>
-<div class="separator" style="clear: both; text-align: left;"><b style="text-align: justify;"><span style="color: #2b00fe; font-size: medium;">3. ALBERT</span></b></div>
-<div class="separator" style="clear: both; text-align: left;"><span style="text-align: justify;"><span style="font-size: medium;"></p>
-<div class="separator" style="clear: both; color: #2b00fe; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI_6bKhOBgikzmqLhYfKewLuptboThFg9gIOPQeuu_bSsHKldvDQZWHZQmnWO1wUaPouEBawkVVPFs84TUmofFb3ECudg2Al7-2azJq4Xhlqvg-z1CPNCcXaZ04SELyyrD8SQjUQkK49T/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1119" data-original-width="2048" height="175" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI_6bKhOBgikzmqLhYfKewLuptboThFg9gIOPQeuu_bSsHKldvDQZWHZQmnWO1wUaPouEBawkVVPFs84TUmofFb3ECudg2Al7-2azJq4Xhlqvg-z1CPNCcXaZ04SELyyrD8SQjUQkK49T/" width="320"></a></div>
-<div class="separator" style="clear: both; text-align: justify;">The idea here was to reduce overfitting by factorizing the input embedding layer. As an example, if the vocab size is 100k and the hidden size is <b>1024</b>. The model could have a hard time generalizing directly in this <b>high dimensional vector space</b> especially for rare words. Instead, ALBERT proposes a factorization technique which first learns a fairly small hidden dimension (128) per word and then learns to a separate function to project this to the transformers hidden dimension of 1024. </div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglI0HTnjqmOZIqOK1CVW1CjntQC-R1Spu5t8FuCiuk12DEOPtnfRMktEZhncWdB9ULI1oWrGGT9ZxUtIdE8mYMdJt_gdnj_Jmt0YgzzNPBER4TtbC0Id4KAdE5eQky8Ut-3tH9pMkNGPDP/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1102" data-original-width="2048" height="172" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglI0HTnjqmOZIqOK1CVW1CjntQC-R1Spu5t8FuCiuk12DEOPtnfRMktEZhncWdB9ULI1oWrGGT9ZxUtIdE8mYMdJt_gdnj_Jmt0YgzzNPBER4TtbC0Id4KAdE5eQky8Ut-3tH9pMkNGPDP/" width="320"></a></div>
-<p></div>
-<div class="separator" style="clear: both; text-align: justify;">To further reduce the number of parameters, ALBERT proposes to share all parameters between the transformers layers termed <b>Cross-layer parameter sharing </b>(All 12 layers of BERT share the same parameters). This comes at a cost of speed while training as shown in the table.</div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;"><b><span style="color: #2b00fe;">4. ELECTRA</span></b></div>
-<div class="separator" style="clear: both; text-align: justify;"></div>
-<div class="separator" style="clear: both; text-align: justify;">
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbn1KcOwJpgWJJD_dr_GsR0v51DmLDUH9OSAriQ_MEcZpry09qRqbeB_6tGHXTbQzx-c9pLVridyQ2fYp4jvAm32qTC-2-4a1XrccBAHc3py7hdClejrhBi-AtI4_YHhkbURk-7b_I_c2F/" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="1140" data-original-width="2048" height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbn1KcOwJpgWJJD_dr_GsR0v51DmLDUH9OSAriQ_MEcZpry09qRqbeB_6tGHXTbQzx-c9pLVridyQ2fYp4jvAm32qTC-2-4a1XrccBAHc3py7hdClejrhBi-AtI4_YHhkbURk-7b_I_c2F/" width="320"></a></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: justify;">ELECTRA introduces the idea of using a discriminator to be able to evaluate the quality of the generative language model. This helps the language model (generator) learn better language representations to help misguide the discriminator as an optimization objective.</div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-<div class="separator" style="clear: both; text-align: center;">I hope you enjoyed this post! Stay tuned for more. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/270c.png" alt="✌" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
-<div class="separator" style="clear: both; text-align: center;"></div>
-</div>
-<p></span></span></div>
-</div>
-</div>
-</div>
-<p><span><!--more--></span></p>
-<p></p>
-<p>Slide credits &#8211; Jacob Delvin, Google Language AI</p>
-<p><iframe loading="lazy" title="Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models" width="500" height="281" src="https://www.youtube.com/embed/knTc-NQSjKA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</title>
-		<link>https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Run:ai]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</guid>
-
-					<description><![CDATA[Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/">Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 7 AI Healthcare Solution Providers</title>
-		<link>https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
-				<category><![CDATA[AI medical diagnosis]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[diagnosis]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[health care providers]]></category>
-		<category><![CDATA[Healthcare]]></category>
-		<category><![CDATA[healthcare solution]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[treatement]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</guid>
-
-					<description><![CDATA[Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-healthcare-solution-providers/">Top 7 AI Healthcare Solution Providers</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Apple Introduces OpenELM: Open-Source AI Models for On-Device Processing</title>
-		<link>https://www.sawberries.com/2024/04/27/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/</guid>
-
-					<description><![CDATA[Apple has recently unveiled OpenELM, a family of open-source language models optimized for on-device processing. This model has been made open source, encouraging free usage and collaboration. Apple’s move towards transparency aims to empower developers and researchers while enhancing user privacy. Let’s find out more about this new release. Also Read: Apple Boosts AI Capabilities [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Apple has recently unveiled OpenELM, a family of open-source language models optimized for on-device processing. This model has been made open source, encouraging free usage and collaboration. Apple’s move towards transparency aims to empower developers and researchers while enhancing user privacy. Let’s find out more about this new release. Also Read: Apple Boosts AI Capabilities […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/">Apple Introduces OpenELM: Open-Source AI Models for On-Device Processing</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>3 things we learned from professional creatives about their hopes for AI</title>
-		<link>https://www.sawberries.com/2024/04/27/3-things-we-learned-from-professional-creatives-about-their-hopes-for-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:30 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/3-things-we-learned-from-professional-creatives-about-their-hopes-for-ai/</guid>
-
-					<description><![CDATA[Over the past 18 months, AI has augmented and inspired the work of many creative professionals. At the same time, many are concerned about the effects of this technology…]]></description>
-										<content:encoded><![CDATA[<div><img decoding="async" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/creativity-ai-article-keyword-i.max-600x600.format-webp.webp">Over the past 18 months, AI has augmented and inspired the work of many creative professionals. At the same time, many are concerned about the effects of this technology…</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 Programming Languages in 2024</title>
-		<link>https://www.sawberries.com/2024/04/26/top-programming-languages/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 15:02:41 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[C/C++]]></category>
-		<category><![CDATA[C++]]></category>
-		<category><![CDATA[golang]]></category>
-		<category><![CDATA[java]]></category>
-		<category><![CDATA[javascript]]></category>
-		<category><![CDATA[Kotlin]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[PHP]]></category>
-		<category><![CDATA[Programming]]></category>
-		<category><![CDATA[programming languages]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[R]]></category>
-		<category><![CDATA[Swift]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/top-programming-languages/</guid>
-
-					<description><![CDATA[Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

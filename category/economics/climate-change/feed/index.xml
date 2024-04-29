@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Climate change &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/economics/climate-change/feed/?simply_static_page=134348" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/economics/climate-change/feed/?simply_static_page=135218" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 25 Apr 2024 14:14:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Bringing an investigator’s eye to complex social challenges</title>
 		<link>https://www.sawberries.com/2024/04/25/bringing-investigators-eye-complex-social-challenges-anna-russo-0424/</link>
 		

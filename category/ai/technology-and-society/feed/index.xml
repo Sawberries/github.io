@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology and society &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/technology-and-society/feed/?simply_static_page=135259" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Technology and society &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
