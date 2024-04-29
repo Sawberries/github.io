@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=126375" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=133367" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 28 Apr 2024 12:53:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Apr 2024 15:15:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Prados Beauty is using Gemini to grow their business</title>
+		<link>https://www.sawberries.com/2024/04/29/google-gemini-ai-entrepreneur-business-growth/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 15:15:29 +0000</pubDate>
+				<category><![CDATA[Ads]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Grow with Google]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/google-gemini-ai-entrepreneur-business-growth/</guid>
+
+					<description><![CDATA[For National Small Business Week, we’re spotlighting Prados Beauty founder and CEO Cece Meadows.]]></description>
+										<content:encoded><![CDATA[<div><img decoding="async" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GWG_PradosBeauty_HEROThumbnail_.max-600x600.format-webp.webp">For National Small Business Week, we’re spotlighting Prados Beauty founder and CEO Cece Meadows.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>A musical life: Carlos Prieto ’59 in conversation and concert</title>
 		<link>https://www.sawberries.com/2024/04/28/musical-life-carlos-prieto-conversation-and-concert-0426/</link>
 		
@@ -396,44 +415,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How Data Efficient GANs Generate Images of Cats and Dogs?</title>
-		<link>https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 12:01:22 +0000</pubDate>
-				<category><![CDATA[ada]]></category>
-		<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Classification]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GAN]]></category>
-		<category><![CDATA[GANs]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Image]]></category>
-		<category><![CDATA[Image Analysis]]></category>
-		<category><![CDATA[image generattor]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[keras]]></category>
-		<category><![CDATA[Probability]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[Unstructured Data]]></category>
-		<category><![CDATA[Unsupervised]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</guid>
-
-					<description><![CDATA[Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
