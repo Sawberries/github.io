@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=270912" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=272937" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 15:01:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 18:01:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
+		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[GPT5]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
+
+					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
 		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
 		
@@ -261,30 +290,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Introduction to Natural Language Processing [Free NLP Course]</title>
-		<link>https://www.sawberries.com/2024/04/26/free-course-on-nlp/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 09:15:13 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Courses]]></category>
-		<category><![CDATA[Free NLP Course]]></category>
-		<category><![CDATA[Introduction to Natural Language Processing]]></category>
-		<category><![CDATA[NLP]]></category>
-		<category><![CDATA[NLP Course by Analytics Vidhya]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/free-course-on-nlp/</guid>
-
-					<description><![CDATA[Introduction Natural Language Processing (NLP) has recently received much attention in computationally representing and analyzing human speech. Machine translation is widely used in many fields such as spam detection, data extraction, typing, medicine, question answering, and more. But what if you want to learn NLP without spending money? In this article, let’s explore a free [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Natural Language Processing (NLP) has recently received much attention in computationally representing and analyzing human speech. Machine translation is widely used in many fields such as spam detection, data extraction, typing, medicine, question answering, and more. But what if you want to learn NLP without spending money? In this article, let’s explore a free […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/free-course-on-nlp/">Introduction to Natural Language Processing [Free NLP Course]</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

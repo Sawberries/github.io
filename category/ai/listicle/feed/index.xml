@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Listicle &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=270922" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=273013" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 15:01:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 18:01:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
+		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[GPT5]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
+
+					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
 		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
 		
@@ -258,32 +287,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/deepfake-videos-that-you-must-watch/">10+ Deepfake Videos that You Must Watch in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 20+ RAG Interview Questions</title>
-		<link>https://www.sawberries.com/2024/04/25/top-20-rag-interview-questions/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:29 +0000</pubDate>
-				<category><![CDATA[Career]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Interview Questions]]></category>
-		<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[RAG]]></category>
-		<category><![CDATA[RAG Interview Questions]]></category>
-		<category><![CDATA[Retrieval-Augmented Generation]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/top-20-rag-interview-questions/</guid>
-
-					<description><![CDATA[Introduction RAG has been a game-changer in the developing fields of GenAI, Data Science, and AI. Because RAG models let machines produce more accurate, coherent, and consistent language with facts, they transform how humans engage with technology. RAG is bringing the idea of robots that can write unique content, engrossing product descriptions, and news pieces to life. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction RAG has been a game-changer in the developing fields of GenAI, Data Science, and AI. Because RAG models let machines produce more accurate, coherent, and consistent language with facts, they transform how humans engage with technology. RAG is bringing the idea of robots that can write unique content, engrossing product descriptions, and news pieces to life. […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-interview-questions/">Top 20+ RAG Interview Questions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

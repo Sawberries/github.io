@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=270949" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=273033" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 15:01:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 18:01:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
+		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[GPT5]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
+
+					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
 		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
 		
@@ -411,42 +440,6 @@
 <p>Their method either matched or outperformed a popular alternative in each experiment. Moreover, the researchers saw that their model of human behavior matched up well with measures of player skill (in chess matches) and task difficulty.</p>
 <p>Moving forward, the researchers want to use this approach to model the planning process in other domains, such as reinforcement learning (a trial-and-error method commonly used in robotics). In the long run, they intend to keep building on this work toward the larger goal of developing more effective AI collaborators.</p>
 <p>This work was supported, in part, by the MIT Schwarzman College of Computing Artificial Intelligence for Augmentation and Productivity program and the National Science Foundation.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Implementing Query2Model: Simplifying Machine Learning</title>
-		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:30 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[dat science]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[hugchat]]></category>
-		<category><![CDATA[HuggingChat]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[library in python]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Natural Language]]></category>
-		<category><![CDATA[Natural language processing]]></category>
-		<category><![CDATA[NLP]]></category>
-		<category><![CDATA[pipeline]]></category>
-		<category><![CDATA[Prompt Engineering]]></category>
-		<category><![CDATA[query2model]]></category>
-		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</guid>
-
-					<description><![CDATA[Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/implementing-query2model-simplifying-machine-learning/">Implementing Query2Model: Simplifying Machine Learning</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
