@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ChatGPT &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/chatgpt/feed/?simply_static_page=235604" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/chatgpt/feed/?simply_static_page=236353" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 25 Apr 2024 08:58:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 12:01:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RAG and Streamlit Chatbot: Chat with Documents Using LLM</title>
+		<link>https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:35 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[strealit]]></category>
+		<category><![CDATA[Streamlit]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</guid>
+
+					<description><![CDATA[Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
+		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
+
+					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Implementing Query2Model: Simplifying Machine Learning</title>
 		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
 		

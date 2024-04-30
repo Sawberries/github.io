@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=234462" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=236438" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 06:01:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 12:01:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
+		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
+
+					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Check Out This New Robot that Does Household Chores with Precision</title>
 		<link>https://www.sawberries.com/2024/04/30/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/</link>
 		

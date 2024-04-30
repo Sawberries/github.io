@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Prompt Engineering &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/prompt-engineering/feed/?simply_static_page=235640" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/prompt-engineering/feed/?simply_static_page=236272" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 25 Apr 2024 08:58:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 12:01:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Let the Prompt Battle Begin #12</title>
+		<link>https://www.sawberries.com/2024/04/30/let-the-prompt-battle-begin-12/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:36 +0000</pubDate>
+				<category><![CDATA[AI Battleground]]></category>
+		<category><![CDATA[Prompt Battle]]></category>
+		<category><![CDATA[Prompt Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/let-the-prompt-battle-begin-12/</guid>
+
+					<description><![CDATA[Are you ready to fuel your creativity? Join our Prompt Battle! Share your prompts and let’s create magic together. Whether you’re a seasoned creator or just starting out, this is your chance to shine. Drop yourprompts in the comments and let the battle for brilliance begin! How does it Work? Step 1: You give us [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Are you ready to fuel your creativity? Join our Prompt Battle! Share your prompts and let’s create magic together. Whether you’re a seasoned creator or just starting out, this is your chance to shine. Drop yourprompts in the comments and let the battle for brilliance begin! How does it Work? Step 1: You give us […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/let-the-prompt-battle-begin-12/">Let the Prompt Battle Begin #12</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Implementing Query2Model: Simplifying Machine Learning</title>
 		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
 		

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=234326" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=236248" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 09:01:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 12:01:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Let the Prompt Battle Begin #12</title>
+		<link>https://www.sawberries.com/2024/04/30/let-the-prompt-battle-begin-12/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:36 +0000</pubDate>
+				<category><![CDATA[AI Battleground]]></category>
+		<category><![CDATA[Prompt Battle]]></category>
+		<category><![CDATA[Prompt Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/let-the-prompt-battle-begin-12/</guid>
+
+					<description><![CDATA[Are you ready to fuel your creativity? Join our Prompt Battle! Share your prompts and let’s create magic together. Whether you’re a seasoned creator or just starting out, this is your chance to shine. Drop yourprompts in the comments and let the battle for brilliance begin! How does it Work? Step 1: You give us [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Are you ready to fuel your creativity? Join our Prompt Battle! Share your prompts and let’s create magic together. Whether you’re a seasoned creator or just starting out, this is your chance to shine. Drop yourprompts in the comments and let the battle for brilliance begin! How does it Work? Step 1: You give us […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/let-the-prompt-battle-begin-12/">Let the Prompt Battle Begin #12</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RAG and Streamlit Chatbot: Chat with Documents Using LLM</title>
+		<link>https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:35 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[strealit]]></category>
+		<category><![CDATA[Streamlit]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</guid>
+
+					<description><![CDATA[Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
+		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
+
+					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Here’s How You Can Easily Sign Up for Google Labs</title>
 		<link>https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</link>
 		
@@ -305,94 +388,6 @@
 <p><strong>A scaffold for learning experiences</strong></p>
 <p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
 <p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Julie Shah named head of the Department of Aeronautics and Astronautics</title>
-		<link>https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:36 +0000</pubDate>
-				<category><![CDATA[Administration]]></category>
-		<category><![CDATA[Aeronautical and astronautical engineering]]></category>
-		<category><![CDATA[Alumni/ae]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
-		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
-		<category><![CDATA[Faculty]]></category>
-		<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</guid>
-
-					<description><![CDATA[Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1. “Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1.</p>
-<p>“Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of robotics and AI, particularly as it relates to the future of work, and has bridged important gaps in the social, ethical, and economic implications of AI and computing,” says Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of Electrical Engineering and Computer Science.</p>
-<p>In addition to her role as a faculty member in AeroAstro, Shah served as associate dean of Social and Ethical Responsibilities of Computing in the MIT Schwarzman College of Computing from 2019 to 2022, helping launch a coordinated curriculum that engages more than 2,000 students a year at the Institute. She currently directs the Interactive Robotics Group in MIT’s Computer Science and Artificial Intelligence Lab (CSAIL), and MIT’s Industrial Performance Center.</p>
-<p>Shah and her team at the Interactive Robotics Group conduct research that aims to imagine the future of work by designing collaborative robot teammates that enhance human capability. She is expanding the use of human cognitive models for artificial intelligence and has translated her work to manufacturing assembly lines, health-care applications, transportation, and defense. In 2020, Shah co-authored the popular book “What to Expect When You’re Expecting Robots,” which explores the future of human-robot collaboration.</p>
-<p>As an expert on how humans and robots interact in the workforce, Shah was named co-director of the Work of the Future Initiative, a successor group of MIT’s Task Force on the Work of the Future, alongside Ben Armstrong, executive director and research scientist at MIT’s Industrial Performance Center. In March of this year, Shah was named a co-leader of the Working Group on Generative AI and the Work of the Future, alongside Armstrong and Kate Kellogg, the David J. McGrath Jr. Professor of Management and Innovation. The group is examining how generative AI tools can contribute to higher-quality jobs and inclusive access to the latest technologies across sectors.</p>
-<p>Shah’s contributions as both a researcher and educator have been recognized with many awards and honors throughout her career. She was named an associate fellow of the American Institute of Aeronautics and Astronautics (AIAA) in 2017, and in 2018 she was the recipient of the IEEE Robotics and Automation Society Academic Early Career Award. Shah was also named a Bisplinghoff Faculty Fellow, was named to <em>MIT Technology Review</em>’s TR35 List, and received an NSF Faculty Early Career Development Award. In 2013, her work on human-robot collaboration was included on <em>MIT Technology Review</em>’s list of 10 Breakthrough Technologies.</p>
-<p>In January 2024, she was appointed to the first-ever AIAA Aerospace Artificial Intelligence Advisory Group, which was founded “to advance the appropriate use of AI technology particularly in aeronautics, aerospace R&amp;D, and space.” Shah currently serves as editor-in-chief of <em>Foundations and Trends in Robotics</em>, as an editorial board member of the AIAA Progress Series, and as an executive council member of the Association for the Advancement of Artificial Intelligence.</p>
-<p>A dedicated educator, Shah has been recognized for her collaborative and supportive approach as a mentor. She was honored by graduate students as “Committed to Caring” (C2C) in 2019. For the past 10 years, she has served as an advocate, community steward, and mentor for students in her role as head of house of the Sidney Pacific Graduate Community.</p>
-<p>Shah received her bachelor’s and master’s degrees in aeronautical and astronautical engineering, and her PhD in autonomous systems, all from MIT. After receiving her doctoral degree, she joined Boeing as a postdoc, before returning to MIT in 2011 as a faculty member.</p>
-<p>Shah succeeds Professor Steven Barrett, who has led AeroAstro as both interim department head and then department head since May 2023.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>10 Ways to Use AI in Data Analytics</title>
-		<link>https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:35 +0000</pubDate>
-				<category><![CDATA[AI in Data Analystics]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[Data Analytics and AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Use Cases]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/ai-in-data-analytics/</guid>
-
-					<description><![CDATA[ Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p> Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-in-data-analytics/">10 Ways to Use AI in Data Analytics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 AI Sales Assistant Tools</title>
-		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
-				<category><![CDATA[AI Sales Tools]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[AI Tools for Sales]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
-
-					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
