@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Programming &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/programming/feed/?simply_static_page=253803" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/programming/feed/?simply_static_page=254489" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 26 Apr 2024 15:02:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 15:01:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Best Python Tricks in Jupyter Notebook</title>
+		<link>https://www.sawberries.com/2024/04/30/best-python-tricks-in-jupyter-notebook/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 15:01:32 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/best-python-tricks-in-jupyter-notebook/</guid>
+
+					<description><![CDATA[Introduction Python is a popular programming language for its simplicity and readability. When it is combined with Jupyter Notebook, it offers interactive experimentation, documentation of code and data. This article discusses Python tricks in Jupyter Notebook to enhance coding experience, productivity, and understanding. Keyboard shortcuts, magic commands, interactive widgets, and visualization tools can streamline workflow [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Python is a popular programming language for its simplicity and readability. When it is combined with Jupyter Notebook, it offers interactive experimentation, documentation of code and data. This article discusses Python tricks in Jupyter Notebook to enhance coding experience, productivity, and understanding. Keyboard shortcuts, magic commands, interactive widgets, and visualization tools can streamline workflow […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/best-python-tricks-in-jupyter-notebook/">Best Python Tricks in Jupyter Notebook</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 10 Programming Languages in 2024</title>
 		<link>https://www.sawberries.com/2024/04/26/top-programming-languages/</link>
 		
