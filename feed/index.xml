@@ -9,10 +9,10 @@
 
 <channel>
 	<title>sawberries</title>
-	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=165984" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=167830" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 21:01:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 00:01:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>We’re bringing the Financial Times’ world-class journalism to ChatGPT</title>
+		<link>https://www.sawberries.com/2024/04/30/content-partnership-with-financial-times/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 00:01:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/content-partnership-with-financial-times/</guid>
+
+					<description><![CDATA[We will also collaborate on new AI experiences for FT readers.]]></description>
+										<content:encoded><![CDATA[<div>We will also collaborate on new AI experiences for FT readers.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Lauren Fensterstock’s Cosmic Mosaics Map Out the Unknown in Crystal and Gems</title>
 		<link>https://www.sawberries.com/2024/04/29/lauren-fensterstock-mosaic-sculptures/</link>
 		
@@ -389,25 +405,6 @@
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-246155 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-3.jpg" alt="a yellow rubber glove drapes off of a shelf, with a broken egg shell near it, resembling the liquid part of the egg dripping" width="1427" height="1920" srcset="https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-3.jpg 1427w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-3-640x861.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-3-960x1292.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-3-1142x1536.jpg 1142w" sizes="(max-width: 1427px) 100vw, 1427px"> <img loading="lazy" decoding="async" class="alignnone wp-image-246157 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-2.jpg" alt="a daisy with a missing petal, which is replaced by a woman's long, white fingernail that resembles the shape of a petal" width="1350" height="1920" srcset="https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-2.jpg 1350w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-2-640x910.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-2-960x1365.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/dudi-2-1080x1536.jpg 1080w" sizes="(max-width: 1350px) 100vw, 1350px"></p>
 <p>Do stories and artists like this matter to you? Become a <a href="https://www.thisiscolossal.com/members">Colossal Member</a> today and support independent arts publishing for as little as $5 per month. The article <a href="https://www.thisiscolossal.com/2024/04/dudi-ben-simon-photos/">Dudi Ben Simon’s Playful Photos Draw on Visual Puns and Humourous Happenstance</a> appeared first on <a href="https://www.thisiscolossal.com/">Colossal</a>.</p>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How Prados Beauty is using Gemini to grow their business</title>
-		<link>https://www.sawberries.com/2024/04/29/google-gemini-ai-entrepreneur-business-growth/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 15:15:29 +0000</pubDate>
-				<category><![CDATA[Ads]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Grow with Google]]></category>
-		<category><![CDATA[Small Business]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/google-gemini-ai-entrepreneur-business-growth/</guid>
-
-					<description><![CDATA[For National Small Business Week, we’re spotlighting Prados Beauty founder and CEO Cece Meadows.]]></description>
-										<content:encoded><![CDATA[<div><img decoding="async" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GWG_PradosBeauty_HEROThumbnail_.max-600x600.format-webp.webp">For National Small Business Week, we’re spotlighting Prados Beauty founder and CEO Cece Meadows.</div>
 ]]></content:encoded>
 					
 		
