@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=217191" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=218994" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 09:01:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Here’s How You Can Easily Sign Up for Google Labs</title>
+		<link>https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 09:01:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</guid>
+
+					<description><![CDATA[Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &#38; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &#38; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &amp; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &amp; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/sign-up-for-google-labs/">Here’s How You Can Easily Sign Up for Google Labs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>An AI dataset carves new paths to tornado detection</title>
 		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
 		
