@@ -9,10 +9,10 @@
 
 <channel>
 	<title>sawberries</title>
-	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=289229" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=289903" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 18:01:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 21:01:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amazon, AT&#038;T, Verizon Named Best Tech Companies for Career Growth in 2024, LinkedIn Reports</title>
+		<link>https://www.sawberries.com/2024/04/30/best-tech-companies-career-growth-linkedin/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 21:01:34 +0000</pubDate>
+				<category><![CDATA[alphabet]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[at&t]]></category>
+		<category><![CDATA[career development]]></category>
+		<category><![CDATA[cisco]]></category>
+		<category><![CDATA[comcast]]></category>
+		<category><![CDATA[CXO]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[linkedin]]></category>
+		<category><![CDATA[siemens]]></category>
+		<category><![CDATA[stmicroelectronics]]></category>
+		<category><![CDATA[verizon]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/best-tech-companies-career-growth-linkedin/</guid>
+
+					<description><![CDATA[The best tech companies to work for based on LinkedIn rankings include Amazon in the number one spot.]]></description>
+										<content:encoded><![CDATA[<div>The best tech companies to work for based on LinkedIn rankings include Amazon in the number one spot.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</title>
+		<link>https://www.sawberries.com/2024/04/30/med-gemini/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 21:01:31 +0000</pubDate>
+				<category><![CDATA[AI in healthcare]]></category>
+		<category><![CDATA[Gemini Models]]></category>
+		<category><![CDATA[Med-Gemini]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/med-gemini/</guid>
+
+					<description><![CDATA[Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/med-gemini/">Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</title>
+		<link>https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 21:01:30 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM Ranking]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[LMSYS Chatbot Arena]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</guid>
+
+					<description><![CDATA[Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/">From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Children and Animals Merge with the Natural World in Willy Verginer’s Whimsical ‘Lost Garden’</title>
 		<link>https://www.sawberries.com/2024/04/30/willy-verginer-lost-garden/</link>
 		
@@ -276,90 +354,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
-		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[chatbots]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[conversational AI]]></category>
-		<category><![CDATA[memory]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
-
-					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Here’s How You Can Easily Sign Up for Google Labs</title>
-		<link>https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 09:01:35 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</guid>
-
-					<description><![CDATA[Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &#38; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &#38; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &amp; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &amp; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/sign-up-for-google-labs/">Here’s How You Can Easily Sign Up for Google Labs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Check Out This New Robot that Does Household Chores with Precision</title>
-		<link>https://www.sawberries.com/2024/04/30/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 06:01:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Astribot S1]]></category>
-		<category><![CDATA[Autonomous Robots]]></category>
-		<category><![CDATA[bot]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Humanoid Robot]]></category>
-		<category><![CDATA[intelligence]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[precision]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[Robots]]></category>
-		<category><![CDATA[Stardust Intelligence]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/</guid>
-
-					<description><![CDATA[China’s robotics industry has just marked an impressive leap with the unveiling of a new humanoid robot, Astribot S1. The fully autonomous robot, developed by Stardust Intelligence, redefines the benchmarks of speed, precision, and functionality. Let’s explore how this AI-driven marvel would reshape various sectors with its remarkably human-like capabilities. Also Read: Figure AI’s Humanoid [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>China’s robotics industry has just marked an impressive leap with the unveiling of a new humanoid robot, Astribot S1. The fully autonomous robot, developed by Stardust Intelligence, redefines the benchmarks of speed, precision, and functionality. Let’s explore how this AI-driven marvel would reshape various sectors with its remarkably human-like capabilities. Also Read: Figure AI’s Humanoid […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/">Check Out This New Robot that Does Household Chores with Precision</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
