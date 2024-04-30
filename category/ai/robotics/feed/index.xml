@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Robotics &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/robotics/feed/?simply_static_page=200137" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/robotics/feed/?simply_static_page=201778" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 18:01:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 06:01:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Check Out This New Robot that Does Household Chores with Precision</title>
+		<link>https://www.sawberries.com/2024/04/30/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 06:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Astribot S1]]></category>
+		<category><![CDATA[Autonomous Robots]]></category>
+		<category><![CDATA[bot]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Humanoid Robot]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[precision]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Stardust Intelligence]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/</guid>
+
+					<description><![CDATA[China’s robotics industry has just marked an impressive leap with the unveiling of a new humanoid robot, Astribot S1. The fully autonomous robot, developed by Stardust Intelligence, redefines the benchmarks of speed, precision, and functionality. Let’s explore how this AI-driven marvel would reshape various sectors with its remarkably human-like capabilities. Also Read: Figure AI’s Humanoid [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>China’s robotics industry has just marked an impressive leap with the unveiling of a new humanoid robot, Astribot S1. The fully autonomous robot, developed by Stardust Intelligence, redefines the benchmarks of speed, precision, and functionality. Let’s explore how this AI-driven marvel would reshape various sectors with its remarkably human-like capabilities. Also Read: Figure AI’s Humanoid […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/astribot-s-a-striking-leap-in-humanoid-robotics-from-china/">Check Out This New Robot that Does Household Chores with Precision</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Julie Shah named head of the Department of Aeronautics and Astronautics</title>
 		<link>https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</link>
 		
