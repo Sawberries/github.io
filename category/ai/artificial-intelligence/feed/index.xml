@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=183056" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=184873" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 03:01:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GitHub Unveils Copilot Workspace: A New Era in Developer Tools</title>
+		<link>https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 03:01:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Natural Language]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[software development]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</guid>
+
+					<description><![CDATA[GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/github-unveils-copilot-workspace-a-new-era-in-developer-tools/">GitHub Unveils Copilot Workspace: A New Era in Developer Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>An AI dataset carves new paths to tornado detection</title>
 		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
 		
@@ -334,41 +364,6 @@
 <p>Apple has recently unveiled OpenELM, a family of open-source language models optimized for on-device processing. This model has been made open source, encouraging free usage and collaboration. Apple’s move towards transparency aims to empower developers and researchers while enhancing user privacy. Let’s find out more about this new release. Also Read: Apple Boosts AI Capabilities […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/apple-introduces-openelm-open-source-ai-models-for-on-device-processing/">Apple Introduces OpenELM: Open-Source AI Models for On-Device Processing</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>New Chinese Model Outperforms GPT-4 Turbo!</title>
-		<link>https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 10:32:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI model]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Coding]]></category>
-		<category><![CDATA[GPT]]></category>
-		<category><![CDATA[GPT-4 Turbo]]></category>
-		<category><![CDATA[intelligence]]></category>
-		<category><![CDATA[Mathematics]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[SenseNova 5.0]]></category>
-		<category><![CDATA[SenseTime]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</guid>
-
-					<description><![CDATA[SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/">New Chinese Model Outperforms GPT-4 Turbo!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-<p><!-- Disqus thread link for post ID  --></p>
-<div id='disqus_thread'></div>
-<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
-<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
 ]]></content:encoded>
 					
 		

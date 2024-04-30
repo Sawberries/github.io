@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=182812" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=184660" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Apr 2024 03:01:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GitHub Unveils Copilot Workspace: A New Era in Developer Tools</title>
+		<link>https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 03:01:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Natural Language]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[software development]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</guid>
+
+					<description><![CDATA[GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/github-unveils-copilot-workspace-a-new-era-in-developer-tools/">GitHub Unveils Copilot Workspace: A New Era in Developer Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>An AI dataset carves new paths to tornado detection</title>
 		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
 		
@@ -342,33 +372,6 @@
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-246102 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-2.jpg" alt="a dog moves his cart to stock the shelves at a grocery store" width="2000" height="921" srcset="https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-2.jpg 2000w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-2-640x295.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-2-960x442.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-2-1536x707.jpg 1536w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-246098 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/04/burden-1.gif" alt="two mice dance with their cleaning supplies in a restaurant" width="800" height="335"></p>
 <p>Do stories and artists like this matter to you? Become a <a href="https://www.thisiscolossal.com/members">Colossal Member</a> today and support independent arts publishing for as little as $5 per month. The article <a href="https://www.thisiscolossal.com/2024/04/the-burden-short-film/">The Burden: A Darkly Funny Musical Punctures Existential Dread with Unusually Cheerful Song and Dance</a> appeared first on <a href="https://www.thisiscolossal.com/">Colossal</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Transition your Career from Non Tech Field to Generative AI?</title>
-		<link>https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 28 Apr 2024 03:38:27 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Career]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</guid>
-
-					<description><![CDATA[Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
