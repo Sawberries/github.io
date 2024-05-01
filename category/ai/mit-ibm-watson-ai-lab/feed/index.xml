@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MIT-IBM Watson AI Lab &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/mit-ibm-watson-ai-lab/feed/?simply_static_page=293865" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 25 Apr 2024 08:58:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>MIT-IBM Watson AI Lab &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
+		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Electronics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
+
+					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
+<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
+<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
+<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
+<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
+<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
+<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
+<p><strong>Side-channel susceptibility</strong></p>
+<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
+<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
+<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
+<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
+<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
+<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
+<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
+<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
+<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
+<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
+<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
+<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
+<p><strong>Safety testing</strong></p>
+<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
+<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
+<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
+<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
+<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
+<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mapping the brain pathways of visual memorability</title>
+		<link>https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Functional magnetic resonance imaging (fMRI)]]></category>
+		<category><![CDATA[Image Processing]]></category>
+		<category><![CDATA[Imaging]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Neuroscience]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</guid>
+
+					<description><![CDATA[For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the first time, scientists harnessed the combined strengths of magnetoencephalography (MEG), which captures the timing of brain activity, and functional magnetic resonance imaging (fMRI), which identifies active brain regions, to precisely determine when and where the brain processes a memorable image. </p>
+<p>Their open-access study, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002564" target="_blank" rel="noopener">published this month in <em>PLOS Biology</em></a>, used 78 pairs of images matched for the same concept but differing in their memorability scores — one was highly memorable and the other was easy to forget. These images were shown to 15 subjects, with scenes of skateboarding, animals in various environments, everyday objects like cups and chairs, natural landscapes like forests and beaches, urban scenes of streets and buildings, and faces displaying different expressions. What they found was that a more distributed network of brain regions than previously thought are actively involved in the encoding and retention processes that underpin memorability. </p>
+<p>“People tend to remember some images better than others, even when they are conceptually similar, like different scenes of a person skateboarding,” says Benjamin Lahner, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and first author of the study. “We&#8217;ve identified a brain signature of visual memorability that emerges around 300 milliseconds after seeing an image, involving areas across the ventral occipital cortex and temporal cortex, which processes information like color perception and object recognition. This signature indicates that highly memorable images prompt stronger and more sustained brain responses, especially in regions like the early visual cortex, which we previously underestimated in memory processing.”</p>
+<p>While highly memorable images maintain a higher and more sustained response for about half a second, the response to less memorable images quickly diminishes. This insight, Lahner elaborated, could redefine our understanding of how memories form and persist. The team envisions this research holding potential for future clinical applications, particularly in early diagnosis and treatment of memory-related disorders. </p>
+<p>The MEG/fMRI fusion method, developed in the lab of CSAIL Senior Research Scientist Aude Oliva, adeptly captures the brain&#8217;s spatial and temporal dynamics, overcoming the traditional constraints of either spatial or temporal specificity. The fusion method had a little help from its machine-learning friend, to better examine and compare the brain&#8217;s activity when looking at various images. They created a “representational matrix,” which is like a detailed chart, showing how similar neural responses are in various brain regions. This chart helped them identify the patterns of where and when the brain processes what we see.</p>
+<p>Picking the conceptually similar image pairs with high and low memorability scores was the crucial ingredient to unlocking these insights into memorability. Lahner explained the process of aggregating behavioral data to assign memorability scores to images, where they curated a diverse set of high- and low-memorability images with balanced representation across different visual categories. </p>
+<p>Despite strides made, the team notes a few limitations. While this work can identify brain regions showing significant memorability effects, it cannot elucidate the regions&#8217; function in how it is contributing to better encoding/retrieval from memory.</p>
+<p>“Understanding the neural underpinnings of memorability opens up exciting avenues for clinical advancements, particularly in diagnosing and treating memory-related disorders early on,” says Oliva. “The specific brain signatures we&#8217;ve identified for memorability could lead to early biomarkers for Alzheimer&#8217;s disease and other dementias. This research paves the way for novel intervention strategies that are finely tuned to the individual&#8217;s neural profile, potentially transforming the therapeutic landscape for memory impairments and significantly improving patient outcomes.”</p>
+<p>“These findings are exciting because they give us insight into what is happening in the brain between seeing something and saving it into memory,” says Wilma Bainbridge, assistant professor of psychology at the University of Chicago, who was not involved in the study. “The researchers here are picking up on a cortical signal that reflects what&#8217;s important to remember, and what can be forgotten early on.” </p>
+<p>Lahner and Oliva, who is also the director of strategic industry engagement at the MIT Schwarzman College of Computing, MIT director of the MIT-IBM Watson AI Lab, and CSAIL principal investigator, join Western University Assistant Professor Yalda Mohsenzadeh and York University researcher Caitlin Mullin on the paper. The team acknowledges a shared instrument grant from the National Institutes of Health, and their work was funded by the Vannevar Bush Faculty Fellowship via an Office of Naval Research grant, a National Science Foundation award, Multidisciplinary University Research Initiative award via an Army Research Office grant, and the EECS MathWorks Fellowship. Their paper is published in <em>PLOS Biology</em>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
