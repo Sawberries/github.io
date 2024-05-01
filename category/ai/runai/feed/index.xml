@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Run:ai &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/runai/feed/?simply_static_page=298144" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Sat, 27 Apr 2024 06:28:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Run:ai &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</title>
+		<link>https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 27 Apr 2024 06:28:38 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Run:ai]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</guid>
+
+					<description><![CDATA[Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/">Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
