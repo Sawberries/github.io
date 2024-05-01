@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Large Language Models &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=292328" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=296821" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 30 Apr 2024 21:01:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 May 2024 15:45:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Phi 3 – Small Yet Powerful Models from Microsoft</title>
+		<link>https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 15:45:28 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[questions]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[tokenizer]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</guid>
+
+					<description><![CDATA[Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/phi-3-small-yet-powerful-models-from-microsoft/">Phi 3 – Small Yet Powerful Models from Microsoft</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</title>
 		<link>https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</link>
 		
