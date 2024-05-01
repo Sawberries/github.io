@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chatbot &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/chatbot/feed/?simply_static_page=292512" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 30 Apr 2024 12:01:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>chatbot &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RAG and Streamlit Chatbot: Chat with Documents Using LLM</title>
+		<link>https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:35 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[strealit]]></category>
+		<category><![CDATA[Streamlit]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</guid>
+
+					<description><![CDATA[Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
+		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
+
+					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Implementing Query2Model: Simplifying Machine Learning</title>
+		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[dat science]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hugchat]]></category>
+		<category><![CDATA[HuggingChat]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[library in python]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural Language]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[pipeline]]></category>
+		<category><![CDATA[Prompt Engineering]]></category>
+		<category><![CDATA[query2model]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</guid>
+
+					<description><![CDATA[Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/implementing-query2model-simplifying-machine-learning/">Implementing Query2Model: Simplifying Machine Learning</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Human-computer interaction &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/human-computer-interaction/feed/?simply_static_page=292722" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Human-computer interaction &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>To build a better AI helper, start by modeling the irrational behavior of humans</title>
+		<link>https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:31 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</guid>
+
+					<description><![CDATA[To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions. This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions.</p>
+<p>This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal solution to a single problem.</p>
+<p>Researchers at MIT and the University of Washington developed a way to model the behavior of an agent, whether human or machine, that accounts for the unknown computational constraints that may hamper the agent’s problem-solving abilities.</p>
+<p>Their model can automatically infer an agent’s computational constraints by seeing just a few traces of their previous actions. The result, an agent’s so-called “inference budget,” can be used to predict that agent’s future behavior.</p>
+<p>In a new paper, the researchers demonstrate how their method can be used to infer someone’s navigation goals from prior routes and to predict players’ subsequent moves in chess matches. Their technique matches or outperforms another popular method for modeling this type of decision-making.</p>
+<p>Ultimately, this work could help scientists teach AI systems how humans behave, which could enable these systems to respond better to their human collaborators. Being able to understand a human’s behavior, and then to infer their goals from that behavior, could make an AI assistant much more useful, says Athul Paul Jacob, an electrical engineering and computer science (EECS) graduate student and lead author of a <a href="https://openreview.net/pdf?id=W3VsHuga3j" target="_blank" rel="noopener">paper on this technique</a>.</p>
+<p>“If we know that a human is about to make a mistake, having seen how they have behaved before, the AI agent could step in and offer a better way to do it. Or the agent could adapt to the weaknesses that its human collaborators have. Being able to model human behavior is an important step toward building an AI agent that can actually help that human,” he says.</p>
+<p>Jacob wrote the paper with Abhishek Gupta, assistant professor at the University of Washington, and senior author Jacob Andreas, associate professor in EECS and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). The research will be presented at the International Conference on Learning Representations.</p>
+<p><strong>Modeling behavior</strong></p>
+<p>Researchers have been building computational models of human behavior for decades. Many prior approaches try to account for suboptimal decision-making by adding noise to the model. Instead of the agent always choosing the correct option, the model might have that agent make the correct choice 95 percent of the time.</p>
+<p>However, these methods can fail to capture the fact that humans do not always<em> </em>behave suboptimally in the same way.</p>
+<p>Others at MIT have also <a href="https://news.mit.edu/2020/building-machines-better-understand-human-goals-1214" target="_blank" rel="noopener">studied more effective ways</a> to plan and infer goals in the face of suboptimal decision-making.</p>
+<p>To build their model, Jacob and his collaborators drew inspiration from prior studies of chess players. They noticed that players took less time to think before acting when making simple moves and that stronger players tended to spend more time planning than weaker ones in challenging matches.</p>
+<p>“At the end of the day, we saw that the depth of the planning, or how long someone thinks about the problem, is a really good proxy of how humans behave,” Jacob says.</p>
+<p>They built a framework that could infer an agent’s depth of planning from prior actions and use that information to model the agent’s decision-making process.</p>
+<p>The first step in their method involves running an algorithm for a set amount of time to solve the problem being studied. For instance, if they are studying a chess match, they might let the chess-playing algorithm run for a certain number of steps. At the end, the researchers can see the decisions the algorithm made at each step.</p>
+<p>Their model compares these decisions to the behaviors of an agent solving the same problem. It will align the agent’s decisions with the algorithm’s decisions and identify the step where the agent stopped planning.</p>
+<p>From this, the model can determine the agent’s inference budget, or how long that agent will plan for this problem. It can use the inference budget to predict how that agent would react when solving a similar problem.</p>
+<p><strong>An interpretable solution</strong></p>
+<p>This method can be very efficient because the researchers can access the full set of decisions made by the problem-solving algorithm without doing any extra work. This framework could also be applied to any problem that can be solved with a particular class of algorithms.</p>
+<p>“For me, the most striking thing was the fact that this inference budget is very interpretable. It is saying tougher problems require more planning or being a strong player means planning for longer. When we first set out to do this, we didn’t think that our algorithm would be able to pick up on those behaviors naturally,” Jacob says.</p>
+<p>The researchers tested their approach in three different modeling tasks: inferring navigation goals from previous routes, guessing someone’s communicative intent from their verbal cues, and predicting subsequent moves in human-human chess matches.</p>
+<p>Their method either matched or outperformed a popular alternative in each experiment. Moreover, the researchers saw that their model of human behavior matched up well with measures of player skill (in chess matches) and task difficulty.</p>
+<p>Moving forward, the researchers want to use this approach to model the planning process in other domains, such as reinforcement learning (a trial-and-error method commonly used in robotics). In the long run, they intend to keep building on this work toward the larger goal of developing more effective AI collaborators.</p>
+<p>This work was supported, in part, by the MIT Schwarzman College of Computing Artificial Intelligence for Augmentation and Productivity program and the National Science Foundation.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

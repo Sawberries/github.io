@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economics &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/economics/feed/?simply_static_page=292047" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 29 Apr 2024 18:01:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>economics &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Exploring the history of data-driven arguments in public life</title>
+		<link>https://www.sawberries.com/2024/04/28/william-deringer-explores-history-data-driven-arguments-0428/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2024 12:53:46 +0000</pubDate>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[Program in STS]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/william-deringer-explores-history-data-driven-arguments-0428/</guid>
+
+					<description><![CDATA[Political debates today may not always be exceptionally rational, but they are often infused with numbers. If people are discussing the economy or health care or climate change, sooner or later they will invoke statistics. It was not always thus. Our habit of using numbers to make political arguments has a history, and William Deringer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Political debates today may not always be exceptionally rational, but they are often infused with numbers. If people are discussing the economy or health care or climate change, sooner or later they will invoke statistics.</p>
+</p>
+<p>It was not always thus. Our habit of using numbers to make political arguments has a history, and William Deringer is a leading historian of it. Indeed, in recent years Deringer, an associate professor in MIT’s Program in Science, Technology, and Society (STS), has carved out a distinctive niche through his scholarship showing how quantitative reasoning has become part of public life.</p>
+</p>
+<p>In his prize-winning 2018 book “<a href="https://news.mit.edu/2018/book-statistical-arguments-public-debate-0205" target="_blank" rel="noopener">Calculated Values</a>” (Harvard University Press), Deringer identified a time in British public life from the 1680s to the 1720s as a key moment when the practice of making numerical arguments took hold — a trend deeply connected with the rise of parliamentary power and political parties. Crucially, freedom of the press also expanded, allowing greater scope for politicians and the public to have frank discussions about the world as it was, backed by empirical evidence.</p>
+</p>
+<p>Deringer’s second book project, in progress and under contract to Yale University Press, digs further into a concept from the first book — the idea of financial discounting. This is a calculation to estimate what money (or other things) in the future is worth today, to assign those future objects a “present value.” Some skilled mathematicians understood discounting in medieval times; its use expanded in the 1600s; today it is very common in finance and is the subject of debate in relation to climate change, as experts try to estimate ideal spending levels on climate matters.</p>
+</p>
+<p>“The book is about how this particular technique came to have the power to weigh in on profound social questions,” Deringer says. “It’s basically about compound interest, and it’s at the center of the most important global question we have to confront.”</p>
+</p>
+<p>Numbers alone do not make a debate rational or informative; they can be false, misleading, used to entrench interests, and so on. Indeed, a key theme in Deringer’s work is that when quantitiative reasoning gains more ground, the question is why, and to whose benefit. In this sense his work aligns with the long-running and always-relevant approach of the Institute’s STS faculty, in thinking carefully about how technology and knowledge is applied to the world.</p>
+</p>
+<p>“The broader culture more has become attuned to STS, whether it’s conversations about AI or algorithmic fairness or climate change or energy, these are simultaneously technical and social issues,” Deringer says. “Teaching undergraduates, I’ve found the awareness of that at MIT has only increased.” For both his research and teaching, Deringer received tenure from MIT earlier this year.</p>
+</p>
+<p><strong>Dig in, work outward</strong></p>
+</p>
+<p>Deringer has been focused on these topics since he was an undergraduate at Harvard University.</p>
+</p>
+<p>“I found myself becoming really interested in the history of economics, the history of practical mathematics, data, statistics, and how it came to be that so much of our world is organized quantitatively,” he says.</p>
+</p>
+<p>Deringer wrote a college thesis about how England measured the land it was seizing from Ireland in the 1600s, and then, after graduating, went to work in the finance sector, which gave him a further chance to think about the application of quantification to modern life.</p>
+</p>
+<p>“That was not what I wanted to do forever, but for some of the conceptual questions I was interested in, the societal life of calculations, I found it to be a really interesting space,” Deringer says.</p>
+</p>
+<p>He returned to academia by pursuing his PhD in the history of science at Princeton University. There, in his first year of graduate school, in the archives, Deringer found 18th-century pamphlets about financial calculations concering the value of stock involved in the infamous episode of speculation known as the South Sea Bubble. That became part of his dissertation; skeptics of the South Sea Bubble were among the prominent early voices bringing data into public debates. It has also helped inform his second book.</p>
+</p>
+<p>First, though, Deringer earned his doctorate from Princeton in 2012, then spent three years as a Mellon Postdoctoral Research Fellow at Columbia University. He joined the MIT faculty in 2015. At the Institute, he finished turning his dissertation into the “Calculated Values” book — which won the 2019 Oscar Kenshur Prize for the best book from the Center for Eighteenth-Century Studies at Indiana University, and was co-winner of the 2021 Joseph J. Spengler Prize for best book from the History of Economics Society.</p>
+</p>
+<p>“My method as a scholar is to dig into the technical details, then work outward historically from them,” Deringer says.</p>
+</p>
+<p><strong>A long historical chain</strong></p>
+</p>
+<p>Even as Deringer was writing his first book, the idea for the second one was taking root in his mind. Those South Sea Bubble pamphets he had found while at Princeton incorporated discounting, which was intermittently present in “Calculated Values.” Deringer was intrigued by how adept 18th-century figures were at discounting.</p>
+</p>
+<p>“Something that I thought of as a very modern technique seemed to be really well-known by a lot of people in the 1720s,” he says.</p>
+</p>
+<p>At the same time, a conversation with an academic colleague in philosophy made it clear to Deringer how different conclusions about discounting had become debated in climate change policy. He soon resolved to write the “biography of a calculation” about financial discounting.</p>
+</p>
+<p>“I knew my next book had to be about this,” Deringer says. “I was very interested in the deep historical roots of discounting, and it has a lot of present urgency.”</p>
+</p>
+<p>Deringer says the book will incorporate material about the financing of English cathedrals, the heavy use of discounting in the mining industry during the Industrial Revolution, a revival of discounting in 1960s policy circles, and climate change, among other things. In each case, he is carefully looking at the interests and historical dynamics behind the use of discounting.</p>
+</p>
+<p>“For people who use discounting regularly, it’s like gravity: It’s very obvious that to be rational is to discount the future according to this formula,” Deringer says. “But if you look at history, what is thought of as rational is part of a very long historical chain of people applying this calculation in various ways, and over time that’s just how things are done. I’m really interested in pulling apart that idea that this is a sort of timeless rational calculation, as opposed to a product of this interesting history.”</p>
+</p>
+<p>Working in STS, Deringer notes, has helped encourage him to link together numerous historical time periods into one book about the numerous ways discounting has been used.</p>
+</p>
+<p>“I’m not sure that pursuing a book that stretches from the 17th century to the 21st century is something I would have done in other contexts,” Deringer says. He is also quick to credit his colleagues in STS and in other programs for helping create the scholarly environment in which he is thriving.</p>
+</p>
+<p>“I came in with a really amazing cohort of other scholars in SHASS,” Deringer notes, referring to the MIT School of Humanities, Arts, and Social Sciences. He cites others receiving tenure in the last year such as his STS colleague Robin Scheffler, historian Megan Black, and historian Caley Horan, with whom Deringer has taught graduate classes on the concept of risk in history. In all, Deringer says, the Institute has been an excellent place for him to pursue interdisciplinary work on technical thought in history.</p>
+</p>
+<p>“I work on very old things and very technical things,” Deringer says. “But I’ve found a wonderful welcoming at MIT from people in different fields who light up when they hear what I’m interested in.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A musical life: Carlos Prieto ’59 in conversation and concert</title>
+		<link>https://www.sawberries.com/2024/04/28/musical-life-carlos-prieto-conversation-and-concert-0426/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2024 12:53:45 +0000</pubDate>
+				<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/musical-life-carlos-prieto-conversation-and-concert-0426/</guid>
+
+					<description><![CDATA[World-renowned cellist Carlos Prieto ’59 returned to campus for an event to perform and to discuss his new memoir, “Mi Vida Musical.” At the April 9 event in the Samberg Conference Center, Prieto spoke about his formative years at MIT and his subsequent career as a professional cellist. The talk was followed by performances of J.S. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>World-renowned cellist Carlos Prieto ’59 returned to campus for an event to perform and to discuss his new memoir, “Mi Vida Musical.”</p>
+<p>At the April 9 event in the Samberg Conference Center, Prieto spoke about his formative years at MIT and his subsequent career as a professional cellist. The talk was <a href="https://www.youtube.com/watch?v=noO9329Er9I" target="_blank" rel="noopener">followed by performances</a> of J.S. Bach’s “Cello Suite No. 3” and Eugenio “Toussaint’s Bachriation.” Valerie Chen, a 2022 Sudler Prize winner and Emerson/Harris Fellow, also performed Phillip Glass’s “Orbit.”</p>
+<p>Prieto was born in Mexico City and began studying the cello when he was 4. He graduated from MIT with BS degrees in 1959 in Course 3, then called the Metallurgical Engineering and today Materials Science and Engineering, and in Course 14 (Economics). He was the first cello and soloist of the MIT Symphony Orchestra. While at MIT, he took all available courses in Russian, which allowed him, years later, to study at Lomonosov University in Moscow.</p>
+<p>After graduation from MIT, Prieto returned to Mexico, where he rose to become the head of an integrated iron and steel company.</p>
+<p>“When I returned to Mexico, I was very active in my business life, but I was also very active in my music life,” he told the audience. “And at one moment, the music overcame all the other activities and I left my business activities to devote all my time to the cello and I’ve been doing this for the past 50 years.”</p>
+<p>During his musical career, Prieto played all over the world and has played and recorded the world premieres of 115 compositions, most of which were written for him. He is the author of 14 books, some of which have been translated into English, Russian, and Portuguese.</p>
+<p>Prieto’s honors include the Order of the Arts and Letters from France, the Order of Civil Merit from the King of Spain, and the National Prize for Arts and Sciences from the president of Mexico. In 1993 he was appointed member of the MIT Music and Theater Advisory Committee. In 2014, the School of Humanities, Arts, and Social Sciences awarded Prieto the Robert A. Muh Alumni Award.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Chinese Model Outperforms GPT-4 Turbo!</title>
+		<link>https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 10:32:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI model]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[GPT]]></category>
+		<category><![CDATA[GPT-4 Turbo]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[SenseNova 5.0]]></category>
+		<category><![CDATA[SenseTime]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</guid>
+
+					<description><![CDATA[SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/">New Chinese Model Outperforms GPT-4 Turbo!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+<p><!-- Disqus thread link for post ID  --></p>
+<div id='disqus_thread'></div>
+<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seven from MIT elected to American Academy of Arts and Sciences for 2024</title>
+		<link>https://www.sawberries.com/2024/04/25/seven-mit-elected-american-academy-arts-and-sciences-0425/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 14:14:54 +0000</pubDate>
+				<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Awards, honors and fellowships]]></category>
+		<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Media Lab]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/seven-mit-elected-american-academy-arts-and-sciences-0425/</guid>
+
+					<description><![CDATA[Eight MIT faculty members are among the 250 leaders from academia, the arts, industry, public policy, and research elected to the American Academy of Arts and Sciences, the academy announced April 24. One of the nation’s most prestigious honorary societies, the academy is also a leading center for independent policy research. Members contribute to academy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Eight MIT faculty members are among the 250 leaders from academia, the arts, industry, public policy, and research elected to the American Academy of Arts and Sciences, the academy announced April 24.</p>
+</p>
+<p>One of the nation’s most prestigious honorary societies, the academy is also a leading center for independent policy research. Members contribute to academy publications, as well as studies of science and technology policy, energy and global security, social policy and American institutions, the humanities and culture, and education.</p>
+</p>
+<p>Those elected from MIT in 2024 are:</p>
+</p>
+<ul>
+<li>Edward F. Crawley, professor of aeronautics and astronautics, post-tenure;</li>
+<li>Nathaniel Hendren, professor of economics;</li>
+<li>Mei Hong, David A. Leighty Professor of Chemistry;</li>
+<li>Tod Machover, Muriel R. Cooper Professor of Interactive Media Design;</li>
+<li>Anna Mikusheva, professor of economics;</li>
+<li>Elchanan Mossel, professor of mathematics; and</li>
+<li>Xiao-Gang Wen, Cecil and Ida Green Professor of Physics.</li>
+</ul>
+<p>“We honor these artists, scholars, scientists, and leaders in the public, non-profit, and private sectors for their accomplishments and for the curiosity, creativity, and courage required to reach new heights,” says David Oxtoby, president of the academy. “We invite these exceptional individuals to join in the academy’s work to address serious challenges and advance the common good.”</p>
+</p>
+<p>Since its founding in 1780, the academy has elected leading thinkers from each generation, including George Washington and Benjamin Franklin in the 18th century, Maria Mitchell and Daniel Webster in the 19th century, and Toni Morrison and Albert Einstein in the 20th century. The current membership includes more than 250 Nobel and Pulitzer Prize winners.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bringing an investigator’s eye to complex social challenges</title>
+		<link>https://www.sawberries.com/2024/04/25/bringing-investigators-eye-complex-social-challenges-anna-russo-0424/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 14:14:53 +0000</pubDate>
+				<category><![CDATA[Agriculture]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Graduate, postdoctoral]]></category>
+		<category><![CDATA[Health care]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[Social justice]]></category>
+		<category><![CDATA[Students]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/bringing-investigators-eye-complex-social-challenges-anna-russo-0424/</guid>
+
+					<description><![CDATA[Anna Russo likes puzzles. They require patience, organization, and a view of the big picture. She brings an investigator’s eye to big institutional and societal challenges whose solutions can have wide-ranging, long-term impacts. Russo’s path to MIT began with questions. She didn’t have the whole picture yet. “I had no idea what I wanted to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Anna Russo likes puzzles. They require patience, organization, and a view of the big picture. She brings an investigator’s eye to big institutional and societal challenges whose solutions can have wide-ranging, long-term impacts.</p>
+<p>Russo’s path to MIT began with questions. She didn’t have the whole picture yet. “I had no idea what I wanted to do with my life,” says Russo, who is completing her PhD in economics in 2024. “I was good at math and science and thought I wanted to be a doctor.”</p>
+<p>While completing her undergraduate studies at Yale University, where she double majored in economics and applied math, Russo discovered a passion for problem-solving, where she could apply an analytical lens to answering the kinds of thorny questions whose solutions could improve policy. “Empirical research is fun and exciting,” Russo says.</p>
+<p>After Yale, Russo considered what to do next. She worked as a full-time research assistant with MIT economist <a href="https://economics.mit.edu/people/faculty/amy-finkelstein">Amy Finkelstein</a>. Russo’s work with Finkelstein led her toward identifying, studying, and developing answers to complex questions. </p>
+<p>“My research combines ideas from two fields of economic inquiry — public finance and industrial organization — and applies them to questions about the design of environmental and health care policy,” Russo says. “I like the way economists think analytically about social problems.”</p>
+<p><strong>Narrowing her focus</strong></p>
+<p>Studying with and being advised by renowned economists as both an undergraduate and a doctoral student helped Russo narrow her research focus, fitting more pieces into the puzzle. “What drew me to MIT was its investment in its graduate students,” Russo says.</p>
+<p>Economic research meant digging into policy questions, identifying market failures, and proposing solutions. Doctoral study allowed Russo to assemble data to rigorously follow each line of inquiry.</p>
+<p>“Doctoral study means you get to write about something you’re really interested in,” Russo notes. This led her to study policy responses to climate change adaptation and mitigation. </p>
+<p>“In my first year, I worked on a project exploring the notion that floodplain regulation design doesn’t do a good job of incentivizing the right level of development in flood-prone areas,” she says. “How can economists help governments convince people to act in society’s best interest?”</p>
+<p>It’s important to understand institutional details, Russo adds, which can help investigators identify and implement solutions. </p>
+<p>“Feedback, advice, and support from faculty were crucial as I grew as a researcher at MIT,” she says. Beyond her two main MIT advisors, Finkelstein and economist <a href="https://economics.mit.edu/people/faculty/nikhil-agarwal">Nikhil Agarwal</a> — educators she describes as “phenomenal, dedicated advisors and mentors” — Russo interacted regularly with faculty across the department. </p>
+<p>Russo later discovered another challenge she hoped to solve: inefficiencies in conservation and carbon offset programs. She set her sights on the United States Department of Agriculture’s <a href="https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/index">Conservation Reserve Program</a> because she believes it and programs like it can be improved. </p>
+<p>The CRP is a land conservation plan administered by USDA’s Farm Service Agency. In exchange for a yearly rental payment, farmers enrolled in the program agree to remove environmentally sensitive land from agricultural production and plant species that will improve environmental health and quality.</p>
+<p>“I think we can tweak the program’s design to improve cost-effectiveness,” Russo says. “There’s a trove of data available.” The data include information like auction participants’ bids in response to well-specified auction rules, which Russo links to satellite data measuring land use outcomes. Understanding how landowners bid in CRP auctions can help identify and improve the program’s function. </p>
+<p>“We may be able to improve targeting and achieve more cost-effective conservation by adjusting the CRP’s scoring system,” Russo argues. Opportunities may exist to scale the incremental changes under study for other conservation programs and carbon offset markets more generally.  </p>
+<p>Economics, Russo believes, can help us conceptualize problems and recommend effective alternative solutions.</p>
+<p><strong>The next puzzle</strong></p>
+<p>Russo wants to find her next challenge while continuing her research. She plans to continue her work as a junior fellow at the Harvard Society of Fellows, after which she’ll join the Harvard Department of Economics as an assistant professor. Russo also plans to continue helping other budding economists since she believes in the importance of supporting other students.   </p>
+<p>Russo’s advisors are some of her biggest supporters. </p>
+<p>Finklestein emphasizes Russo’s curiosity, enthusiasm, and energy as key drivers in her success. “Her genuine curiosity and interest in getting to the bottom of a problem with the data — with an econometric analysis, with a modeling issue — is the best antidote for [the stress that can be associated with research],” Finklestein says. “It&#8217;s a key ingredient in her ability to produce important and credible work.”</p>
+<p>“She&#8217;s also incredibly generous with her time and advice,” Finklestein continues, “whether it&#8217;s helping an undergraduate research assistant with her senior thesis, or helping an advisor such as myself navigate a data access process she&#8217;s previously been through.”</p>
+<p>“Instead of an advisor-advisee relationship, working with her on a thesis felt more like a collaboration between equals,” Agarwal adds. “[She] has the maturity and smarts to produce pathbreaking research.</p>
+<p>“Doctoral study is an opportunity for students to find their paths collaboratively,” Russo says. “If I can help someone else solve a small piece of their puzzle, that’s a huge positive. Research is a series of many, many small steps forward.” </p>
+<p>Identifying important causes for further investigation and study will always be important to Russo. “I also want to dig into some other market that’s not working well and figure out how to make it better,” she says. “Right now I’m really excited about understanding California wildfire mitigation.” </p>
+<p>Puzzles are made to be solved, after all.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

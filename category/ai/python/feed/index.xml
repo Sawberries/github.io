@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/python/feed/?simply_static_page=292486" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 30 Apr 2024 15:01:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Python &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Best Python Tricks in Jupyter Notebook</title>
+		<link>https://www.sawberries.com/2024/04/30/best-python-tricks-in-jupyter-notebook/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 15:01:32 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/best-python-tricks-in-jupyter-notebook/</guid>
+
+					<description><![CDATA[Introduction Python is a popular programming language for its simplicity and readability. When it is combined with Jupyter Notebook, it offers interactive experimentation, documentation of code and data. This article discusses Python tricks in Jupyter Notebook to enhance coding experience, productivity, and understanding. Keyboard shortcuts, magic commands, interactive widgets, and visualization tools can streamline workflow [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Python is a popular programming language for its simplicity and readability. When it is combined with Jupyter Notebook, it offers interactive experimentation, documentation of code and data. This article discusses Python tricks in Jupyter Notebook to enhance coding experience, productivity, and understanding. Keyboard shortcuts, magic commands, interactive widgets, and visualization tools can streamline workflow […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/best-python-tricks-in-jupyter-notebook/">Best Python Tricks in Jupyter Notebook</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Transition your Career from Non Tech Field to Generative AI?</title>
+		<link>https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2024 03:38:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Career]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</guid>
+
+					<description><![CDATA[Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Programming Languages in 2024</title>
+		<link>https://www.sawberries.com/2024/04/26/top-programming-languages/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 15:02:41 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[C/C++]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[golang]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[Kotlin]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[R]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/top-programming-languages/</guid>
+
+					<description><![CDATA[Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Data Efficient GANs Generate Images of Cats and Dogs?</title>
+		<link>https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 12:01:22 +0000</pubDate>
+				<category><![CDATA[ada]]></category>
+		<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[GANs]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Image Analysis]]></category>
+		<category><![CDATA[image generattor]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[keras]]></category>
+		<category><![CDATA[Probability]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unstructured Data]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</guid>
+
+					<description><![CDATA[Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flask Application Dockerization: Creating a Docker Image</title>
+		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 18:02:20 +0000</pubDate>
+				<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[Command Line]]></category>
+		<category><![CDATA[Container]]></category>
+		<category><![CDATA[Database]]></category>
+		<category><![CDATA[Docker]]></category>
+		<category><![CDATA[Docker Containers]]></category>
+		<category><![CDATA[Docker Hub]]></category>
+		<category><![CDATA[Dockerfile]]></category>
+		<category><![CDATA[EC2]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Flask]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Image Analysis]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</guid>
+
+					<description><![CDATA[Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

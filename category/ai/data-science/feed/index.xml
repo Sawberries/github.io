@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>data science &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=292378" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 30 Apr 2024 18:01:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>data science &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
+		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[GPT5]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
+
+					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Here’s How You Can Easily Sign Up for Google Labs</title>
+		<link>https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 09:01:35 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</guid>
+
+					<description><![CDATA[Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &#38; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &#38; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &amp; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &amp; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/sign-up-for-google-labs/">Here’s How You Can Easily Sign Up for Google Labs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
