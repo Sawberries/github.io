@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=309247" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=314185" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 07:25:23 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 11:02:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Build a Winning Dream 11 Team Using Python and AI</title>
 		<link>https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</link>
 		
@@ -263,34 +293,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 7 AI Healthcare Solution Providers</title>
-		<link>https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
-				<category><![CDATA[AI medical diagnosis]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[diagnosis]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[health care providers]]></category>
-		<category><![CDATA[Healthcare]]></category>
-		<category><![CDATA[healthcare solution]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[treatement]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</guid>
-
-					<description><![CDATA[Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-healthcare-solution-providers/">Top 7 AI Healthcare Solution Providers</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

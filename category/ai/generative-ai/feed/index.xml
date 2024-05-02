@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Generative AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=309219" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=314029" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 07:25:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 11:02:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,73 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
+		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[fine tuning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HuggingFace]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[PyTorch]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
+
+					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>8 Gemini Free Courses by Google to master it </title>
 		<link>https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</link>
 		
@@ -244,72 +311,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 7 AI Healthcare Solution Providers</title>
-		<link>https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
-				<category><![CDATA[AI medical diagnosis]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[diagnosis]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[health care providers]]></category>
-		<category><![CDATA[Healthcare]]></category>
-		<category><![CDATA[healthcare solution]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[treatement]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</guid>
-
-					<description><![CDATA[Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-healthcare-solution-providers/">Top 7 AI Healthcare Solution Providers</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How Data Efficient GANs Generate Images of Cats and Dogs?</title>
-		<link>https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 12:01:22 +0000</pubDate>
-				<category><![CDATA[ada]]></category>
-		<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Classification]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GAN]]></category>
-		<category><![CDATA[GANs]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Image]]></category>
-		<category><![CDATA[Image Analysis]]></category>
-		<category><![CDATA[image generattor]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[keras]]></category>
-		<category><![CDATA[Probability]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[Unstructured Data]]></category>
-		<category><![CDATA[Unsupervised]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/how-data-efficient-gans-generate-images-of-cats-and-dogs/</guid>
-
-					<description><![CDATA[Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Deep Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/deep-learning/feed/?simply_static_page=309196" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/deep-learning/feed/?simply_static_page=314133" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 07:25:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 11:02:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</title>
+		<link>https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</guid>
+
+					<description><![CDATA[This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>8 Gemini Free Courses by Google to master it </title>
 		<link>https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</link>
 		

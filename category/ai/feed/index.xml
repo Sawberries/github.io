@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=308695" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=313731" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 07:25:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 11:02:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
+		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[fine tuning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HuggingFace]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[PyTorch]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
+
+					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</title>
+		<link>https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</guid>
+
+					<description><![CDATA[This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Fostering research, careers, and community in materials science</title>
 		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
 		
@@ -275,87 +369,6 @@
 										<content:encoded><![CDATA[<div>
 <p>In this episode of Leading with Data, we’re joined by Dr. Kiran R, a distinguished leader in Applied ML and Data Science, who shares insights from his extensive experience at Microsoft, VMware, and beyond. With a Ph.D. from IIM Lucknow and an MBA from IIM Kozhikode, Dr. Kiran has led high-impact teams, earning accolades such […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/dr-kiran-r/">Decoding the Data Landscape: Dr. Kiran R on Data Science &amp; Innovation</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Phi 3 – Small Yet Powerful Models from Microsoft</title>
-		<link>https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:28 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[questions]]></category>
-		<category><![CDATA[Supervised]]></category>
-		<category><![CDATA[tokenizer]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</guid>
-
-					<description><![CDATA[Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/phi-3-small-yet-powerful-models-from-microsoft/">Phi 3 – Small Yet Powerful Models from Microsoft</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Amazon, AT&#038;T, Verizon Named Best Tech Companies for Career Growth in 2024, LinkedIn Reports</title>
-		<link>https://www.sawberries.com/2024/04/30/best-tech-companies-career-growth-linkedin/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 21:01:34 +0000</pubDate>
-				<category><![CDATA[alphabet]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[at&t]]></category>
-		<category><![CDATA[career development]]></category>
-		<category><![CDATA[cisco]]></category>
-		<category><![CDATA[comcast]]></category>
-		<category><![CDATA[CXO]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[linkedin]]></category>
-		<category><![CDATA[siemens]]></category>
-		<category><![CDATA[stmicroelectronics]]></category>
-		<category><![CDATA[verizon]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/best-tech-companies-career-growth-linkedin/</guid>
-
-					<description><![CDATA[The best tech companies to work for based on LinkedIn rankings include Amazon in the number one spot.]]></description>
-										<content:encoded><![CDATA[<div>The best tech companies to work for based on LinkedIn rankings include Amazon in the number one spot.</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</title>
-		<link>https://www.sawberries.com/2024/04/30/med-gemini/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 21:01:31 +0000</pubDate>
-				<category><![CDATA[AI in healthcare]]></category>
-		<category><![CDATA[Gemini Models]]></category>
-		<category><![CDATA[Med-Gemini]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/med-gemini/</guid>
-
-					<description><![CDATA[Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/med-gemini/">Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

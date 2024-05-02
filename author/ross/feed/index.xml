@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=308901" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=313946" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 07:32:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 11:02:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
+		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[fine tuning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HuggingFace]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[PyTorch]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
+
+					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</title>
+		<link>https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</guid>
+
+					<description><![CDATA[This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Win a C64 Breadbox-Simulator &#8211; The Winners!</title>
 		<link>https://www.sawberries.com/2024/05/02/win-a-c64-breadbox-simulator-the-winners/</link>
 		
@@ -261,163 +355,6 @@
 										<content:encoded><![CDATA[<div>
 <p>San Francisco-based AI company Anthropic is making waves with the launch of its first smartphone app, bringing Claude to mobiles. This move positions Anthropic as a serious contender in the AI game, going head-to-head with industry giants like OpenAI and Google. The new iPhone app caters to both free and paid Claude users. It seamlessly […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/anthropic-launches-claude-mobile-app/">AI on the Go: Anthropic Launches Claude Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>8 Gemini Free Courses by Google to master it </title>
-		<link>https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Courses]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Google Gemini]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</guid>
-
-					<description><![CDATA[Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Build a Winning Dream 11 Team Using Python and AI</title>
-		<link>https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:23 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Dream 11]]></category>
-		<category><![CDATA[fantasy games]]></category>
-		<category><![CDATA[fantasy sports]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[india]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[My Circle]]></category>
-		<category><![CDATA[Prediction]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[team building]]></category>
-		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</guid>
-
-					<description><![CDATA[Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>May 2024 Opportunities: Open Calls, Residencies, and Grants for Artists</title>
-		<link>https://www.sawberries.com/2024/05/01/may-2024-opportunities/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:41 +0000</pubDate>
-				<category><![CDATA[art]]></category>
-		<category><![CDATA[Opportunities]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/may-2024-opportunities/</guid>
-
-					<description><![CDATA[Lisa Ericson, “Chariot“ Every month, Colossal shares a selection of opportunities for artists and designers, including open calls, grants, fellowships, and residencies. If you’d like to list an opportunity here, please get in touch at hello@colossal.art. You can also join our monthly Opportunities Newsletter.   $3,500 Artist Grants &#124; The Hopper PrizeFeatured The Hopper Prize [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<div id="attachment_235600" style="width: 2010px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-235600" class="wp-image-235600 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2.jpg" alt="a painting of a turtle crossing a road with a garden on its back" width="2000" height="2000" srcset="https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2.jpg 2000w, https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2-640x640.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2-960x960.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2-150x150.jpg 150w, https://www.thisiscolossal.com/wp-content/uploads/2023/10/ericson-2-1536x1536.jpg 1536w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
-<p id="caption-attachment-235600" class="wp-caption-text">Lisa Ericson, “<a href="https://www.thisiscolossal.com/2023/10/doom-bloom-lisa-ericson/">Chariot</a>“</p>
-</div>
-<p>Every month, Colossal shares a selection of opportunities for artists and designers, including open calls, grants, fellowships, and residencies. If you’d like to list an opportunity here, please get in touch at <a href="mailto:hello@colossal.art">hello@colossal.art</a>. You can also join our monthly <a href="https://subscribepage.io/colossal-opportunities">Opportunities Newsletter</a>.</p>
-<p> </p>
-<p><a href="https://hopperprize.org/" target="_blank" rel="noopener"><strong>$3,500 Artist Grants | The Hopper Prize</strong></a><span style="background-color: #ffdc13; padding: 2px 6px; margin-left: 8px; font-size: .9em; font-style: italic;">Featured</span><br />
-The Hopper Prize is accepting entries for Spring 2024 artist grants. The program offers two awards of $3,500 and four of $1,000. Submissions will be juried by Lauren Rosati, Associate Curator, The Metropolitan Museum of Art, New York City and Maya Brooks, Assistant Curator, North Carolina Museum of Art. Thirty artists will be selected for a shortlist. This is an international open call, and all visual media is eligible.<br /><em><strong>Deadline: 11:59 p.m. PST on May 14, 2024.</strong></em></p>
-<p><strong><a href="https://artssoutheast.org/onview-residency-app" target="_blank" rel="noopener">ARTS Southeast’s ON::View Artist Residency Program</a></strong><span style="background-color: #ffdc13; padding: 2px 6px; margin-left: 8px; font-size: .9em; font-style: italic;">Featured</span><br />
-Applications are now open for the On::View Artist Residency Program in Savannah, Georgia. The residency supports artists from across the globe, working in all media, for periods of one to three months from August to October. Selected artists gain access to a high-visibility studio space to complete a new project, continue an in-progress endeavor, or to conduct research exploring conceptual, material, performative, and social practices.<br /><em><strong>Deadline: 11:59 p.m. ET on May 28, 2024. </strong></em></p>
-<p> </p>
-<p><strong style="font-size: 1.2em;">Open Calls</strong></p>
-<p><strong><a href="https://www.alinaartfoundation.com/" target="_blank" rel="noopener">ArteAlta</a> </strong><em style="color: #999;">(International)</em><br />
-This annual competition organized by Alina Art Foundation, Inarttendu, and the Council of the Region Valle d’Aosta invites artists to submit work across painting, sculpture, photography, mixed media, textiles, paper, and video related to the theme of Fear. Three prizes with cash, an exhibition opportunity, and a residency will be awarded.<br /><em><strong>Deadline: May 1, 2024.</strong></em></p>
-<p><a href="https://www.fmopa.org/event/2024-international-photography-competition-call-for-entries/#:~:text=February%205%20-%20May%205&amp;text=Following%20a%20record%20number%20of,Tampa%20Bay%2C%20on%20February%205." target="_blank" rel="noopener"><strong>2024 International Photography Competition</strong></a> <em style="color: #999;">(International)</em><br />
-In its 13th year, the International Photography Competition is hosting an open call. Hosted by the Florida Museum of Photographic Arts, the contest will award one winner $1,000, and several photographers will be featured in an exhibition.<br /><em><strong>Deadline: May 5, 2024.</strong></em></p>
-<p><strong><a href="https://www.bigmedium.org/titosprize" target="_blank" rel="noopener">Tito’s Prize</a></strong> <em style="color: #999;">(Austin)</em><br />
-Open to any medium and artists at any stage of their career, this prize grants one winner $15,000 and a solo exhibition at Big Medium Gallery.<br /><em><strong>Deadline: May 6, 2024.</strong></em></p>
-<p><strong><a href="https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_culturalcenter0.html" target="_blank" rel="noopener">DCASE Visual Arts Exhibition Program</a></strong> <em style="color: #999;">(Illinois and Indiana)</em><br />
-Artists, curators, and arts organizations are invited to propose exhibitions for the Chicago Cultural Center galleries in 2025 and 2026. Budgets range from $10,000 to $80,000.<br /><em><strong>Deadline: 11:59 p.m. on May 13, 2024.</strong></em></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScvCnn4ij9jBuUM_9VjS3IFyMj8ThHIxaRZzDq37YQ-zk7pXQ/viewform" target="_blank" rel="noopener"><strong>1708 Gallery’s InLight 2024 Call for Proposals</strong></a> <em style="color: #999;">(International)</em><br />
-Artists are invited to propose projects that engage with Pine Camp’s history and the site’s current activities and uses. Proposals should address rest and healing, isolation and exile, preservation and reclamation, or fresh air and nature as forms of respite and remedy. Artists receive a $1,000 honorarium.<br /><em><strong>Deadline: May 22, 2024.</strong></em></p>
-<p><a href="https://artinoddplaces.org/care/" target="_blank" rel="noopener"><strong>Art in Odd Places 2024: Care</strong></a> <em style="color: #999;">(International)</em><br />
-The iconic public visual and performance art festival in Manhattan will take place October 18 to 20, 2024, under the theme of Care. Artists, performers, agitators, and caretakers are eligible to submit projects that invite the public to stop, to rest, to consider, and, above all, to care.<br /><em><strong>Deadline: 11:59 p.m. EST on May 26, 2024.</strong></em></p>
-<p><strong><a href="https://mophradat.org/en/program/orbitals/" target="_blank" rel="noopener">Orbitals</a></strong> <em style="color: #999;">(International)</em><br />
-Open to applicants from or living in the Arab world, this program takes four curators, artists, and arts researchers to Indonesia to for an eight-day trip to learn about a different artistic context in the Global South and share this knowledge with their communities. Flights, travel insurance, accommodation, per diems, and visa reimbursements will be provided.<br /><em><strong>Deadline: June 15, 2024.</strong></em></p>
-<p><strong><a href="https://thepanoawards.com/" target="_blank" rel="noopener">The 15th Epson International Pano Awards</a></strong> <em style="color: #999;">(International)</em><br />
-This award is dedicated to the art and craft of panoramic photography and has a prize pool of $50,000. Entry fees are $20 to $22 per image.<br /><em><strong>Deadline: The early bird is midnight UTC-11 on June 24, 2024, and the final is midnight UTC-11 on July 15, 2024.</strong></em></p>
-<p><em><strong><a href="https://www.tattooedmomphilly.com/open-call-for-now-i-wanna-sniff-some-glue-an-international-wheatpaste-art-show/" target="_blank" rel="noopener">Now I Wanna Sniff Some Glue: An International Wheatpaste Show</a></strong></em> <em style="color: #999;">(International)</em><br />
-Tattooed Mom and Doomed Future are teaming up on a wheatpaste exhibition opening June 14 in Philadelphia. First-time and established artists are invited to submit works.<br /><em><strong>Deadline: June 1, 2024.</strong></em></p>
-<p><strong><a href="https://www.booooooom.com/2024/03/28/call-to-submit-2024-booooooom-art-photo-book-award/" target="_blank" rel="noopener">2024 Booooooom Art &amp; Photo Book Award</a></strong> <em style="color: #999;">(International)</em><br />
-Artists, photographers, and illustrators are invited to submit cohesive bodies of work they’d like to see turned into a book. Six projects will be selected for publishing at no cost.<br /><strong><em>Deadline: June 7, 2024.</em></strong></p>
-<p><strong><a href="https://vilcek.org/prizes/vilcek-prizes-for-creative-promise/creative-promise-prizes-arts/" target="_blank" rel="noopener">2025 Vilcek Prizes for Creative Promise in Visual Arts and Curatorial Work</a></strong> <em style="color: #999;">(International)</em><br />
-Open to artists and curators born outside the U.S. to non-American parents, the Vilcek Prize will grant six $50,000 awards to immigrants under 38.<br /><em><strong>Deadline: June 10, 2024.</strong></em></p>
-<p><strong><a href="https://artist.callforentry.org/festivals_unique_info.php?ID=13333" target="_blank" rel="noopener">Fiberart International 2025 Call for Entry</a></strong> <em style="color: #999;">(International)</em><br />
-Contemporary Craft and Brew House Art have teamed up for the 25th Fiberart International, which invites fiber artists to submit their work for a group exhibition in Pittsburgh. One winner will receive a $5,000 award, and there is a $45 entry fee.<br /><em><strong>Deadline: June 30, 2024.</strong></em></p>
-<p><a href="https://www.newsalemmuseum.com/competition" target="_blank" rel="noopener"><strong>NSMA International Painting Competition</strong></a> <em style="color: #999;">(International)</em><br />
-Open to professionals and students, this competition focuses on contemporary realism in painting, and all subject matter is welcome. One winner will receive $25,000, and finalists will be exhibited at the New Salem Museum and Academy of Fine Art.<br /><em><strong>Deadline: 11:59 p.m. EST on January 15, 2025.</strong></em></p>
-<p> </p>
-<p><strong style="font-size: 1.2em;">Grants</strong></p>
-<p><a href="https://readymag.com/designingwomen/grant/?utm_source=colossal&amp;utm_medium=partnership_listing&amp;utm_campaign=designingwomen24" target="_blank" rel="noopener"><strong>ReadyLaunch Grant</strong></a> <em style="color: #999;">(International)</em><br />
-Geared toward empowering female and non-binary designers, the ReadyLaunch Grant supports myriad projects, including newsletters, zines, YouTube channels, and podcasts. Four grantees will receive $2,000, one-year access to a Female Design Council membership, enrollment in the Female Design Council Mentor Match Program, and assistance in securing media coverage. Funds can be used for team payments, space rentals, production costs, project resources, or participation in training programs.<br /><strong><em>Deadline: 23:59 p.m. CET on May 8, 2024.</em></strong></p>
-<p><strong><a href="https://www.artswriters.org/" target="_blank" rel="noopener">The Andy Warhol Foundation Arts Writers Grant</a></strong> <em style="color: #999;">(U.S.)</em><br />
-Emerging and established art writers are eligible for grants ranging from $15,000 to $50,000 in three categories—articles, books, and short-form writing. Funding supports projects addressing both general and specialized art audiences, from short reviews for magazines and newspapers to in-depth scholarly studies.<br /><em><strong>Deadline: 11:59 p.m. ET on May 15, 2024.</strong></em></p>
-<p><strong><a href="https://circartgrant.com/" target="_blank" rel="noopener">CIRC Artist Grant</a></strong> <em style="color: #999;">(International)</em><br />
-Three $1,000 unrestricted grants will be awarded to artists at any stage of their career working in oil, acrylic, watercolor, pastel, drawing, printmaking, mixed media, photography, sculpture, fiber, wood, glass, ceramics, and digital art.<br /><strong><em>Deadline: May 15, 2024.</em></strong></p>
-<p><strong><a href="https://www.ovac-ok.org/thrivegrants/" target="_blank" rel="noopener">Thrive Grants</a></strong> <em style="color: #999;">(Oklahoma)</em><br />
-Oklahoma Visual Arts Coalition will award $5,000 and $10,000 grants to several artist-led, collaborative projects culminating in a public-facing program. A total of $60,000 is available.<br /><em><strong>Deadline: 11:59 p.m. CT on June 1, 2024.</strong></em></p>
-<p><a href="https://www.queer-art.org/giard-grant" target="_blank" rel="noopener"><strong>2024 Robert Giard Grant for Emerging LGBTQ+ Photographers</strong></a> <em style="color: #999;">(International)</em><br />
-Queer|Art’s first international grant provides $10,000 to one winner and $1,250 to finalists to support the creation of projects addressing issues of sexuality, gender, or LGBTQ+ identity.<br /><em><strong>Deadline: June 30, 2024.</strong></em></p>
-<p><a href="https://www.queer-art.org/illuminations-grant" target="_blank" rel="noopener"><strong>2024 Illuminations Grant for Black Trans Women Visual Artists</strong></a> <em style="color: #999;">(International)</em><br />
-In its fifth year, this grant supports visual artists who are self-identified Black trans women and awards $10,000 to one winner and $1,250 to finalists.<br /><em><strong>Deadline: June 30, 2024.</strong></em></p>
-<p><strong><a href="https://www.gottliebfoundation.org/emergency-grant" target="_blank" rel="noopener">The Adolf and Esther Gottlieb Emergency Grant</a></strong> <em style="color: #999;">(International)</em><br />
-The Adolph and Esther Gottlieb Emergency Grant program provides one-time interim financial assistance to qualified painters, printmakers, and sculptors whose needs resulted from an unforeseen catastrophic incident and who lack the resources to meet that situation. Awardees typically receive $5,000, up to $15,000.<br /><em><strong>Deadline: Rolling.</strong></em></p>
-<p><a href="https://www.adobe.com/about-adobe/creative-residency/community-fund.html" target="_blank" rel="noopener"><strong>Adobe Creative Residency Community Fund</strong></a><em style="color: #999;"> (Ukraine)</em><br />
-Adobe’s Creative Residency Community Fund commissions visual artists to create company projects on a rolling basis. Awardees will receive between $500 and $5,000.<br /><em><strong>Deadline: Rolling.</strong></em></p>
-<p><a href="https://pkf.org/apply/" target="_blank" rel="noopener"><strong>Pollock-Krasner Foundation Grant</strong></a><em style="color: #999;"> (International)</em><br />
-The foundation welcomes applications from actively exhibiting visual artists who are painters, sculptors, and artists who work on paper, including printmakers. Grants are intended for one year and range up to $50,000. The individual circumstances of the artist determine the size of the grant, and professional exhibition history will be considered.<br /><em><strong>Deadline: Rolling.</strong></em></p>
-<p> </p>
-<p><strong style="font-size: 1.2em;">Residencies, Fellowships, &amp; More</strong></p>
-<p><strong><a href="https://lillstreet.slideroom.com/#/login" target="_blank" rel="noopener">Lillstreet Art Center Artist in Residence</a></strong> <em style="color: #999;">(International)</em><br />
-Lillstreet offers year-long residencies in ceramics and metalsmithing and nine-month residencies in drawing, painting, printmaking, book arts, and textiles. Artists have 24-hour access to facilities, free classes, paid teaching opportunities, participation in a group exhibition, and a monthly stipend. There is a $20 application fee.<br /><strong><em>Deadline: May 1, 2024.</em></strong></p>
-<p><strong><a href="https://prax.oregonstate.edu/residencies/opportunities/fireline-fellowship" target="_blank" rel="noopener">Fireline Fellowship</a></strong> <em style="color: #999;">(U.S.)</em><br />
-For two and a half years, artists, writers, and thought leaders will explore issues related to wildfire at the H.J. Andrews Experimental Forest. Fellows will meet in person and online and develop public programming. They also receive $5,000, four weeks of residency time at the Andrews, and more.<br /><strong><em>Deadline: 11:59 p.m. PT May 3, 2024.</em></strong></p>
-<p><strong><a href="https://www.headlands.org/wp-content/uploads/2024/03/24_Tournesol_webPDF.pdf" target="_blank" rel="noopener">Tournesol Award</a></strong> <em style="color: #999;">(Bay Area)</em><br />
-This year-long residency offers one emerging Bay Area painter a $10,000 stipend, a private studio, and a culminating exhibition or project. The goal is to support the artist in establishing and maintaining a career in the region.<br /><em><strong>Deadline: May 3, 2024.</strong></em></p>
-<p><strong><a href="https://www.singaporeartmuseum.sg/residencies/activations/open-call-2024" target="_blank" rel="noopener">Singapore Art Museum Residencies</a></strong> <em style="color: #999;">(International)</em><br />
-Applications are open for three SAM’s artist, community and education, and curator and researcher residencies. Each program is fully funded, and residents receive a $1,000 SGD monthly stipend, housing, airfare, and studio space.<br /><strong><em>Deadline: 23:59 GMT +8 on May 31, 2024.</em></strong></p>
-<p><strong><a href="https://www.osgf.org/fellowships/eliza-moore-artistic-excellence" target="_blank" rel="noopener">Eliza Moore Fellowship for Artistic Excellence</a> </strong><em style="color: #999;">(International)</em><br />
-One early-career visual artist, writer, dancer, or musician addressing plants, gardens, or landscapes will be awarded this fellowship. It includes a $10,000 grant and a two- to five-week stay at Oak Spring Garden Foundation.<br /><em><strong>Deadline: May 31, 2024.</strong></em></p>
-<p><strong><a href="https://www.thefarmmargaretriver.com.au/residency" target="_blank" rel="noopener">The Farm Margaret River Residency</a></strong> <em style="color: #999;">(International)</em><br />
-This residency tasks artists with creating a site-specific artwork informed by the environment. Spanning eight weeks, the program offers studios, accommodation, support for travel, and a $7,500 grant.<br /><em><strong>Deadline: 5 p.m. AWST on June 2, 2024.</strong></em></p>
-<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSekVQvadl2rsFesTV2-8v1ITldglG3HaN25maeLw-fJQmHP7w/viewform" target="_blank" rel="noopener">1708 Pilot Artist Residency Program</a></strong> <em style="color: #999;">(International)</em><br />
-This residency provides visual artists free one- to three-month stays in Richmond, Virginia. Chosen applicants receive a private live/work space, a $1,000 monthly stipend, basic equipment, and professional development opportunities.<br /><em><strong>Deadline: June 2, 2024.</strong></em></p>
-<p><strong><a href="https://roundhousefoundation.org/pine-meadow-ranch/residencies/#application" target="_blank" rel="noopener">Pine Meadow Ranch Center for Arts &amp; Agriculture Residency</a></strong> <em style="color: #999;">(International)</em><br />
-Artists, scholars, scientists, and researchers are invited to apply for two- to four-week residencies under the theme of care and stewardship. Residents receive shared housing and studio space. Travel reimbursements are also available.<br /><em><strong>Deadline: 11:59 p.m. PST on June 30, 2024.</strong></em></p>
-<p><a href="https://arts.princeton.edu/fellowships/hodder-fellowship/" target="_blank" rel="noopener"><strong>The Hodder Fellowship</strong></a> <em style="color: #999;">(International)</em><br />
-Open across disciplines, this fellowship provides $90,000 to artists who spend ten months at Princeton University. No formal teaching is required.<br /><em><strong>Deadline: Mid-September 2024.</strong></em></p>
-<p>Do stories and artists like this matter to you? Become a <a href="https://www.thisiscolossal.com/members">Colossal Member</a> today and support independent arts publishing for as little as $5 per month. The article <a href="https://www.thisiscolossal.com/2024/05/may-2024-opportunities/">May 2024 Opportunities: Open Calls, Residencies, and Grants for Artists</a> appeared first on <a href="https://www.thisiscolossal.com/">Colossal</a>.</p>
 </div>
 ]]></content:encoded>
 					
