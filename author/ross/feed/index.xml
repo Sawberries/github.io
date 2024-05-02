@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=365942" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=368607" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 15:01:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 18:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Improve Dataset Selection with ChatGPT?</title>
+		<link>https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 18:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[ChatGPT for Dataset Selection]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</guid>
+
+					<description><![CDATA[Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-improve-dataset-selection-with-chatgpt/">How to Improve Dataset Selection with ChatGPT?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Used Envelopes Hold Thriving Potted Plants in Fidencio Fifield-Perez’s ‘Dacaments’</title>
 		<link>https://www.sawberries.com/2024/05/02/fidencio-fifield-perez-dacaments/</link>
 		
@@ -282,24 +309,6 @@
 					<description><![CDATA[Team Pixelbrei Games wishes you a nice day and we hope you will enjoy our game! &#60;3&#8230;]]></description>
 										<content:encoded><![CDATA[<div>
 <p>Team Pixelbrei Games wishes you a nice day and we hope you will enjoy our game! &lt;3&#8230;</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Win a C64 Breadbox-Simulator &#8211; Entries locked!</title>
-		<link>https://www.sawberries.com/2024/05/02/win-a-c64-breadbox-simulator-entries-locked/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:32:00 +0000</pubDate>
-				<category><![CDATA[retrotech]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/win-a-c64-breadbox-simulator-entries-locked/</guid>
-
-					<description><![CDATA[No more entries entitled for Breadbox-Raffle after 30.04.2024 24:00 (CET) Winners announcement see here Dear friends of Retro Gaming Only a few days until release of Timo&#8217;s Castle for our beloved C64!&#8230;]]></description>
-										<content:encoded><![CDATA[<div>
-<p>No more entries entitled for Breadbox-Raffle after 30.04.2024 24:00 (CET) Winners announcement see here Dear friends of Retro Gaming Only a few days until release of Timo&#8217;s Castle for our beloved C64!&#8230;</p>
 </div>
 ]]></content:encoded>
 					
