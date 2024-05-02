@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=342291" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=345014" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 11:02:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 15:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Avatar]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Ministry]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[resources]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</guid>
+
+					<description><![CDATA[Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/">Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</title>
 		<link>https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</link>
 		
@@ -258,38 +287,6 @@
 <div id='disqus_thread'></div>
 <p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
 <noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cohere Launches Toolkit to Expedite Generative AI Application Development</title>
-		<link>https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 21:02:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI app]]></category>
-		<category><![CDATA[AI App Building]]></category>
-		<category><![CDATA[AI toolkit]]></category>
-		<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cohere]]></category>
-		<category><![CDATA[deployment]]></category>
-		<category><![CDATA[Features]]></category>
-		<category><![CDATA[Generative AI Toolkit]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Toolkit]]></category>
-		<category><![CDATA[tools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/cohere-launches-toolkit-to-expedite-generative-ai-application-development/</guid>
-
-					<description><![CDATA[Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Cohere, a leading figure in AI innovation, has unveiled a new toolkit for enterprise AI. This new toolkit is aimed at speeding up the pace of generative AI application development within the enterprise sphere. It offers developers a comprehensive set of tools and resources to expedite their projects. It further promises to streamline the intricate […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/cohere-launches-toolkit-to-expedite-generative-ai-application-development/">Cohere Launches Toolkit to Expedite Generative AI Application Development</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
 ]]></content:encoded>
 					
 		

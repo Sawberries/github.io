@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI Tools &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/ai-tools/feed/?simply_static_page=342295" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/ai-tools/feed/?simply_static_page=344769" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 11:02:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 15:01:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Explore the World through your Photos with GeoSpy.AI</title>
+		<link>https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 15:01:16 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Find Location]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GeoSpy.AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</guid>
+
+					<description><![CDATA[Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
 		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
 		
