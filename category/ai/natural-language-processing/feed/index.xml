@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Center for Brains Minds and Machines &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/center-for-brains-minds-and-machines/feed/?simply_static_page=409996" rel="self" type="application/rss+xml" />
+	<title>Natural language processing &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/natural-language-processing/feed/?simply_static_page=410036" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
 	<lastBuildDate>Thu, 02 May 2024 07:25:27 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
-	<title>Center for Brains Minds and Machines &#8211; sawberries</title>
+	<title>Natural language processing &#8211; sawberries</title>
 	<link>https://www.sawberries.com</link>
 	<width>32</width>
 	<height>32</height>
@@ -86,6 +86,42 @@
 <p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
 <p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
 <p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Implementing Query2Model: Simplifying Machine Learning</title>
+		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[dat science]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[hugchat]]></category>
+		<category><![CDATA[HuggingChat]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[library in python]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural Language]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[pipeline]]></category>
+		<category><![CDATA[Prompt Engineering]]></category>
+		<category><![CDATA[query2model]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</guid>
+
+					<description><![CDATA[Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/implementing-query2model-simplifying-machine-learning/">Implementing Query2Model: Simplifying Machine Learning</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
