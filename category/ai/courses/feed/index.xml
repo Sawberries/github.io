@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Courses &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/courses/feed/?simply_static_page=298449" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/courses/feed/?simply_static_page=301729" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 26 Apr 2024 09:15:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 07:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>8 Gemini Free Courses by Google to master it </title>
+		<link>https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:24 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</guid>
+
+					<description><![CDATA[Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Introduction to Natural Language Processing [Free NLP Course]</title>
 		<link>https://www.sawberries.com/2024/04/26/free-course-on-nlp/</link>
 		
