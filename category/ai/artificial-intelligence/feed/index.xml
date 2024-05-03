@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=543617" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=546333" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 09:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 15:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
+		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sam Altman]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</guid>
+
+					<description><![CDATA[In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/">Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
 		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
 		
@@ -323,34 +350,6 @@
 <p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
 <p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
 <p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>8 Gemini Free Courses by Google to master it </title>
-		<link>https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:24 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Courses]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Google Gemini]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-free-courses-by-google/</guid>
-
-					<description><![CDATA[Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
