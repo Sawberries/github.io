@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Independent Activities Period &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/independent-activities-period/feed/?simply_static_page=573155" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 18:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Independent Activities Period &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Exploring frontiers of mechanical engineering</title>
+		<link>https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 18:01:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Graduate, postdoctoral]]></category>
+		<category><![CDATA[Health sciences and technology]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Independent Activities Period]]></category>
+		<category><![CDATA[Mechanical engineering]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Oceanography and ocean engineering]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Spaceflight]]></category>
+		<category><![CDATA[Sports analytics]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</guid>
+
+					<description><![CDATA[From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future of this field is as limitless as the imaginations of its practitioners.</p>
+<p><strong>Democratizing design through AI</strong></p>
+<p>Lyle Regenwetter<br />Hometown: Champaign, Illinois<br />Advisor: Assistant Professor Faez Ahmed<br />Interests: Food, climbing, skiing, soccer, tennis, cooking</p>
+<p>Lyle Regenwetter finds excitement in the prospect of generative AI to &#8220;democratize&#8221; design and enable inexperienced designers to tackle complex design problems. His research explores new training methods through which generative AI models can be taught to implicitly obey design constraints and synthesize higher-performing designs. Knowing that prospective designers often have an intimate knowledge of the needs of users, but may otherwise lack the technical training to create solutions, Regenwetter also develops human-AI collaborative tools that allow AI models to interact and support designers in popular CAD software and real design problems. </p>
+<p><strong>Solving a whale of a problem </strong></p>
+<p>Loïcka Baille<br />Hometown: L’Escale, France<br />Advisor: Daniel Zitterbart<br />Interests: Being outdoors — scuba diving, spelunking, or climbing. Sailing on the Charles River, martial arts classes, and playing volleyball</p>
+<p>Loïcka Baille’s research focuses on developing remote sensing technologies to study and protect marine life. Her main project revolves around improving onboard whale detection technology to prevent vessel strikes, with a special focus on protecting North Atlantic right whales. Baille is also involved in an ongoing study of Emperor penguins. Her team visits Antarctica annually to tag penguins and gather data to enhance their understanding of penguin population dynamics and draw conclusions regarding the overall health of the ecosystem.</p>
+<p><strong>Water, water anywhere</strong></p>
+<p>Carlos Díaz-Marín<br />Hometown: San José, Costa Rica<br />Advisor: Professor Gang Chen | Former Advisor: Professor Evelyn Wang<br />Interests: New England hiking, biking, and dancing</p>
+<p>Carlos Díaz-Marín designs and synthesizes inexpensive salt-polymer materials that can capture large amounts of humidity from the air. He aims to change the way we generate potable water from the air, even in arid conditions. In addition to water generation, these salt-polymer materials can also be used as thermal batteries, capable of storing and reusing heat. Beyond the scientific applications, Díaz-Marín is excited to continue doing research that can have big social impacts, and that finds and explains new physical phenomena. As a LatinX person, Díaz-Marín is also driven to help increase diversity in STEM.</p>
+<p><strong>Scalable fabrication of nano-architected materials</strong></p>
+<p>Somayajulu Dhulipala<br />Hometown: Hyderabad, India<br />Advisor: Assistant Professor Carlos Portela<br />Interests: Space exploration, taekwondo, meditation.</p>
+<p>Somayajulu Dhulipala works on developing lightweight materials with tunable mechanical properties. He is currently working on methods for the scalable fabrication of nano-architected materials and predicting their mechanical properties. The ability to fine-tune the mechanical properties of specific materials brings versatility and adaptability, making these materials suitable for a wide range of applications across multiple industries. While the research applications are quite diverse, Dhulipala is passionate about making space habitable for humanity, a crucial step toward becoming a spacefaring civilization.</p>
+<p><strong>Ingestible health-care devices</strong></p>
+<p>Jimmy McRae<br />Hometown: Woburn, Massachusetts<br />Advisor: Associate Professor Giovani Traverso<br />Interests: Anything basketball-related: playing, watching, going to games, organizing hometown tournaments </p>
+<p>Jimmy McRae aims to drastically improve diagnostic and therapeutic capabilities through noninvasive health-care technologies. His research focuses on leveraging materials, mechanics, embedded systems, and microfabrication to develop novel ingestible electronic and mechatronic devices. This ranges from ingestible electroceutical capsules that modulate hunger-regulating hormones to devices capable of continuous ultralong monitoring and remotely triggerable actuations from within the stomach. The principles that guide McRae’s work to develop devices that function in extreme environments can be applied far beyond the gastrointestinal tract, with applications for outer space, the ocean, and more.</p>
+<p><strong>Freestyle BMX meets machine learning</strong></p>
+<p>Eva Nates<br />Hometown: Narberth, Pennsylvania <br />Advisor: Professor Peko Hosoi<br />Interests: Rowing, running, biking, hiking, baking</p>
+<p>Eva Nates is working with the Australian Cycling Team to create a tool to classify Bicycle Motocross Freestyle (BMX FS) tricks. She uses a singular value decomposition method to conduct a principal component analysis of the time-dependent point-tracking data of an athlete and their bike during a run to classify each trick. The 2024 Olympic team hopes to incorporate this tool in their training workflow, and Nates worked alongside the team at their facilities on the Gold Coast of Australia during MIT’s Independent Activities Period in January.</p>
+<p><strong>Augmenting Astronauts with Wearable Limbs </strong></p>
+<p>Erik Ballesteros<br />Hometown: Spring, Texas<br />Advisor: Professor Harry Asada<br />Interests: Cosplay, Star Wars, Lego bricks</p>
+<p>Erik Ballesteros’s research seeks to support astronauts who are conducting planetary extravehicular activities through the use of supernumerary robotic limbs (SuperLimbs). His work is tailored toward design and control manifestation to assist astronauts with post-fall recovery, human-leader/robot-follower quadruped locomotion, and coordinated manipulation between the SuperLimbs and the astronaut to perform tasks like excavation and sample handling.</p>
+<p><em>This article appeared in the Spring 2024 edition of the Department of Mechanical Engineering&#8217;s magazine, </em><a href="https://meche.mit.edu/magazine">MechE Connects</a><em>. </em></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=570117" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=573134" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 15:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 18:01:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Exploring frontiers of mechanical engineering</title>
+		<link>https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 18:01:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Graduate, postdoctoral]]></category>
+		<category><![CDATA[Health sciences and technology]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Independent Activities Period]]></category>
+		<category><![CDATA[Mechanical engineering]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Oceanography and ocean engineering]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Spaceflight]]></category>
+		<category><![CDATA[Sports analytics]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</guid>
+
+					<description><![CDATA[From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future of this field is as limitless as the imaginations of its practitioners.</p>
+<p><strong>Democratizing design through AI</strong></p>
+<p>Lyle Regenwetter<br />Hometown: Champaign, Illinois<br />Advisor: Assistant Professor Faez Ahmed<br />Interests: Food, climbing, skiing, soccer, tennis, cooking</p>
+<p>Lyle Regenwetter finds excitement in the prospect of generative AI to &#8220;democratize&#8221; design and enable inexperienced designers to tackle complex design problems. His research explores new training methods through which generative AI models can be taught to implicitly obey design constraints and synthesize higher-performing designs. Knowing that prospective designers often have an intimate knowledge of the needs of users, but may otherwise lack the technical training to create solutions, Regenwetter also develops human-AI collaborative tools that allow AI models to interact and support designers in popular CAD software and real design problems. </p>
+<p><strong>Solving a whale of a problem </strong></p>
+<p>Loïcka Baille<br />Hometown: L’Escale, France<br />Advisor: Daniel Zitterbart<br />Interests: Being outdoors — scuba diving, spelunking, or climbing. Sailing on the Charles River, martial arts classes, and playing volleyball</p>
+<p>Loïcka Baille’s research focuses on developing remote sensing technologies to study and protect marine life. Her main project revolves around improving onboard whale detection technology to prevent vessel strikes, with a special focus on protecting North Atlantic right whales. Baille is also involved in an ongoing study of Emperor penguins. Her team visits Antarctica annually to tag penguins and gather data to enhance their understanding of penguin population dynamics and draw conclusions regarding the overall health of the ecosystem.</p>
+<p><strong>Water, water anywhere</strong></p>
+<p>Carlos Díaz-Marín<br />Hometown: San José, Costa Rica<br />Advisor: Professor Gang Chen | Former Advisor: Professor Evelyn Wang<br />Interests: New England hiking, biking, and dancing</p>
+<p>Carlos Díaz-Marín designs and synthesizes inexpensive salt-polymer materials that can capture large amounts of humidity from the air. He aims to change the way we generate potable water from the air, even in arid conditions. In addition to water generation, these salt-polymer materials can also be used as thermal batteries, capable of storing and reusing heat. Beyond the scientific applications, Díaz-Marín is excited to continue doing research that can have big social impacts, and that finds and explains new physical phenomena. As a LatinX person, Díaz-Marín is also driven to help increase diversity in STEM.</p>
+<p><strong>Scalable fabrication of nano-architected materials</strong></p>
+<p>Somayajulu Dhulipala<br />Hometown: Hyderabad, India<br />Advisor: Assistant Professor Carlos Portela<br />Interests: Space exploration, taekwondo, meditation.</p>
+<p>Somayajulu Dhulipala works on developing lightweight materials with tunable mechanical properties. He is currently working on methods for the scalable fabrication of nano-architected materials and predicting their mechanical properties. The ability to fine-tune the mechanical properties of specific materials brings versatility and adaptability, making these materials suitable for a wide range of applications across multiple industries. While the research applications are quite diverse, Dhulipala is passionate about making space habitable for humanity, a crucial step toward becoming a spacefaring civilization.</p>
+<p><strong>Ingestible health-care devices</strong></p>
+<p>Jimmy McRae<br />Hometown: Woburn, Massachusetts<br />Advisor: Associate Professor Giovani Traverso<br />Interests: Anything basketball-related: playing, watching, going to games, organizing hometown tournaments </p>
+<p>Jimmy McRae aims to drastically improve diagnostic and therapeutic capabilities through noninvasive health-care technologies. His research focuses on leveraging materials, mechanics, embedded systems, and microfabrication to develop novel ingestible electronic and mechatronic devices. This ranges from ingestible electroceutical capsules that modulate hunger-regulating hormones to devices capable of continuous ultralong monitoring and remotely triggerable actuations from within the stomach. The principles that guide McRae’s work to develop devices that function in extreme environments can be applied far beyond the gastrointestinal tract, with applications for outer space, the ocean, and more.</p>
+<p><strong>Freestyle BMX meets machine learning</strong></p>
+<p>Eva Nates<br />Hometown: Narberth, Pennsylvania <br />Advisor: Professor Peko Hosoi<br />Interests: Rowing, running, biking, hiking, baking</p>
+<p>Eva Nates is working with the Australian Cycling Team to create a tool to classify Bicycle Motocross Freestyle (BMX FS) tricks. She uses a singular value decomposition method to conduct a principal component analysis of the time-dependent point-tracking data of an athlete and their bike during a run to classify each trick. The 2024 Olympic team hopes to incorporate this tool in their training workflow, and Nates worked alongside the team at their facilities on the Gold Coast of Australia during MIT’s Independent Activities Period in January.</p>
+<p><strong>Augmenting Astronauts with Wearable Limbs </strong></p>
+<p>Erik Ballesteros<br />Hometown: Spring, Texas<br />Advisor: Professor Harry Asada<br />Interests: Cosplay, Star Wars, Lego bricks</p>
+<p>Erik Ballesteros’s research seeks to support astronauts who are conducting planetary extravehicular activities through the use of supernumerary robotic limbs (SuperLimbs). His work is tailored toward design and control manifestation to assist astronauts with post-fall recovery, human-leader/robot-follower quadruped locomotion, and coordinated manipulation between the SuperLimbs and the astronaut to perform tasks like excavation and sample handling.</p>
+<p><em>This article appeared in the Spring 2024 edition of the Department of Mechanical Engineering&#8217;s magazine, </em><a href="https://meche.mit.edu/magazine">MechE Connects</a><em>. </em></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
+		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 18:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Deeplearning.ai]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Short Courses]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</guid>
+
+					<description><![CDATA[Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-generative-ai-short-courses-by-deeplearning-ai/">30+ Free Generative AI Short Courses by Deeplearning.ai</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
 		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
 		
@@ -255,101 +336,6 @@
 										<content:encoded><![CDATA[<div>
 <p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
-		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hanooman]]></category>
-		<category><![CDATA[Krutrim AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Ola]]></category>
-		<category><![CDATA[Reliance AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
-
-					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Natural language boosts LLM performance in coding, planning, and robotics</title>
-		<link>https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:27 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Brain and cognitive sciences]]></category>
-		<category><![CDATA[Center for Brains Minds and Machines]]></category>
-		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
-		<category><![CDATA[Computer science and technology]]></category>
-		<category><![CDATA[Computer vision]]></category>
-		<category><![CDATA[Defense Advanced Research Projects Agency (DARPA)]]></category>
-		<category><![CDATA[Department of Defense (DoD)]]></category>
-		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
-		<category><![CDATA[Human-computer interaction]]></category>
-		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
-		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
-		<category><![CDATA[National Science Foundation (NSF)]]></category>
-		<category><![CDATA[Natural language processing]]></category>
-		<category><![CDATA[Programming]]></category>
-		<category><![CDATA[programming languages]]></category>
-		<category><![CDATA[Quest for Intelligence]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<category><![CDATA[School of Science]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</guid>
-
-					<description><![CDATA[Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important details — and thus sputter when asked to do more sophisticated tasks.</p>
-<p>Luckily, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have found a treasure trove of abstractions within natural language. In three papers to be presented at the International Conference on Learning Representations this month, the group shows how our everyday words are a rich source of context for language models, helping them build better overarching representations for code synthesis, AI planning, and robotic navigation and manipulation.</p>
-<p>The three separate frameworks build libraries of abstractions for their given task: <a href="https://arxiv.org/abs/2310.19791" target="_blank" rel="noopener">LILO</a> (library induction from language observations) can synthesize, compress, and document code; <a href="https://arxiv.org/abs/2312.08566" target="_blank" rel="noopener">Ada</a> (action domain acquisition) explores sequential decision-making for artificial intelligence agents; and <a href="https://arxiv.org/abs/2402.18759" target="_blank" rel="noopener">LGA</a> (language-guided abstraction) helps robots better understand their environments to develop more feasible plans. Each system is a neurosymbolic method, a type of AI that blends human-like neural networks and program-like logical components.</p>
-<p><strong>LILO: A neurosymbolic framework that codes</strong></p>
-<p>Large language models can be used to quickly write solutions to small-scale coding tasks, but cannot yet architect entire software libraries like the ones written by human software engineers. To take their software development capabilities further, AI models need to refactor (cut down and combine) code into libraries of succinct, readable, and reusable programs.</p>
-<p>Refactoring tools like the previously developed MIT-led <a href="https://mlb2251.github.io/stitch_jul11.pdf" target="_blank" rel="noopener">Stitch</a> algorithm can automatically identify abstractions, so, in a nod to the Disney movie “Lilo &amp; Stitch,” CSAIL researchers combined these algorithmic refactoring approaches with LLMs. Their neurosymbolic method LILO uses a standard LLM to write code, then pairs it with Stitch to find abstractions that are comprehensively documented in a library.</p>
-<p>LILO’s unique emphasis on natural language allows the system to do tasks that require human-like commonsense knowledge, such as identifying and removing all vowels from a string of code and drawing a snowflake. In both cases, the CSAIL system outperformed standalone LLMs, as well as a previous library learning algorithm from MIT called DreamCoder, indicating its ability to build a deeper understanding of the words within prompts. These encouraging results point to how LILO could assist with things like writing programs to manipulate documents like Excel spreadsheets, helping AI answer questions about visuals, and drawing 2D graphics.</p>
-<p>“Language models prefer to work with functions that are named in natural language,” says Gabe Grand SM &#8217;23, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and lead author on the research. “Our work creates more straightforward abstractions for language models and assigns natural language names and documentation to each one, leading to more interpretable code for programmers and improved system performance.”</p>
-<p>When prompted on a programming task, LILO first uses an LLM to quickly propose solutions based on data it was trained on, and then the system slowly searches more exhaustively for outside solutions. Next, Stitch efficiently identifies common structures within the code and pulls out useful abstractions. These are then automatically named and documented by LILO, resulting in simplified programs that can be used by the system to solve more complex tasks.</p>
-<p>The MIT framework writes programs in domain-specific programming languages, like Logo, a language developed at MIT in the 1970s to teach children about programming. Scaling up automated refactoring algorithms to handle more general programming languages like Python will be a focus for future research. Still, their work represents a step forward for how language models can facilitate increasingly elaborate coding activities.</p>
-<p><strong>Ada: Natural language guides AI task planning</strong></p>
-<p>Just like in programming, AI models that automate multi-step tasks in households and command-based video games lack abstractions. Imagine you’re cooking breakfast and ask your roommate to bring a hot egg to the table — they’ll intuitively abstract their background knowledge about cooking in your kitchen into a sequence of actions. In contrast, an LLM trained on similar information will still struggle to reason about what they need to build a flexible plan.</p>
-<p>Named after the famed mathematician Ada Lovelace, who many consider the world’s first programmer, the CSAIL-led “Ada” framework makes headway on this issue by developing libraries of useful plans for virtual kitchen chores and gaming. The method trains on potential tasks and their natural language descriptions, then a language model proposes action abstractions from this dataset. A human operator scores and filters the best plans into a library, so that the best possible actions can be implemented into hierarchical plans for different tasks.</p>
-<p>“Traditionally, large language models have struggled with more complex tasks because of problems like reasoning about abstractions,” says Ada lead researcher Lio Wong, an MIT graduate student in brain and cognitive sciences, CSAIL affiliate, and LILO coauthor. “But we can combine the tools that software engineers and roboticists use with LLMs to solve hard problems, such as decision-making in virtual environments.”</p>
-<p>When the researchers incorporated the widely-used large language model GPT-4 into Ada, the system completed more tasks in a kitchen simulator and Mini Minecraft than the AI decision-making baseline “Code as Policies.” Ada used the background information hidden within natural language to understand how to place chilled wine in a cabinet and craft a bed. The results indicated a staggering 59 and 89 percent task accuracy improvement, respectively.</p>
-<p>With this success, the researchers hope to generalize their work to real-world homes, with the hopes that Ada could assist with other household tasks and aid multiple robots in a kitchen. For now, its key limitation is that it uses a generic LLM, so the CSAIL team wants to apply a more powerful, fine-tuned language model that could assist with more extensive planning. Wong and her colleagues are also considering combining Ada with a robotic manipulation framework fresh out of CSAIL: LGA (language-guided abstraction).</p>
-<p><strong>Language-guided abstraction: Representations for robotic tasks</strong></p>
-<p>Andi Peng SM ’23, an MIT graduate student in electrical engineering and computer science and CSAIL affiliate, and her coauthors designed a method to help machines interpret their surroundings more like humans, cutting out unnecessary details in a complex environment like a factory or kitchen. Just like LILO and Ada, LGA has a novel focus on how natural language leads us to those better abstractions.</p>
-<p>In these more unstructured environments, a robot will need some common sense about what it’s tasked with, even with basic training beforehand. Ask a robot to hand you a bowl, for instance, and the machine will need a general understanding of which features are important within its surroundings. From there, it can reason about how to give you the item you want. </p>
-<p>In LGA’s case, humans first provide a pre-trained language model with a general task description using natural language, like “bring me my hat.” Then, the model translates this information into abstractions about the essential elements needed to perform this task. Finally, an imitation policy trained on a few demonstrations can implement these abstractions to guide a robot to grab the desired item.</p>
-<p>Previous work required a person to take extensive notes on different manipulation tasks to pre-train a robot, which can be expensive. Remarkably, LGA guides language models to produce abstractions similar to those of a human annotator, but in less time. To illustrate this, LGA developed robotic policies to help Boston Dynamics’ Spot quadruped pick up fruits and throw drinks in a recycling bin. These experiments show how the MIT-developed method can scan the world and develop effective plans in unstructured environments, potentially guiding autonomous vehicles on the road and robots working in factories and kitchens.</p>
-<p>“In robotics, a truth we often disregard is how much we need to refine our data to make a robot useful in the real world,” says Peng. “Beyond simply memorizing what’s in an image for training robots to perform tasks, we wanted to leverage computer vision and captioning models in conjunction with language. By producing text captions from what a robot sees, we show that language models can essentially build important world knowledge for a robot.”</p>
-<p>The challenge for LGA is that some behaviors can’t be explained in language, making certain tasks underspecified. To expand how they represent features in an environment, Peng and her colleagues are considering incorporating multimodal visualization interfaces into their work. In the meantime, LGA provides a way for robots to gain a better feel for their surroundings when giving humans a helping hand. </p>
-<p><strong>An “exciting frontier” in AI</strong></p>
-<p>“Library learning represents one of the most exciting frontiers in artificial intelligence, offering a path towards discovering and reasoning over compositional abstractions,” says assistant professor at the University of Wisconsin-Madison Robert Hawkins, who was not involved with the papers. Hawkins notes that previous techniques exploring this subject have been “too computationally expensive to use at scale” and have an issue with the lambdas, or keywords used to describe new functions in many languages, that they generate. “They tend to produce opaque &#8216;lambda salads,&#8217; big piles of hard-to-interpret functions. These recent papers demonstrate a compelling way forward by placing large language models in an interactive loop with symbolic search, compression, and planning algorithms. This work enables the rapid acquisition of more interpretable and adaptive libraries for the task at hand.”</p>
-<p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
-<p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
-<p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
 </div>
 ]]></content:encoded>
 					
