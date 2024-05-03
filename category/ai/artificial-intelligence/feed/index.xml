@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=415049" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=417798" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 02 May 2024 21:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 00:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic Releases Claude Team Enterprise AI Plan and iOS App</title>
+		<link>https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 00:01:14 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[anthropic claude 3]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple app store]]></category>
+		<category><![CDATA[apple ios]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[CXO]]></category>
+		<category><![CDATA[ensono]]></category>
+		<category><![CDATA[Enterprise Software]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Start-Ups]]></category>
+		<category><![CDATA[teksystems]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</guid>
+
+					<description><![CDATA[The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.]]></description>
+										<content:encoded><![CDATA[<div>The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</title>
 		<link>https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</link>
 		
@@ -323,36 +357,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Phi 3 – Small Yet Powerful Models from Microsoft</title>
-		<link>https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:28 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[questions]]></category>
-		<category><![CDATA[Supervised]]></category>
-		<category><![CDATA[tokenizer]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</guid>
-
-					<description><![CDATA[Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/phi-3-small-yet-powerful-models-from-microsoft/">Phi 3 – Small Yet Powerful Models from Microsoft</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
