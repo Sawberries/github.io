@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LMSYS &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/lmsys/feed/?simply_static_page=520057" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 12:01:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>LMSYS &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
+		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Challenge]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[LMSYS]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
+
+					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

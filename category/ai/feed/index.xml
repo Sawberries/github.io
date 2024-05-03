@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=516661" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=519595" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 09:01:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 12:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>30 Python Coding Interview Questions for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[coding questions]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Interview Questions]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Python Coding Interview Questions]]></category>
+		<category><![CDATA[python quesitons]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</guid>
+
+					<description><![CDATA[Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Understanding Fuzzy C Means Clustering</title>
+		<link>https://www.sawberries.com/2024/05/03/understanding-fuzzy-c-means-clustering/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[centroid]]></category>
+		<category><![CDATA[Clustering]]></category>
+		<category><![CDATA[clusters]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[Fuzzy C Means]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Probability]]></category>
+		<category><![CDATA[Technical]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/understanding-fuzzy-c-means-clustering/</guid>
+
+					<description><![CDATA[Introduction Clustering is an unsupervised machine learning algorithm that groups together similar data points based on criteria like shared attributes. Each cluster has data points that are similar to the other data points in the cluster while as a whole, the cluster is dissimilar to other data points. By making use of clustering algorithms, we [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Clustering is an unsupervised machine learning algorithm that groups together similar data points based on criteria like shared attributes. Each cluster has data points that are similar to the other data points in the cluster while as a whole, the cluster is dissimilar to other data points. By making use of clustering algorithms, we […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/understanding-fuzzy-c-means-clustering/">Understanding Fuzzy C Means Clustering</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
+		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Challenge]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[LMSYS]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
+
+					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Building Responsible AI with Guardrails AI</title>
 		<link>https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</link>
 		
@@ -278,90 +356,6 @@
 
 					<description><![CDATA[A great way to stay current with the latest technology trends and innovations is by attending conferences. Read and bookmark our 2024 tech events guide.]]></description>
 										<content:encoded><![CDATA[<div>A great way to stay current with the latest technology trends and innovations is by attending conferences. Read and bookmark our 2024 tech events guide.</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</title>
-		<link>https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 21:01:14 +0000</pubDate>
-				<category><![CDATA[A2RL]]></category>
-		<category><![CDATA[Abu Dhabi]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Automobiles]]></category>
-		<category><![CDATA[autonomous care race]]></category>
-		<category><![CDATA[autonomous cars]]></category>
-		<category><![CDATA[autonomous driving]]></category>
-		<category><![CDATA[challenges]]></category>
-		<category><![CDATA[event]]></category>
-		<category><![CDATA[motor sporting]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Yas Marina]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</guid>
-
-					<description><![CDATA[Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/">World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Improve Dataset Selection with ChatGPT?</title>
-		<link>https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 18:01:13 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[ChatGPT for Dataset Selection]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[dataset]]></category>
-		<category><![CDATA[Datasets]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</guid>
-
-					<description><![CDATA[Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-improve-dataset-selection-with-chatgpt/">How to Improve Dataset Selection with ChatGPT?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Explore the World through your Photos with GeoSpy.AI</title>
-		<link>https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 15:01:16 +0000</pubDate>
-				<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Find Location]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[GeoSpy.AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</guid>
-
-					<description><![CDATA[Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
 ]]></content:encoded>
 					
 		

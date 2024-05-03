@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=517141" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=520096" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 09:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 12:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
+		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Challenge]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[LMSYS]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
+
+					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
 		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
 		
@@ -267,29 +289,6 @@
 										<content:encoded><![CDATA[<div>
 <p>GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/github-unveils-copilot-workspace-a-new-era-in-developer-tools/">GitHub Unveils Copilot Workspace: A New Era in Developer Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</title>
-		<link>https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:38 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Run:ai]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/</guid>
-
-					<description><![CDATA[Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Nvidia had recently acquired Run:ai, an Israeli startup specializing in AI workload management. This move underscores the increasing significance of Kubernetes in generative AI. Through this, Nvidia aims to address the challenges associated with GPU resource utilization in AI infrastructure. Let’s delve into the details of this acquisition and its implications for the AI and […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/nvidia-acquires-runai-to-boost-ai-infrastructure-efficiency/">Nvidia Acquires Run:ai to Boost AI Infrastructure Efficiency</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
