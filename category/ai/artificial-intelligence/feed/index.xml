@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=491222" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=494172" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 00:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 09:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
+		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
+				<category><![CDATA[AI music]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sora]]></category>
+		<category><![CDATA[text to video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
+
+					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Anthropic Releases Claude Team Enterprise AI Plan and iOS App</title>
 		<link>https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</link>
 		
@@ -324,39 +351,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Build a Winning Dream 11 Team Using Python and AI</title>
-		<link>https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:23 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Dream 11]]></category>
-		<category><![CDATA[fantasy games]]></category>
-		<category><![CDATA[fantasy sports]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[india]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[My Circle]]></category>
-		<category><![CDATA[Prediction]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[team building]]></category>
-		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</guid>
-
-					<description><![CDATA[Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

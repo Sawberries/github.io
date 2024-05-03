@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI music &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/ai-music/feed/?simply_static_page=494142" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 09:01:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>AI music &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
+		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
+				<category><![CDATA[AI music]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sora]]></category>
+		<category><![CDATA[text to video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
+
+					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
