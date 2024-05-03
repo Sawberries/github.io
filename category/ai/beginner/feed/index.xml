@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=597656" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=600703" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 12:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 21:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini vs ChatGPT: Which is Better for Coding?</title>
+		<link>https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT for code]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</guid>
+
+					<description><![CDATA[Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-vs-chatgpt-which-is-better-for-coding/">Gemini vs ChatGPT: Which is Better for Coding?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Python Coding Interview Questions for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
 		
@@ -268,32 +291,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Python is a popular programming language for its simplicity and readability. When it is combined with Jupyter Notebook, it offers interactive experimentation, documentation of code and data. This article discusses Python tricks in Jupyter Notebook to enhance coding experience, productivity, and understanding. Keyboard shortcuts, magic commands, interactive widgets, and visualization tools can streamline workflow […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/best-python-tricks-in-jupyter-notebook/">Best Python Tricks in Jupyter Notebook</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Here’s How You Can Easily Sign Up for Google Labs</title>
-		<link>https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 09:01:35 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/sign-up-for-google-labs/</guid>
-
-					<description><![CDATA[Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &#38; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &#38; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Have you heard of these? FOOD MOOD: Get inspired with fusion recipes from Google Arts &amp; Culture. NOTEBOOKLM: Your AI thinking partner for productivity. SAY WHAT YOU SEE: Hone your image-reading skills with Google Arts &amp; Culture. HELP ME SCRIPT: Turn text into Google Home automation scripts. PROJECT IDX: Take your full-stack workflow to […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/sign-up-for-google-labs/">Here’s How You Can Easily Sign Up for Google Labs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

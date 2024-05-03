@@ -9,10 +9,10 @@
 
 <channel>
 	<title>School of Engineering &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/school-of-engineering/feed/?simply_static_page=597449" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/school-of-engineering/feed/?simply_static_page=600590" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 18:01:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 21:01:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,128 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Creating bespoke programming languages for efficient visual AI systems</title>
+		<link>https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:17 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer graphics]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Computer vision]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[Information systems and technology]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</guid>
+
+					<description><![CDATA[A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible?  MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible? </p>
+<p>MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools for visual effects in movies to the Halide programming language that’s widely used in industry for photo editing and processing. As a researcher with the MIT-IBM Watson AI Lab and the Computer Science and Artificial Intelligence Laboratory, Ragan-Kelley specializes in high-performance, domain-specific programming languages and machine learning that enable 2D and 3D graphics, visual effects, and computational photography.</p>
+<p>“The single biggest thrust through a lot of our research is developing new programming languages that make it easier to write programs that run really efficiently on the increasingly complex hardware that is in your computer today,” says Ragan-Kelley. “If we want to keep increasing the computational power we can actually exploit for real applications — from graphics and visual computing to AI — we need to change how we program.”</p>
+<p><strong>Finding a middle ground</strong></p>
+<p>Over the last two decades, chip designers and programming engineers have witnessed a slowing of <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank" rel="noopener">Moore’s law</a> and a marked shift from general-purpose computing on CPUs to more varied and specialized computing and processing units like GPUs and accelerators. With this transition comes a trade-off: the ability to run general-purpose code somewhat slowly on CPUs, for faster, more efficient hardware that requires code to be heavily adapted to it and mapped to it with tailored programs and compilers. Newer hardware with improved programming can better support applications like high-bandwidth cellular radio interfaces, decoding highly compressed videos for streaming, and graphics and video processing on power-constrained cellphone cameras, to name a few applications.</p>
+<p>“Our work is largely about unlocking the power of the best hardware we can build to deliver as much computational performance and efficiency as possible for these kinds of applications in ways that that traditional programming languages don&#8217;t.”</p>
+<p>To accomplish this, Ragan-Kelley breaks his work down into two directions. First, he sacrifices generality to capture the structure of particular and important computational problems and exploits that for better computing efficiency. This can be seen in the image-processing language Halide, which he co-developed and has helped to transform the image editing industry in programs like Photoshop. Further, because it is specially designed to quickly handle dense, regular arrays of numbers (tensors), it also works well for neural network computations. The second focus targets automation, specifically how compilers map programs to hardware. One such project with the MIT-IBM Watson AI Lab leverages Exo, a language developed in Ragan-Kelley’s group.</p>
+<p>Over the years, researchers have worked doggedly to automate coding with compilers, which can be a black box; however, there’s still a large need for explicit control and tuning by performance engineers. Ragan-Kelley and his group are developing methods that straddle each technique, balancing trade-offs to achieve effective and resource-efficient programming. At the core of many high-performance programs like video game engines or cellphone camera processing are state-of-the-art systems that are largely hand-optimized by human experts in low-level, detailed languages like C, C++, and assembly. Here, engineers make specific choices about how the program will run on the hardware.</p>
+<p>Ragan-Kelley notes that programmers can opt for “very painstaking, very unproductive, and very unsafe low-level code,” which could introduce bugs, or “more safe, more productive, higher-level programming interfaces,” that lack the ability to make fine adjustments in a compiler about how the program is run, and usually deliver lower performance. So, his team is trying to find a middle ground. “We&#8217;re trying to figure out how to provide control for the key issues that human performance engineers want to be able to control,” says Ragan-Kelley, “so, we&#8217;re trying to build a new class of languages that we call user-schedulable languages that give safer and higher-level handles to control what the compiler does or control how the program is optimized.”</p>
+<p><strong>Unlocking hardware: high-level and underserved ways</strong></p>
+<p>Ragan-Kelley and his research group are tackling this through two lines of work: applying machine learning and modern AI techniques to automatically generate optimized schedules, an interface to the compiler, to achieve better compiler performance. Another uses “exocompilation” that he’s working on with the lab. He describes this method as a way to “turn the compiler inside-out,” with a skeleton of a compiler with controls for human guidance and customization. In addition, his team can add their bespoke schedulers on top, which can help target specialized hardware like machine-learning accelerators from IBM Research. Applications for this work span the gamut: computer vision, object recognition, speech synthesis, image synthesis, speech recognition, text generation (large language models), etc.</p>
+<p>A big-picture project of his with the lab takes this another step further, approaching the work through a systems lens. In work led by his advisee and lab intern William Brandon, in collaboration with lab research scientist Rameswar Panda, Ragan-Kelley’s team is rethinking large language models (LLMs), finding ways to change the computation and the model’s programming architecture slightly so that the transformer-based models can run more efficiently on AI hardware without sacrificing accuracy. Their work, Ragan-Kelley says, deviates from the standard ways of thinking in significant ways with potentially large payoffs for cutting costs, improving capabilities, and/or shrinking the LLM to require less memory and run on smaller computers.</p>
+<p>It&#8217;s this more avant-garde thinking, when it comes to computation efficiency and hardware, that Ragan-Kelley excels at and sees value in, especially in the long term. “I think there are areas [of research] that need to be pursued, but are well-established, or obvious, or are conventional-wisdom enough that lots of people either are already or will pursue them,” he says. “We try to find the ideas that have both large leverage to practically impact the world, and at the same time, are things that wouldn&#8217;t necessarily happen, or I think are being underserved relative to their potential by the rest of the community.”</p>
+<p>The course that he now teaches, 6.106 (Software Performance Engineering), exemplifies this. About 15 years ago, there was a shift from single to multiple processors in a device that caused many academic programs to begin teaching parallelism. But, as Ragan-Kelley explains, MIT realized the importance of students understanding not only parallelism but also optimizing memory and using specialized hardware to achieve the best performance possible.</p>
+<p>“By changing how we program, we can unlock the computational potential of new machines, and make it possible for people to continue to rapidly develop new applications and new ideas that are able to exploit that ever-more complicated and challenging hardware.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HPI-MIT design research collaboration creates powerful teams</title>
+		<link>https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Cleaner industry]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Environmental Solutions Initiative]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[MIT Morningside Academy for Design]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[Renewable energy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Supply chains]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</guid>
+
+					<description><![CDATA[The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments. This sort of attack and other [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments.</p>
+<p>This sort of attack and other forms of data theft are becoming increasingly common and often target large, multinational corporations through the small and mid-sized vendors in their corporate supply chains, enabling breaks in these enormous systems of interwoven companies.</p>
+<p>Cybersecurity researchers at MIT and the <a href="https://hpi.de/en/research/research-school/international-branches/hasso-plattner-institute.html">Hasso Plattner Institute</a> (HPI) in Potsdam, Germany, are focused on the different organizational security cultures that exist within large corporations and their vendors because it’s that difference that creates vulnerabilities, often due to the lack of emphasis on cybersecurity by the senior leadership in these small to medium-sized enterprises (SMEs).</p>
+<p>Keri Pearlson, executive director of Cybersecurity at MIT Sloan (CAMS); Jillian Kwong, a research scientist at CAMS; and Christian Doerr, a professor of cybersecurity and enterprise security at HPI, are co-principal investigators (PIs) on the research project, “Culture and the Supply Chain: Transmitting Shared Values, Attitudes and Beliefs across Cybersecurity Supply Chains.”</p>
+<p>Their project was selected in the 2023 inaugural round of grants from the <a href="https://design.mit.edu/about/research">HPI-MIT Designing for Sustainability program</a>, a multiyear partnership funded by HPI and administered by the MIT Morningside Academy for Design (MAD). The program awards about 10 grants annually of up to $200,000 each to multidisciplinary teams with divergent backgrounds in computer science, artificial intelligence, machine learning, engineering, design, architecture, the natural sciences, humanities, and business and management. The <a href="https://design.mit.edu/about/research">2024 Call for Applications</a> is open through June 3.</p>
+<p>Designing for Sustainability grants support scientific research that promotes the United Nations’ Sustainable Development Goals (SDGs) on topics involving sustainable design, innovation, and digital technologies, with teams made up of PIs from both institutions. The PIs on these projects, who have common interests but different strengths, create more powerful teams by working together.</p>
+<p><strong>Transmitting shared values, attitudes, and beliefs to improve cybersecurity across supply chains</strong></p>
+<p>The MIT and HPI cybersecurity researchers say that most ransomware attacks aren’t reported. Smaller companies hit with ransomware attacks just shut down, because they can’t afford the payment to retrieve their data. This makes it difficult to know just how many attacks and data breaches occur. “As more data and processes move online and into the cloud, it becomes even more important to focus on securing supply chains,” Kwong says. “Investing in cybersecurity allows information to be exchanged freely while keeping data safe. Without it, any progress towards sustainability is stalled.”</p>
+<p>One of the first large data breaches in the United States to be widely publicized provides a clear example of how an SME cybersecurity can leave a multinational corporation vulnerable to attack. In 2013, hackers entered the Target Corporation’s own network by obtaining the credentials of a small vendor in its supply chain: a Pennsylvania HVAC company. Through that breach, thieves were able to install malware that stole the financial and personal information of 110 million Target customers, which they sold to card shops on the black market.</p>
+<p>To prevent such attacks, SME vendors in a large corporation’s supply chain are required to agree to follow certain security measures, but the SMEs usually don’t have the expertise or training to make good on these cybersecurity promises, leaving their own systems, and therefore any connected to them, vulnerable to attack.</p>
+<p>“Right now, organizations are connected economically, but not aligned in terms of organizational culture, values, beliefs, and practices around cybersecurity,” explains Kwong. “Basically, the big companies are realizing the smaller ones are not able to implement all the cybersecurity requirements. We have seen some larger companies address this by reducing requirements or making the process shorter. However, this doesn’t mean companies are more secure; it just lowers the bar for the smaller suppliers to clear it.”</p>
+<p>Pearlson emphasizes the importance of board members and senior management taking responsibility for cybersecurity in order to change the culture at SMEs, rather than pushing that down to a single department, IT office, or in some cases, one IT employee.</p>
+<p>The research team is using case studies based on interviews, field studies, focus groups, and direct observation of people in their natural work environments to learn how companies engage with vendors, and the specific ways cybersecurity is implemented, or not, in everyday operations. The goal is to create a shared culture around cybersecurity that can be adopted correctly by all vendors in a supply chain.</p>
+<p>This approach is in line with the goals of the Charter of Trust Initiative, a partnership of large, multinational corporations formed to establish a better means of implementing cybersecurity in the supply chain network. The HPI-MIT team worked with companies from the Charter of Trust and others last year to understand the impacts of cybersecurity regulation on SME participation in supply chains and develop a conceptual framework to implement changes for stabilizing supply chains.</p>
+<p>Cybersecurity is a prerequisite needed to achieve any of the United Nations’ SDGs, explains Kwong. Without secure supply chains, access to key resources and institutions can be abruptly cut off. This could include food, clean water and sanitation, renewable energy, financial systems, health care, education, and resilient infrastructure. Securing supply chains helps enable progress on all SDGs, and the HPI-MIT project specifically supports SMEs, which are a pillar of the U.S. and European economies.</p>
+<p><strong>Personalizing product designs while minimizing material waste</strong></p>
+<p>In a vastly different Designing for Sustainability joint research project that employs AI with engineering, “Personalizing Product Designs While Minimizing Material Waste” will use AI design software to lay out multiple parts of a pattern on a sheet of plywood, acrylic, or other material, so that they can be laser cut to create new products in real time without wasting material.</p>
+<p>Stefanie Mueller, the TIBCO Career Development Associate Professor in the MIT Department of Electrical Engineering and Computer Science and a member of the Computer Science and Artificial Intelligence Laboratory, and Patrick Baudisch, a professor of computer science and chair of the Human Computer Interaction Lab at HPI, are co-PIs on the project. The two have worked together for years; Baudisch was Mueller’s PhD research advisor at HPI.</p>
+<p>Baudisch’s lab developed an online design teaching system called <a href="https://kyub.com/">Kyub</a> that lets students design 3D objects in pieces that are laser cut from sheets of wood and assembled to become chairs, speaker boxes, radio-controlled aircraft, or even functional musical instruments. For instance, each leg of a chair would consist of four identical vertical pieces attached at the edges to create a hollow-centered column, four of which will provide stability to the chair, even though the material is very lightweight.</p>
+<p>“By designing and constructing such furniture, students learn not only design, but also structural engineering,” Baudisch says. “Similarly, by designing and constructing musical instruments, they learn about structural engineering, as well as resonance, types of musical tuning, etc.”</p>
+<p>Mueller was at HPI when Baudisch developed the Kyub software, allowing her to observe “how they were developing and making all the design decisions,” she says. “They built a really neat piece for people to quickly design these types of 3D objects.” However, using Kyub for material-efficient design is not fast; in order to fabricate a model, the software has to break the 3D models down into 2D parts and lay these out on sheets of material. This takes time, and makes it difficult to see the impact of design decisions on material use in real-time.</p>
+<p>Mueller’s lab at MIT developed software based on a layout algorithm that uses AI to lay out pieces on sheets of material in real time. This allows AI to explore multiple potential layouts while the user is still editing, and thus provide ongoing feedback. “As the user develops their design, <a href="https://hcie.csail.mit.edu/research/fabricaide/fabricaide.html">Fabricaide</a> decides good placements of parts onto the user&#8217;s available materials, provides warnings if the user does not have enough material for a design, and makes suggestions for how the user can resolve insufficient material cases,” according to the project website.</p>
+<p>The joint MIT-HPI project integrates Mueller’s AI software with Baudisch’s Kyub software and adds machine learning to train the AI to offer better design suggestions that save material while adhering to the user’s design intent.</p>
+<p>“The project is all about minimizing the waste on these materials sheets,” Mueller says. She already envisions the next step in this AI design process: determining how to integrate the laws of physics into the AI’s knowledge base to ensure the structural integrity and stability of objects it designs.</p>
+<p><strong>AI-powered startup design for the Anthropocene: Providing guidance for novel enterprises</strong></p>
+<p>Through her work with the teams of <a href="https://designx.mit.edu/">MITdesignX</a> and its international programs, Svafa Grönfeldt, faculty director of MITdesignX and professor of the practice in MIT MAD, has helped scores of people in startup companies use the tools and methods of design to ensure that the solution a startup proposes actually fits the problem it seeks to solve. This is often called the problem-solution fit.</p>
+<p>Grönfeldt and MIT postdoc Norhan Bayomi are now extending this work to incorporate AI into the process, in collaboration with MIT Professor John Fernández and graduate student Tyler Kim. The HPI team includes Professor Gerard de Melo; HPI School of Entrepreneurship Director Frank Pawlitschek; and doctoral student Michael Mansfeld.</p>
+<p>“The startup ecosystem is characterized by uncertainty and volatility compounded by growing uncertainties in climate and planetary systems,” Grönfeldt says. “Therefore, there is an urgent need for a robust model that can objectively predict startup success and guide design for the Anthropocene.”</p>
+<p>While startup-success forecasting is gaining popularity, it currently focuses on aiding venture capitalists in selecting companies to fund, rather than guiding the startups in the design of their products, services and business plans.</p>
+<p>“The coupling of climate and environmental priorities with startup agendas requires deeper analytics for effective enterprise design,” Grönfeldt says. The project aims to explore whether AI-augmented decision-support systems can enhance startup-success forecasting.</p>
+<p>“We&#8217;re trying to develop a machine learning approach that will give a forecasting of probability of success based on a number of parameters, including the type of business model proposed, how the team came together, the team members’ backgrounds and skill sets, the market and industry sector they&#8217;re working in and the problem-solution fit,” says Bayomi, who works with Fernández in the MIT Environmental Solutions Initiative. The two are co-founders of the startup Lamarr.AI, which employs robotics and AI to help reduce the carbon dioxide impact of the built environment.</p>
+<p>The team is studying “how company founders make decisions across four key areas, starting from the opportunity recognition, how they are selecting the team members, how they are selecting the business model, identifying the most automatic strategy, all the way through the product market fit to gain an understanding of the key governing parameters in each of these areas,” explains Bayomi.</p>
+<p>The team is “also developing a large language model that will guide the selection of the business model by using large datasets from different companies in Germany and the U.S. We train the model based on the specific industry sector, such as a technology solution or a data solution, to find what would be the most suitable business model that would increase the success probability of a company,” she says.</p>
+<p>The project falls under several of the United Nations’ Sustainable Development Goals, including economic growth, innovation and infrastructure, sustainable cities and communities, and climate action.</p>
+<p><strong>Furthering the goals of the HPI-MIT Joint Research Program</strong></p>
+<p>These three diverse projects all advance the mission of the HPI-MIT collaboration. MIT MAD aims to use design to transform learning, catalyze innovation, and empower society by inspiring people from all disciplines to interweave design into problem-solving. HPI uses digital engineering concentrated on the development and research of user-oriented innovations for all areas of life.</p>
+<p>Interdisciplinary teams with members from both institutions are encouraged to develop and submit proposals for ambitious, sustainable projects that use design strategically to generate measurable, impactful solutions to the world’s problems.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Exploring frontiers of mechanical engineering</title>
 		<link>https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</link>
 		
@@ -455,114 +577,6 @@
 <p>“I think this work is very significant scientifically because it presents a new mechanism,” says University of Alberta Distinguished Professor Janet A.W. Elliott, who also was not associated with this work. “It may also turn out to be practically important for technology and our understanding of nature, because evaporation of water is ubiquitous and the effect appears to deliver significantly higher evaporation rates than the known thermal mechanism. …  My overall impression is this work is outstanding. It appears to be carefully done with many precise experiments lending support for one another.”</p>
 </p>
 <p>The work was partly supported by an MIT Bose Award. The authors are currently working on ways to make use of this effect for water desalination, in a project funded by the Abdul Latif Jameel Water and Food Systems Lab and the MIT-UMRP program.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Tackling cancer at the nanoscale</title>
-		<link>https://www.sawberries.com/2024/04/25/killian-lecture-speaker-paula-hammond-nanoparticles-0410/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 12:13:36 +0000</pubDate>
-				<category><![CDATA[Alumni/ae]]></category>
-		<category><![CDATA[Awards, honors and fellowships]]></category>
-		<category><![CDATA[Cancer]]></category>
-		<category><![CDATA[Chemical engineering]]></category>
-		<category><![CDATA[Community]]></category>
-		<category><![CDATA[Faculty]]></category>
-		<category><![CDATA[Koch Institute]]></category>
-		<category><![CDATA[nano]]></category>
-		<category><![CDATA[Nanoscience and nanotechnology]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/killian-lecture-speaker-paula-hammond-nanoparticles-0410/</guid>
-
-					<description><![CDATA[When Paula Hammond first arrived on MIT’s campus as a first-year student in the early 1980s, she wasn’t sure if she belonged. In fact, as she told an MIT audience yesterday, she felt like “an imposter.” However, that feeling didn’t last long, as Hammond began to find support among her fellow students and MIT’s faculty. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>When Paula Hammond first arrived on MIT’s campus as a first-year student in the early 1980s, she wasn’t sure if she belonged. In fact, as she told an MIT audience yesterday, she felt like “an imposter.”</p>
-<p>However, that feeling didn’t last long, as Hammond began to find support among her fellow students and MIT’s faculty. “Community was really important for me, to feel that I belonged, to feel that I had a place here, and I found people who were willing to embrace me and support me,” she said.</p>
-<p>Hammond, a world-renowned chemical engineer who has spent most of her academic career at MIT, made her remarks during the 2023-24 James R. Killian Jr. Faculty Achievement Award lecture.</p>
-<p>Established in 1971 to honor MIT’s 10th president, James Killian, the Killian Award recognizes extraordinary professional achievements by an MIT faculty member. Hammond was chosen for this year’s award “not only for her tremendous professional achievements and contributions, but also for her genuine warmth and humanity, her thoughtfulness and effective leadership, and her empathy and ethics,” according to the award citation.</p>
-<p>“Professor Hammond is a pioneer in nanotechnology research. With a program that extends from basic science to translational research in medicine and energy, she has introduced new approaches for the design and development of complex drug delivery systems for cancer treatment and noninvasive imaging,” said Mary Fuller, chair of MIT’s faculty and a professor of literature, who presented the award. “As her colleagues, we are delighted to celebrate her career today.”</p>
-<p>In January, Hammond began serving as MIT’s vice provost for faculty. Before that, she chaired the Department of Chemical Engineering for eight years, and she was named an Institute Professor in 2021.</p>
-<p><strong>A versatile technique</strong></p>
-<p>Hammond, who grew up in Detroit, credits her parents with instilling a love of science. Her father was one of very few Black PhDs in biochemistry at the time, while her mother earned a master’s degree in nursing from Howard University and founded the nursing school at Wayne County Community College. “That provided a huge amount of opportunity for women in the area of Detroit, including women of color,” Hammond noted.</p>
-<p>After earning her bachelor’s degree from MIT in 1984, Hammond worked as an engineer before returning to the Institute as a graduate student, earning her PhD in 1993. After a two-year postdoc at Harvard University, she returned to join the MIT faculty in 1995.</p>
-<p>At the heart of Hammond’s research is a technique she developed to create thin films that can essentially “shrink-wrap” nanoparticles. By tuning the chemical composition of these films, the particles can be customized to deliver drugs or nucleic acids and to target specific cells in the body, including cancer cells.</p>
-<p>To make these films, Hammond begins by layering positively charged polymers onto a negatively charged surface. Then, more layers can be added, alternating positively and negatively charged polymers. Each of these layers may contain drugs or other useful molecules, such as DNA or RNA. Some of these films contain hundreds of layers, others just one, making them useful for a wide range of applications.</p>
-<p>“What’s nice about the layer-by-layer process is I can choose a group of degradable polymers that are nicely biocompatible, and I can alternate them with our drug materials. This means that I can build up thin film layers that contain different drugs at different points within the film,” Hammond said. “Then, when the film degrades, it can release those drugs in reverse order. This is enabling us to create complex, multidrug films, using a simple water-based technique.”</p>
-<p>Hammond described how these layer-by-layer films can be used to promote bone growth, in an application that could help people born with congenital bone defects or people who experience traumatic injuries.</p>
-<p>For that use, her lab has created films with layers of two proteins. One of these, BMP-2, is a protein that interacts with adult stem cells and induces them to differentiate into bone cells, generating new bone. The second is a growth factor called VEGF, which stimulates the growth of new blood vessels that help bone to regenerate. These layers are applied to a very thin tissue scaffold that can be implanted at the injury site.</p>
-<p>Hammond and her students designed the coating so that once implanted, it would release VEGF early, over a week or so, and continue releasing BMP-2 for up to 40 days. In a study of mice, they found that this tissue scaffold stimulated the growth of <a href="https://news.mit.edu/2014/bone-repair-treat-injuries-0818" target="_blank" rel="noopener">new bone</a> that was nearly indistinguishable from natural bone.</p>
-<p><strong>Targeting cancer</strong></p>
-<p>As a member of MIT’s Koch Institute for Integrative Cancer Research, Hammond has also developed layer-by-layer coatings that can improve the performance of nanoparticles used for cancer drug delivery, such as liposomes or nanoparticles made from a polymer called PLGA.</p>
-<p>“We have a broad range of drug carriers that we can wrap this way. I think of them like a gobstopper, where there are all those different layers of candy and they dissolve one at a time,” Hammond said.</p>
-<p>Using this approach, Hammond has created particles that can deliver a one-two punch to cancer cells. First, the particles release a dose of a nucleic acid such as short interfering RNA (siRNA), which can turn off a cancerous gene, or microRNA, which can activate tumor suppressor genes. Then, the particles release a chemotherapy drug such as cisplatin, to which the cells are now more vulnerable.</p>
-<p>The particles also include a negatively charged outer “stealth layer” that protects them from being broken down in the bloodstream before they can reach their targets. This outer layer can also be modified to help the particles get taken up by cancer cells, by incorporating molecules that bind to proteins that are abundant on tumor cells.</p>
-<p>In more recent work, Hammond has begun developing nanoparticles that can target ovarian cancer and help prevent recurrence of the disease after chemotherapy. In about 70 percent of ovarian cancer patients, the first round of treatment is highly effective, but tumors recur in about 85 percent of those cases, and these new tumors are usually highly drug resistant.</p>
-<p>By altering the type of coating applied to drug-delivering nanoparticles, Hammond has found that the particles can be designed to either get inside tumor cells or stick to their surfaces. Using particles that stick to the cells, she has designed a treatment that could help to jumpstart a patient’s immune response to any recurrent tumor cells.</p>
-<p>“With ovarian cancer, very few immune cells exist in that space, and because they don’t have a lot of immune cells present, it’s very difficult to rev up an immune response,” she said. “However, if we can deliver a molecule to neighboring cells, those few that are present, and get them revved up, then we might be able to do something.”</p>
-<p>To that end, she designed nanoparticles that deliver IL-12, a cytokine that stimulates nearby T cells to spring into action and begin attacking tumor cells. In a study of mice, she found that this treatment induced a long-term memory T-cell response that prevented recurrence of ovarian cancer.</p>
-<p>Hammond closed her lecture by describing the impact that the Institute has had on her throughout her career.</p>
-<p>“It’s been a transformative experience,” she said. “I really think of this place as special because it brings people together and enables us to do things together that we couldn’t do alone. And it is that support we get from our friends, our colleagues, and our students that really makes things possible.”</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
-		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Computer science and technology]]></category>
-		<category><![CDATA[Cybersecurity]]></category>
-		<category><![CDATA[Data]]></category>
-		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
-		<category><![CDATA[Electronics]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
-		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
-		<category><![CDATA[National Science Foundation (NSF)]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
-
-					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
-<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
-<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
-<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
-<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
-<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
-<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
-<p><strong>Side-channel susceptibility</strong></p>
-<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
-<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
-<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
-<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
-<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
-<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
-<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
-<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
-<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
-<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
-<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
-<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
-<p><strong>Safety testing</strong></p>
-<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
-<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
-<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
-<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
-<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
-<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
 </div>
 ]]></content:encoded>
 					

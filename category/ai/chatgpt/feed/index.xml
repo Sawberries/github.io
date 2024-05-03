@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ChatGPT &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/chatgpt/feed/?simply_static_page=597592" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/chatgpt/feed/?simply_static_page=600718" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 15:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 21:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini vs ChatGPT: Which is Better for Coding?</title>
+		<link>https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT for code]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</guid>
+
+					<description><![CDATA[Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-vs-chatgpt-which-is-better-for-coding/">Gemini vs ChatGPT: Which is Better for Coding?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
 		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
 		

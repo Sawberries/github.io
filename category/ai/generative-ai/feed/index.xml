@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Generative AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=597534" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=600751" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 18:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 21:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gemini vs ChatGPT: Which is Better for Coding?</title>
+		<link>https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT for code]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</guid>
+
+					<description><![CDATA[Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-vs-chatgpt-which-is-better-for-coding/">Gemini vs ChatGPT: Which is Better for Coding?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
 		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
 		
@@ -284,32 +307,6 @@
 										<content:encoded><![CDATA[<div>
 <p> Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-in-data-analytics/">10 Ways to Use AI in Data Analytics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 AI Sales Assistant Tools</title>
-		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
-				<category><![CDATA[AI Sales Tools]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[AI Tools for Sales]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
-
-					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
