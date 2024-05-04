@@ -9,10 +9,10 @@
 
 <channel>
 	<title>data science &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=795061" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=798115" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 12:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 18:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
+		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
+
+					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
 		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
 		

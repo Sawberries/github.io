@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Listicle &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=795335" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=798131" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 18:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 18:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
+		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
+
+					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
 		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
 		
@@ -258,34 +281,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Are you trying to find your next significant professional step? It can be rather difficult to write the ideal resume, but fortunately, there are some amazing AI-powered tools available to help. These incredible tools are free! With the aid of clever technology, these tools may make your resume stand out in a crowded employment […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-resume-building-apps/">Top 5 Free AI Resume Building Apps</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 7 AI Healthcare Solution Providers</title>
-		<link>https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 27 Apr 2024 06:28:37 +0000</pubDate>
-				<category><![CDATA[AI medical diagnosis]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[diagnosis]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[health care providers]]></category>
-		<category><![CDATA[Healthcare]]></category>
-		<category><![CDATA[healthcare solution]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[treatement]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/27/ai-healthcare-solution-providers/</guid>
-
-					<description><![CDATA[Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Artificial Intelligence technology is reshaping treatment, patient care and diagnosis in the healthcare industry. Precision medicine platforms and portable ultrasound equipment are examples of these technology. Healthcare professionals can now offer patients individualized, effective, and precise care because to developments in artificial intelligence. This article offers insights into the newest advancements in AI-driven medical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-healthcare-solution-providers/">Top 7 AI Healthcare Solution Providers</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

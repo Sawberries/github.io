@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=795057" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=798090" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 12:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 18:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
+		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
+
+					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
 		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
 		
@@ -266,35 +289,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
-		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Claude 3]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[GPT4]]></category>
-		<category><![CDATA[GPT5]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
-
-					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

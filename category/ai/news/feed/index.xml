@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=794895" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=798273" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 15:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 18:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ola Krutrim Launches AI Cloud Platform and Mobile App</title>
+		<link>https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[AI cloud platform]]></category>
+		<category><![CDATA[AI mobile app]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Krutrim Assistant]]></category>
+		<category><![CDATA[Krutrim Cloud]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ola Krutrim]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</guid>
+
+					<description><![CDATA[Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/">Ola Krutrim Launches AI Cloud Platform and Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</title>
 		<link>https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</link>
 		
@@ -257,33 +291,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/med-gemini/">Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
-		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[chatbots]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[conversational AI]]></category>
-		<category><![CDATA[memory]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
-
-					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
