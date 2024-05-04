@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=737260" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=740540" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 12:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>40+ Free Python Resources that can Help you Become a Pro</title>
 		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
 		
@@ -267,34 +295,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
-		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 15:01:33 +0000</pubDate>
-				<category><![CDATA[AI Business Tools]]></category>
-		<category><![CDATA[Ai logo]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[logo generator]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Small Business]]></category>
-		<category><![CDATA[treding]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</guid>
-
-					<description><![CDATA[Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-logo-generators-for-small-businesses/">Top 6 AI Logo Generators for Small Businesses in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

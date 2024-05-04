@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=737154" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=740329" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
+		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Llama 3]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<category><![CDATA[VS code]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</guid>
+
+					<description><![CDATA[Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>40+ Free Python Resources that can Help you Become a Pro</title>
 		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
 		
@@ -362,59 +419,6 @@
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-246757 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-6.jpg" alt="a small white and blue knit square that reads type" width="2000" height="1870" srcset="https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-6.jpg 2000w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-6-640x598.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-6-960x898.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-6-1536x1436.jpg 1536w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
 <p><img loading="lazy" decoding="async" class="alignnone wp-image-246758 size-full" src="https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-7.jpg" alt="a blue and white knit square with text" width="1920" height="1631" srcset="https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-7.jpg 1920w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-7-640x544.jpg 640w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-7-960x816.jpg 960w, https://www.thisiscolossal.com/wp-content/uploads/2024/05/type-7-1536x1305.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px"></p>
 <p>Do stories and artists like this matter to you? Become a <a href="https://www.thisiscolossal.com/members">Colossal Member</a> today and support independent arts publishing for as little as $5 per month. The article <a href="https://www.thisiscolossal.com/2024/05/type-knitting-rudiger-schlomer/">Picking Up Pixels: Rüdiger Schlömer Designs Typefaces for Knitting</a> appeared first on <a href="https://www.thisiscolossal.com/">Colossal</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
-		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 15:01:13 +0000</pubDate>
-				<category><![CDATA[AGI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GPT4]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Sam Altman]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</guid>
-
-					<description><![CDATA[In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/">Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>30 Python Coding Interview Questions for Beginners</title>
-		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 12:01:15 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[coding questions]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Interview Questions]]></category>
-		<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[Python Coding Interview Questions]]></category>
-		<category><![CDATA[python quesitons]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</guid>
-
-					<description><![CDATA[Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

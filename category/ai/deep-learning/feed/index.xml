@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Deep Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/deep-learning/feed/?simply_static_page=737582" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/deep-learning/feed/?simply_static_page=740551" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 18:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 12:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
 		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
 		
@@ -277,30 +305,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>10+ Deepfake Videos that You Must Watch in 2024</title>
-		<link>https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 15:02:20 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[deepfake]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/deepfake-videos-that-you-must-watch/</guid>
-
-					<description><![CDATA[Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction AI won’t kill us, but its footprint on society is concerning. As per AI ethics researcher Sasha Luccioni – with AI advancement, it is now high time for us to focus on the negative impacts of technology. These include AI’s current, tangible impacts, such as its environmental footprint. However, the most pressing concern is […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/deepfake-videos-that-you-must-watch/">10+ Deepfake Videos that You Must Watch in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

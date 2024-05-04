@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=736917" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=740093" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
+		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Llama 3]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<category><![CDATA[VS code]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</guid>
+
+					<description><![CDATA[Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>40+ Free Python Resources that can Help you Become a Pro</title>
 		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
 		
@@ -326,58 +383,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Understanding Fuzzy C Means Clustering</title>
-		<link>https://www.sawberries.com/2024/05/03/understanding-fuzzy-c-means-clustering/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 12:01:14 +0000</pubDate>
-				<category><![CDATA[Algorithm]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[centroid]]></category>
-		<category><![CDATA[Clustering]]></category>
-		<category><![CDATA[clusters]]></category>
-		<category><![CDATA[Datasets]]></category>
-		<category><![CDATA[Fuzzy C Means]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Probability]]></category>
-		<category><![CDATA[Technical]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/understanding-fuzzy-c-means-clustering/</guid>
-
-					<description><![CDATA[Introduction Clustering is an unsupervised machine learning algorithm that groups together similar data points based on criteria like shared attributes. Each cluster has data points that are similar to the other data points in the cluster while as a whole, the cluster is dissimilar to other data points. By making use of clustering algorithms, we [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Clustering is an unsupervised machine learning algorithm that groups together similar data points based on criteria like shared attributes. Each cluster has data points that are similar to the other data points in the cluster while as a whole, the cluster is dissimilar to other data points. By making use of clustering algorithms, we […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/understanding-fuzzy-c-means-clustering/">Understanding Fuzzy C Means Clustering</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
-		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
-				<category><![CDATA[AI Challenge]]></category>
-		<category><![CDATA[Kaggle]]></category>
-		<category><![CDATA[LMSYS]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
-
-					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

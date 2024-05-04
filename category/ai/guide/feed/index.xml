@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Guide &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=737714" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=740441" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 12:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
+		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Llama 3]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+		<category><![CDATA[VS code]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</guid>
+
+					<description><![CDATA[Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Understanding Fuzzy C Means Clustering</title>
 		<link>https://www.sawberries.com/2024/05/03/understanding-fuzzy-c-means-clustering/</link>
 		
@@ -323,40 +352,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GhostFaceNets: Efficient Face Recognition on Edge Devices</title>
-		<link>https://www.sawberries.com/2024/04/25/ghostfacenets-efficient-face-recognition-on-edge-devices/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 12:13:48 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Applications]]></category>
-		<category><![CDATA[architecture]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[Classification]]></category>
-		<category><![CDATA[convolution]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[face recognition]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[IOT]]></category>
-		<category><![CDATA[Layer]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[modules]]></category>
-		<category><![CDATA[recognition]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/ghostfacenets-efficient-face-recognition-on-edge-devices/</guid>
-
-					<description><![CDATA[Introduction GhostFaceNets is a revolutionary facial recognition technology that uses affordable operations without compromising accuracy. Inspired by attention-based models, it revolutionizes facial recognition technology. This blog post explores GhostFaceNets through captivating visuals and insightful illustrations, aiming to educate, motivate, and spark creativity. The journey is not just a blog post, but a unique exploration of [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction GhostFaceNets is a revolutionary facial recognition technology that uses affordable operations without compromising accuracy. Inspired by attention-based models, it revolutionizes facial recognition technology. This blog post explores GhostFaceNets through captivating visuals and insightful illustrations, aiming to educate, motivate, and spark creativity. The journey is not just a blog post, but a unique exploration of […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ghostfacenets-efficient-face-recognition-on-edge-devices/">GhostFaceNets: Efficient Face Recognition on Edge Devices</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
