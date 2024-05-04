@@ -9,10 +9,10 @@
 
 <channel>
 	<title>data science &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=709502" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=712248" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Fri, 03 May 2024 12:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>40+ Free Python Resources that can Help you Become a Pro</title>
+		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python books]]></category>
+		<category><![CDATA[Python Course]]></category>
+		<category><![CDATA[Python Resources]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/free-python-resources/</guid>
+
+					<description><![CDATA[Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-python-resources/">40+ Free Python Resources that can Help you Become a Pro</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Python Coding Interview Questions for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
 		
