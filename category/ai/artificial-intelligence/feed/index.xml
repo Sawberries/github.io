@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=765822" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=769049" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 12:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 15:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</title>
+		<link>https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai chatbot]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[topics]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</guid>
+
+					<description><![CDATA[X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/">Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
 		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
 		
@@ -362,40 +391,6 @@
 <p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Releases Claude Team Enterprise AI Plan and iOS App</title>
-		<link>https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 00:01:14 +0000</pubDate>
-				<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[anthropic claude 3]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[apple app store]]></category>
-		<category><![CDATA[apple ios]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Big Data]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[CXO]]></category>
-		<category><![CDATA[ensono]]></category>
-		<category><![CDATA[Enterprise Software]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[International]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Mobility]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Start-Ups]]></category>
-		<category><![CDATA[teksystems]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</guid>
-
-					<description><![CDATA[The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.]]></description>
-										<content:encoded><![CDATA[<div>The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.</div>
 ]]></content:encoded>
 					
 		
