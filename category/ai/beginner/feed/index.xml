@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=824194" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=827589" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 18:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 May 2024 21:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>10 Mind-blowing Use Cases of Llama 3</title>
+		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 21:01:13 +0000</pubDate>
+				<category><![CDATA[AI Use cases]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLaMA]]></category>
+		<category><![CDATA[Llama 3]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/use-cases-of-llama/</guid>
+
+					<description><![CDATA[Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/use-cases-of-llama/">10 Mind-blowing Use Cases of Llama 3</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
 		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
 		
@@ -256,39 +283,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Build a Winning Dream 11 Team Using Python and AI</title>
-		<link>https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:23 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Dream 11]]></category>
-		<category><![CDATA[fantasy games]]></category>
-		<category><![CDATA[fantasy sports]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[india]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[My Circle]]></category>
-		<category><![CDATA[Prediction]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[team building]]></category>
-		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</guid>
-
-					<description><![CDATA[Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
