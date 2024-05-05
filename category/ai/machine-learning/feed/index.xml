@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=913280" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=916349" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 12:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
+		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[Claude 3 Sonnet]]></category>
+		<category><![CDATA[Claude AI]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
+
+					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
 		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
 		
@@ -346,39 +376,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Build a Winning Dream 11 Team Using Python and AI</title>
-		<link>https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:23 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Dream 11]]></category>
-		<category><![CDATA[fantasy games]]></category>
-		<category><![CDATA[fantasy sports]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[india]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[My Circle]]></category>
-		<category><![CDATA[Prediction]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[team building]]></category>
-		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/build-a-winning-dream-team-using-python-and-ai/</guid>
-
-					<description><![CDATA[Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

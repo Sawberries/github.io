@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=913025" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=916249" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 21:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
+		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[Claude 3 Sonnet]]></category>
+		<category><![CDATA[Claude AI]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
+
+					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>10 Mind-blowing Use Cases of Llama 3</title>
 		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
 		
@@ -253,36 +283,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
-		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hanooman]]></category>
-		<category><![CDATA[Krutrim AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Ola]]></category>
-		<category><![CDATA[Reliance AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
-
-					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
