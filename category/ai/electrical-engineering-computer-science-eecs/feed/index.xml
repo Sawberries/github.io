@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>economics &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/economics/feed/?simply_static_page=1076023" rel="self" type="application/rss+xml" />
+	<title>Electrical Engineering &amp; Computer Science (eecs) &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/electrical-engineering-computer-science-eecs/feed/?simply_static_page=1076683" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 May 2024 21:01:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,46 +22,12 @@
 
 <image>
 	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
-	<title>economics &#8211; sawberries</title>
+	<title>Electrical Engineering &amp; Computer Science (eecs) &#8211; sawberries</title>
 	<link>https://www.sawberries.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
-		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Design]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[Gyan AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Mathematics]]></category>
-		<category><![CDATA[Maths]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Paramanu-Ganita]]></category>
-		<category><![CDATA[small language models]]></category>
-		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
-
-					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Creating bespoke programming languages for efficient visual AI systems</title>
 		<link>https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</link>
 		
@@ -184,171 +150,6 @@
 		
 			</item>
 		<item>
-		<title>Exploring frontiers of mechanical engineering</title>
-		<link>https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 18:01:16 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Design]]></category>
-		<category><![CDATA[Graduate, postdoctoral]]></category>
-		<category><![CDATA[Health sciences and technology]]></category>
-		<category><![CDATA[Human-computer interaction]]></category>
-		<category><![CDATA[Independent Activities Period]]></category>
-		<category><![CDATA[Mechanical engineering]]></category>
-		<category><![CDATA[Nanoscience and nanotechnology]]></category>
-		<category><![CDATA[Oceanography and ocean engineering]]></category>
-		<category><![CDATA[Profile]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<category><![CDATA[Spaceflight]]></category>
-		<category><![CDATA[Sports analytics]]></category>
-		<category><![CDATA[Students]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/mechanical-engineering-graduate-students-explore-frontiers-0503/</guid>
-
-					<description><![CDATA[From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>From cutting-edge robotics, design, and bioengineering to sustainable energy solutions, ocean engineering, nanotechnology, and innovative materials science, MechE students and their advisors are doing incredibly innovative work. The graduate students highlighted here represent a snapshot of the great work in progress this spring across the Department of Mechanical Engineering, and demonstrate the ways the future of this field is as limitless as the imaginations of its practitioners.</p>
-<p><strong>Democratizing design through AI</strong></p>
-<p>Lyle Regenwetter<br />Hometown: Champaign, Illinois<br />Advisor: Assistant Professor Faez Ahmed<br />Interests: Food, climbing, skiing, soccer, tennis, cooking</p>
-<p>Lyle Regenwetter finds excitement in the prospect of generative AI to &#8220;democratize&#8221; design and enable inexperienced designers to tackle complex design problems. His research explores new training methods through which generative AI models can be taught to implicitly obey design constraints and synthesize higher-performing designs. Knowing that prospective designers often have an intimate knowledge of the needs of users, but may otherwise lack the technical training to create solutions, Regenwetter also develops human-AI collaborative tools that allow AI models to interact and support designers in popular CAD software and real design problems. </p>
-<p><strong>Solving a whale of a problem </strong></p>
-<p>Loïcka Baille<br />Hometown: L’Escale, France<br />Advisor: Daniel Zitterbart<br />Interests: Being outdoors — scuba diving, spelunking, or climbing. Sailing on the Charles River, martial arts classes, and playing volleyball</p>
-<p>Loïcka Baille’s research focuses on developing remote sensing technologies to study and protect marine life. Her main project revolves around improving onboard whale detection technology to prevent vessel strikes, with a special focus on protecting North Atlantic right whales. Baille is also involved in an ongoing study of Emperor penguins. Her team visits Antarctica annually to tag penguins and gather data to enhance their understanding of penguin population dynamics and draw conclusions regarding the overall health of the ecosystem.</p>
-<p><strong>Water, water anywhere</strong></p>
-<p>Carlos Díaz-Marín<br />Hometown: San José, Costa Rica<br />Advisor: Professor Gang Chen | Former Advisor: Professor Evelyn Wang<br />Interests: New England hiking, biking, and dancing</p>
-<p>Carlos Díaz-Marín designs and synthesizes inexpensive salt-polymer materials that can capture large amounts of humidity from the air. He aims to change the way we generate potable water from the air, even in arid conditions. In addition to water generation, these salt-polymer materials can also be used as thermal batteries, capable of storing and reusing heat. Beyond the scientific applications, Díaz-Marín is excited to continue doing research that can have big social impacts, and that finds and explains new physical phenomena. As a LatinX person, Díaz-Marín is also driven to help increase diversity in STEM.</p>
-<p><strong>Scalable fabrication of nano-architected materials</strong></p>
-<p>Somayajulu Dhulipala<br />Hometown: Hyderabad, India<br />Advisor: Assistant Professor Carlos Portela<br />Interests: Space exploration, taekwondo, meditation.</p>
-<p>Somayajulu Dhulipala works on developing lightweight materials with tunable mechanical properties. He is currently working on methods for the scalable fabrication of nano-architected materials and predicting their mechanical properties. The ability to fine-tune the mechanical properties of specific materials brings versatility and adaptability, making these materials suitable for a wide range of applications across multiple industries. While the research applications are quite diverse, Dhulipala is passionate about making space habitable for humanity, a crucial step toward becoming a spacefaring civilization.</p>
-<p><strong>Ingestible health-care devices</strong></p>
-<p>Jimmy McRae<br />Hometown: Woburn, Massachusetts<br />Advisor: Associate Professor Giovani Traverso<br />Interests: Anything basketball-related: playing, watching, going to games, organizing hometown tournaments </p>
-<p>Jimmy McRae aims to drastically improve diagnostic and therapeutic capabilities through noninvasive health-care technologies. His research focuses on leveraging materials, mechanics, embedded systems, and microfabrication to develop novel ingestible electronic and mechatronic devices. This ranges from ingestible electroceutical capsules that modulate hunger-regulating hormones to devices capable of continuous ultralong monitoring and remotely triggerable actuations from within the stomach. The principles that guide McRae’s work to develop devices that function in extreme environments can be applied far beyond the gastrointestinal tract, with applications for outer space, the ocean, and more.</p>
-<p><strong>Freestyle BMX meets machine learning</strong></p>
-<p>Eva Nates<br />Hometown: Narberth, Pennsylvania <br />Advisor: Professor Peko Hosoi<br />Interests: Rowing, running, biking, hiking, baking</p>
-<p>Eva Nates is working with the Australian Cycling Team to create a tool to classify Bicycle Motocross Freestyle (BMX FS) tricks. She uses a singular value decomposition method to conduct a principal component analysis of the time-dependent point-tracking data of an athlete and their bike during a run to classify each trick. The 2024 Olympic team hopes to incorporate this tool in their training workflow, and Nates worked alongside the team at their facilities on the Gold Coast of Australia during MIT’s Independent Activities Period in January.</p>
-<p><strong>Augmenting Astronauts with Wearable Limbs </strong></p>
-<p>Erik Ballesteros<br />Hometown: Spring, Texas<br />Advisor: Professor Harry Asada<br />Interests: Cosplay, Star Wars, Lego bricks</p>
-<p>Erik Ballesteros’s research seeks to support astronauts who are conducting planetary extravehicular activities through the use of supernumerary robotic limbs (SuperLimbs). His work is tailored toward design and control manifestation to assist astronauts with post-fall recovery, human-leader/robot-follower quadruped locomotion, and coordinated manipulation between the SuperLimbs and the astronaut to perform tasks like excavation and sample handling.</p>
-<p><em>This article appeared in the Spring 2024 edition of the Department of Mechanical Engineering&#8217;s magazine, </em><a href="https://meche.mit.edu/magazine">MechE Connects</a><em>. </em></p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Physicists arrange atoms in extremely close proximity</title>
-		<link>https://www.sawberries.com/2024/05/03/physicists-arrange-atoms-extremely-close-proximity-0502/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 00:01:05 +0000</pubDate>
-				<category><![CDATA[Department of Defense (DoD)]]></category>
-		<category><![CDATA[Light]]></category>
-		<category><![CDATA[nano]]></category>
-		<category><![CDATA[Nanoscience and nanotechnology]]></category>
-		<category><![CDATA[National Science Foundation (NSF)]]></category>
-		<category><![CDATA[Physics]]></category>
-		<category><![CDATA[Quantum computing]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Research Laboratory of Electronics]]></category>
-		<category><![CDATA[School of Science]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/physicists-arrange-atoms-extremely-close-proximity-0502/</guid>
-
-					<description><![CDATA[Proximity is key for many quantum phenomena, as interactions between atoms are stronger when the particles are close. In many quantum simulators, scientists arrange atoms as close together as possible to explore exotic states of matter and build new quantum materials. They typically do this by cooling the atoms to a stand-still, then using laser [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Proximity is key for many quantum phenomena, as interactions between atoms are stronger when the particles are close. In many quantum simulators, scientists arrange atoms as close together as possible to explore exotic states of matter and build new quantum materials.</p>
-<p>They typically do this by cooling the atoms to a stand-still, then using laser light to position the particles as close as 500 nanometers apart — a limit that is set by the wavelength of light. Now, MIT physicists have developed a technique that allows them to arrange atoms in much closer proximity, down to a mere 50 nanometers. For context, a red blood cell is about 1,000 nanometers wide.</p>
-<p>The physicists demonstrated the new approach in experiments with dysprosium, which is the most magnetic atom in nature. They used the new approach to manipulate two layers of dysprosium atoms, and positioned the layers precisely 50 nanometers apart. At this extreme proximity, the magnetic interactions were 1,000 times stronger than if the layers were separated by 500 nanometers.</p>
-<p>What’s more, the scientists were able to measure two new effects caused by the atoms’ proximity. Their enhanced magnetic forces caused “thermalization,” or the transfer of heat from one layer to another, as well as synchronized oscillations between layers. These effects petered out as the layers were spaced farther apart.</p>
-<p>“We have gone from positioning atoms from 500 nanometers to 50 nanometers apart, and there is a lot you can do with this,” says Wolfgang Ketterle, the John D. MacArthur Professor of Physics at MIT. “At 50 nanometers, the behavior of atoms is so much different that we’re really entering a new regime here.”</p>
-<p>Ketterle and his colleagues say the new approach can be applied to many other atoms to study quantum phenomena. For their part, the group plans to use the technique to manipulate atoms into configurations that could generate the first purely magnetic quantum gate — a key building block for a new type of quantum computer.</p>
-<p>The team has <a href="https://www.science.org/doi/10.1126/science.adh3023" target="_blank" rel="noopener">published their results today</a> in the journal <em>Science</em>. The study’s co-authors include lead author and physics graduate student Li Du, along with Pierre Barral, Michael Cantara, Julius de Hond, and Yu-Kun Lu — all members of the MIT-Harvard Center for Ultracold Atoms, the Department of Physics, and the Research Laboratory of Electronics at MIT.</p>
-<p><strong>Peaks and valleys</strong></p>
-<p>To manipulate and arrange atoms, physicists typically first cool a cloud of atoms to temperatures approaching absolute zero, then use a system of laser beams to corral the atoms into an optical trap.</p>
-<p>Laser light is an electromagnetic wave with a specific wavelength (the distance between maxima of the electric field) and frequency. The wavelength limits the smallest pattern into which light can be shaped to typically 500 nanometers, the so-called optical resolution limit. Since atoms are attracted by laser light of certain frequencies, atoms will be positioned at the points of peak laser intensity. For this reason, existing techniques have been limited in how close they can position atomic particles, and could not be used to explore phenomena that happen at much shorter distances.</p>
-<p>“Conventional techniques stop at 500 nanometers, limited not by the atoms but by the wavelength of light,” Ketterle explains. “We have found now a new trick with light where we can break through that limit.”</p>
-<p>The team’s new approach, like current techniques, starts by cooling a cloud of atoms — in this case, to about 1 microkelvin, just a hair above absolute zero — at which point, the atoms come to a near-standstill. Physicists can then use lasers to move the frozen particles into desired configurations.</p>
-<p>Then, Du and his collaborators worked with two laser beams, each with a different frequency, or color, and circular polarization, or direction of the laser’s electric field. When the two beams travel through a super-cooled cloud of atoms, the atoms can orient their spin in opposite directions, following either of the two lasers’ polarization. The result is that the beams produce two groups of the same atoms, only with opposite spins.</p>
-<p>Each laser beam formed a standing wave, a periodic pattern of electric field intensity with a spatial period of 500 nanometers. Due to their different polarizations, each standing wave attracted and corralled one of two groups of atoms, depending on their spin. The lasers could be overlaid and tuned such that the distance between their respective peaks is as small as 50 nanometers, meaning that the atoms gravitating to each respective laser’s peaks would be separated by the same 50 nanometers.</p>
-<p>But in order for this to happen, the lasers would have to be extremely stable and immune to all external noise, such as from shaking or even breathing on the experiment. The team realized they could stabilize both lasers by directing them through an optical fiber, which served to lock the light beams in place in relation to each other.</p>
-<p>“The idea of sending both beams through the optical fiber meant the whole machine could shake violently, but the two laser beams stayed absolutely stable with respect to each others,” Du says.</p>
-<p><strong>Magnetic forces at close range</strong></p>
-<p>As a first test of their new technique, the team used atoms of dysprosium — a rare-earth metal that is one of the strongest magnetic elements in the periodic table, particularly at ultracold temperatures. However, at the scale of atoms, the element’s magnetic interactions are relatively weak at distances of even 500 nanometers. As with common refrigerator magnets, the magnetic attraction between atoms increases with proximity, and the scientists suspected that if their new technique could space dysprosium atoms as close as 50 nanometers apart, they might observe the emergence of otherwise weak interactions between the magnetic atoms.</p>
-<p>“We could suddenly have magnetic interactions, which used to be almost neglible but now are really strong,” Ketterle says.</p>
-<p>The team applied their technique to dysprosium, first super-cooling the atoms, then passing two lasers through to split the atoms into two spin groups, or layers. They then directed the lasers through an optical fiber to stabilize them, and found that indeed, the two layers of dysprosium atoms gravitated to their respective laser peaks, which in effect separated the layers of atoms by 50 nanometers — the closest distance that any ultracold atom experiment has been able to achieve.</p>
-<p>At this extremely close proximity, the atoms’ natural magnetic interactions were significantly enhanced, and were 1,000 times stronger than if they were positioned 500 nanometers apart. The team observed that these interactions resulted in two novel quantum phenomena: collective oscillation, in which one layer’s vibrations caused the other layer to vibrate in sync; and thermalization, in which one layer transferred heat to the other, purely through magnetic fluctuations in the atoms.</p>
-<p>“Until now, heat between atoms could only by exchanged when they were in the same physical space and could collide,” Du notes. “Now we have seen atomic layers, separated by vacuum, and they exchange heat via fluctuating magnetic fields.”</p>
-<p>The team’s results introduce a new technique that can be used to position many types of atom in close proximity. They also show that atoms, placed close enough together, can exhibit interesting quantum phenomena, that could be harnessed to build new quantum materials, and potentially, magnetically-driven atomic systems for quantum computers.</p>
-<p>“We are really bringing super-resolution methods to the field, and it will become a general tool for doing quantum simulations,” Ketterle says. “There are many variants possible, which we are working on.”</p>
-<p>This research was funded, in part, by the National Science Foundation and the Department of Defense.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Fostering research, careers, and community in materials science</title>
-		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
-				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
-		<category><![CDATA[Algorithms]]></category>
-		<category><![CDATA[Alumni/ae]]></category>
-		<category><![CDATA[Classes and programs]]></category>
-		<category><![CDATA[Collaboration]]></category>
-		<category><![CDATA[Computer modeling]]></category>
-		<category><![CDATA[Computer science and technology]]></category>
-		<category><![CDATA[Data]]></category>
-		<category><![CDATA[Digital technology]]></category>
-		<category><![CDATA[DMSE]]></category>
-		<category><![CDATA[Education, teaching, academics]]></category>
-		<category><![CDATA[Learning]]></category>
-		<category><![CDATA[Mentoring]]></category>
-		<category><![CDATA[MIT.nano]]></category>
-		<category><![CDATA[nano]]></category>
-		<category><![CDATA[Office of Open Learning]]></category>
-		<category><![CDATA[Online learning]]></category>
-		<category><![CDATA[Programming]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<category><![CDATA[Special events and guest speakers]]></category>
-		<category><![CDATA[STEM education]]></category>
-		<category><![CDATA[Students]]></category>
-		<category><![CDATA[Undergraduate]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
-
-					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
-<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
-<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
-<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
-<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
-<p><strong>Expanding research opportunities</strong></p>
-<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
-<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
-<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
-<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
-<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
-<p><strong>Building community</strong></p>
-<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
-<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
-<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
-<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
-<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
-<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
-<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
-<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Natural language boosts LLM performance in coding, planning, and robotics</title>
 		<link>https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</link>
 		
@@ -407,69 +208,6 @@
 <p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
 <p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
 <p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>An AI dataset carves new paths to tornado detection</title>
-		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
-				<category><![CDATA[Algorithms]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Climate change]]></category>
-		<category><![CDATA[Data]]></category>
-		<category><![CDATA[Disaster response]]></category>
-		<category><![CDATA[Lincoln Laboratory]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Natural disasters]]></category>
-		<category><![CDATA[Radar]]></category>
-		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Technology and society]]></category>
-		<category><![CDATA[Weather]]></category>
-		<category><![CDATA[Weather modeling]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
-
-					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
-<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
-<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
-<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
-<p><strong>Swirling uncertainty</strong></p>
-<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
-<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
-<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
-<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
-<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
-<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
-<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
-<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
-<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
-<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
-<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
-<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
-<p><strong>Chasing answers with deep learning</strong></p>
-<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
-<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
-<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
-<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
-<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
-<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
-<p><strong>Taking steps toward operations</strong></p>
-<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
-<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
-<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
-<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
-<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
-<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
-<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
-<p>In the end, the path could circle back to trust.</p>
-<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
 </div>
 ]]></content:encoded>
 					
@@ -539,72 +277,186 @@
 		
 			</item>
 		<item>
-		<title>Exploring the history of data-driven arguments in public life</title>
-		<link>https://www.sawberries.com/2024/04/28/william-deringer-explores-history-data-driven-arguments-0428/</link>
+		<title>Julie Shah named head of the Department of Aeronautics and Astronautics</title>
+		<link>https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</link>
 		
 		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 28 Apr 2024 12:53:46 +0000</pubDate>
-				<category><![CDATA[economics]]></category>
+		<pubDate>Mon, 29 Apr 2024 18:01:36 +0000</pubDate>
+				<category><![CDATA[Administration]]></category>
+		<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
 		<category><![CDATA[Faculty]]></category>
-		<category><![CDATA[History of science]]></category>
-		<category><![CDATA[Profile]]></category>
-		<category><![CDATA[Program in STS]]></category>
-		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/william-deringer-explores-history-data-driven-arguments-0428/</guid>
+		<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/julie-shah-named-head-department-aeronautics-astronautics-0429/</guid>
 
-					<description><![CDATA[Political debates today may not always be exceptionally rational, but they are often infused with numbers. If people are discussing the economy or health care or climate change, sooner or later they will invoke statistics. It was not always thus. Our habit of using numbers to make political arguments has a history, and William Deringer [&#8230;]]]></description>
+					<description><![CDATA[Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1. “Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div>
-<p>Political debates today may not always be exceptionally rational, but they are often infused with numbers. If people are discussing the economy or health care or climate change, sooner or later they will invoke statistics.</p>
-</p>
-<p>It was not always thus. Our habit of using numbers to make political arguments has a history, and William Deringer is a leading historian of it. Indeed, in recent years Deringer, an associate professor in MIT’s Program in Science, Technology, and Society (STS), has carved out a distinctive niche through his scholarship showing how quantitative reasoning has become part of public life.</p>
-</p>
-<p>In his prize-winning 2018 book “<a href="https://news.mit.edu/2018/book-statistical-arguments-public-debate-0205" target="_blank" rel="noopener">Calculated Values</a>” (Harvard University Press), Deringer identified a time in British public life from the 1680s to the 1720s as a key moment when the practice of making numerical arguments took hold — a trend deeply connected with the rise of parliamentary power and political parties. Crucially, freedom of the press also expanded, allowing greater scope for politicians and the public to have frank discussions about the world as it was, backed by empirical evidence.</p>
-</p>
-<p>Deringer’s second book project, in progress and under contract to Yale University Press, digs further into a concept from the first book — the idea of financial discounting. This is a calculation to estimate what money (or other things) in the future is worth today, to assign those future objects a “present value.” Some skilled mathematicians understood discounting in medieval times; its use expanded in the 1600s; today it is very common in finance and is the subject of debate in relation to climate change, as experts try to estimate ideal spending levels on climate matters.</p>
-</p>
-<p>“The book is about how this particular technique came to have the power to weigh in on profound social questions,” Deringer says. “It’s basically about compound interest, and it’s at the center of the most important global question we have to confront.”</p>
-</p>
-<p>Numbers alone do not make a debate rational or informative; they can be false, misleading, used to entrench interests, and so on. Indeed, a key theme in Deringer’s work is that when quantitiative reasoning gains more ground, the question is why, and to whose benefit. In this sense his work aligns with the long-running and always-relevant approach of the Institute’s STS faculty, in thinking carefully about how technology and knowledge is applied to the world.</p>
-</p>
-<p>“The broader culture more has become attuned to STS, whether it’s conversations about AI or algorithmic fairness or climate change or energy, these are simultaneously technical and social issues,” Deringer says. “Teaching undergraduates, I’ve found the awareness of that at MIT has only increased.” For both his research and teaching, Deringer received tenure from MIT earlier this year.</p>
-</p>
-<p><strong>Dig in, work outward</strong></p>
-</p>
-<p>Deringer has been focused on these topics since he was an undergraduate at Harvard University.</p>
-</p>
-<p>“I found myself becoming really interested in the history of economics, the history of practical mathematics, data, statistics, and how it came to be that so much of our world is organized quantitatively,” he says.</p>
-</p>
-<p>Deringer wrote a college thesis about how England measured the land it was seizing from Ireland in the 1600s, and then, after graduating, went to work in the finance sector, which gave him a further chance to think about the application of quantification to modern life.</p>
-</p>
-<p>“That was not what I wanted to do forever, but for some of the conceptual questions I was interested in, the societal life of calculations, I found it to be a really interesting space,” Deringer says.</p>
-</p>
-<p>He returned to academia by pursuing his PhD in the history of science at Princeton University. There, in his first year of graduate school, in the archives, Deringer found 18th-century pamphlets about financial calculations concering the value of stock involved in the infamous episode of speculation known as the South Sea Bubble. That became part of his dissertation; skeptics of the South Sea Bubble were among the prominent early voices bringing data into public debates. It has also helped inform his second book.</p>
-</p>
-<p>First, though, Deringer earned his doctorate from Princeton in 2012, then spent three years as a Mellon Postdoctoral Research Fellow at Columbia University. He joined the MIT faculty in 2015. At the Institute, he finished turning his dissertation into the “Calculated Values” book — which won the 2019 Oscar Kenshur Prize for the best book from the Center for Eighteenth-Century Studies at Indiana University, and was co-winner of the 2021 Joseph J. Spengler Prize for best book from the History of Economics Society.</p>
-</p>
-<p>“My method as a scholar is to dig into the technical details, then work outward historically from them,” Deringer says.</p>
-</p>
-<p><strong>A long historical chain</strong></p>
-</p>
-<p>Even as Deringer was writing his first book, the idea for the second one was taking root in his mind. Those South Sea Bubble pamphets he had found while at Princeton incorporated discounting, which was intermittently present in “Calculated Values.” Deringer was intrigued by how adept 18th-century figures were at discounting.</p>
-</p>
-<p>“Something that I thought of as a very modern technique seemed to be really well-known by a lot of people in the 1720s,” he says.</p>
-</p>
-<p>At the same time, a conversation with an academic colleague in philosophy made it clear to Deringer how different conclusions about discounting had become debated in climate change policy. He soon resolved to write the “biography of a calculation” about financial discounting.</p>
-</p>
-<p>“I knew my next book had to be about this,” Deringer says. “I was very interested in the deep historical roots of discounting, and it has a lot of present urgency.”</p>
-</p>
-<p>Deringer says the book will incorporate material about the financing of English cathedrals, the heavy use of discounting in the mining industry during the Industrial Revolution, a revival of discounting in 1960s policy circles, and climate change, among other things. In each case, he is carefully looking at the interests and historical dynamics behind the use of discounting.</p>
-</p>
-<p>“For people who use discounting regularly, it’s like gravity: It’s very obvious that to be rational is to discount the future according to this formula,” Deringer says. “But if you look at history, what is thought of as rational is part of a very long historical chain of people applying this calculation in various ways, and over time that’s just how things are done. I’m really interested in pulling apart that idea that this is a sort of timeless rational calculation, as opposed to a product of this interesting history.”</p>
-</p>
-<p>Working in STS, Deringer notes, has helped encourage him to link together numerous historical time periods into one book about the numerous ways discounting has been used.</p>
-</p>
-<p>“I’m not sure that pursuing a book that stretches from the 17th century to the 21st century is something I would have done in other contexts,” Deringer says. He is also quick to credit his colleagues in STS and in other programs for helping create the scholarly environment in which he is thriving.</p>
-</p>
-<p>“I came in with a really amazing cohort of other scholars in SHASS,” Deringer notes, referring to the MIT School of Humanities, Arts, and Social Sciences. He cites others receiving tenure in the last year such as his STS colleague Robin Scheffler, historian Megan Black, and historian Caley Horan, with whom Deringer has taught graduate classes on the concept of risk in history. In all, Deringer says, the Institute has been an excellent place for him to pursue interdisciplinary work on technical thought in history.</p>
-</p>
-<p>“I work on very old things and very technical things,” Deringer says. “But I’ve found a wonderful welcoming at MIT from people in different fields who light up when they hear what I’m interested in.”</p>
+<p>Julie Shah ’04, SM ’06, PhD ’11, the H.N. Slater Professor in Aeronautics and Astronautics, has been named the new head of the Department of Aeronautics and Astronautics (AeroAstro), effective May 1.</p>
+<p>“Julie brings an exceptional record of visionary and interdisciplinary leadership to this role. She has made substantial technical contributions in the field of robotics and AI, particularly as it relates to the future of work, and has bridged important gaps in the social, ethical, and economic implications of AI and computing,” says Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of Electrical Engineering and Computer Science.</p>
+<p>In addition to her role as a faculty member in AeroAstro, Shah served as associate dean of Social and Ethical Responsibilities of Computing in the MIT Schwarzman College of Computing from 2019 to 2022, helping launch a coordinated curriculum that engages more than 2,000 students a year at the Institute. She currently directs the Interactive Robotics Group in MIT’s Computer Science and Artificial Intelligence Lab (CSAIL), and MIT’s Industrial Performance Center.</p>
+<p>Shah and her team at the Interactive Robotics Group conduct research that aims to imagine the future of work by designing collaborative robot teammates that enhance human capability. She is expanding the use of human cognitive models for artificial intelligence and has translated her work to manufacturing assembly lines, health-care applications, transportation, and defense. In 2020, Shah co-authored the popular book “What to Expect When You’re Expecting Robots,” which explores the future of human-robot collaboration.</p>
+<p>As an expert on how humans and robots interact in the workforce, Shah was named co-director of the Work of the Future Initiative, a successor group of MIT’s Task Force on the Work of the Future, alongside Ben Armstrong, executive director and research scientist at MIT’s Industrial Performance Center. In March of this year, Shah was named a co-leader of the Working Group on Generative AI and the Work of the Future, alongside Armstrong and Kate Kellogg, the David J. McGrath Jr. Professor of Management and Innovation. The group is examining how generative AI tools can contribute to higher-quality jobs and inclusive access to the latest technologies across sectors.</p>
+<p>Shah’s contributions as both a researcher and educator have been recognized with many awards and honors throughout her career. She was named an associate fellow of the American Institute of Aeronautics and Astronautics (AIAA) in 2017, and in 2018 she was the recipient of the IEEE Robotics and Automation Society Academic Early Career Award. Shah was also named a Bisplinghoff Faculty Fellow, was named to <em>MIT Technology Review</em>’s TR35 List, and received an NSF Faculty Early Career Development Award. In 2013, her work on human-robot collaboration was included on <em>MIT Technology Review</em>’s list of 10 Breakthrough Technologies.</p>
+<p>In January 2024, she was appointed to the first-ever AIAA Aerospace Artificial Intelligence Advisory Group, which was founded “to advance the appropriate use of AI technology particularly in aeronautics, aerospace R&amp;D, and space.” Shah currently serves as editor-in-chief of <em>Foundations and Trends in Robotics</em>, as an editorial board member of the AIAA Progress Series, and as an executive council member of the Association for the Advancement of Artificial Intelligence.</p>
+<p>A dedicated educator, Shah has been recognized for her collaborative and supportive approach as a mentor. She was honored by graduate students as “Committed to Caring” (C2C) in 2019. For the past 10 years, she has served as an advocate, community steward, and mentor for students in her role as head of house of the Sidney Pacific Graduate Community.</p>
+<p>Shah received her bachelor’s and master’s degrees in aeronautical and astronautical engineering, and her PhD in autonomous systems, all from MIT. After receiving her doctoral degree, she joined Boeing as a postdoc, before returning to MIT in 2011 as a faculty member.</p>
+<p>Shah succeeds Professor Steven Barrett, who has led AeroAstro as both interim department head and then department head since May 2023.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
+		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Electronics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
+
+					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
+<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
+<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
+<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
+<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
+<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
+<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
+<p><strong>Side-channel susceptibility</strong></p>
+<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
+<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
+<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
+<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
+<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
+<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
+<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
+<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
+<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
+<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
+<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
+<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
+<p><strong>Safety testing</strong></p>
+<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
+<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
+<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
+<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
+<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
+<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mapping the brain pathways of visual memorability</title>
+		<link>https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Functional magnetic resonance imaging (fMRI)]]></category>
+		<category><![CDATA[Image Processing]]></category>
+		<category><![CDATA[Imaging]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Neuroscience]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Vision]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/mapping-the-brain-pathways-of-visual-memorability/</guid>
+
+					<description><![CDATA[For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>For nearly a decade, a team of MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have been seeking to uncover why certain images persist in a people&#8217;s minds, while many others fade. To do this, they set out to map the spatio-temporal brain dynamics involved in recognizing a visual image. And now for the first time, scientists harnessed the combined strengths of magnetoencephalography (MEG), which captures the timing of brain activity, and functional magnetic resonance imaging (fMRI), which identifies active brain regions, to precisely determine when and where the brain processes a memorable image. </p>
+<p>Their open-access study, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002564" target="_blank" rel="noopener">published this month in <em>PLOS Biology</em></a>, used 78 pairs of images matched for the same concept but differing in their memorability scores — one was highly memorable and the other was easy to forget. These images were shown to 15 subjects, with scenes of skateboarding, animals in various environments, everyday objects like cups and chairs, natural landscapes like forests and beaches, urban scenes of streets and buildings, and faces displaying different expressions. What they found was that a more distributed network of brain regions than previously thought are actively involved in the encoding and retention processes that underpin memorability. </p>
+<p>“People tend to remember some images better than others, even when they are conceptually similar, like different scenes of a person skateboarding,” says Benjamin Lahner, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and first author of the study. “We&#8217;ve identified a brain signature of visual memorability that emerges around 300 milliseconds after seeing an image, involving areas across the ventral occipital cortex and temporal cortex, which processes information like color perception and object recognition. This signature indicates that highly memorable images prompt stronger and more sustained brain responses, especially in regions like the early visual cortex, which we previously underestimated in memory processing.”</p>
+<p>While highly memorable images maintain a higher and more sustained response for about half a second, the response to less memorable images quickly diminishes. This insight, Lahner elaborated, could redefine our understanding of how memories form and persist. The team envisions this research holding potential for future clinical applications, particularly in early diagnosis and treatment of memory-related disorders. </p>
+<p>The MEG/fMRI fusion method, developed in the lab of CSAIL Senior Research Scientist Aude Oliva, adeptly captures the brain&#8217;s spatial and temporal dynamics, overcoming the traditional constraints of either spatial or temporal specificity. The fusion method had a little help from its machine-learning friend, to better examine and compare the brain&#8217;s activity when looking at various images. They created a “representational matrix,” which is like a detailed chart, showing how similar neural responses are in various brain regions. This chart helped them identify the patterns of where and when the brain processes what we see.</p>
+<p>Picking the conceptually similar image pairs with high and low memorability scores was the crucial ingredient to unlocking these insights into memorability. Lahner explained the process of aggregating behavioral data to assign memorability scores to images, where they curated a diverse set of high- and low-memorability images with balanced representation across different visual categories. </p>
+<p>Despite strides made, the team notes a few limitations. While this work can identify brain regions showing significant memorability effects, it cannot elucidate the regions&#8217; function in how it is contributing to better encoding/retrieval from memory.</p>
+<p>“Understanding the neural underpinnings of memorability opens up exciting avenues for clinical advancements, particularly in diagnosing and treating memory-related disorders early on,” says Oliva. “The specific brain signatures we&#8217;ve identified for memorability could lead to early biomarkers for Alzheimer&#8217;s disease and other dementias. This research paves the way for novel intervention strategies that are finely tuned to the individual&#8217;s neural profile, potentially transforming the therapeutic landscape for memory impairments and significantly improving patient outcomes.”</p>
+<p>“These findings are exciting because they give us insight into what is happening in the brain between seeing something and saving it into memory,” says Wilma Bainbridge, assistant professor of psychology at the University of Chicago, who was not involved in the study. “The researchers here are picking up on a cortical signal that reflects what&#8217;s important to remember, and what can be forgotten early on.” </p>
+<p>Lahner and Oliva, who is also the director of strategic industry engagement at the MIT Schwarzman College of Computing, MIT director of the MIT-IBM Watson AI Lab, and CSAIL principal investigator, join Western University Assistant Professor Yalda Mohsenzadeh and York University researcher Caitlin Mullin on the paper. The team acknowledges a shared instrument grant from the National Institutes of Health, and their work was funded by the Vannevar Bush Faculty Fellowship via an Office of Naval Research grant, a National Science Foundation award, Multidisciplinary University Research Initiative award via an Army Research Office grant, and the EECS MathWorks Fellowship. Their paper is published in <em>PLOS Biology</em>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>To build a better AI helper, start by modeling the irrational behavior of humans</title>
+		<link>https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:31 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/to-build-a-better-ai-helper-start-by-modeling-the-irrational-behavior-of-humans/</guid>
+
+					<description><![CDATA[To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions. This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To build AI systems that can collaborate effectively with humans, it helps to have a good model of human behavior to start with. But humans tend to behave suboptimally when making decisions.</p>
+<p>This irrationality, which is especially difficult to model, often boils down to computational constraints. A human can’t spend decades thinking about the ideal solution to a single problem.</p>
+<p>Researchers at MIT and the University of Washington developed a way to model the behavior of an agent, whether human or machine, that accounts for the unknown computational constraints that may hamper the agent’s problem-solving abilities.</p>
+<p>Their model can automatically infer an agent’s computational constraints by seeing just a few traces of their previous actions. The result, an agent’s so-called “inference budget,” can be used to predict that agent’s future behavior.</p>
+<p>In a new paper, the researchers demonstrate how their method can be used to infer someone’s navigation goals from prior routes and to predict players’ subsequent moves in chess matches. Their technique matches or outperforms another popular method for modeling this type of decision-making.</p>
+<p>Ultimately, this work could help scientists teach AI systems how humans behave, which could enable these systems to respond better to their human collaborators. Being able to understand a human’s behavior, and then to infer their goals from that behavior, could make an AI assistant much more useful, says Athul Paul Jacob, an electrical engineering and computer science (EECS) graduate student and lead author of a <a href="https://openreview.net/pdf?id=W3VsHuga3j" target="_blank" rel="noopener">paper on this technique</a>.</p>
+<p>“If we know that a human is about to make a mistake, having seen how they have behaved before, the AI agent could step in and offer a better way to do it. Or the agent could adapt to the weaknesses that its human collaborators have. Being able to model human behavior is an important step toward building an AI agent that can actually help that human,” he says.</p>
+<p>Jacob wrote the paper with Abhishek Gupta, assistant professor at the University of Washington, and senior author Jacob Andreas, associate professor in EECS and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). The research will be presented at the International Conference on Learning Representations.</p>
+<p><strong>Modeling behavior</strong></p>
+<p>Researchers have been building computational models of human behavior for decades. Many prior approaches try to account for suboptimal decision-making by adding noise to the model. Instead of the agent always choosing the correct option, the model might have that agent make the correct choice 95 percent of the time.</p>
+<p>However, these methods can fail to capture the fact that humans do not always<em> </em>behave suboptimally in the same way.</p>
+<p>Others at MIT have also <a href="https://news.mit.edu/2020/building-machines-better-understand-human-goals-1214" target="_blank" rel="noopener">studied more effective ways</a> to plan and infer goals in the face of suboptimal decision-making.</p>
+<p>To build their model, Jacob and his collaborators drew inspiration from prior studies of chess players. They noticed that players took less time to think before acting when making simple moves and that stronger players tended to spend more time planning than weaker ones in challenging matches.</p>
+<p>“At the end of the day, we saw that the depth of the planning, or how long someone thinks about the problem, is a really good proxy of how humans behave,” Jacob says.</p>
+<p>They built a framework that could infer an agent’s depth of planning from prior actions and use that information to model the agent’s decision-making process.</p>
+<p>The first step in their method involves running an algorithm for a set amount of time to solve the problem being studied. For instance, if they are studying a chess match, they might let the chess-playing algorithm run for a certain number of steps. At the end, the researchers can see the decisions the algorithm made at each step.</p>
+<p>Their model compares these decisions to the behaviors of an agent solving the same problem. It will align the agent’s decisions with the algorithm’s decisions and identify the step where the agent stopped planning.</p>
+<p>From this, the model can determine the agent’s inference budget, or how long that agent will plan for this problem. It can use the inference budget to predict how that agent would react when solving a similar problem.</p>
+<p><strong>An interpretable solution</strong></p>
+<p>This method can be very efficient because the researchers can access the full set of decisions made by the problem-solving algorithm without doing any extra work. This framework could also be applied to any problem that can be solved with a particular class of algorithms.</p>
+<p>“For me, the most striking thing was the fact that this inference budget is very interpretable. It is saying tougher problems require more planning or being a strong player means planning for longer. When we first set out to do this, we didn’t think that our algorithm would be able to pick up on those behaviors naturally,” Jacob says.</p>
+<p>The researchers tested their approach in three different modeling tasks: inferring navigation goals from previous routes, guessing someone’s communicative intent from their verbal cues, and predicting subsequent moves in human-human chess matches.</p>
+<p>Their method either matched or outperformed a popular alternative in each experiment. Moreover, the researchers saw that their model of human behavior matched up well with measures of player skill (in chess matches) and task difficulty.</p>
+<p>Moving forward, the researchers want to use this approach to model the planning process in other domains, such as reinforcement learning (a trial-and-error method commonly used in robotics). In the long run, they intend to keep building on this work toward the larger goal of developing more effective AI collaborators.</p>
+<p>This work was supported, in part, by the MIT Schwarzman College of Computing Artificial Intelligence for Augmentation and Productivity program and the National Science Foundation.</p>
 </div>
 ]]></content:encoded>
 					
