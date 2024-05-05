@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Large Language Models &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=942811" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=946193" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
 		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
 		
@@ -266,65 +326,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Transition your Career from Non Tech Field to Generative AI?</title>
-		<link>https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 28 Apr 2024 03:38:27 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Career]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/transition-your-career-from-non-tech-field-to-generative-ai/</guid>
-
-					<description><![CDATA[Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In today’s rapidly evolving world, the term ‘Generative AI’ is on everyone’s lips. Studies reveal that Generative AI is becoming indispensable in the workplace, with the market projected to reach $1.3 trillion by 2032. If you’ve been considering a career transition from a non-tech field to Generative AI, now is the time! This article explores the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/transition-your-career-from-non-tech-field-to-generative-ai/">How to Transition your Career from Non Tech Field to Generative AI?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</title>
-		<link>https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Phi-3 Mini]]></category>
-		<category><![CDATA[SLM]]></category>
-		<category><![CDATA[small language models]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[training data]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</guid>
-
-					<description><![CDATA[Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/microsoft-phi-3/">Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

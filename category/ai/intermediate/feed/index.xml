@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Intermediate &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/intermediate/feed/?simply_static_page=942876" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/intermediate/feed/?simply_static_page=946168" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 21:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>What is OpenAI’s Sora Diffusion Transformer (DiT)?</title>
 		<link>https://www.sawberries.com/2024/05/04/what-is-openais-sora-diffusion-transformer-dit/</link>
 		
@@ -267,64 +327,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/implementing-query2model-simplifying-machine-learning/">Implementing Query2Model: Simplifying Machine Learning</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</title>
-		<link>https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Phi-3 Mini]]></category>
-		<category><![CDATA[SLM]]></category>
-		<category><![CDATA[small language models]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[training data]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</guid>
-
-					<description><![CDATA[Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/microsoft-phi-3/">Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 20+ RAG Interview Questions</title>
-		<link>https://www.sawberries.com/2024/04/25/top-20-rag-interview-questions/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:29 +0000</pubDate>
-				<category><![CDATA[Career]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Interview Questions]]></category>
-		<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[RAG]]></category>
-		<category><![CDATA[RAG Interview Questions]]></category>
-		<category><![CDATA[Retrieval-Augmented Generation]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/top-20-rag-interview-questions/</guid>
-
-					<description><![CDATA[Introduction RAG has been a game-changer in the developing fields of GenAI, Data Science, and AI. Because RAG models let machines produce more accurate, coherent, and consistent language with facts, they transform how humans engage with technology. RAG is bringing the idea of robots that can write unique content, engrossing product descriptions, and news pieces to life. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction RAG has been a game-changer in the developing fields of GenAI, Data Science, and AI. Because RAG models let machines produce more accurate, coherent, and consistent language with facts, they transform how humans engage with technology. RAG is bringing the idea of robots that can write unique content, engrossing product descriptions, and news pieces to life. […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-interview-questions/">Top 20+ RAG Interview Questions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

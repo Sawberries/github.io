@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=942635" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=945966" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</guid>
+
+					<description><![CDATA[Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/numpy-tips-and-tricks-for-beginners/">30 Quick Numpy Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
 		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
 		
@@ -215,108 +296,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
-		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
-				<category><![CDATA[AI Application]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GenAI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Mongo DB]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
-
-					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>40+ Free Python Resources that can Help you Become a Pro</title>
-		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 09:01:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[python books]]></category>
-		<category><![CDATA[Python Course]]></category>
-		<category><![CDATA[Python Resources]]></category>
-		<category><![CDATA[Resource]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/free-python-resources/</guid>
-
-					<description><![CDATA[Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-python-resources/">40+ Free Python Resources that can Help you Become a Pro</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Creating bespoke programming languages for efficient visual AI systems</title>
-		<link>https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 21:01:17 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Computer graphics]]></category>
-		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
-		<category><![CDATA[Computer science and technology]]></category>
-		<category><![CDATA[Computer vision]]></category>
-		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
-		<category><![CDATA[Faculty]]></category>
-		<category><![CDATA[games]]></category>
-		<category><![CDATA[Information systems and technology]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
-		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
-		<category><![CDATA[Profile]]></category>
-		<category><![CDATA[Programming]]></category>
-		<category><![CDATA[programming languages]]></category>
-		<category><![CDATA[School of Engineering]]></category>
-		<category><![CDATA[video]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</guid>
-
-					<description><![CDATA[A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible?  MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible? </p>
-<p>MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools for visual effects in movies to the Halide programming language that’s widely used in industry for photo editing and processing. As a researcher with the MIT-IBM Watson AI Lab and the Computer Science and Artificial Intelligence Laboratory, Ragan-Kelley specializes in high-performance, domain-specific programming languages and machine learning that enable 2D and 3D graphics, visual effects, and computational photography.</p>
-<p>“The single biggest thrust through a lot of our research is developing new programming languages that make it easier to write programs that run really efficiently on the increasingly complex hardware that is in your computer today,” says Ragan-Kelley. “If we want to keep increasing the computational power we can actually exploit for real applications — from graphics and visual computing to AI — we need to change how we program.”</p>
-<p><strong>Finding a middle ground</strong></p>
-<p>Over the last two decades, chip designers and programming engineers have witnessed a slowing of <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank" rel="noopener">Moore’s law</a> and a marked shift from general-purpose computing on CPUs to more varied and specialized computing and processing units like GPUs and accelerators. With this transition comes a trade-off: the ability to run general-purpose code somewhat slowly on CPUs, for faster, more efficient hardware that requires code to be heavily adapted to it and mapped to it with tailored programs and compilers. Newer hardware with improved programming can better support applications like high-bandwidth cellular radio interfaces, decoding highly compressed videos for streaming, and graphics and video processing on power-constrained cellphone cameras, to name a few applications.</p>
-<p>“Our work is largely about unlocking the power of the best hardware we can build to deliver as much computational performance and efficiency as possible for these kinds of applications in ways that that traditional programming languages don&#8217;t.”</p>
-<p>To accomplish this, Ragan-Kelley breaks his work down into two directions. First, he sacrifices generality to capture the structure of particular and important computational problems and exploits that for better computing efficiency. This can be seen in the image-processing language Halide, which he co-developed and has helped to transform the image editing industry in programs like Photoshop. Further, because it is specially designed to quickly handle dense, regular arrays of numbers (tensors), it also works well for neural network computations. The second focus targets automation, specifically how compilers map programs to hardware. One such project with the MIT-IBM Watson AI Lab leverages Exo, a language developed in Ragan-Kelley’s group.</p>
-<p>Over the years, researchers have worked doggedly to automate coding with compilers, which can be a black box; however, there’s still a large need for explicit control and tuning by performance engineers. Ragan-Kelley and his group are developing methods that straddle each technique, balancing trade-offs to achieve effective and resource-efficient programming. At the core of many high-performance programs like video game engines or cellphone camera processing are state-of-the-art systems that are largely hand-optimized by human experts in low-level, detailed languages like C, C++, and assembly. Here, engineers make specific choices about how the program will run on the hardware.</p>
-<p>Ragan-Kelley notes that programmers can opt for “very painstaking, very unproductive, and very unsafe low-level code,” which could introduce bugs, or “more safe, more productive, higher-level programming interfaces,” that lack the ability to make fine adjustments in a compiler about how the program is run, and usually deliver lower performance. So, his team is trying to find a middle ground. “We&#8217;re trying to figure out how to provide control for the key issues that human performance engineers want to be able to control,” says Ragan-Kelley, “so, we&#8217;re trying to build a new class of languages that we call user-schedulable languages that give safer and higher-level handles to control what the compiler does or control how the program is optimized.”</p>
-<p><strong>Unlocking hardware: high-level and underserved ways</strong></p>
-<p>Ragan-Kelley and his research group are tackling this through two lines of work: applying machine learning and modern AI techniques to automatically generate optimized schedules, an interface to the compiler, to achieve better compiler performance. Another uses “exocompilation” that he’s working on with the lab. He describes this method as a way to “turn the compiler inside-out,” with a skeleton of a compiler with controls for human guidance and customization. In addition, his team can add their bespoke schedulers on top, which can help target specialized hardware like machine-learning accelerators from IBM Research. Applications for this work span the gamut: computer vision, object recognition, speech synthesis, image synthesis, speech recognition, text generation (large language models), etc.</p>
-<p>A big-picture project of his with the lab takes this another step further, approaching the work through a systems lens. In work led by his advisee and lab intern William Brandon, in collaboration with lab research scientist Rameswar Panda, Ragan-Kelley’s team is rethinking large language models (LLMs), finding ways to change the computation and the model’s programming architecture slightly so that the transformer-based models can run more efficiently on AI hardware without sacrificing accuracy. Their work, Ragan-Kelley says, deviates from the standard ways of thinking in significant ways with potentially large payoffs for cutting costs, improving capabilities, and/or shrinking the LLM to require less memory and run on smaller computers.</p>
-<p>It&#8217;s this more avant-garde thinking, when it comes to computation efficiency and hardware, that Ragan-Kelley excels at and sees value in, especially in the long term. “I think there are areas [of research] that need to be pursued, but are well-established, or obvious, or are conventional-wisdom enough that lots of people either are already or will pursue them,” he says. “We try to find the ideas that have both large leverage to practically impact the world, and at the same time, are things that wouldn&#8217;t necessarily happen, or I think are being underserved relative to their potential by the rest of the community.”</p>
-<p>The course that he now teaches, 6.106 (Software Performance Engineering), exemplifies this. About 15 years ago, there was a shift from single to multiple processors in a device that caused many academic programs to begin teaching parallelism. But, as Ragan-Kelley explains, MIT realized the importance of students understanding not only parallelism but also optimizing memory and using specialized hardware to achieve the best performance possible.</p>
-<p>“By changing how we program, we can unlock the computational potential of new machines, and make it possible for people to continue to rapidly develop new applications and new ideas that are able to exploit that ever-more complicated and challenging hardware.”</p>
 </div>
 ]]></content:encoded>
 					

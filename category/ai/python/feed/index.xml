@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Python &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/python/feed/?simply_static_page=943112" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/python/feed/?simply_static_page=946089" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</guid>
+
+					<description><![CDATA[Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/numpy-tips-and-tricks-for-beginners/">30 Quick Numpy Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>40+ Free Python Resources that can Help you Become a Pro</title>
 		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
 		
@@ -284,43 +305,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Flask Application Dockerization: Creating a Docker Image</title>
-		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 18:02:20 +0000</pubDate>
-				<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[Command Line]]></category>
-		<category><![CDATA[Container]]></category>
-		<category><![CDATA[Database]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[Docker Containers]]></category>
-		<category><![CDATA[Docker Hub]]></category>
-		<category><![CDATA[Dockerfile]]></category>
-		<category><![CDATA[EC2]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Flask]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Image]]></category>
-		<category><![CDATA[Image Analysis]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[Swift]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</guid>
-
-					<description><![CDATA[Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

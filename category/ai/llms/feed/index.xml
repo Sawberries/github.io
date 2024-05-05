@@ -9,10 +9,10 @@
 
 <channel>
 	<title>LLMs &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=942815" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=946202" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
 		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
 		
@@ -263,63 +323,6 @@
 										<content:encoded><![CDATA[<div>
 <p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Phi 3 – Small Yet Powerful Models from Microsoft</title>
-		<link>https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:28 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[questions]]></category>
-		<category><![CDATA[Supervised]]></category>
-		<category><![CDATA[tokenizer]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</guid>
-
-					<description><![CDATA[Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/phi-3-small-yet-powerful-models-from-microsoft/">Phi 3 – Small Yet Powerful Models from Microsoft</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</title>
-		<link>https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 21:01:30 +0000</pubDate>
-				<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM Ranking]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[LMSYS Chatbot Arena]]></category>
-		<category><![CDATA[Use Cases]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</guid>
-
-					<description><![CDATA[Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/">From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

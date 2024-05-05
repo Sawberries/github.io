@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=942729" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=946016" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 06:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</guid>
+
+					<description><![CDATA[Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/numpy-tips-and-tricks-for-beginners/">30 Quick Numpy Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
 		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
 		
@@ -258,31 +279,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-improve-dataset-selection-with-chatgpt/">How to Improve Dataset Selection with ChatGPT?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Explore the World through your Photos with GeoSpy.AI</title>
-		<link>https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 15:01:16 +0000</pubDate>
-				<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Find Location]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[GeoSpy.AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</guid>
-
-					<description><![CDATA[Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
