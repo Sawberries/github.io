@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1183182" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1186585" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
 		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
 		
@@ -344,36 +375,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Welcome to the world of text embeddings where text is converted into numbers! This world has recently been turned around by the distillation of large language models (LLMs) into efficient and compact forms. Google’s latest innovation, Gecko, is the lastest advancement in this technology, revolutionizing the way we handle textual data. This article explores […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gecko-by-google/">Gecko by Google: Pioneering the Next Generation of Text Embedding Models</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
-		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hanooman]]></category>
-		<category><![CDATA[Krutrim AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Ola]]></category>
-		<category><![CDATA[Reliance AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
-
-					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

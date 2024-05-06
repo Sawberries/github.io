@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Tools &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/ai-tools/feed/?simply_static_page=1186505" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 06 May 2024 09:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>AI Tools &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Explore the World through your Photos with GeoSpy.AI</title>
+		<link>https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 15:01:16 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Find Location]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GeoSpy.AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</guid>
+
+					<description><![CDATA[Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</title>
+		<link>https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 21:01:30 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM Ranking]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[LMSYS Chatbot Arena]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/</guid>
+
+					<description><![CDATA[Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/">From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
+		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 15:01:33 +0000</pubDate>
+				<category><![CDATA[AI Business Tools]]></category>
+		<category><![CDATA[Ai logo]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[logo generator]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Small Business]]></category>
+		<category><![CDATA[treding]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</guid>
+
+					<description><![CDATA[Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-logo-generators-for-small-businesses/">Top 6 AI Logo Generators for Small Businesses in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 AI Sales Assistant Tools</title>
+		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
+				<category><![CDATA[AI Sales Tools]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[AI Tools for Sales]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
+
+					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 5 Free AI Resume Building Apps</title>
+		<link>https://www.sawberries.com/2024/04/29/ai-resume-building-apps/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:31 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Free Ai resume building tools]]></category>
+		<category><![CDATA[free AI tools]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[resume tools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/ai-resume-building-apps/</guid>
+
+					<description><![CDATA[Introduction Are you trying to find your next significant professional step? It can be rather difficult to write the ideal resume, but fortunately, there are some amazing AI-powered tools available to help. These incredible tools are free! With the aid of clever technology, these tools may make your resume stand out in a crowded employment [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you trying to find your next significant professional step? It can be rather difficult to write the ideal resume, but fortunately, there are some amazing AI-powered tools available to help. These incredible tools are free! With the aid of clever technology, these tools may make your resume stand out in a crowded employment […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-resume-building-apps/">Top 5 Free AI Resume Building Apps</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

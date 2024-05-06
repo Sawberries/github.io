@@ -9,10 +9,10 @@
 
 <channel>
 	<title>LLM &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/llm/feed/?simply_static_page=1183124" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/llm/feed/?simply_static_page=1186447" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
 		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
 		

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Models &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/models/feed/?simply_static_page=1183150" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/models/feed/?simply_static_page=1186465" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
 		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
 		
@@ -322,38 +356,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction GhostFaceNets is a revolutionary facial recognition technology that uses affordable operations without compromising accuracy. Inspired by attention-based models, it revolutionizes facial recognition technology. This blog post explores GhostFaceNets through captivating visuals and insightful illustrations, aiming to educate, motivate, and spark creativity. The journey is not just a blog post, but a unique exploration of […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ghostfacenets-efficient-face-recognition-on-edge-devices/">GhostFaceNets: Efficient Face Recognition on Edge Devices</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</title>
-		<link>https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:29 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Phi-3 Mini]]></category>
-		<category><![CDATA[SLM]]></category>
-		<category><![CDATA[small language models]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[training data]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/microsoft-phi-3-mini-the-tiny-model-that-runs-on-your-phone/</guid>
-
-					<description><![CDATA[Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the field of artificial intelligence (AI), there’s always been a belief that bigger is better. But Microsoft has just shaken things up with their latest creation, Phi-3-mini. It’s a small AI model that’s turning heads by showing that size isn’t everything. Despite being much smaller than its counterparts, Phi-3-mini can hold its own […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/microsoft-phi-3/">Microsoft Phi 3 Mini: The Tiny Model That Runs on Your Phone</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

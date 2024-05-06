@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Guide &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=1183387" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=1186417" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 12:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
 		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
 		
@@ -315,43 +349,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Generative adversarial networks are a popular framework for Image generation. In this article we’ll train Data-efficient GANs with Adaptive Discriminator Augmentation that addresses the challenge of limited training data. Adaptive Discriminator Augmentation dynamically adjusts data augmentation during GAN training, preventing discriminator overfitting and enhancing model generalization. By employing invertible augmentation techniques and probabilistic application, […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/how-data-efficient-gans-generate-images-of-cats-and-dogs/">How Data Efficient GANs Generate Images of Cats and Dogs?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Flask Application Dockerization: Creating a Docker Image</title>
-		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 18:02:20 +0000</pubDate>
-				<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[Command Line]]></category>
-		<category><![CDATA[Container]]></category>
-		<category><![CDATA[Database]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[Docker Containers]]></category>
-		<category><![CDATA[Docker Hub]]></category>
-		<category><![CDATA[Dockerfile]]></category>
-		<category><![CDATA[EC2]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Flask]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Image]]></category>
-		<category><![CDATA[Image Analysis]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[Swift]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</guid>
-
-					<description><![CDATA[Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

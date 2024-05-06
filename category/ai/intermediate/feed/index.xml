@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Intermediate &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/intermediate/feed/?simply_static_page=1183095" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/intermediate/feed/?simply_static_page=1186431" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,71 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
 		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
 		
@@ -254,79 +319,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction  Every week, new and more advanced Large Language Models (LLMs) are released, each claiming to be better than the last. But how can we keep up with all these new developments? The answer is the LMSYS Chatbot Arena. The LMSYS Chatbot Arena is an innovative platform created by the Large Model Systems Organization, a […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/from-gpt-4-to-llama-3-lmsys-chatbot-arena-ranks-top-llms/">From GPT-4 to Llama 3 LMSYS Chatbot Arena Ranks Top LLMs</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Flask Application Dockerization: Creating a Docker Image</title>
-		<link>https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 18:02:20 +0000</pubDate>
-				<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[Command Line]]></category>
-		<category><![CDATA[Container]]></category>
-		<category><![CDATA[Database]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[Docker Containers]]></category>
-		<category><![CDATA[Docker Hub]]></category>
-		<category><![CDATA[Dockerfile]]></category>
-		<category><![CDATA[EC2]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[Flask]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Image]]></category>
-		<category><![CDATA[Image Analysis]]></category>
-		<category><![CDATA[images]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[software]]></category>
-		<category><![CDATA[Swift]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/flask-application-dockerization-creating-a-docker-image/</guid>
-
-					<description><![CDATA[Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the fast-paced software development industry, mastering robust application management and smooth deployment is crucial. Docker, a game-changing technology, has revolutionized software distribution, running, and bundles by separating applications from infrastructure, enabling quick software delivery. It improves portability, scalability, and workflow optimization, making it a standard component in current development practices. This article aims […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/flask-application-dockerization-creating-a-docker-image/">Flask Application Dockerization: Creating a Docker Image</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Implementing Query2Model: Simplifying Machine Learning</title>
-		<link>https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 08:58:30 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[dat science]]></category>
-		<category><![CDATA[Ethereum]]></category>
-		<category><![CDATA[hugchat]]></category>
-		<category><![CDATA[HuggingChat]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[library in python]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Natural Language]]></category>
-		<category><![CDATA[Natural language processing]]></category>
-		<category><![CDATA[NLP]]></category>
-		<category><![CDATA[pipeline]]></category>
-		<category><![CDATA[Prompt Engineering]]></category>
-		<category><![CDATA[query2model]]></category>
-		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/implementing-query2model-simplifying-machine-learning/</guid>
-
-					<description><![CDATA[Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Embark on an exciting journey into the world of effortless machine learning with “Query2Model”! This innovative blog introduces a user-friendly interface where complex tasks are simplified into plain language queries. Explore the fusion of natural language processing and advanced AI models, transforming intricate tasks into straightforward conversations. Join us as we delve into the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/implementing-query2model-simplifying-machine-learning/">Implementing Query2Model: Simplifying Machine Learning</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

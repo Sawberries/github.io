@@ -9,10 +9,10 @@
 
 <channel>
 	<title>sawberries</title>
-	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=1182465" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=1185843" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,71 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
 		
@@ -238,64 +303,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/">Ola Krutrim Launches AI Cloud Platform and Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</title>
-		<link>https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 15:01:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai chatbot]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Grok AI]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[topics]]></category>
-		<category><![CDATA[twitter]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</guid>
-
-					<description><![CDATA[X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/">Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
-		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 12:01:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Coding]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[HTTPS]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Llama 3]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Visual Studio]]></category>
-		<category><![CDATA[VS code]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</guid>
-
-					<description><![CDATA[Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
