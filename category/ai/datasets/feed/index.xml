@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Datasets &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/datasets/feed/?simply_static_page=1244490" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/datasets/feed/?simply_static_page=1248002" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 12:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 15:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hugging Face Introduces LeRobot: The First Robotics Library</title>
+		<link>https://www.sawberries.com/2024/05/06/hugging-face-introduces-lerobot-the-first-robotics-library/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[hugging face]]></category>
+		<category><![CDATA[LeRobot]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/hugging-face-introduces-lerobot-the-first-robotics-library/</guid>
+
+					<description><![CDATA[In a significant stride towards democratizing robotics, Hugging Face introduces LeRobot, a pioneering library tailored for real-world applications. This new library emerges as a bridge between cutting-edge research and tangible robotic behaviors. Let’s delve into the intricacies of this promising, community-driven initiative. Also Read: Hugging Face Releases World’s Largest Open Synthetic Dataset The Birth of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In a significant stride towards democratizing robotics, Hugging Face introduces LeRobot, a pioneering library tailored for real-world applications. This new library emerges as a bridge between cutting-edge research and tangible robotic behaviors. Let’s delve into the intricacies of this promising, community-driven initiative. Also Read: Hugging Face Releases World’s Largest Open Synthetic Dataset The Birth of […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/hugging-face-introduces-lerobot-the-first-robotics-library/">Hugging Face Introduces LeRobot: The First Robotics Library</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
 		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
 		

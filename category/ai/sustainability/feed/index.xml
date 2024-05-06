@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sustainability &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/sustainability/feed/?simply_static_page=1247988" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 06 May 2024 15:01:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Sustainability &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>President Sally Kornbluth and OpenAI CEO Sam Altman discuss the future of AI</title>
+		<link>https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 15:01:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Invention]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[President Sally Kornbluth]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</guid>
+
+					<description><![CDATA[How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2. The success of OpenAI’s ChatGPT large language models has helped spur [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2.</p>
+<p>The success of OpenAI’s ChatGPT large language models has helped spur a wave of investment and innovation in the field of artificial intelligence. ChatGPT-3.5 became the fastest-growing consumer software application in history after its release at the end of 2022, with hundreds of millions of people using the tool. Since then, OpenAI has also demonstrated AI-driven image-, audio-, and video-generation products and partnered with Microsoft.</p>
+<p>The event, which took place in a packed Kresge Auditorium, captured the excitement of the moment around AI, with an eye toward what’s next.</p>
+<p>“I think most of us remember the first time we saw ChatGPT and were like, ‘Oh my god, that is so cool!’” Kornbluth said. “Now we’re trying to figure out what the next generation of all this is going to be.”</p>
+<p>For his part, Altman welcomes the high expectations around his company and the field of artificial intelligence more broadly.</p>
+<p>“I think it’s awesome that for two weeks, everybody was freaking out about ChatGPT-4, and then by the third week, everyone was like, ‘Come on, where’s GPT-5?’” Altman said. “I think that says something legitimately great about human expectation and striving and why we all have to [be working to] make things better.”</p>
+<p><strong>The problems with AI</strong></p>
+<p>Early on in their discussion, Kornbluth and Altman discussed the many ethical dilemmas posed by AI.</p>
+<p>“I think we’ve made surprisingly good progress around how to align a system around a set of values,” Altman said. “As much as people like to say ‘You can’t use these things because they’re spewing toxic waste all the time,’ GPT-4 behaves kind of the way you want it to, and we’re able to get it to follow a given set of values, not perfectly well, but better than I expected by this point.”</p>
+<p>Altman also pointed out that people don’t agree on exactly how an AI system should behave in many situations, complicating efforts to create a universal code of conduct.</p>
+<p>“How do we decide what values a system should have?” Altman asked. “How do we decide what a system should do? How much does society define boundaries versus trusting the user with these tools? Not everyone will use them the way we like, but that’s just kind of the case with tools. I think it’s important to give people a lot of control … but there are some things a system just shouldn’t do, and we’ll have to collectively negotiate what those are.”</p>
+<p>Kornbluth agreed doing things like eradicating bias in AI systems will be difficult.</p>
+<p>“It’s interesting to think about whether or not we can make models less biased than we are as human beings,” she said.</p>
+<p>Kornbluth also brought up privacy concerns associated with the vast amounts of data needed to train today’s large language models. Altman said society has been grappling with those concerns since the dawn of the internet, but AI is making such considerations more complex and higher-stakes. He also sees entirely new questions raised by the prospect of powerful AI systems.</p>
+<p>“How are we going to navigate the privacy versus utility versus safety tradeoffs?” Altman asked. “Where we all individually decide to set those tradeoffs, and the advantages that will be possible if someone lets the system be trained on their entire life, is a new thing for society to navigate. I don’t know what the answers will be.”</p>
+<p>For both privacy and energy consumption concerns surrounding AI, Altman said he believes progress in future versions of AI models will help.</p>
+<p>&#8220;What we want out of GPT-5 or 6 or whatever is for it to be the best reasoning engine possible,” Altman said. “It is true that right now, the only way we’re able to do that is by training it on tons and tons of data. In that process, it’s learning something about how to do very, very limited reasoning or cognition or whatever you want to call it. But the fact that it can memorize data, or the fact that it’s storing data at all in its parameter space, I think we&#8217;ll look back and say, ‘That was kind of a weird waste of resources.’ I assume at some point, we’ll figure out how to separate the reasoning engine from the need for tons of data or storing the data in [the model], and be able to treat them as separate things.”</p>
+<p>Kornbluth also asked about how AI might lead to job displacement.</p>
+<p>“One of the things that annoys me most about people who work on AI is when they stand up with a straight face and say, ‘This will never cause any job elimination. This is just an additive thing. This is just all going to be great,’” Altman said. “This is going to eliminate a lot of current jobs, and this is going to change the way that a lot of current jobs function, and this is going to create entirely new jobs. That always happens with technology.&#8221;</p>
+<p><strong>The promise of AI</strong></p>
+<p>Altman believes progress in AI will make grappling with all of the field’s current problems worth it.</p>
+<p>“If we spent 1 percent of the world’s electricity training a powerful AI, and that AI helped us figure out how to get to non-carbon-based energy or make deep carbon capture better, that would be a massive win,” Altman said.</p>
+<p>He also said the application of AI he’s most interested in is scientific discovery.</p>
+<p>“I believe [scientific discovery] is the core engine of human progress and that it is the only way we drive sustainable economic growth,” Altman said. “People aren’t content with GPT-4. They want things to get better. Everyone wants life more and better and faster, and science is how we get there.”</p>
+<p>Kornbluth also asked Altman for his advice for students thinking about their careers. He urged students not to limit themselves.</p>
+<p>“The most important lesson to learn early on in your career is that you can kind of figure anything out, and no one has all of the answers when they start out,” Altman said. “You just sort of stumble your way through, have a fast iteration speed, and try to drift toward the most interesting problems to you, and be around the most impressive people and have this trust that you’ll successfully iterate to the right thing. &#8230; You can do more than you think, faster than you think.”</p>
+<p>The advice was part of a broader message Altman had about staying optimistic and working to create a better future.</p>
+<p>“The way we are teaching our young people that the world is totally screwed and that it’s hopeless to try to solve problems, that all we can do is sit in our bedrooms in the dark and think about how awful we are, is a really deeply unproductive streak,” Altman said. “I hope MIT is different than a lot of other college campuses. I assume it is. But you all need to make it part of your life mission to fight against this. Prosperity, abundance, a better life next year, a better life for our children. That is the only path forward. That is the only way to have a functioning society &#8230; and the anti-progress streak, the anti ‘people deserve a great life’ streak, is something I hope you all fight against.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
