@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1276392" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1279691" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 12:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 18:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,77 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>30+ Python Tips and Tricks</title>
+		<link>https://www.sawberries.com/2024/05/06/python-tips-and-tricks/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/python-tips-and-tricks/</guid>
+
+					<description><![CDATA[Introduction Unlocking your coding potential requires investigating the syntax and feature set of Python. You may optimize your code for performance and elegance by learning basic concepts like list comprehensions, generating expressions, and unpacking. Explore a vast array of carefully selected 30+ Python tips and tricks that are sure to improve your programming skills and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Unlocking your coding potential requires investigating the syntax and feature set of Python. You may optimize your code for performance and elegance by learning basic concepts like list comprehensions, generating expressions, and unpacking. Explore a vast array of carefully selected 30+ Python tips and tricks that are sure to improve your programming skills and […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-tips-and-tricks/">30+ Python Tips and Tricks</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30 Quick Pandas Tips and Tricks for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/06/pandas-tips-and-tricks/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Pandas]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/pandas-tips-and-tricks/</guid>
+
+					<description><![CDATA[Introduction Reading this article is essential for anyone looking to enhance their proficiency in Python data manipulation and analysis using Pandas. Whether you’re a beginner or an experienced data practitioner, this tutorial offers a wealth of insights and techniques to streamline your workflow and maximize your productivity. By mastering the 30 tips and tricks outlined [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Reading this article is essential for anyone looking to enhance their proficiency in Python data manipulation and analysis using Pandas. Whether you’re a beginner or an experienced data practitioner, this tutorial offers a wealth of insights and techniques to streamline your workflow and maximize your productivity. By mastering the 30 tips and tricks outlined […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/pandas-tips-and-tricks/">30 Quick Pandas Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</title>
+		<link>https://www.sawberries.com/2024/05/06/github-copilot-workspace/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/github-copilot-workspace/</guid>
+
+					<description><![CDATA[Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/github-copilot-workspace/">Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
 		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
 		
@@ -200,81 +271,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>40+ Free Python Resources that can Help you Become a Pro</title>
-		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 09:01:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[python books]]></category>
-		<category><![CDATA[Python Course]]></category>
-		<category><![CDATA[Python Resources]]></category>
-		<category><![CDATA[Resource]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/free-python-resources/</guid>
-
-					<description><![CDATA[Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-python-resources/">40+ Free Python Resources that can Help you Become a Pro</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gemini vs ChatGPT: Which is Better for Coding?</title>
-		<link>https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 21:01:14 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Gemini vs ChatGPT]]></category>
-		<category><![CDATA[Gemini vs ChatGPT for code]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</guid>
-
-					<description><![CDATA[Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-vs-chatgpt-which-is-better-for-coding/">Gemini vs ChatGPT: Which is Better for Coding?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>30 Python Coding Interview Questions for Beginners</title>
-		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 12:01:15 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[coding questions]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Interview Questions]]></category>
-		<category><![CDATA[Interviews]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[Python Coding Interview Questions]]></category>
-		<category><![CDATA[python quesitons]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</guid>
-
-					<description><![CDATA[Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

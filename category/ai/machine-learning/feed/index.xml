@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1276183" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1279841" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 15:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 18:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</title>
+		<link>https://www.sawberries.com/2024/05/06/github-copilot-workspace/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/github-copilot-workspace/</guid>
+
+					<description><![CDATA[Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/github-copilot-workspace/">Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>President Sally Kornbluth and OpenAI CEO Sam Altman discuss the future of AI</title>
 		<link>https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</link>
 		
@@ -373,33 +401,6 @@
 <p><strong>Furthering the goals of the HPI-MIT Joint Research Program</strong></p>
 <p>These three diverse projects all advance the mission of the HPI-MIT collaboration. MIT MAD aims to use design to transform learning, catalyze innovation, and empower society by inspiring people from all disciplines to interweave design into problem-solving. HPI uses digital engineering concentrated on the development and research of user-oriented innovations for all areas of life.</p>
 <p>Interdisciplinary teams with members from both institutions are encouraged to develop and submit proposals for ambitious, sustainable projects that use design strategically to generate measurable, impactful solutions to the world’s problems.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
-		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 15:01:13 +0000</pubDate>
-				<category><![CDATA[AGI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GPT4]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Sam Altman]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</guid>
-
-					<description><![CDATA[In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/">Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

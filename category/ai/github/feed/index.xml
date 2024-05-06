@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Github &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/github/feed/?simply_static_page=1279821" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 06 May 2024 18:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Github &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</title>
+		<link>https://www.sawberries.com/2024/05/06/github-copilot-workspace/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/github-copilot-workspace/</guid>
+
+					<description><![CDATA[Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/github-copilot-workspace/">Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building Responsible AI with Guardrails AI</title>
+		<link>https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Object]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[validation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/building-responsible-ai-with-guardrails-ai/">Building Responsible AI with Guardrails AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GitHub Unveils Copilot Workspace: A New Era in Developer Tools</title>
+		<link>https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 03:01:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Features]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Natural Language]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NLP]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[software development]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/github-unveils-copilot-workspace-a-new-era-in-developer-tools/</guid>
+
+					<description><![CDATA[GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>GitHub has introduced its revolutionary AI-driven developer environment, the Copilot Workspace. This new platform, aimed at transforming the process of software creation, has sent ripples through the developer community. Building upon the success of GitHub Copilot, this innovative platform promises to redefine the developer experience. Let’s delve deeper into the features of the Copilot Workspace […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/github-unveils-copilot-workspace-a-new-era-in-developer-tools/">GitHub Unveils Copilot Workspace: A New Era in Developer Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
