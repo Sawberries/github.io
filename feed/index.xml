@@ -9,10 +9,10 @@
 
 <channel>
 	<title>sawberries</title>
-	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=1307694" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/feed/?simply_static_page=1311272" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 18:01:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 21:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nvidia Introduces VILA: Visual Language Intelligence and Edge AI 2.0</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Edge AI 2.0]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[IOT]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/</guid>
+
+					<description><![CDATA[Introduction Visual Language Models (VLMs) are revolutionizing the way machines comprehend and interact with both images and text. These models skillfully combine techniques from image processing with the subtleties of language comprehension. This integration enhances the capabilities of artificial intelligence (AI). Nvidia and MIT have recently launched a VLM named VILA, enhancing the capabilities of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Visual Language Models (VLMs) are revolutionizing the way machines comprehend and interact with both images and text. These models skillfully combine techniques from image processing with the subtleties of language comprehension. This integration enhances the capabilities of artificial intelligence (AI). Nvidia and MIT have recently launched a VLM named VILA, enhancing the capabilities of […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/">Nvidia Introduces VILA: Visual Language Intelligence and Edge AI 2.0</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Daniel Dewar and Grégory Gicquel Cultivate Connections Between Sculpture, Nature, and Craft</title>
 		<link>https://www.sawberries.com/2024/05/06/daniel-dewar-and-gregory-gicquel/</link>
 		
@@ -366,27 +400,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Build a ML Model in 1 Minute using ChatGPT</title>
-		<link>https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 06 May 2024 12:01:13 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</guid>
-
-					<description><![CDATA[Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
