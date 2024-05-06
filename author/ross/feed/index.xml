@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=1213317" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=1216761" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Build a ML Model in 1 Minute using ChatGPT</title>
+		<link>https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</guid>
+
+					<description><![CDATA[Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[AI Systems]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[multimodal AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
+
+					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
 		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
 		
@@ -219,90 +300,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction OpenAI Sora is back and making waves with its first-ever commissioned music video, “Washed Out – The Hardest Part” This mind-blowing creation was stitched together from 55 individual clips, each generated by Sora itself. Sounds almost too good to be true, right? Well, believe it! Back in February 2024, OpenAI’s Sora took the world […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/what-is-openais-sora-diffusion-transformer-dit/">What is OpenAI’s Sora Diffusion Transformer (DiT)?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>10 Mind-blowing Use Cases of Llama 3</title>
-		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 21:01:13 +0000</pubDate>
-				<category><![CDATA[AI Use cases]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLaMA]]></category>
-		<category><![CDATA[Llama 3]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Use Cases]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/use-cases-of-llama/</guid>
-
-					<description><![CDATA[Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/use-cases-of-llama/">10 Mind-blowing Use Cases of Llama 3</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
-		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
-
-					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ola Krutrim Launches AI Cloud Platform and Mobile App</title>
-		<link>https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 18:01:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI assistant]]></category>
-		<category><![CDATA[AI cloud platform]]></category>
-		<category><![CDATA[AI mobile app]]></category>
-		<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cloud]]></category>
-		<category><![CDATA[Cloud Computing]]></category>
-		<category><![CDATA[india]]></category>
-		<category><![CDATA[Krutrim AI]]></category>
-		<category><![CDATA[Krutrim Assistant]]></category>
-		<category><![CDATA[Krutrim Cloud]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Ola Krutrim]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</guid>
-
-					<description><![CDATA[Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/">Ola Krutrim Launches AI Cloud Platform and Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

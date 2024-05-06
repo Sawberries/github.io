@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Large Language Models &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=1213491" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=1217012" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[AI Systems]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[multimodal AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
+
+					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
 		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
 		
@@ -299,36 +330,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Phi 3 – Small Yet Powerful Models from Microsoft</title>
-		<link>https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:28 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[questions]]></category>
-		<category><![CDATA[Supervised]]></category>
-		<category><![CDATA[tokenizer]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/phi-3-small-yet-powerful-models-from-microsoft/</guid>
-
-					<description><![CDATA[Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction The Phi model from Microsoft has been at the forefront of many open-source Large Language Models. Phi architecture has led to all the popular small open-source models that we see today which include TPhixtral, Phi-DPO, and others. Their Phi Family has taken the LLM architecture a step forward with the introduction of Small Language […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/phi-3-small-yet-powerful-models-from-microsoft/">Phi 3 – Small Yet Powerful Models from Microsoft</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

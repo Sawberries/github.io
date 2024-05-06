@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Machine Learning &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1213633" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1216937" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 09:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Build a ML Model in 1 Minute using ChatGPT</title>
+		<link>https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</guid>
+
+					<description><![CDATA[Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
 		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
 		
@@ -315,66 +365,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Clustering is an unsupervised machine learning algorithm that groups together similar data points based on criteria like shared attributes. Each cluster has data points that are similar to the other data points in the cluster while as a whole, the cluster is dissimilar to other data points. By making use of clustering algorithms, we […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/understanding-fuzzy-c-means-clustering/">Understanding Fuzzy C Means Clustering</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
-		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
-				<category><![CDATA[AI music]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Sora]]></category>
-		<category><![CDATA[text to video]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
-
-					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Gecko by Google: Pioneering the Next Generation of Text Embedding Models</title>
-		<link>https://www.sawberries.com/2024/05/02/gecko-by-google/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 15:01:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[challenges]]></category>
-		<category><![CDATA[Embedding]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[NLP]]></category>
-		<category><![CDATA[Text]]></category>
-		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gecko-by-google/</guid>
-
-					<description><![CDATA[Introduction Welcome to the world of text embeddings where text is converted into numbers! This world has recently been turned around by the distillation of large language models (LLMs) into efficient and compact forms. Google’s latest innovation, Gecko, is the lastest advancement in this technology, revolutionizing the way we handle textual data. This article explores [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Welcome to the world of text embeddings where text is converted into numbers! This world has recently been turned around by the distillation of large language models (LLMs) into efficient and compact forms. Google’s latest innovation, Gecko, is the lastest advancement in this technology, revolutionizing the way we handle textual data. This article explores […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gecko-by-google/">Gecko by Google: Pioneering the Next Generation of Text Embedding Models</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

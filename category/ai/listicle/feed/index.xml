@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Listicle &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=1213642" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=1216919" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
 		
@@ -250,32 +279,6 @@
 										<content:encoded><![CDATA[<div>
 <p> Introduction Incorporating Artificial Intelligence (AI) into Data Analytics has become a revolutionary force in the era of abundant data. It is transforming how businesses get insights from their data reservoirs. Artificial Intelligence (AI) enhances conventional analytics techniques by leveraging machine learning and natural language processing to achieve previously unheard-of efficiency, accuracy, and creativity. This article delves into artificial […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/ai-in-data-analytics/">10 Ways to Use AI in Data Analytics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 AI Sales Assistant Tools</title>
-		<link>https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 29 Apr 2024 18:01:33 +0000</pubDate>
-				<category><![CDATA[AI Sales Tools]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[AI Tools for Sales]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/top-ai-sales-assistant-tools/</guid>
-
-					<description><![CDATA[Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In recent years, AI technology has revolutionized various industries, particularly sales, by providing advanced analytics and decision-making capabilities. This transformation has propelled sales teams towards higher efficiency and accuracy in their operations. In this article, we’ll delve into the top 10 AI sales assistant tools reshaping the sales landscape. As businesses strive for a […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-sales-assistant-tools/">Top 10 AI Sales Assistant Tools</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=1213840" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=1217078" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sat, 04 May 2024 18:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[AI Systems]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[multimodal AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
+
+					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Ola Krutrim Launches AI Cloud Platform and Mobile App</title>
 		<link>https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</link>
 		
@@ -269,28 +300,6 @@
 										<content:encoded><![CDATA[<div>
 <p>San Francisco-based AI company Anthropic is making waves with the launch of its first smartphone app, bringing Claude to mobiles. This move positions Anthropic as a serious contender in the AI game, going head-to-head with industry giants like OpenAI and Google. The new iPhone app caters to both free and paid Claude users. It seamlessly […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/anthropic-launches-claude-mobile-app/">AI on the Go: Anthropic Launches Claude Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</title>
-		<link>https://www.sawberries.com/2024/04/30/med-gemini/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 21:01:31 +0000</pubDate>
-				<category><![CDATA[AI in healthcare]]></category>
-		<category><![CDATA[Gemini Models]]></category>
-		<category><![CDATA[Med-Gemini]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/med-gemini/</guid>
-
-					<description><![CDATA[Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Researchers from Google and DeepMind have introduced Med-Gemini, a new generation of AI models specifically tailored for medical applications. Building on the strengths of the 2023 Gemini models renowned for language processing, multimodal understanding, and long-context reasoning, Med-Gemini significantly enhances these capabilities for healthcare applications. Med-Gemini’s superiority is demonstrated through evaluation on 14 medical benchmarks, […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/med-gemini/">Med-Gemini : A New AI Model Reaching 91.1% Accuracy in Medical Diagnostics</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

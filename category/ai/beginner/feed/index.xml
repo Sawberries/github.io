@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1213638" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1216845" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Sun, 05 May 2024 09:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 May 2024 12:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Build a ML Model in 1 Minute using ChatGPT</title>
+		<link>https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</guid>
+
+					<description><![CDATA[Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
 		
@@ -225,60 +275,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
-		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
-				<category><![CDATA[AI music]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Sora]]></category>
-		<category><![CDATA[text to video]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
-
-					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Improve Dataset Selection with ChatGPT?</title>
-		<link>https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 18:01:13 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[ChatGPT for Dataset Selection]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[dataset]]></category>
-		<category><![CDATA[Datasets]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/how-to-improve-dataset-selection-with-chatgpt/</guid>
-
-					<description><![CDATA[Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Right choice of appropriate datasets is essential in today’s data-driven environment to facilitate well-informed decision-making and uncover insightful information. It might be intimidating to navigate the enormous amount of data that is available, though. This article examines how the dataset selection process can be streamlined by using ChatGPT. ChatGPT can help you with everything […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-improve-dataset-selection-with-chatgpt/">How to Improve Dataset Selection with ChatGPT?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
