@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=1319368" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 06 May 2024 15:01:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>News &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hugging Face Introduces LeRobot: The First Robotics Library</title>
+		<link>https://www.sawberries.com/2024/05/06/hugging-face-introduces-lerobot-the-first-robotics-library/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[hugging face]]></category>
+		<category><![CDATA[LeRobot]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/hugging-face-introduces-lerobot-the-first-robotics-library/</guid>
+
+					<description><![CDATA[In a significant stride towards democratizing robotics, Hugging Face introduces LeRobot, a pioneering library tailored for real-world applications. This new library emerges as a bridge between cutting-edge research and tangible robotic behaviors. Let’s delve into the intricacies of this promising, community-driven initiative. Also Read: Hugging Face Releases World’s Largest Open Synthetic Dataset The Birth of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In a significant stride towards democratizing robotics, Hugging Face introduces LeRobot, a pioneering library tailored for real-world applications. This new library emerges as a bridge between cutting-edge research and tangible robotic behaviors. Let’s delve into the intricacies of this promising, community-driven initiative. Also Read: Hugging Face Releases World’s Largest Open Synthetic Dataset The Birth of […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/hugging-face-introduces-lerobot-the-first-robotics-library/">Hugging Face Introduces LeRobot: The First Robotics Library</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[AI Systems]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[multimodal AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
+
+					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ola Krutrim Launches AI Cloud Platform and Mobile App</title>
+		<link>https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[AI cloud platform]]></category>
+		<category><![CDATA[AI mobile app]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Krutrim Assistant]]></category>
+		<category><![CDATA[Krutrim Cloud]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Ola Krutrim]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/</guid>
+
+					<description><![CDATA[Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Indian-made artificial intelligence (AI) platform Ola Krutrim has introduced its cutting-edge AI Cloud infrastructure, called Krutrim Cloud. It has also launched the Krutrim Assistant mobile app, unveiling its ambitious vision for fostering innovation and accessibility in India’s AI sector. This initiative signals a shift in India’s technological landscape, empowering developers and enterprises to harness the […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ola-krutrim-launches-ai-cloud-platform-and-mobile-app/">Ola Krutrim Launches AI Cloud Platform and Mobile App</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</title>
+		<link>https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai chatbot]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[topics]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/</guid>
+
+					<description><![CDATA[X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>X, the social media platform formerly known as Twitter, has introduced a new feature called Stories, powered by Elon Musk’s AI chatbot, Grok. Available exclusively for X’s premium subscribers, Stories aims to revolutionize news consumption by providing concise summaries of trending topics within the platform’s Explore section. Let’s delve into how this innovative feature works […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/get-a-summary-of-trending-topics-on-x-with-grok-powered-stories-feature/">Get a Summary of Trending Topics on X with Grok-Powered Stories Feature</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
+		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sam Altman]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</guid>
+
+					<description><![CDATA[In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/">Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
+		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Challenge]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[LMSYS]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
+
+					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
+		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
+				<category><![CDATA[AI music]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sora]]></category>
+		<category><![CDATA[text to video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
+
+					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</title>
+		<link>https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[A2RL]]></category>
+		<category><![CDATA[Abu Dhabi]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Automobiles]]></category>
+		<category><![CDATA[autonomous care race]]></category>
+		<category><![CDATA[autonomous cars]]></category>
+		<category><![CDATA[autonomous driving]]></category>
+		<category><![CDATA[challenges]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[motor sporting]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Yas Marina]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</guid>
+
+					<description><![CDATA[Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/">World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Avatar]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Ministry]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[resources]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</guid>
+
+					<description><![CDATA[Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/">Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</title>
+		<link>https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/gemini-gets-upgrade-boosting-power-and-accessibility/</guid>
+
+					<description><![CDATA[This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>This is exciting news for language enthusiasts and AI users worldwide! Gemini Upgrade is here! On April 30, 2024, the Gemini mobile app received a major update that expanded its reach and accessibility worldwide. This update breaks down language barriers, making Gemini an international AI experience. The Gemini app is now available in various languages, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-gets-upgrade-boosting-power-and-accessibility/">Gemini Upgrade 2024: Focus on Boosting Power and Accessibility</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
