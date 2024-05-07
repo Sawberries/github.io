@@ -9,10 +9,10 @@
 
 <channel>
 	<title>LLMs &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=1420125" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=1482833" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 12:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RAG Application with Cohere Command-R and Rerank – Part 1</title>
+		<link>https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[cohere command]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[rag application]]></category>
+		<category><![CDATA[rerank]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</guid>
+
+					<description><![CDATA[Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/rag-application-with-cohere-command-r-and-rerank/">RAG Application with Cohere Command-R and Rerank – Part 1</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</title>
+		<link>https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dictionary]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[precision]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[RAG]]></category>
+		<category><![CDATA[Rag evaluation]]></category>
+		<category><![CDATA[RAG pipeline]]></category>
+		<category><![CDATA[RAGAS]]></category>
+		<category><![CDATA[recall]]></category>
+		<category><![CDATA[Retrieval-Augmented Generation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</guid>
+
+					<description><![CDATA[Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/">A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
 		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
 		
@@ -239,89 +333,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>10 Mind-blowing Use Cases of Llama 3</title>
-		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 21:01:13 +0000</pubDate>
-				<category><![CDATA[AI Use cases]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLaMA]]></category>
-		<category><![CDATA[Llama 3]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Use Cases]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/use-cases-of-llama/</guid>
-
-					<description><![CDATA[Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/use-cases-of-llama/">10 Mind-blowing Use Cases of Llama 3</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>How to Use Llama 3 as Copilot in VS Code for Free</title>
-		<link>https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 12:01:14 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Coding]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[HTTPS]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Llama 3]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Visual Studio]]></category>
-		<category><![CDATA[VS code]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/how-to-use-llama-3-as-copilot-in-vs-code-for-free/</guid>
-
-					<description><![CDATA[Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction You’ve probably heard all the hype around Meta‘s latest release, Llama 3. This sophisticated AI model has been integrated into various platforms to enhance their capabilities and expand industry applications. Did you know that it can even help to improve the coding process in Visual Studio Code (VS Code)? Yes, in fact, Llama 3 […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/how-to-use-llama-3-as-copilot-in-vs-code-for-free/">How to Use Llama 3 as Copilot in VS Code for Free</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
-		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 18:01:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Courses]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Deeplearning.ai]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Short Courses]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</guid>
-
-					<description><![CDATA[Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-generative-ai-short-courses-by-deeplearning-ai/">30+ Free Generative AI Short Courses by Deeplearning.ai</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

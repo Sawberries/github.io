@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1420031" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1482638" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</title>
+		<link>https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[Google Threat Intelligence]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</guid>
+
+					<description><![CDATA[Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/">Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
 		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
 		
@@ -266,97 +349,6 @@
 										<content:encoded><![CDATA[<div>
 <p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
-		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
-				<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Gemma]]></category>
-		<category><![CDATA[Gemma AI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
-
-					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
-		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Design]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[Gyan AI]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Mathematics]]></category>
-		<category><![CDATA[Maths]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Paramanu-Ganita]]></category>
-		<category><![CDATA[small language models]]></category>
-		<category><![CDATA[training]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
-
-					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
-		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[large language model]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
-
-					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

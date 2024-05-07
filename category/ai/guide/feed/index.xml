@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Guide &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=1420343" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/guide/feed/?simply_static_page=1482801" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 21:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 12:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,73 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RAG Application with Cohere Command-R and Rerank – Part 1</title>
+		<link>https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[cohere command]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[rag application]]></category>
+		<category><![CDATA[rerank]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</guid>
+
+					<description><![CDATA[Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/rag-application-with-cohere-command-r-and-rerank/">RAG Application with Cohere Command-R and Rerank – Part 1</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</title>
+		<link>https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dictionary]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[precision]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[RAG]]></category>
+		<category><![CDATA[Rag evaluation]]></category>
+		<category><![CDATA[RAG pipeline]]></category>
+		<category><![CDATA[RAGAS]]></category>
+		<category><![CDATA[recall]]></category>
+		<category><![CDATA[Retrieval-Augmented Generation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</guid>
+
+					<description><![CDATA[Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/">A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nvidia Introduces VILA: Visual Language Intelligence and Edge AI 2.0</title>
 		<link>https://www.sawberries.com/2024/05/06/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/</link>
 		
@@ -283,68 +350,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction The exponential rise of IPL in India has correlatively resulted in the growth of fantasy cricket in the country. In recent years, we have seen more and more people playing on platforms like Dream 11, My Circle, etc. every day. Dream11 is a fantasy sports app where you can create your fantasy team for […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-winning-dream-team-using-python-and-ai/">Build a Winning Dream 11 Team Using Python and AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>99% of Python Developers Don’t Know These Pandas Tricks!</title>
-		<link>https://www.sawberries.com/2024/05/01/python-tricks-to-make-pandas-faster/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Wed, 01 May 2024 15:45:30 +0000</pubDate>
-				<category><![CDATA[Coding]]></category>
-		<category><![CDATA[Dask]]></category>
-		<category><![CDATA[functions]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Modin]]></category>
-		<category><![CDATA[Numba]]></category>
-		<category><![CDATA[Pandas]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[python functions]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/python-tricks-to-make-pandas-faster/</guid>
-
-					<description><![CDATA[Introduction While working with Pandas in Python, you may often notice that your code is slow, it uses too much memory, or it gets difficult to handle as your data grows larger. Any of these issues can lead to errors, long wait times for analysis, and limitations in processing bigger datasets. In this article, we [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction While working with Pandas in Python, you may often notice that your code is slow, it uses too much memory, or it gets difficult to handle as your data grows larger. Any of these issues can lead to errors, long wait times for analysis, and limitations in processing bigger datasets. In this article, we […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-tricks-to-make-pandas-faster/">99% of Python Developers Don’t Know These Pandas Tricks!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>RAG and Streamlit Chatbot: Chat with Documents Using LLM</title>
-		<link>https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 12:01:35 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[chatbot]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Classification]]></category>
-		<category><![CDATA[documents]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Langchain]]></category>
-		<category><![CDATA[large language model]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[strealit]]></category>
-		<category><![CDATA[Streamlit]]></category>
-		<category><![CDATA[vector]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</guid>
-
-					<description><![CDATA[Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1420425" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1482675" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 18:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30 Quick Matplotlib Tips and Tricks for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/07/quick-matplotlib-tips-and-tricks-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/quick-matplotlib-tips-and-tricks-for-beginners/</guid>
+
+					<description><![CDATA[Introduction The guide, ’30 Quick Matplotlib Tips and Tricks for Beginners,’ provides a comprehensive guide to enhance your data visualization skills. It covers various techniques like importing Matplotlib, creating simple plots, customizing line styles, adding annotations, and mastering complex visualizations like 3D and polar plots. The guide offers clear explanations and code examples, helping beginners [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The guide, ’30 Quick Matplotlib Tips and Tricks for Beginners,’ provides a comprehensive guide to enhance your data visualization skills. It covers various techniques like importing Matplotlib, creating simple plots, customizing line styles, adding annotations, and mastering complex visualizations like 3D and polar plots. The guide offers clear explanations and code examples, helping beginners […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/quick-matplotlib-tips-and-tricks-for-beginners/">30 Quick Matplotlib Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</title>
+		<link>https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dictionary]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[precision]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[RAG]]></category>
+		<category><![CDATA[Rag evaluation]]></category>
+		<category><![CDATA[RAG pipeline]]></category>
+		<category><![CDATA[RAGAS]]></category>
+		<category><![CDATA[recall]]></category>
+		<category><![CDATA[Retrieval-Augmented Generation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</guid>
+
+					<description><![CDATA[Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/">A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30+ Python Tips and Tricks</title>
 		<link>https://www.sawberries.com/2024/05/06/python-tips-and-tricks/</link>
 		
@@ -193,84 +277,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>10 Mind-blowing Use Cases of Llama 3</title>
-		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 21:01:13 +0000</pubDate>
-				<category><![CDATA[AI Use cases]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLaMA]]></category>
-		<category><![CDATA[Llama 3]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Use Cases]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/use-cases-of-llama/</guid>
-
-					<description><![CDATA[Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/use-cases-of-llama/">10 Mind-blowing Use Cases of Llama 3</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
-		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Data Analysis]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Data Visualization]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
-
-					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
-		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
-				<category><![CDATA[AI Application]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[GenAI]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Mongo DB]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
-
-					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=1420215" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/news/feed/?simply_static_page=1482998" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</title>
+		<link>https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[Google Threat Intelligence]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</guid>
+
+					<description><![CDATA[Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/">Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
 		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
 		
@@ -249,67 +306,6 @@
 										<content:encoded><![CDATA[<div>
 <p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</title>
-		<link>https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 21:01:14 +0000</pubDate>
-				<category><![CDATA[A2RL]]></category>
-		<category><![CDATA[Abu Dhabi]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Automobiles]]></category>
-		<category><![CDATA[autonomous care race]]></category>
-		<category><![CDATA[autonomous cars]]></category>
-		<category><![CDATA[autonomous driving]]></category>
-		<category><![CDATA[challenges]]></category>
-		<category><![CDATA[event]]></category>
-		<category><![CDATA[motor sporting]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Yas Marina]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/</guid>
-
-					<description><![CDATA[Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Can you imagine a car race without any drivers? Well, it’s no longer imagination, but a reality now! That’s right, the world witnessed the first-ever professional autonomous car race over the weekend. The Abu Dhabi Autonomous Racing League (A2RL) held at Yas Marina marked a significant leap in the motor racing world. With autonomous cars […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/worlds-first-autonomous-car-race-held-at-abu-dhabis-yas-marina/">World’s First Autonomous Car Race Held at Abu Dhabi’s Yas Marina</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</title>
-		<link>https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 15:01:13 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Avatar]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[communication]]></category>
-		<category><![CDATA[digital]]></category>
-		<category><![CDATA[efficiency]]></category>
-		<category><![CDATA[Ministry]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[resources]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/</guid>
-
-					<description><![CDATA[Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Ukraine has embarked on a pioneering venture by introducing the world’s first ‘AI diplomat’. The country has developed an artificial intelligence (AI) generated spokesperson to be the face and voice of their Ministry of Foreign Affairs. The AI, named Victoria Shi, has been launched to announce updates on various fronts, on behalf of the Ukrainian […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-victoria-shi-the-worlds-first-ai-generated-foreign-minister/">Meet Victoria Shi, the World’s First AI-Generated Foreign Minister</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

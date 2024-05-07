@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>data science &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/data-science/feed/?simply_static_page=1482685" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>data science &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
+		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[Claude 3 Sonnet]]></category>
+		<category><![CDATA[Claude AI]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
+
+					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Tableau Alternatives to Explore in 2024</title>
+		<link>https://www.sawberries.com/2024/05/04/tableau-alternatives/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 18:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Data Analysis]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/tableau-alternatives/</guid>
+
+					<description><![CDATA[Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction While Tableau remains a popular choice for data visualization, its dominance is waning. The increasing importance of data analysis across industries has fueled the demand for versatile tools, leading to a surge in Tableau alternatives. These alternatives cater to various needs, whether you prioritize affordability, extensive customization, or specialized functionalities. A range of options […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/tableau-alternatives/">Top 10 Tableau Alternatives to Explore in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>40+ Free Python Resources that can Help you Become a Pro</title>
+		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python books]]></category>
+		<category><![CDATA[Python Course]]></category>
+		<category><![CDATA[Python Resources]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/free-python-resources/</guid>
+
+					<description><![CDATA[Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-python-resources/">40+ Free Python Resources that can Help you Become a Pro</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30 Python Coding Interview Questions for Beginners</title>
+		<link>https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[coding questions]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Interview Questions]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Python Coding Interview Questions]]></category>
+		<category><![CDATA[python quesitons]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/python-coding-interview-questions-for-beginners/</guid>
+
+					<description><![CDATA[Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Understanding Python coding interview questions is crucial as they serve as a gateway to opportunities in software development and data science careers. Mastering these questions not only showcases problem-solving abilities and Python proficiency but also enhances overall programming skills. By familiarizing oneself with common challenges and honing problem-solving strategies, candidates can confidently navigate technical […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-coding-interview-questions-for-beginners/">30 Python Coding Interview Questions for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

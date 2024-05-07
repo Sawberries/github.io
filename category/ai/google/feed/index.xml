@@ -9,10 +9,10 @@
 
 <channel>
 	<title>google &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/google/feed/?simply_static_page=1420074" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/google/feed/?simply_static_page=1482938" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</title>
+		<link>https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[Google Threat Intelligence]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</guid>
+
+					<description><![CDATA[Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/">Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
 		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
 		

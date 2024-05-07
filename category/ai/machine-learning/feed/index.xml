@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Machine Learning &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/machine-learning/feed/?simply_static_page=1482745" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Machine Learning &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</title>
+		<link>https://www.sawberries.com/2024/05/06/github-copilot-workspace/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 18:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Copilot Workspace]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/github-copilot-workspace/</guid>
+
+					<description><![CDATA[Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction AI is reshaping software development, and GitHub is at the forefront. In just two years, we’ve seen a dramatic shift with the introduction of GitHub Copilot, the AI-powered code completion tool for editors, boosting productivity by up to 55%. We’re pushing the boundaries even further with GitHub Copilot Workspace: the first Copilot-native developer environment. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/github-copilot-workspace/">Meet Devin’s Rival: Here’s How You Should Work on GitHub Copilot Workspace</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>President Sally Kornbluth and OpenAI CEO Sam Altman discuss the future of AI</title>
+		<link>https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 15:01:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Invention]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[President Sally Kornbluth]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</guid>
+
+					<description><![CDATA[How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2. The success of OpenAI’s ChatGPT large language models has helped spur [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2.</p>
+<p>The success of OpenAI’s ChatGPT large language models has helped spur a wave of investment and innovation in the field of artificial intelligence. ChatGPT-3.5 became the fastest-growing consumer software application in history after its release at the end of 2022, with hundreds of millions of people using the tool. Since then, OpenAI has also demonstrated AI-driven image-, audio-, and video-generation products and partnered with Microsoft.</p>
+<p>The event, which took place in a packed Kresge Auditorium, captured the excitement of the moment around AI, with an eye toward what’s next.</p>
+<p>“I think most of us remember the first time we saw ChatGPT and were like, ‘Oh my god, that is so cool!’” Kornbluth said. “Now we’re trying to figure out what the next generation of all this is going to be.”</p>
+<p>For his part, Altman welcomes the high expectations around his company and the field of artificial intelligence more broadly.</p>
+<p>“I think it’s awesome that for two weeks, everybody was freaking out about ChatGPT-4, and then by the third week, everyone was like, ‘Come on, where’s GPT-5?’” Altman said. “I think that says something legitimately great about human expectation and striving and why we all have to [be working to] make things better.”</p>
+<p><strong>The problems with AI</strong></p>
+<p>Early on in their discussion, Kornbluth and Altman discussed the many ethical dilemmas posed by AI.</p>
+<p>“I think we’ve made surprisingly good progress around how to align a system around a set of values,” Altman said. “As much as people like to say ‘You can’t use these things because they’re spewing toxic waste all the time,’ GPT-4 behaves kind of the way you want it to, and we’re able to get it to follow a given set of values, not perfectly well, but better than I expected by this point.”</p>
+<p>Altman also pointed out that people don’t agree on exactly how an AI system should behave in many situations, complicating efforts to create a universal code of conduct.</p>
+<p>“How do we decide what values a system should have?” Altman asked. “How do we decide what a system should do? How much does society define boundaries versus trusting the user with these tools? Not everyone will use them the way we like, but that’s just kind of the case with tools. I think it’s important to give people a lot of control … but there are some things a system just shouldn’t do, and we’ll have to collectively negotiate what those are.”</p>
+<p>Kornbluth agreed doing things like eradicating bias in AI systems will be difficult.</p>
+<p>“It’s interesting to think about whether or not we can make models less biased than we are as human beings,” she said.</p>
+<p>Kornbluth also brought up privacy concerns associated with the vast amounts of data needed to train today’s large language models. Altman said society has been grappling with those concerns since the dawn of the internet, but AI is making such considerations more complex and higher-stakes. He also sees entirely new questions raised by the prospect of powerful AI systems.</p>
+<p>“How are we going to navigate the privacy versus utility versus safety tradeoffs?” Altman asked. “Where we all individually decide to set those tradeoffs, and the advantages that will be possible if someone lets the system be trained on their entire life, is a new thing for society to navigate. I don’t know what the answers will be.”</p>
+<p>For both privacy and energy consumption concerns surrounding AI, Altman said he believes progress in future versions of AI models will help.</p>
+<p>&#8220;What we want out of GPT-5 or 6 or whatever is for it to be the best reasoning engine possible,” Altman said. “It is true that right now, the only way we’re able to do that is by training it on tons and tons of data. In that process, it’s learning something about how to do very, very limited reasoning or cognition or whatever you want to call it. But the fact that it can memorize data, or the fact that it’s storing data at all in its parameter space, I think we&#8217;ll look back and say, ‘That was kind of a weird waste of resources.’ I assume at some point, we’ll figure out how to separate the reasoning engine from the need for tons of data or storing the data in [the model], and be able to treat them as separate things.”</p>
+<p>Kornbluth also asked about how AI might lead to job displacement.</p>
+<p>“One of the things that annoys me most about people who work on AI is when they stand up with a straight face and say, ‘This will never cause any job elimination. This is just an additive thing. This is just all going to be great,’” Altman said. “This is going to eliminate a lot of current jobs, and this is going to change the way that a lot of current jobs function, and this is going to create entirely new jobs. That always happens with technology.&#8221;</p>
+<p><strong>The promise of AI</strong></p>
+<p>Altman believes progress in AI will make grappling with all of the field’s current problems worth it.</p>
+<p>“If we spent 1 percent of the world’s electricity training a powerful AI, and that AI helped us figure out how to get to non-carbon-based energy or make deep carbon capture better, that would be a massive win,” Altman said.</p>
+<p>He also said the application of AI he’s most interested in is scientific discovery.</p>
+<p>“I believe [scientific discovery] is the core engine of human progress and that it is the only way we drive sustainable economic growth,” Altman said. “People aren’t content with GPT-4. They want things to get better. Everyone wants life more and better and faster, and science is how we get there.”</p>
+<p>Kornbluth also asked Altman for his advice for students thinking about their careers. He urged students not to limit themselves.</p>
+<p>“The most important lesson to learn early on in your career is that you can kind of figure anything out, and no one has all of the answers when they start out,” Altman said. “You just sort of stumble your way through, have a fast iteration speed, and try to drift toward the most interesting problems to you, and be around the most impressive people and have this trust that you’ll successfully iterate to the right thing. &#8230; You can do more than you think, faster than you think.”</p>
+<p>The advice was part of a broader message Altman had about staying optimistic and working to create a better future.</p>
+<p>“The way we are teaching our young people that the world is totally screwed and that it’s hopeless to try to solve problems, that all we can do is sit in our bedrooms in the dark and think about how awful we are, is a really deeply unproductive streak,” Altman said. “I hope MIT is different than a lot of other college campuses. I assume it is. But you all need to make it part of your life mission to fight against this. Prosperity, abundance, a better life next year, a better life for our children. That is the only path forward. That is the only way to have a functioning society &#8230; and the anti-progress streak, the anti ‘people deserve a great life’ streak, is something I hope you all fight against.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Build a ML Model in 1 Minute using ChatGPT</title>
+		<link>https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/build-a-ml-model-using-chatgpt/</guid>
+
+					<description><![CDATA[Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
+		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[Claude 3 Sonnet]]></category>
+		<category><![CDATA[Claude AI]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
+
+					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
