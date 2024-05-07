@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Beginner &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1538994" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/beginner/feed/?simply_static_page=1542806" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 18:01:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI courses]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Free AI Courses]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ai-courses-online/</guid>
+
+					<description><![CDATA[Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-courses-online/">12 AI Courses Per Your Current Requirement and Experience in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6 Ways to Round Floating Value to Two Decimals in Python</title>
+		<link>https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:17 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</guid>
+
+					<description><![CDATA[Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ways-to-round-floating-value-to-two-decimals-in-python/">6 Ways to Round Floating Value to Two Decimals in Python</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>50+ Machine Learning Resources for Self Study in 2024</title>
 		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
 		
@@ -226,57 +276,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>30 Quick Numpy Tips and Tricks for Beginners</title>
-		<link>https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 09:01:14 +0000</pubDate>
-				<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/numpy-tips-and-tricks-for-beginners/</guid>
-
-					<description><![CDATA[Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction This guide focuses on mastering Python and NumPy, a powerful library for numerical computing. It offers 30 tips and tricks to enhance coding skills, covering foundational matrix operations and advanced statistical analysis techniques. Practical examples accompany each tip, allowing users to navigate complex data manipulations and scientific computations. The guide aims to unlock the […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/numpy-tips-and-tricks-for-beginners/">30 Quick Numpy Tips and Tricks for Beginners</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
-		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Claude 3]]></category>
-		<category><![CDATA[Claude 3 Sonnet]]></category>
-		<category><![CDATA[Claude AI]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iOS Apps]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
-
-					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

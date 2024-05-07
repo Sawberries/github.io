@@ -9,10 +9,10 @@
 
 <channel>
 	<title>ross &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=1538845" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/author/ross/feed/?simply_static_page=1542639" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 15:01:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 18:01:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI’s Media Manager Puts Creators in the AI Driver’s Seat</title>
+		<link>https://www.sawberries.com/2024/05/07/openais-media-manager/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:20 +0000</pubDate>
+				<category><![CDATA[Media Manager]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI Media Manager]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/openais-media-manager/</guid>
+
+					<description><![CDATA[Following the launch of ChatGPT, OpenAI acknowledges the transformative potential of AI while recognizing the need for responsible data practices in this evolving field. To address these concerns, OpenAI recently published a blog outlining their data approach, introducing the new Media Manager tool for creators, and charting their vision for the future. In today’s digital [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Following the launch of ChatGPT, OpenAI acknowledges the transformative potential of AI while recognizing the need for responsible data practices in this evolving field. To address these concerns, OpenAI recently published a blog outlining their data approach, introducing the new Media Manager tool for creators, and charting their vision for the future. In today’s digital […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openais-media-manager/">OpenAI’s Media Manager Puts Creators in the AI Driver’s Seat</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI courses]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Free AI Courses]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ai-courses-online/</guid>
+
+					<description><![CDATA[Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-courses-online/">12 AI Courses Per Your Current Requirement and Experience in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6 Ways to Round Floating Value to Two Decimals in Python</title>
+		<link>https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:17 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</guid>
+
+					<description><![CDATA[Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ways-to-round-floating-value-to-two-decimals-in-python/">6 Ways to Round Floating Value to Two Decimals in Python</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nicolas V. Sanchez Captures Ancestral Stories and Memories in Meticulously Detailed Equine Portraits</title>
 		<link>https://www.sawberries.com/2024/05/07/nicolas-v-sanchez-horses/</link>
 		
@@ -259,113 +331,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</title>
-		<link>https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 09:01:12 +0000</pubDate>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[dictionary]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[insights]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[Libraries]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[precision]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[query]]></category>
-		<category><![CDATA[RAG]]></category>
-		<category><![CDATA[Rag evaluation]]></category>
-		<category><![CDATA[RAG pipeline]]></category>
-		<category><![CDATA[RAGAS]]></category>
-		<category><![CDATA[recall]]></category>
-		<category><![CDATA[Retrieval-Augmented Generation]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</guid>
-
-					<description><![CDATA[Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/">A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
-		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[language model]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[MAI-1]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
-
-					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>427: Williams Electronics and Designing The Amiga with Sam Dicker &#8211; The Retro Hour EP427</title>
-		<link>https://www.sawberries.com/2024/05/07/8499732/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 00:01:19 +0000</pubDate>
-				<category><![CDATA[retrotech]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/8499732/</guid>
-
-					<description><![CDATA[This week, we&#8217;re joined by Sam Dicker, a pioneer who helped shape the sound and fury of iconic games like Defender and Sinistar. We explore his time at Williams Electronics and joining the early Amiga crew, Sam shares his stories behind the creation of game-changing sounds and making the legendary Amiga &#8216;boing ball&#8217; demo that [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<div>This week, we&#8217;re joined by Sam Dicker, a pioneer who helped shape the sound and fury of iconic games like Defender and Sinistar. We explore his time at Williams Electronics and joining the early Amiga crew, Sam shares his stories behind the creation of game-changing sounds and making the legendary Amiga &#8216;boing ball&#8217; demo that wowed CES in 1984.</p>
-<p>Contents:</p>
-<p>00:00 &#8211; The Week&#8217;s Retro News Stories<br />
-40:48 &#8211; Sam Dicker Interview</p>
-<p>Please visit our amazing sponsors and help to support the show:</p>
-<p>Take your business to the next level today and enjoy 3 months of Shopify for £1/month: <a href="https://shopify.co.uk/retrohour">https://shopify.co.uk/retrohour</a></p>
-<p>Bitmap Books <a href="https://www.bitmapbooks.com/">https://www.bitmapbooks.com/</a></p>
-<p>Check out PCBWay at <a href="https://pcbway.com/">https://pcbway.com/</a> for all your PCB needs</p>
-<p>We need your help to ensure the future of the podcast, if you&#8217;d like to help us with running costs, equipment and hosting, please consider supporting us on Patreon:</p>
-<p><a href="https://theretrohour.com/support/">https://theretrohour.com/support/</a></p>
-<p><a href="https://www.patreon.com/retrohour">https://www.patreon.com/retrohour</a></p>
-<p>Get your Retro Hour merchandise: <a href="https://bit.ly/33OWBKd">https://bit.ly/33OWBKd</a></p>
-<p>Join our Discord channel: <a href="https://discord.gg/GQw8qp8">https://discord.gg/GQw8qp8</a></p>
-<p>Website: <a href="http://theretrohour.com/">http://theretrohour.com/</a><br />
-Facebook: <a href="https://www.facebook.com/theretrohour/">https://www.facebook.com/theretrohour/</a><br />
-Twitter: <a href="https://twitter.com/retrohouruk">https://twitter.com/retrohouruk</a><br />
-Instagram: <a href="https://www.instagram.com/retrohouruk/">https://www.instagram.com/retrohouruk/</a><br />
-Twitch: <a href="https://www.twitch.tv/theretrohour">https://www.twitch.tv/theretrohour</a></p>
-<p>Show notes:</p>
-<p>Xbox 360 store to close this summer: <a href="https://tinyurl.com/6hs6suxj">https://tinyurl.com/6hs6suxj</a><br />
-SummerCart64: <a href="https://tinyurl.com/yc6mjuzr">https://tinyurl.com/yc6mjuzr</a><br />
-Dr Robotnik ring racers: <a href="https://tinyurl.com/43x9466s">https://tinyurl.com/43x9466s</a><br />
-Fallout excel: <a href="https://tinyurl.com/2ktmw25t">https://tinyurl.com/2ktmw25t</a><br />
-30 years since Commodore went bust: <a href="https://tinyurl.com/m573sxhx">https://tinyurl.com/m573sxhx</a></p>
-</div>
 </div>
 ]]></content:encoded>
 					

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Listicle &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=1539205" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/listicle/feed/?simply_static_page=1542926" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 12:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 18:01:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI courses]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Free AI Courses]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ai-courses-online/</guid>
+
+					<description><![CDATA[Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-courses-online/">12 AI Courses Per Your Current Requirement and Experience in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6 Ways to Round Floating Value to Two Decimals in Python</title>
+		<link>https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:17 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ways-to-round-floating-value-to-two-decimals-in-python/</guid>
+
+					<description><![CDATA[Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Welcome to our guide on rounding floating-point values to two decimals in Python! In this article, we’ll explore various techniques Python offers to achieve this common programming task. We’ll delve into built-in functions, string formatting options such as f-strings and format(), Python‘s math module for rounding, and the % operator for string formatting. You’ll […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ways-to-round-floating-value-to-two-decimals-in-python/">6 Ways to Round Floating Value to Two Decimals in Python</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>30 Quick Matplotlib Tips and Tricks for Beginners</title>
 		<link>https://www.sawberries.com/2024/05/07/quick-matplotlib-tips-and-tricks-for-beginners/</link>
 		
@@ -214,63 +264,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Google Gemini is one of the most popular chatbots around. And guess what? Google offers eight free lessons to help you become a Gemini pro! Whether you’re a tech enthusiast or a complete beginner, these courses cater to a wide range of learners, equipping you with the skills to leverage Gemini’s capabilities and unlock […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-free-courses-by-google/">8 Gemini Free Courses by Google to master it </a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</title>
-		<link>https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 18:01:31 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Claude 3]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[GPT4]]></category>
-		<category><![CDATA[GPT5]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/new-ai-model-gpt-chatbot-is-going-viral/</guid>
-
-					<description><![CDATA[Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Have you heard about GPT2-chatbot? It has set the whole town abuzz! This new artificial intelligence (AI) model has recently emerged and is causing quite a stir in the tech community. This enigmatic model has been released without official documentation, leading to speculation about its origins and capabilities. However, with its impeccable performance compared […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/new-ai-model-gpt-chatbot-is-going-viral/">GPT2-chatbot: Is it Better than GPT4 and Claude Opus?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Top 6 AI Logo Generators for Small Businesses in 2024</title>
-		<link>https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 15:01:33 +0000</pubDate>
-				<category><![CDATA[AI Business Tools]]></category>
-		<category><![CDATA[Ai logo]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[logo generator]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Small Business]]></category>
-		<category><![CDATA[treding]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/top-ai-logo-generators-for-small-businesses/</guid>
-
-					<description><![CDATA[Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction With the development of AI in 2024, small businesses can now affordably and quickly produce logos of superior quality. Customized logos are created by these technologies based on user preferences and brand identity using AI and machine learning algorithms. Small companies may now design distinctive and polished logos that make an impression on their […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-ai-logo-generators-for-small-businesses/">Top 6 AI Logo Generators for Small Businesses in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
