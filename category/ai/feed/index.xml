@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=1372604" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=1376219" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 00:01:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Seizing solar’s bright future</title>
 		<link>https://www.sawberries.com/2024/05/07/optigon-seizing-bright-solar-future-0506/</link>
 		
@@ -328,37 +357,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Machine learning (ML) has become a game-changer across industries, but its complexity can be intimidating. This article explores how to use ChatGPT to build machine learning models. We’ll look into how ChatGPT can assist in various stages of model creation, from data preparation to training and evaluation, all through an intuitive conversational interface. Why […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/build-a-ml-model-using-chatgpt/">How to Build a ML Model in 1 Minute using ChatGPT</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
-		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI models]]></category>
-		<category><![CDATA[AI Systems]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Datasets]]></category>
-		<category><![CDATA[language model]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[multimodal AI]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[VILA]]></category>
-		<category><![CDATA[visual model]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
-
-					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

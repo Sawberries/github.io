@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Large Language Models &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/large-language-models/feed/?simply_static_page=1376616" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Large Language Models &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</title>
+		<link>https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI models]]></category>
+		<category><![CDATA[AI Systems]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[multimodal AI]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[VILA]]></category>
+		<category><![CDATA[visual model]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/</guid>
+
+					<description><![CDATA[The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The artificial intelligence (AI) landscape continues to evolve, demanding models capable of handling vast datasets and delivering precise insights. Fulfilling these needs, researchers at NVIDIA and MIT have recently introduced a Visual Language Model (VLM), VILA. This new AI model stands out for its exceptional ability to reason among multiple images. Moreover, it facilitates in-context […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/nvidia-visual-language-model-vila-enhances-multimodal-ai-capabilities/">NVIDIA’s Visual Language Model VILA Enhances Multimodal AI Capabilities</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
+		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Claude 3]]></category>
+		<category><![CDATA[Claude 3 Sonnet]]></category>
+		<category><![CDATA[Claude AI]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS Apps]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
+
+					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10 Mind-blowing Use Cases of Llama 3</title>
+		<link>https://www.sawberries.com/2024/05/04/use-cases-of-llama/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 21:01:13 +0000</pubDate>
+				<category><![CDATA[AI Use cases]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLaMA]]></category>
+		<category><![CDATA[Llama 3]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Use Cases]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/use-cases-of-llama/</guid>
+
+					<description><![CDATA[Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Since the release of Meta’s Llama 3, it has sparked a wave of excitement throughout the tech industry. Its capabilities extend far beyond what you might expect. Brought to you by Gradient with the invaluable support of compute resources from Crusoe Energy, I am thrilled to introduce the latest leap in AI innovation: Llama-3 […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/use-cases-of-llama/">10 Mind-blowing Use Cases of Llama 3</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
+		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 18:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Deeplearning.ai]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Short Courses]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</guid>
+
+					<description><![CDATA[Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-generative-ai-short-courses-by-deeplearning-ai/">30+ Free Generative AI Short Courses by Deeplearning.ai</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building Responsible AI with Guardrails AI</title>
+		<link>https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Object]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[validation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/building-responsible-ai-with-guardrails-ai/">Building Responsible AI with Guardrails AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OpenAI &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/openai/feed/?simply_static_page=1376719" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>OpenAI &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
+		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
+				<category><![CDATA[AI infrastructure]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
+
+					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</title>
+		<link>https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 15:01:13 +0000</pubDate>
+				<category><![CDATA[AGI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GPT4]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sam Altman]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/</guid>
+
+					<description><![CDATA[In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In a series of candid discussions, Sam Altman, the CEO of OpenAI, has made bold statements about the future and financial commitment of his company towards achieving Artificial General Intelligence (AGI). His vision represents a significant shift in the development of AI technologies, emphasizing the transformative potential of AGI across various societal sectors. Altman has […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/is-sam-altman-crazy-or-a-genius-billion-agi-gamble-explained/">Is Sam Altman Crazy or a Genius? $50 Billion AGI Gamble Explained!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Sora: World’s First Commissioned Music Video by AI</title>
+		<link>https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:15 +0000</pubDate>
+				<category><![CDATA[AI music]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Sora]]></category>
+		<category><![CDATA[text to video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/openai-sora-worlds-first-commissioned-music-video-by-ai/</guid>
+
+					<description><![CDATA[OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI Sora is again in the limelight with its first commissioned Music Video. After the release of The Balloon Man in ‘Air Head’ – a short film made with Sora, Hollywood’s fascination with this text-to-video model soared to new heights. Today, OpenAI Sora has achieved a remarkable feat by creating the world’s first commissioned music […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-sora-worlds-first-commissioned-music-video-by-ai/">OpenAI Sora: World’s First Commissioned Music Video by AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Releases Claude Team Enterprise AI Plan and iOS App</title>
+		<link>https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 00:01:14 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[anthropic claude 3]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple app store]]></category>
+		<category><![CDATA[apple ios]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[CXO]]></category>
+		<category><![CDATA[ensono]]></category>
+		<category><![CDATA[Enterprise Software]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Start-Ups]]></category>
+		<category><![CDATA[teksystems]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/anthropic-claude-team-ios-app/</guid>
+
+					<description><![CDATA[The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.]]></description>
+										<content:encoded><![CDATA[<div>The enterprise plan seeks to fill a need for generative AI tools for small and medium businesses. Plus, a Claude app is now on iOS.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</title>
+		<link>https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[memory]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/chatgpts-new-memory-feature-enhances-personalized-interactions/</guid>
+
+					<description><![CDATA[OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>OpenAI has added a new ‘Memory’ feature for ChatGPT Plus subscribers. It allows the AI-powered chatbot to remember and utilize personalized information shared during conversations. This enhancement aims to streamline personalized interactions and improve the overall experience of using ChatGPT. Also Read: Open AI’s ChatGPT Announced a New Feature: Image Editing Understanding ChatGPT’s Memory Feature […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chatgpts-new-memory-feature-enhances-personalized-interactions/">ChatGPT’s New ‘Memory’ Feature Enhances Personalized Interactions</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

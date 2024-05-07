@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1372998" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1376531" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 21:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nvidia Introduces VILA: Visual Language Intelligence and Edge AI 2.0</title>
 		<link>https://www.sawberries.com/2024/05/06/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/</link>
 		
@@ -328,36 +357,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</title>
-		<link>https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Sun, 05 May 2024 06:01:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[Claude 3]]></category>
-		<category><![CDATA[Claude 3 Sonnet]]></category>
-		<category><![CDATA[Claude AI]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iOS Apps]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/claude-ios-app-team-plan/</guid>
-
-					<description><![CDATA[Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Claude iOS App and Claude AI Team Plan are out for the public! Anthropic, the visionary company driving the evolution of AI with its formidable Claude 3 models, is making remarkable progress in democratizing access to artificial intelligence. Their latest endeavors include the launch of a groundbreaking iOS app for Claude and an innovative […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/claude-ios-app-team-plan/">12 Top Features of Anthropic Claude iOS App and Claude AI Team Plan</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

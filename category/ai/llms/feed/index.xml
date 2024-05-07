@@ -9,10 +9,10 @@
 
 <channel>
 	<title>LLMs &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=1373120" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/llms/feed/?simply_static_page=1376625" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Mon, 06 May 2024 21:01:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 03:01:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nvidia Introduces VILA: Visual Language Intelligence and Edge AI 2.0</title>
 		<link>https://www.sawberries.com/2024/05/06/nvidia-introduces-vila-visual-language-intelligence-and-edge-ai/</link>
 		
@@ -293,38 +322,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-generative-ai-short-courses-by-deeplearning-ai/">30+ Free Generative AI Short Courses by Deeplearning.ai</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Building Responsible AI with Guardrails AI</title>
-		<link>https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Fri, 03 May 2024 09:01:17 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[Applications]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Github]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[Intermediate]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[Object]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[validation]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</guid>
-
-					<description><![CDATA[Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/building-responsible-ai-with-guardrails-ai/">Building Responsible AI with Guardrails AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
