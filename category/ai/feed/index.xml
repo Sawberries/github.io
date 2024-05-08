@@ -9,16 +9,16 @@
 
 <channel>
 	<title>AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=1568971" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/feed/?simply_static_page=1680135" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 18:01:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 21:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Apple’s 2024 iPads Will Benefit Working Professionals</title>
+		<link>https://www.sawberries.com/2024/05/07/apple-ipad-event/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 21:01:15 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple pencil]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[ipad ai]]></category>
+		<category><![CDATA[ipad pro]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/apple-ipad-event/</guid>
+
+					<description><![CDATA[At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.]]></description>
+										<content:encoded><![CDATA[<div>At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>OpenAI’s Media Manager Puts Creators in the AI Driver’s Seat</title>
 		<link>https://www.sawberries.com/2024/05/07/openais-media-manager/</link>
 		
@@ -270,42 +293,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</title>
-		<link>https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 09:01:12 +0000</pubDate>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[dictionary]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[insights]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[Libraries]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[precision]]></category>
-		<category><![CDATA[Python]]></category>
-		<category><![CDATA[query]]></category>
-		<category><![CDATA[RAG]]></category>
-		<category><![CDATA[Rag evaluation]]></category>
-		<category><![CDATA[RAG pipeline]]></category>
-		<category><![CDATA[RAGAS]]></category>
-		<category><![CDATA[recall]]></category>
-		<category><![CDATA[Retrieval-Augmented Generation]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/</guid>
-
-					<description><![CDATA[Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction In the ever-evolving landscape of machine learning and artificial intelligence, the development of language model applications, particularly Retrieval Augmented Generation (RAG) systems, is becoming increasingly sophisticated. However, the real challenge surfaces not during the initial creation but in the ongoing maintenance and enhancement of these applications. This is where RAGAS—an evaluation library dedicated to […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/a-beginners-guide-to-evaluating-rag-pipelines-using-ragas/">A Beginner’s Guide to Evaluating RAG Pipelines Using RAGAS</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

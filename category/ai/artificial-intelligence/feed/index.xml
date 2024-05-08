@@ -9,16 +9,16 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1569383" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1680525" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 18:01:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 May 2024 21:01:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How Apple’s 2024 iPads Will Benefit Working Professionals</title>
+		<link>https://www.sawberries.com/2024/05/07/apple-ipad-event/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 21:01:15 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple pencil]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[ipad ai]]></category>
+		<category><![CDATA[ipad pro]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/apple-ipad-event/</guid>
+
+					<description><![CDATA[At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.]]></description>
+										<content:encoded><![CDATA[<div>At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
 		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
 		
@@ -318,35 +341,6 @@
 										<content:encoded><![CDATA[<div>
 <p>In a significant stride towards democratizing robotics, Hugging Face introduces LeRobot, a pioneering library tailored for real-world applications. This new library emerges as a bridge between cutting-edge research and tangible robotic behaviors. Let’s delve into the intricacies of this promising, community-driven initiative. Also Read: Hugging Face Releases World’s Largest Open Synthetic Dataset The Birth of […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/hugging-face-introduces-lerobot-the-first-robotics-library/">Hugging Face Introduces LeRobot: The First Robotics Library</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</title>
-		<link>https://www.sawberries.com/2024/05/06/openai-security-measures/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Mon, 06 May 2024 12:01:14 +0000</pubDate>
-				<category><![CDATA[AI infrastructure]]></category>
-		<category><![CDATA[AI security]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Cyber Security]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Listicle]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/openai-security-measures/</guid>
-
-					<description><![CDATA[Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Artificial intelligence (AI) significantly impacts various sectors today. It can potentially revolutionize areas such as healthcare, education, and cybersecurity. Recognizing AI’s extensive influence, it’s crucial to emphasize the security of these advanced systems. Ensuring robust security measures allows stakeholders to fully leverage the benefits AI provides. OpenAI is dedicated to crafting secure and dependable […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/openai-security-measures/">Forget Firewalls: 6 OpenAI Security Measures for Advanced AI Infrastructure</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					
