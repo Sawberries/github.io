@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>API &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/api/feed/?simply_static_page=1696622" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 09:01:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>API &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Complete Guide to Using Cohere AI</title>
+		<link>https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</guid>
+
+					<description><![CDATA[Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/guide-to-using-cohere-ai/">A Complete Guide to Using Cohere AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RAG Application with Cohere Command-R and Rerank – Part 1</title>
+		<link>https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[cohere command]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[rag application]]></category>
+		<category><![CDATA[rerank]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</guid>
+
+					<description><![CDATA[Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/rag-application-with-cohere-command-r-and-rerank/">RAG Application with Cohere Command-R and Rerank – Part 1</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building Responsible AI with Guardrails AI</title>
+		<link>https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 09:01:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Object]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[validation]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/building-responsible-ai-with-guardrails-ai/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are ubiquitous in various applications such as chat applications, voice assistants, travel agents, and call centers. As new LLMs are released, they improve their response generation. However, people are increasingly using ChatGPT and other LLMs, which may provide prompts with personal identifiable information or toxic language. To protect against these […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/building-responsible-ai-with-guardrails-ai/">Building Responsible AI with Guardrails AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

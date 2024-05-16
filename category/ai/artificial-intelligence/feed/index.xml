@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Artificial Intelligence &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1692456" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1696434" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 16 May 2024 07:55:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Pre-AGI Era War: Google Astra vs GPT-4o</title>
+		<link>https://www.sawberries.com/2024/05/16/google-astra-vs-gpt-4o/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Astra]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini 1.5 Pro]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[gpt 4o api]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/google-astra-vs-gpt-4o/</guid>
+
+					<description><![CDATA[Introduction Have you attended the Google I/O 2024 Event? If not, I have something interesting for you – Google shared the future of AI with Google Astra. In the wake of OpenAI’s recent release of GPT-4o, Google I/O brought several updates that set the tech world abuzz. GPT-4o represents a significant leap in AI capabilities, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you attended the Google I/O 2024 Event? If not, I have something interesting for you – Google shared the future of AI with Google Astra. In the wake of OpenAI’s recent release of GPT-4o, Google I/O brought several updates that set the tech world abuzz. GPT-4o represents a significant leap in AI capabilities, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/google-astra-vs-gpt-4o/">The Pre-AGI Era War: Google Astra vs GPT-4o</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Complete Guide to Using Cohere AI</title>
+		<link>https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</guid>
+
+					<description><![CDATA[Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/guide-to-using-cohere-ai/">A Complete Guide to Using Cohere AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>OpenAI Spring Update: Next Flagship Model Is the ‘Natively Multimodal’ GPT-4o</title>
 		<link>https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</link>
 		
@@ -306,62 +369,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/">Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
-		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[data science]]></category>
-		<category><![CDATA[Deep Learning]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[OverflowAI]]></category>
-		<category><![CDATA[stack overflow]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
-
-					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
-		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[language model]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[MAI-1]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[News]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
-
-					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

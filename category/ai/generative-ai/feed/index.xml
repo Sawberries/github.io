@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Generative AI &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=1692925" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=1696589" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Tue, 07 May 2024 18:01:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 May 2024 09:01:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Pre-AGI Era War: Google Astra vs GPT-4o</title>
+		<link>https://www.sawberries.com/2024/05/16/google-astra-vs-gpt-4o/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Astra]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemini 1.5 Pro]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[gpt 4o api]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/google-astra-vs-gpt-4o/</guid>
+
+					<description><![CDATA[Introduction Have you attended the Google I/O 2024 Event? If not, I have something interesting for you – Google shared the future of AI with Google Astra. In the wake of OpenAI’s recent release of GPT-4o, Google I/O brought several updates that set the tech world abuzz. GPT-4o represents a significant leap in AI capabilities, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Have you attended the Google I/O 2024 Event? If not, I have something interesting for you – Google shared the future of AI with Google Astra. In the wake of OpenAI’s recent release of GPT-4o, Google I/O brought several updates that set the tech world abuzz. GPT-4o represents a significant leap in AI capabilities, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/google-astra-vs-gpt-4o/">The Pre-AGI Era War: Google Astra vs GPT-4o</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Complete Guide to Using Cohere AI</title>
+		<link>https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[Cohere]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/guide-to-using-cohere-ai/</guid>
+
+					<description><![CDATA[Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This guide primarily introduces the readers to Cohere, an Enterprise AI platform for search, discovery, and advanced retrieval. Leveraging state-of-the-art Machine Learning techniques enables organizations to extract valuable insights, automate tasks, and enhance customer experiences through advanced understanding. Cohere empowers businesses and individuals across industries to unlock the full potential of their textual data, […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/guide-to-using-cohere-ai/">A Complete Guide to Using Cohere AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
 		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
 		
@@ -240,73 +303,6 @@
 										<content:encoded><![CDATA[<div>
 <p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
 <p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
-		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
-				<category><![CDATA[Advanced]]></category>
-		<category><![CDATA[blogathon]]></category>
-		<category><![CDATA[dataset]]></category>
-		<category><![CDATA[fine tuning]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Guide]]></category>
-		<category><![CDATA[HuggingFace]]></category>
-		<category><![CDATA[Kaggle]]></category>
-		<category><![CDATA[language models]]></category>
-		<category><![CDATA[Large Language Models]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<category><![CDATA[Models]]></category>
-		<category><![CDATA[optimization]]></category>
-		<category><![CDATA[PyTorch]]></category>
-		<category><![CDATA[Supervised]]></category>
-		<category><![CDATA[time]]></category>
-		<category><![CDATA[training]]></category>
-		<category><![CDATA[Unsupervised]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
-
-					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
-		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
-		
-		<dc:creator><![CDATA[ross]]></dc:creator>
-		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Tools]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Beginner]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[Hanooman]]></category>
-		<category><![CDATA[Krutrim AI]]></category>
-		<category><![CDATA[Machine Learning]]></category>
-		<category><![CDATA[Ola]]></category>
-		<category><![CDATA[Reliance AI]]></category>
-		<category><![CDATA[supertools]]></category>
-		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
-
-					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div>
-<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
-<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
 </div>
 ]]></content:encoded>
 					

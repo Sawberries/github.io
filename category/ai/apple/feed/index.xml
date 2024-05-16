@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Apple &#8211; sawberries</title>
-	<atom:link href="http://localhost/sawberries/category/ai/apple/feed/?simply_static_page=1692425" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sawberries/category/ai/apple/feed/?simply_static_page=1696353" rel="self" type="application/rss+xml" />
 	<link>https://www.sawberries.com</link>
 	<description>www.sawberry.com site</description>
-	<lastBuildDate>Thu, 16 May 2024 07:55:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 May 2024 09:01:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Get 16 Powerful Mac Utilities With This $40 Bundle</title>
+		<link>https://www.sawberries.com/2024/05/16/the-big-mac-utility-bundle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:01:18 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ensili apps]]></category>
+		<category><![CDATA[macos utilities]]></category>
+		<category><![CDATA[Tech & Work]]></category>
+		<category><![CDATA[TR Academy]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/the-big-mac-utility-bundle/</guid>
+
+					<description><![CDATA[From Wi-Fi scanning to Markdown editing, this collection of Mac utilities can save you time and hassle across a wide range of everyday tasks.]]></description>
+										<content:encoded><![CDATA[<div>From Wi-Fi scanning to Markdown editing, this collection of Mac utilities can save you time and hassle across a wide range of everyday tasks.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>OpenAI Spring Update: Next Flagship Model Is the ‘Natively Multimodal’ GPT-4o</title>
 		<link>https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</link>
 		
