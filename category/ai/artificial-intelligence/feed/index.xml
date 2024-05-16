@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Artificial Intelligence &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/artificial-intelligence/feed/?simply_static_page=1684359" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Artificial Intelligence &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenAI Spring Update: Next Flagship Model Is the ‘Natively Multimodal’ GPT-4o</title>
+		<link>https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:46 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[CXO]]></category>
+		<category><![CDATA[GPT-4]]></category>
+		<category><![CDATA[gpt-4o]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[macos]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</guid>
+
+					<description><![CDATA[OpenAI added a desktop ChatGPT application for macOS with GPT-4o. Separately, all ChatGPT users have access to Memory and some other features for free.]]></description>
+										<content:encoded><![CDATA[<div>OpenAI added a desktop ChatGPT application for macOS with GPT-4o. Separately, all ChatGPT users have access to Memory and some other features for free.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scientists use generative AI to answer complex questions in physics</title>
+		<link>https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</guid>
+
+					<description><![CDATA[When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of study.</p>
+<p>To fully understand these systems, scientists must be able to recognize phases and detect the transitions between. But how to quantify phase changes in an unknown system is often unclear, especially when data are scarce.</p>
+<p>Researchers from MIT and the University of Basel in Switzerland applied generative artificial intelligence models to this problem, developing a new machine-learning framework that can automatically map out phase diagrams for novel physical systems.</p>
+<p>Their physics-informed machine-learning approach is more efficient than laborious, manual techniques which rely on theoretical expertise. Importantly, because their approach leverages generative models, it does not require huge, labeled training datasets used in other machine-learning techniques.</p>
+<p>Such a framework could help scientists investigate the thermodynamic properties of novel materials or detect entanglement in quantum systems, for instance. Ultimately, this technique could make it possible for scientists to discover unknown phases of matter autonomously.</p>
+<p>“If you have a new system with fully unknown properties, how would you choose which observable quantity to study? The hope, at least with data-driven tools, is that you could scan large new systems in an automated way, and it will point you to important changes in the system. This might be a tool in the pipeline of automated scientific discovery of new, exotic properties of phases,” says Frank Schäfer, a postdoc in the Julia Lab in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and co-author of a paper on this approach.</p>
+<p>Joining Schäfer on the paper are first author Julian Arnold, a graduate student at the University of Basel; Alan Edelman, applied mathematics professor in the Department of Mathematics and leader of the Julia Lab; and senior author Christoph Bruder, professor in the Department of Physics at the University of Basel. The research is <a href="https://doi.org/10.1103/PhysRevLett.132.207301" target="_blank" rel="noopener">published today</a> in <em>Physical Review Letters.</em></p>
+<p><strong>Detecting phase transitions using AI</strong></p>
+<p>While water transitioning to ice might be among the most obvious examples of a phase change, more exotic phase changes, like when a material transitions from being a normal conductor to a superconductor, are of keen interest to scientists.</p>
+<p>These transitions can be detected by identifying an “order parameter,” a quantity that is important and expected to change. For instance, water freezes and transitions to a solid phase (ice) when its temperature drops below 0 degrees Celsius. In this case, an appropriate order parameter could be defined in terms of the proportion of water molecules that are part of the crystalline lattice versus those that remain in a disordered state.</p>
+<p>In the past, researchers have relied on physics expertise to build phase diagrams manually, drawing on theoretical understanding to know which order parameters are important. Not only is this tedious for complex systems, and perhaps impossible for unknown systems with new behaviors, but it also introduces human bias into the solution.</p>
+<p>More recently, researchers have begun using machine learning to build discriminative classifiers that can solve this task by learning to classify a measurement statistic as coming from a particular phase of the physical system, the same way such models classify an image as a cat or dog.</p>
+<p>The MIT researchers demonstrated how generative models can be used to solve this classification task much more efficiently, and in a physics-informed manner.</p>
+<p>The <a href="https://julia.mit.edu/" target="_blank" rel="noopener">Julia Programming Language</a>, a popular language for scientific computing that is also used in MIT’s introductory linear algebra classes, offers many tools that make it invaluable for constructing such generative models, Schäfer adds.</p>
+<p>Generative models, like those that underlie ChatGPT and Dall-E, typically work by estimating the probability distribution of some data, which they use to generate new data points that fit the distribution (such as new cat images that are similar to existing cat images).</p>
+<p>However, when simulations of a physical system using tried-and-true scientific techniques are available, researchers get a model of its probability distribution for free. This distribution describes the measurement statistics of the physical system.</p>
+<p><strong>A more knowledgeable model</strong></p>
+<p>The MIT team’s insight is that this probability distribution also defines a generative model upon which a classifier can be constructed. They plug the generative model into standard statistical formulas to directly construct a classifier instead of learning it from samples, as was done with discriminative approaches.</p>
+<p>“This is a really nice way of incorporating something you know about your physical system deep inside your machine-learning scheme. It goes far beyond just performing feature engineering on your data samples or simple inductive biases,” Schäfer says.</p>
+<p>This generative classifier can determine what phase the system is in given some parameter, like temperature or pressure. And because the researchers directly approximate the probability distributions underlying measurements from the physical system, the classifier has system knowledge.</p>
+<p>This enables their method to perform better than other machine-learning techniques. And because it can work automatically without the need for extensive training, their approach significantly enhances the computational efficiency of identifying phase transitions.</p>
+<p>At the end of the day, similar to how one might ask ChatGPT to solve a math problem, the researchers can ask the generative classifier questions like “does this sample belong to phase I or phase II?” or “was this sample generated at high temperature or low temperature?”</p>
+<p>Scientists could also use this approach to solve different binary classification tasks in physical systems, possibly to detect entanglement in quantum systems (Is the state entangled or not?) or determine whether theory A or B is best suited to solve a particular problem. They could also use this approach to better understand and improve large language models like ChatGPT by identifying how certain parameters should be tuned so the chatbot gives the best outputs.</p>
+<p>In the future, the researchers also want to study theoretical guarantees regarding how many measurements they would need to effectively detect phase transitions and estimate the amount of computation that would require.</p>
+<p>This work was funded, in part, by the Swiss National Science Foundation, the MIT-Switzerland Lockheed Martin Seed Fund, and MIT International Science and Technology Initiatives.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Using ideas from game theory to improve the reliability of language models</title>
+		<link>https://www.sawberries.com/2024/05/16/consensus-game-elevates-ai-text-comprehension-generation-skills-0514/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:43 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Game theory]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/consensus-game-elevates-ai-text-comprehension-generation-skills-0514/</guid>
+
+					<description><![CDATA[Imagine you and a friend are playing a game where your goal is to communicate secret messages to each other using only cryptic sentences. Your friend&#8217;s job is to guess the secret message behind your sentences. Sometimes, you give clues directly, and other times, your friend has to guess the message by asking yes-or-no questions [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Imagine you and a friend are playing a game where your goal is to communicate secret messages to each other using only cryptic sentences. Your friend&#8217;s job is to guess the secret message behind your sentences. Sometimes, you give clues directly, and other times, your friend has to guess the message by asking yes-or-no questions about the clues you&#8217;ve given. The challenge is that both of you want to make sure you&#8217;re understanding each other correctly and agreeing on the secret message.</p>
+<p>MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have created a similar &#8220;game&#8221; to help improve how AI understands and generates text. It is known as a “consensus game” and it involves two parts of an AI system — one part tries to generate sentences (like giving clues), and the other part tries to understand and evaluate those sentences (like guessing the secret message).</p>
+<p>The researchers discovered that by treating this interaction as a game, where both parts of the AI work together under specific rules to agree on the right message, they could significantly improve the AI&#8217;s ability to give correct and coherent answers to questions. They tested this new game-like approach on a variety of tasks, such as reading comprehension, solving math problems, and carrying on conversations, and found that it helped the AI perform better across the board.</p>
+<p>Traditionally, large language models answer one of two ways: generating answers directly from the model (generative querying) or using the model to score a set of predefined answers (discriminative querying), which can lead to differing and sometimes incompatible results. With the generative approach, &#8220;Who is the president of the United States?&#8221; might yield a straightforward answer like &#8220;Joe Biden.&#8221; However, a discriminative query could incorrectly dispute this fact when evaluating the same answer, such as &#8220;Barack Obama.&#8221;</p>
+<p>So, how do we reconcile mutually incompatible scoring procedures to achieve coherent, efficient predictions? </p>
+<p>&#8220;Imagine a new way to help language models understand and generate text, like a game. We&#8217;ve developed a training-free, game-theoretic method that treats the whole process as a complex game of clues and signals, where a generator tries to send the right message to a discriminator using natural language. Instead of chess pieces, they&#8217;re using words and sentences,&#8221; says Athul Jacob, an MIT PhD student in electrical engineering and computer science and CSAIL affiliate. &#8220;Our way to navigate this game is finding the &#8216;approximate equilibria,&#8217; leading to a new decoding algorithm called &#8216;equilibrium ranking.&#8217; It&#8217;s a pretty exciting demonstration of how bringing game-theoretic strategies into the mix can tackle some big challenges in making language models more reliable and consistent.&#8221;</p>
+<p>When tested across many tasks, like reading comprehension, commonsense reasoning, math problem-solving, and dialogue, the team&#8217;s algorithm consistently improved how well these models performed. Using the ER algorithm with the LLaMA-7B model even outshone the results from much larger models. &#8220;Given that they are already competitive, that people have been working on it for a while, but the level of improvements we saw being able to outperform a model that&#8217;s 10 times the size was a pleasant surprise,&#8221; says Jacob. </p>
+<p><strong>Game on</strong></p>
+<p>&#8220;Diplomacy,&#8221; a strategic board game set in pre-World War I Europe, where players negotiate alliances, betray friends, and conquer territories without the use of dice — relying purely on skill, strategy, and interpersonal manipulation — recently had a second coming. In November 2022, computer scientists, including Jacob, developed “Cicero,” an AI agent that achieves human-level capabilities in the mixed-motive seven-player game, which requires the same aforementioned skills, but with natural language. The math behind this partially inspired the Consensus Game. </p>
+<p>While the history of AI agents long predates when OpenAI&#8217;s software entered the chat in November 2022, it&#8217;s well documented that they can still cosplay as your well-meaning, yet pathological friend. </p>
+<p>The consensus game system reaches equilibrium as an agreement, ensuring accuracy and fidelity to the model&#8217;s original insights. To achieve this, the method iteratively adjusts the interactions between the generative and discriminative components until they reach a consensus on an answer that accurately reflects reality and aligns with their initial beliefs. This approach effectively bridges the gap between the two querying methods. </p>
+<p>In practice, implementing the consensus game approach to language model querying, especially for question-answering tasks, does involve significant computational challenges. For example, when using datasets like MMLU, which have thousands of questions and multiple-choice answers, the model must apply the mechanism to each query. Then, it must reach a consensus between the generative and discriminative components for every question and its possible answers. </p>
+<p>The system did struggle with a grade school right of passage: math word problems. It couldn&#8217;t generate wrong answers, which is a critical component of understanding the process of coming up with the right one. </p>
+<p>“The last few years have seen really impressive progress in both strategic decision-making and language generation from AI systems, but we’re just starting to figure out how to put the two together. Equilibrium ranking is a first step in this direction, but I think there’s a lot we’ll be able to do to scale this up to more complex problems,” says Jacob.   </p>
+<p>An avenue of future work involves enhancing the base model by integrating the outputs of the current method. This is particularly promising since it can yield more factual and consistent answers across various tasks, including factuality and open-ended generation. The potential for such a method to significantly improve the base model&#8217;s performance is high, which could result in more reliable and factual outputs from ChatGPT and similar language models that people use daily. </p>
+<p>&#8220;Even though modern language models, such as ChatGPT and Gemini, have led to solving various tasks through chat interfaces, the statistical decoding process that generates a response from such models has remained unchanged for decades,&#8221; says Google Research Scientist Ahmad Beirami, who was not involved in the work. &#8220;The proposal by the MIT researchers is an innovative game-theoretic framework for decoding from language models through solving the equilibrium of a consensus game. The significant performance gains reported in the research paper are promising, opening the door to a potential paradigm shift in language model decoding that may fuel a flurry of new applications.&#8221;</p>
+<p>Jacob wrote the paper with MIT-IBM Watson Lab researcher Yikang Shen and MIT Department of Electrical Engineering and Computer Science assistant professors Gabriele Farina and Jacob Andreas, who is also a CSAIL member. They presented their work at the International Conference on Learning Representations (ICLR) earlier this month, where it was highlighted as a &#8220;spotlight paper.&#8221; The research also received a “best paper award” at the NeurIPS R0-FoMo Workshop in December 2023.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The power of App Inventor: Democratizing possibilities for mobile applications</title>
+		<link>https://www.sawberries.com/2024/05/16/power-of-app-inventor-democratizing-possibilities-mobile-applications-0510/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:42 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Global]]></category>
+		<category><![CDATA[History of MIT]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Media Lab]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Open access]]></category>
+		<category><![CDATA[Open source]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/power-of-app-inventor-democratizing-possibilities-mobile-applications-0510/</guid>
+
+					<description><![CDATA[In June 2007, Apple unveiled the first iPhone. But the company made a strategic decision about iPhone software: its new App Store would be a walled garden. An iPhone user wouldn’t be able to install applications that Apple itself hadn’t vetted, at least not without breaking Apple’s terms of service. That business decision, however, left [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In June 2007, Apple unveiled the first iPhone. But the company made a strategic decision about iPhone software: its new App Store would be a walled garden. An iPhone user wouldn’t be able to install applications that Apple itself hadn’t vetted, at least not without breaking Apple’s terms of service.</p>
+<p>That business decision, however, left educators out in the cold. They had no way to bring mobile software development — about to become part of everyday life — into the classroom. How could a young student code, futz with, and share apps if they couldn’t get it into the App Store?</p>
+<p>MIT professor Hal Abelson was on sabbatical at Google at the time, when the company was deciding how to respond to Apple’s gambit to corner the mobile hardware and software market. Abelson recognized the restrictions Apple was placing on young developers; Google recognized the market need for an open-source alternative operating system — what became Android. Both saw the opportunity that became App Inventor.</p>
+<p>“Google started the Android project sort of in reaction to the iPhone,” Abelson says. “And I was there, looking at what we did at MIT with education-focused software like <a href="https://en.wikipedia.org/wiki/Logo_(programming_language)">Logo</a> and <a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)">Scratch</a>, and said ‘what a cool thing it would be if kids could make mobile apps also.’”</p>
+<p>Google software engineer Mark Friedman volunteered to work with Abelson on what became “Young Android,” soon renamed Google App Inventor. Like Scratch, App Inventor is a block-based language, allowing programmers to visually snap together pre-made “blocks” of code rather than need to learn specialized programming syntax.</p>
+<p>Friedman describes it as novel for the time, particularly for mobile development, to make it as easy as possible to build simple mobile apps. “That meant a web-based app,” he says, “where everything was online and no external tools were required, with a simple programming model, drag-and-drop user interface designing, and blocks-based visual programming.” Thus an app someone programmed in a web interface could be installed on an Android device.</p>
+<p>App Inventor scratched an itch. Boosted by the explosion in smartphone adoption and the fact App Inventor is free (and eventually open source), soon more than 70,000 teachers were using it with hundreds of thousands of students, with Google providing the backend infrastructure to keep it going.</p>
+<p>“I remember answering a question from my manager at Google who asked how many users I thought we&#8217;d get in the first year,” Friedman says. “I thought it would be about 15,000 — and I remember thinking that might be too optimistic. I was ultimately off by a factor of 10–20.” Friedman was quick to credit more than their choices about the app. “I think that it&#8217;s fair to say that while some of that growth was due to the quality of the tool, I don&#8217;t think you can discount the effect of it being from Google and of the effect of Hal Abelson&#8217;s reputation and network.”</p>
+<p>Some early apps took App Inventor in ambitious, unexpected directions, such as “Discardious,” developed by teenage girls in Nigeria. Discardious helped business owners and individuals dispose of waste in communities where disposal was unreliable or too cumbersome.</p>
+<p>But even before apps like Discardious came along, the team knew Google’s support wouldn’t be open-ended. No one wanted to cut teachers off from a tool they were thriving with, so around 2010, Google and Abelson agreed to transfer App Inventor to MIT. The transition meant major staff contributions to recreate App Inventor without Google’s proprietary software but MIT needing to work with Google to continue to provide the network resources to keep App Inventor free for the world.</p>
+<p>With such a large user base, however, that left Abelson “worried the whole thing was going to collapse” without Google’s direct participation.</p>
+<p>Friedman agrees. “I would have to say that I had my fears. App Inventor has a pretty complicated technical implementation, involving multiple programming languages, libraries and frameworks, and by the end of its time at Google we had a team of about 10 people working on it.”</p>
+<p>Yet not only did Google provide significant funding to aid the transfer, but, Friedman says of the transfer’s ultimate success, “Hal would be in charge and he had fairly extensive knowledge of the system and, of course, had great passion for the vision and the product.”</p>
+<p>MIT enterprise architect Jeffrey Schiller, who built the Institute’s computer network and became its manager in 1984, was another key part in sustaining App Inventor after its transition, helping introduce technical features fundamental to its accessibility and long-term success. He led the integration of the platform into web browsers, the addition of WiFi support rather than needing to connect phones and computers via USB, and the laying of groundwork for technical support of older phones because, as Schiller says, “many of our users cannot rush out and purchase the latest and most expensive devices.”</p>
+<p>These collaborations and contributions over time resulted in App Inventor’s greatest resource: its user base. As it grew, and with support from community managers, volunteer know-how grew with it. Now, more than a decade since its launch and four years after its overdue inclusion in the Apple App Store, App Inventor recently crossed several major milestones, the most remarkable being the creation of its 100 millionth project and registration of its 20 millionth user. Young developers continue to make incredible applications, boosted now by the advantages of AI. College students created “<a href="https://www.youtube.com/watch?v=RGiFiBSu4Ho">Brazilian XôDengue</a>” as a way for users to use phone cameras to identify mosquito larvae that may be carrying the dengue virus. High school students recently developed “<a href="https://www.youtube.com/watch?v=dyeZAqOqco8">Calmify</a>,” a journaling app that uses AI for emotion detection. And a mother in Kuwait wanted something to help manage the often-overwhelming experience of new motherhood when returning to work, so she built the chatbot “<a href="https://www.youtube.com/watch?v=4uEQsam7C4k">PAM (Personal Advisor to Mothers)</a>” as a non-judgmental space to talk through the challenges.</p>
+<p>App Inventor’s long-term sustainability now rests with the App Inventor Foundation, created in 2022 to grow its resources and further drive its adoption. It is led by executive director Natalie Lao.</p>
+<p>In <a href="https://www.appinventorfoundation.org/s/App-Inventor-Foundation-Annual-Impact-Report-2023.pdf">a letter</a> to the App Inventor community, Lao highlighted the foundation’s commitment to equitable access to educational resources, which for App Inventor required a rapid shift toward AI education — but in a way that upholds App Inventor’s core values to be “a free, open-source, easy-to-use platform” for mobile devices. “Our mission is to not only democratize access to technology,” Lao wrote, “but also foster a culture of innovation and digital literacy.”</p>
+<p>Within MIT, App Inventor today falls under the umbrella of the MIT RAISE Initiative — Responsible AI for Social Empowerment and Education, run by Dean for Digital Learning Cynthia Breazeal, Professor Eric Klopfer, and Abelson. Together they are able to integrate App Inventor into ever-broader communities, events, and funding streams, leading to opportunities like this summer’s inaugural <a href="https://raise.mit.edu/events/ai-education-summit/">AI and Education Summit</a> on July 24-26. The summit will include awards for winners of a <a href="https://raise.mit.edu/events/global-ai-hackathon/">Global AI Hackathon</a>, whose roughly 180 submissions used App Inventor to create AI tools in two tracks: Climate &amp; Sustainability and Health &amp; Wellness. Tying together another of RAISE’s major projects, participants were encouraged to draw from <a href="https://dayofai.org/">Day of AI</a> curricula, including its newest courses on <a href="https://dayofai.org/new-courses-on-data-science-climate-change/">data science and climate change</a>.</p>
+<p>“Over the past year, there&#8217;s been an enormous mushrooming in the possibilities for mobile apps through the integration of AI,” says Abelson. “The opportunity for App Inventor and MIT is to democratize those new possibilities for young people — and for everyone — as an enhanced source of power and creativity.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Apple’s 2024 iPads Will Benefit Working Professionals</title>
+		<link>https://www.sawberries.com/2024/05/07/apple-ipad-event/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 21:01:15 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[apple pencil]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[ipad ai]]></category>
+		<category><![CDATA[ipad pro]]></category>
+		<category><![CDATA[Mobility]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/apple-ipad-event/</guid>
+
+					<description><![CDATA[At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.]]></description>
+										<content:encoded><![CDATA[<div>At Apple&#8217;s &#8220;Let Loose&#8221; event, the company unveiled major upgrades for the iPad Pro and iPad Air, with a new Apple Pencil as icing on the cake.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI courses]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Free AI Courses]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ai-courses-online/</guid>
+
+					<description><![CDATA[Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-courses-online/">12 AI Courses Per Your Current Requirement and Experience in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</title>
+		<link>https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cyber Security]]></category>
+		<category><![CDATA[Datasets]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[Google Threat Intelligence]]></category>
+		<category><![CDATA[insights]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Security]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/</guid>
+
+					<description><![CDATA[Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Staying ahead of threats is of utmost importance in the field of cybersecurity. However, with the complexity of modern attacks and the vastness of data to sift through, security teams often find themselves overwhelmed. Recognizing this challenge, Google Cloud has launched its latest innovation, Google Threat Intelligence. It is a state-of-the-art cybersecurity platform that promises […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-new-threat-intelligence-platform-revolutionizes-cybersecurity-landscape/">Google’s New Threat Intelligence Platform Revolutionizes Cybersecurity Landscape</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</title>
+		<link>https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OverflowAI]]></category>
+		<category><![CDATA[stack overflow]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/stack-overflow-and-openai-partnership/</guid>
+
+					<description><![CDATA[Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Stack Overflow and OpenAI announced a new API partnership. In a landmark move that underscores the burgeoning synergy between collaborative platforms and artificial intelligence, Stack Overflow has entered into a strategic partnership with OpenAI. This delivers accurate data to empower AI tools for swift problem-solving, enabling technologists to prioritize tasks effectively. This collaboration is poised […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/stack-overflow-and-openai-partnership/">Will Stack Overflow and OpenAI Partnership Shape the Future of Development?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</title>
+		<link>https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 03:01:12 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[MAI-1]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/</guid>
+
+					<description><![CDATA[As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>As the race for dominance in the AI landscape intensifies, Microsoft is stepping into the ring with its latest venture, MAI-1. This in-house AI model signals Microsoft’s determination to assert its presence alongside industry giants like Google and OpenAI. Boasting an impressive 500 billion parameters, this new model promises to take AI development a leap […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/microsofts-mai-one-a-new-competitor-to-ai-language-models-from-google-and-openai/">Microsoft’s MAI-1: A New Competitor to AI Language Models from Google and OpenAI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
