@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaggle &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/kaggle/feed/?simply_static_page=1699004" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 12:01:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Kaggle &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</title>
+		<link>https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Challenge]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[LMSYS]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/ai-challenge-by-lmsys-and-kaggle/</guid>
+
+					<description><![CDATA[LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>LMSYS and Kaggle have joined forces for an epic competition: predicting human preferences with machine learning! This competition aims to use machine learning to better understand how humans make choices, which can help improve AI technologies. Winners walk away with a cool $100,000. Are you up for the challenge? What is the AI Challenge by […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-challenge-by-lmsys-and-kaggle/">Join the Exciting $100,000 AI Challenge by LMSYS and Kaggle!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
+		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[fine tuning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HuggingFace]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[PyTorch]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
+
+					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

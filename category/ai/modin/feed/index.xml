@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Modin &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/modin/feed/?simply_static_page=1699212" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Wed, 01 May 2024 15:45:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Modin &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>99% of Python Developers Don’t Know These Pandas Tricks!</title>
+		<link>https://www.sawberries.com/2024/05/01/python-tricks-to-make-pandas-faster/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Wed, 01 May 2024 15:45:30 +0000</pubDate>
+				<category><![CDATA[Coding]]></category>
+		<category><![CDATA[Dask]]></category>
+		<category><![CDATA[functions]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Modin]]></category>
+		<category><![CDATA[Numba]]></category>
+		<category><![CDATA[Pandas]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python functions]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/01/python-tricks-to-make-pandas-faster/</guid>
+
+					<description><![CDATA[Introduction While working with Pandas in Python, you may often notice that your code is slow, it uses too much memory, or it gets difficult to handle as your data grows larger. Any of these issues can lead to errors, long wait times for analysis, and limitations in processing bigger datasets. In this article, we [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction While working with Pandas in Python, you may often notice that your code is slow, it uses too much memory, or it gets difficult to handle as your data grows larger. Any of these issues can lead to errors, long wait times for analysis, and limitations in processing bigger datasets. In this article, we […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/python-tricks-to-make-pandas-faster/">99% of Python Developers Don’t Know These Pandas Tricks!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

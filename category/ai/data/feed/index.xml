@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Data &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/data/feed/?simply_static_page=1697815" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 02 May 2024 07:25:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Data &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fostering research, careers, and community in materials science</title>
+		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
+				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
+		<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Digital technology]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
+
+					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
+<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
+<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
+<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
+<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
+<p><strong>Expanding research opportunities</strong></p>
+<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
+<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
+<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
+<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
+<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
+<p><strong>Building community</strong></p>
+<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
+<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
+<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
+<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
+<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
+<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
+<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
+<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This tiny chip can safeguard user data while enabling efficient computing on a smartphone</title>
+		<link>https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 08:58:32 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Electronics]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/this-tiny-chip-can-safeguard-user-data-while-enabling-efficient-computing-on-a-smartphone/</guid>
+
+					<description><![CDATA[Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server. Engineers often speed things up using hardware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Health-monitoring apps can help people manage chronic diseases or stay on track with fitness goals, using nothing more than a smartphone. However, these apps can be slow and energy-inefficient because the vast machine-learning models that power them must be shuttled between a smartphone and a central memory server.</p>
+<p>Engineers often speed things up using hardware that reduces the need to move so much data back and forth. While these machine-learning accelerators can streamline computation, they are susceptible to attackers who can steal secret information.</p>
+<p>To reduce this vulnerability, researchers from MIT and the MIT-IBM Watson AI Lab created a machine-learning accelerator that is resistant to the two most common types of attacks. Their chip can keep a user’s health records, financial information, or other sensitive data private while still enabling huge AI models to run efficiently on devices.</p>
+<p>The team developed several optimizations that enable strong security while only slightly slowing the device. Moreover, the added security does not impact the accuracy of computations. This machine-learning accelerator could be particularly beneficial for demanding AI applications like augmented and virtual reality or autonomous driving.</p>
+<p>While implementing the chip would make a device slightly more expensive and less energy-efficient, that is sometimes a worthwhile price to pay for security, says lead author Maitreyi Ashok, an electrical engineering and computer science (EECS) graduate student at MIT.</p>
+<p>“It is important to design with security in mind from the ground up. If you are trying to add even a minimal amount of security after a system has been designed, it is prohibitively expensive. We were able to effectively balance a lot of these tradeoffs during the design phase,” says Ashok.</p>
+<p>Her co-authors include Saurav Maji, an EECS graduate student; Xin Zhang and John Cohn of the MIT-IBM Watson AI Lab; and senior author Anantha Chandrakasan, MIT’s chief innovation and strategy officer, dean of the School of Engineering, and the Vannevar Bush Professor of EECS. The research will be presented at the IEEE Custom Integrated Circuits Conference.</p>
+<p><strong>Side-channel susceptibility</strong></p>
+<p>The researchers targeted a type of machine-learning accelerator called digital in-memory compute. A digital IMC chip performs computations inside a device’s memory, where pieces of a machine-learning model are stored after being moved over from a central server.</p>
+<p>The entire model is too big to store on the device, but by breaking it into pieces and reusing those pieces as much as possible, IMC chips reduce the amount of data that must be moved back and forth.</p>
+<p>But IMC chips can be susceptible to hackers. In a side-channel attack, a hacker monitors the chip’s power consumption and uses statistical techniques to reverse-engineer data as the chip computes. In a bus-probing attack, the hacker can steal bits of the model and dataset by probing the communication between the accelerator and the off-chip memory.</p>
+<p>Digital IMC speeds computation by performing millions of operations at once, but this complexity makes it tough to prevent attacks using traditional security measures, Ashok says.</p>
+<p>She and her collaborators took a three-pronged approach to blocking side-channel and bus-probing attacks.</p>
+<p>First, they employed a security measure where data in the IMC are split into random pieces. For instance, a bit zero might be split into three bits that still equal zero after a logical operation. The IMC never computes with all pieces in the same operation, so a side-channel attack could never reconstruct the real information.</p>
+<p>But for this technique to work, random bits must be added to split the data. Because digital IMC performs millions of operations at once, generating so many random bits would involve too much computing. For their chip, the researchers found a way to simplify computations, making it easier to effectively split data while eliminating the need for random bits.</p>
+<p>Second, they prevented bus-probing attacks using a lightweight cipher that encrypts the model stored in off-chip memory. This lightweight cipher only requires simple computations. In addition, they only decrypted the pieces of the model stored on the chip when necessary.</p>
+<p>Third, to improve security, they generated the key that decrypts the cipher directly on the chip, rather than moving it back and forth with the model. They generated this unique key from random variations in the chip that are introduced during manufacturing, using what is known as a physically unclonable function.</p>
+<p>“Maybe one wire is going to be a little bit thicker than another. We can use these variations to get zeros and ones out of a circuit. For every chip, we can get a random key that should be consistent because these random properties shouldn’t change significantly over time,” Ashok explains.</p>
+<p>They reused the memory cells on the chip, leveraging the imperfections in these cells to generate the key. This requires less computation than generating a key from scratch.</p>
+<p>“As security has become a critical issue in the design of edge devices, there is a need to develop a complete system stack focusing on secure operation. This work focuses on security for machine-learning workloads and describes a digital processor that uses cross-cutting optimization. It incorporates encrypted data access between memory and processor, approaches to preventing side-channel attacks using randomization, and exploiting variability to generate unique codes. Such designs are going to be critical in future mobile devices,” says Chandrakasan.</p>
+<p><strong>Safety testing</strong></p>
+<p>To test their chip, the researchers took on the role of hackers and tried to steal secret information using side-channel and bus-probing attacks.</p>
+<p>Even after making millions of attempts, they couldn’t reconstruct any real information or extract pieces of the model or dataset. The cipher also remained unbreakable. By contrast, it took only about 5,000 samples to steal information from an unprotected chip.</p>
+<p>The addition of security did reduce the energy efficiency of the accelerator, and it also required a larger chip area, which would make it more expensive to fabricate.</p>
+<p>The team is planning to explore methods that could reduce the energy consumption and size of their chip in the future, which would make it easier to implement at scale.</p>
+<p>“As it becomes too expensive, it becomes harder to convince someone that security is critical. Future work could explore these tradeoffs. Maybe we could make it a little less secure but easier to implement and less expensive,” Ashok says.</p>
+<p>The research is funded, in part, by the MIT-IBM Watson AI Lab, the National Science Foundation, and a Mathworks Engineering Fellowship.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

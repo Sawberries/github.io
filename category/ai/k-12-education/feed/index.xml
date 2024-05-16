@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>K-12 education &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/k-12-education/feed/?simply_static_page=1696941" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>K-12 education &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The power of App Inventor: Democratizing possibilities for mobile applications</title>
+		<link>https://www.sawberries.com/2024/05/16/power-of-app-inventor-democratizing-possibilities-mobile-applications-0510/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:42 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Global]]></category>
+		<category><![CDATA[History of MIT]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Media Lab]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Open access]]></category>
+		<category><![CDATA[Open source]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/power-of-app-inventor-democratizing-possibilities-mobile-applications-0510/</guid>
+
+					<description><![CDATA[In June 2007, Apple unveiled the first iPhone. But the company made a strategic decision about iPhone software: its new App Store would be a walled garden. An iPhone user wouldn’t be able to install applications that Apple itself hadn’t vetted, at least not without breaking Apple’s terms of service. That business decision, however, left [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>In June 2007, Apple unveiled the first iPhone. But the company made a strategic decision about iPhone software: its new App Store would be a walled garden. An iPhone user wouldn’t be able to install applications that Apple itself hadn’t vetted, at least not without breaking Apple’s terms of service.</p>
+<p>That business decision, however, left educators out in the cold. They had no way to bring mobile software development — about to become part of everyday life — into the classroom. How could a young student code, futz with, and share apps if they couldn’t get it into the App Store?</p>
+<p>MIT professor Hal Abelson was on sabbatical at Google at the time, when the company was deciding how to respond to Apple’s gambit to corner the mobile hardware and software market. Abelson recognized the restrictions Apple was placing on young developers; Google recognized the market need for an open-source alternative operating system — what became Android. Both saw the opportunity that became App Inventor.</p>
+<p>“Google started the Android project sort of in reaction to the iPhone,” Abelson says. “And I was there, looking at what we did at MIT with education-focused software like <a href="https://en.wikipedia.org/wiki/Logo_(programming_language)">Logo</a> and <a href="https://en.wikipedia.org/wiki/Scratch_(programming_language)">Scratch</a>, and said ‘what a cool thing it would be if kids could make mobile apps also.’”</p>
+<p>Google software engineer Mark Friedman volunteered to work with Abelson on what became “Young Android,” soon renamed Google App Inventor. Like Scratch, App Inventor is a block-based language, allowing programmers to visually snap together pre-made “blocks” of code rather than need to learn specialized programming syntax.</p>
+<p>Friedman describes it as novel for the time, particularly for mobile development, to make it as easy as possible to build simple mobile apps. “That meant a web-based app,” he says, “where everything was online and no external tools were required, with a simple programming model, drag-and-drop user interface designing, and blocks-based visual programming.” Thus an app someone programmed in a web interface could be installed on an Android device.</p>
+<p>App Inventor scratched an itch. Boosted by the explosion in smartphone adoption and the fact App Inventor is free (and eventually open source), soon more than 70,000 teachers were using it with hundreds of thousands of students, with Google providing the backend infrastructure to keep it going.</p>
+<p>“I remember answering a question from my manager at Google who asked how many users I thought we&#8217;d get in the first year,” Friedman says. “I thought it would be about 15,000 — and I remember thinking that might be too optimistic. I was ultimately off by a factor of 10–20.” Friedman was quick to credit more than their choices about the app. “I think that it&#8217;s fair to say that while some of that growth was due to the quality of the tool, I don&#8217;t think you can discount the effect of it being from Google and of the effect of Hal Abelson&#8217;s reputation and network.”</p>
+<p>Some early apps took App Inventor in ambitious, unexpected directions, such as “Discardious,” developed by teenage girls in Nigeria. Discardious helped business owners and individuals dispose of waste in communities where disposal was unreliable or too cumbersome.</p>
+<p>But even before apps like Discardious came along, the team knew Google’s support wouldn’t be open-ended. No one wanted to cut teachers off from a tool they were thriving with, so around 2010, Google and Abelson agreed to transfer App Inventor to MIT. The transition meant major staff contributions to recreate App Inventor without Google’s proprietary software but MIT needing to work with Google to continue to provide the network resources to keep App Inventor free for the world.</p>
+<p>With such a large user base, however, that left Abelson “worried the whole thing was going to collapse” without Google’s direct participation.</p>
+<p>Friedman agrees. “I would have to say that I had my fears. App Inventor has a pretty complicated technical implementation, involving multiple programming languages, libraries and frameworks, and by the end of its time at Google we had a team of about 10 people working on it.”</p>
+<p>Yet not only did Google provide significant funding to aid the transfer, but, Friedman says of the transfer’s ultimate success, “Hal would be in charge and he had fairly extensive knowledge of the system and, of course, had great passion for the vision and the product.”</p>
+<p>MIT enterprise architect Jeffrey Schiller, who built the Institute’s computer network and became its manager in 1984, was another key part in sustaining App Inventor after its transition, helping introduce technical features fundamental to its accessibility and long-term success. He led the integration of the platform into web browsers, the addition of WiFi support rather than needing to connect phones and computers via USB, and the laying of groundwork for technical support of older phones because, as Schiller says, “many of our users cannot rush out and purchase the latest and most expensive devices.”</p>
+<p>These collaborations and contributions over time resulted in App Inventor’s greatest resource: its user base. As it grew, and with support from community managers, volunteer know-how grew with it. Now, more than a decade since its launch and four years after its overdue inclusion in the Apple App Store, App Inventor recently crossed several major milestones, the most remarkable being the creation of its 100 millionth project and registration of its 20 millionth user. Young developers continue to make incredible applications, boosted now by the advantages of AI. College students created “<a href="https://www.youtube.com/watch?v=RGiFiBSu4Ho">Brazilian XôDengue</a>” as a way for users to use phone cameras to identify mosquito larvae that may be carrying the dengue virus. High school students recently developed “<a href="https://www.youtube.com/watch?v=dyeZAqOqco8">Calmify</a>,” a journaling app that uses AI for emotion detection. And a mother in Kuwait wanted something to help manage the often-overwhelming experience of new motherhood when returning to work, so she built the chatbot “<a href="https://www.youtube.com/watch?v=4uEQsam7C4k">PAM (Personal Advisor to Mothers)</a>” as a non-judgmental space to talk through the challenges.</p>
+<p>App Inventor’s long-term sustainability now rests with the App Inventor Foundation, created in 2022 to grow its resources and further drive its adoption. It is led by executive director Natalie Lao.</p>
+<p>In <a href="https://www.appinventorfoundation.org/s/App-Inventor-Foundation-Annual-Impact-Report-2023.pdf">a letter</a> to the App Inventor community, Lao highlighted the foundation’s commitment to equitable access to educational resources, which for App Inventor required a rapid shift toward AI education — but in a way that upholds App Inventor’s core values to be “a free, open-source, easy-to-use platform” for mobile devices. “Our mission is to not only democratize access to technology,” Lao wrote, “but also foster a culture of innovation and digital literacy.”</p>
+<p>Within MIT, App Inventor today falls under the umbrella of the MIT RAISE Initiative — Responsible AI for Social Empowerment and Education, run by Dean for Digital Learning Cynthia Breazeal, Professor Eric Klopfer, and Abelson. Together they are able to integrate App Inventor into ever-broader communities, events, and funding streams, leading to opportunities like this summer’s inaugural <a href="https://raise.mit.edu/events/ai-education-summit/">AI and Education Summit</a> on July 24-26. The summit will include awards for winners of a <a href="https://raise.mit.edu/events/global-ai-hackathon/">Global AI Hackathon</a>, whose roughly 180 submissions used App Inventor to create AI tools in two tracks: Climate &amp; Sustainability and Health &amp; Wellness. Tying together another of RAISE’s major projects, participants were encouraged to draw from <a href="https://dayofai.org/">Day of AI</a> curricula, including its newest courses on <a href="https://dayofai.org/new-courses-on-data-science-climate-change/">data science and climate change</a>.</p>
+<p>“Over the past year, there&#8217;s been an enormous mushrooming in the possibilities for mobile apps through the integration of AI,” says Abelson. “The opportunity for App Inventor and MIT is to democratize those new possibilities for young people — and for everyone — as an enhanced source of power and creativity.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

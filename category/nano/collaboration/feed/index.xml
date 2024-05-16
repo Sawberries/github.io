@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Collaboration &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/nano/collaboration/feed/?simply_static_page=1697429" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 21:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Collaboration &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HPI-MIT design research collaboration creates powerful teams</title>
+		<link>https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Cleaner industry]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Environmental Solutions Initiative]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[MIT Morningside Academy for Design]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[Renewable energy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Supply chains]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</guid>
+
+					<description><![CDATA[The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments. This sort of attack and other [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments.</p>
+<p>This sort of attack and other forms of data theft are becoming increasingly common and often target large, multinational corporations through the small and mid-sized vendors in their corporate supply chains, enabling breaks in these enormous systems of interwoven companies.</p>
+<p>Cybersecurity researchers at MIT and the <a href="https://hpi.de/en/research/research-school/international-branches/hasso-plattner-institute.html">Hasso Plattner Institute</a> (HPI) in Potsdam, Germany, are focused on the different organizational security cultures that exist within large corporations and their vendors because it’s that difference that creates vulnerabilities, often due to the lack of emphasis on cybersecurity by the senior leadership in these small to medium-sized enterprises (SMEs).</p>
+<p>Keri Pearlson, executive director of Cybersecurity at MIT Sloan (CAMS); Jillian Kwong, a research scientist at CAMS; and Christian Doerr, a professor of cybersecurity and enterprise security at HPI, are co-principal investigators (PIs) on the research project, “Culture and the Supply Chain: Transmitting Shared Values, Attitudes and Beliefs across Cybersecurity Supply Chains.”</p>
+<p>Their project was selected in the 2023 inaugural round of grants from the <a href="https://design.mit.edu/about/research">HPI-MIT Designing for Sustainability program</a>, a multiyear partnership funded by HPI and administered by the MIT Morningside Academy for Design (MAD). The program awards about 10 grants annually of up to $200,000 each to multidisciplinary teams with divergent backgrounds in computer science, artificial intelligence, machine learning, engineering, design, architecture, the natural sciences, humanities, and business and management. The <a href="https://design.mit.edu/about/research">2024 Call for Applications</a> is open through June 3.</p>
+<p>Designing for Sustainability grants support scientific research that promotes the United Nations’ Sustainable Development Goals (SDGs) on topics involving sustainable design, innovation, and digital technologies, with teams made up of PIs from both institutions. The PIs on these projects, who have common interests but different strengths, create more powerful teams by working together.</p>
+<p><strong>Transmitting shared values, attitudes, and beliefs to improve cybersecurity across supply chains</strong></p>
+<p>The MIT and HPI cybersecurity researchers say that most ransomware attacks aren’t reported. Smaller companies hit with ransomware attacks just shut down, because they can’t afford the payment to retrieve their data. This makes it difficult to know just how many attacks and data breaches occur. “As more data and processes move online and into the cloud, it becomes even more important to focus on securing supply chains,” Kwong says. “Investing in cybersecurity allows information to be exchanged freely while keeping data safe. Without it, any progress towards sustainability is stalled.”</p>
+<p>One of the first large data breaches in the United States to be widely publicized provides a clear example of how an SME cybersecurity can leave a multinational corporation vulnerable to attack. In 2013, hackers entered the Target Corporation’s own network by obtaining the credentials of a small vendor in its supply chain: a Pennsylvania HVAC company. Through that breach, thieves were able to install malware that stole the financial and personal information of 110 million Target customers, which they sold to card shops on the black market.</p>
+<p>To prevent such attacks, SME vendors in a large corporation’s supply chain are required to agree to follow certain security measures, but the SMEs usually don’t have the expertise or training to make good on these cybersecurity promises, leaving their own systems, and therefore any connected to them, vulnerable to attack.</p>
+<p>“Right now, organizations are connected economically, but not aligned in terms of organizational culture, values, beliefs, and practices around cybersecurity,” explains Kwong. “Basically, the big companies are realizing the smaller ones are not able to implement all the cybersecurity requirements. We have seen some larger companies address this by reducing requirements or making the process shorter. However, this doesn’t mean companies are more secure; it just lowers the bar for the smaller suppliers to clear it.”</p>
+<p>Pearlson emphasizes the importance of board members and senior management taking responsibility for cybersecurity in order to change the culture at SMEs, rather than pushing that down to a single department, IT office, or in some cases, one IT employee.</p>
+<p>The research team is using case studies based on interviews, field studies, focus groups, and direct observation of people in their natural work environments to learn how companies engage with vendors, and the specific ways cybersecurity is implemented, or not, in everyday operations. The goal is to create a shared culture around cybersecurity that can be adopted correctly by all vendors in a supply chain.</p>
+<p>This approach is in line with the goals of the Charter of Trust Initiative, a partnership of large, multinational corporations formed to establish a better means of implementing cybersecurity in the supply chain network. The HPI-MIT team worked with companies from the Charter of Trust and others last year to understand the impacts of cybersecurity regulation on SME participation in supply chains and develop a conceptual framework to implement changes for stabilizing supply chains.</p>
+<p>Cybersecurity is a prerequisite needed to achieve any of the United Nations’ SDGs, explains Kwong. Without secure supply chains, access to key resources and institutions can be abruptly cut off. This could include food, clean water and sanitation, renewable energy, financial systems, health care, education, and resilient infrastructure. Securing supply chains helps enable progress on all SDGs, and the HPI-MIT project specifically supports SMEs, which are a pillar of the U.S. and European economies.</p>
+<p><strong>Personalizing product designs while minimizing material waste</strong></p>
+<p>In a vastly different Designing for Sustainability joint research project that employs AI with engineering, “Personalizing Product Designs While Minimizing Material Waste” will use AI design software to lay out multiple parts of a pattern on a sheet of plywood, acrylic, or other material, so that they can be laser cut to create new products in real time without wasting material.</p>
+<p>Stefanie Mueller, the TIBCO Career Development Associate Professor in the MIT Department of Electrical Engineering and Computer Science and a member of the Computer Science and Artificial Intelligence Laboratory, and Patrick Baudisch, a professor of computer science and chair of the Human Computer Interaction Lab at HPI, are co-PIs on the project. The two have worked together for years; Baudisch was Mueller’s PhD research advisor at HPI.</p>
+<p>Baudisch’s lab developed an online design teaching system called <a href="https://kyub.com/">Kyub</a> that lets students design 3D objects in pieces that are laser cut from sheets of wood and assembled to become chairs, speaker boxes, radio-controlled aircraft, or even functional musical instruments. For instance, each leg of a chair would consist of four identical vertical pieces attached at the edges to create a hollow-centered column, four of which will provide stability to the chair, even though the material is very lightweight.</p>
+<p>“By designing and constructing such furniture, students learn not only design, but also structural engineering,” Baudisch says. “Similarly, by designing and constructing musical instruments, they learn about structural engineering, as well as resonance, types of musical tuning, etc.”</p>
+<p>Mueller was at HPI when Baudisch developed the Kyub software, allowing her to observe “how they were developing and making all the design decisions,” she says. “They built a really neat piece for people to quickly design these types of 3D objects.” However, using Kyub for material-efficient design is not fast; in order to fabricate a model, the software has to break the 3D models down into 2D parts and lay these out on sheets of material. This takes time, and makes it difficult to see the impact of design decisions on material use in real-time.</p>
+<p>Mueller’s lab at MIT developed software based on a layout algorithm that uses AI to lay out pieces on sheets of material in real time. This allows AI to explore multiple potential layouts while the user is still editing, and thus provide ongoing feedback. “As the user develops their design, <a href="https://hcie.csail.mit.edu/research/fabricaide/fabricaide.html">Fabricaide</a> decides good placements of parts onto the user&#8217;s available materials, provides warnings if the user does not have enough material for a design, and makes suggestions for how the user can resolve insufficient material cases,” according to the project website.</p>
+<p>The joint MIT-HPI project integrates Mueller’s AI software with Baudisch’s Kyub software and adds machine learning to train the AI to offer better design suggestions that save material while adhering to the user’s design intent.</p>
+<p>“The project is all about minimizing the waste on these materials sheets,” Mueller says. She already envisions the next step in this AI design process: determining how to integrate the laws of physics into the AI’s knowledge base to ensure the structural integrity and stability of objects it designs.</p>
+<p><strong>AI-powered startup design for the Anthropocene: Providing guidance for novel enterprises</strong></p>
+<p>Through her work with the teams of <a href="https://designx.mit.edu/">MITdesignX</a> and its international programs, Svafa Grönfeldt, faculty director of MITdesignX and professor of the practice in MIT MAD, has helped scores of people in startup companies use the tools and methods of design to ensure that the solution a startup proposes actually fits the problem it seeks to solve. This is often called the problem-solution fit.</p>
+<p>Grönfeldt and MIT postdoc Norhan Bayomi are now extending this work to incorporate AI into the process, in collaboration with MIT Professor John Fernández and graduate student Tyler Kim. The HPI team includes Professor Gerard de Melo; HPI School of Entrepreneurship Director Frank Pawlitschek; and doctoral student Michael Mansfeld.</p>
+<p>“The startup ecosystem is characterized by uncertainty and volatility compounded by growing uncertainties in climate and planetary systems,” Grönfeldt says. “Therefore, there is an urgent need for a robust model that can objectively predict startup success and guide design for the Anthropocene.”</p>
+<p>While startup-success forecasting is gaining popularity, it currently focuses on aiding venture capitalists in selecting companies to fund, rather than guiding the startups in the design of their products, services and business plans.</p>
+<p>“The coupling of climate and environmental priorities with startup agendas requires deeper analytics for effective enterprise design,” Grönfeldt says. The project aims to explore whether AI-augmented decision-support systems can enhance startup-success forecasting.</p>
+<p>“We&#8217;re trying to develop a machine learning approach that will give a forecasting of probability of success based on a number of parameters, including the type of business model proposed, how the team came together, the team members’ backgrounds and skill sets, the market and industry sector they&#8217;re working in and the problem-solution fit,” says Bayomi, who works with Fernández in the MIT Environmental Solutions Initiative. The two are co-founders of the startup Lamarr.AI, which employs robotics and AI to help reduce the carbon dioxide impact of the built environment.</p>
+<p>The team is studying “how company founders make decisions across four key areas, starting from the opportunity recognition, how they are selecting the team members, how they are selecting the business model, identifying the most automatic strategy, all the way through the product market fit to gain an understanding of the key governing parameters in each of these areas,” explains Bayomi.</p>
+<p>The team is “also developing a large language model that will guide the selection of the business model by using large datasets from different companies in Germany and the U.S. We train the model based on the specific industry sector, such as a technology solution or a data solution, to find what would be the most suitable business model that would increase the success probability of a company,” she says.</p>
+<p>The project falls under several of the United Nations’ Sustainable Development Goals, including economic growth, innovation and infrastructure, sustainable cities and communities, and climate action.</p>
+<p><strong>Furthering the goals of the HPI-MIT Joint Research Program</strong></p>
+<p>These three diverse projects all advance the mission of the HPI-MIT collaboration. MIT MAD aims to use design to transform learning, catalyze innovation, and empower society by inspiring people from all disciplines to interweave design into problem-solving. HPI uses digital engineering concentrated on the development and research of user-oriented innovations for all areas of life.</p>
+<p>Interdisciplinary teams with members from both institutions are encouraged to develop and submit proposals for ambitious, sustainable projects that use design strategically to generate measurable, impactful solutions to the world’s problems.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fostering research, careers, and community in materials science</title>
+		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
+				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
+		<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Digital technology]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
+
+					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
+<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
+<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
+<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
+<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
+<p><strong>Expanding research opportunities</strong></p>
+<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
+<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
+<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
+<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
+<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
+<p><strong>Building community</strong></p>
+<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
+<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
+<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
+<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
+<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
+<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
+<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
+<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

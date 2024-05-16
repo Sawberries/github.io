@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programming languages &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/programming-languages/feed/?simply_static_page=1697777" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Fri, 03 May 2024 21:01:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>programming languages &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Creating bespoke programming languages for efficient visual AI systems</title>
+		<link>https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:17 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer graphics]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Computer vision]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[Information systems and technology]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Profile]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/creating-bespoke-programming-languages-efficient-visual-ai-systems-0503/</guid>
+
+					<description><![CDATA[A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible?  MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>A single photograph offers glimpses into the creator’s world — their interests and feelings about a subject or space. But what about creators behind the technologies that help to make those images possible? </p>
+<p>MIT Department of Electrical Engineering and Computer Science Associate Professor Jonathan Ragan-Kelley is one such person, who has designed everything from tools for visual effects in movies to the Halide programming language that’s widely used in industry for photo editing and processing. As a researcher with the MIT-IBM Watson AI Lab and the Computer Science and Artificial Intelligence Laboratory, Ragan-Kelley specializes in high-performance, domain-specific programming languages and machine learning that enable 2D and 3D graphics, visual effects, and computational photography.</p>
+<p>“The single biggest thrust through a lot of our research is developing new programming languages that make it easier to write programs that run really efficiently on the increasingly complex hardware that is in your computer today,” says Ragan-Kelley. “If we want to keep increasing the computational power we can actually exploit for real applications — from graphics and visual computing to AI — we need to change how we program.”</p>
+<p><strong>Finding a middle ground</strong></p>
+<p>Over the last two decades, chip designers and programming engineers have witnessed a slowing of <a href="https://en.wikipedia.org/wiki/Moore%27s_law" target="_blank" rel="noopener">Moore’s law</a> and a marked shift from general-purpose computing on CPUs to more varied and specialized computing and processing units like GPUs and accelerators. With this transition comes a trade-off: the ability to run general-purpose code somewhat slowly on CPUs, for faster, more efficient hardware that requires code to be heavily adapted to it and mapped to it with tailored programs and compilers. Newer hardware with improved programming can better support applications like high-bandwidth cellular radio interfaces, decoding highly compressed videos for streaming, and graphics and video processing on power-constrained cellphone cameras, to name a few applications.</p>
+<p>“Our work is largely about unlocking the power of the best hardware we can build to deliver as much computational performance and efficiency as possible for these kinds of applications in ways that that traditional programming languages don&#8217;t.”</p>
+<p>To accomplish this, Ragan-Kelley breaks his work down into two directions. First, he sacrifices generality to capture the structure of particular and important computational problems and exploits that for better computing efficiency. This can be seen in the image-processing language Halide, which he co-developed and has helped to transform the image editing industry in programs like Photoshop. Further, because it is specially designed to quickly handle dense, regular arrays of numbers (tensors), it also works well for neural network computations. The second focus targets automation, specifically how compilers map programs to hardware. One such project with the MIT-IBM Watson AI Lab leverages Exo, a language developed in Ragan-Kelley’s group.</p>
+<p>Over the years, researchers have worked doggedly to automate coding with compilers, which can be a black box; however, there’s still a large need for explicit control and tuning by performance engineers. Ragan-Kelley and his group are developing methods that straddle each technique, balancing trade-offs to achieve effective and resource-efficient programming. At the core of many high-performance programs like video game engines or cellphone camera processing are state-of-the-art systems that are largely hand-optimized by human experts in low-level, detailed languages like C, C++, and assembly. Here, engineers make specific choices about how the program will run on the hardware.</p>
+<p>Ragan-Kelley notes that programmers can opt for “very painstaking, very unproductive, and very unsafe low-level code,” which could introduce bugs, or “more safe, more productive, higher-level programming interfaces,” that lack the ability to make fine adjustments in a compiler about how the program is run, and usually deliver lower performance. So, his team is trying to find a middle ground. “We&#8217;re trying to figure out how to provide control for the key issues that human performance engineers want to be able to control,” says Ragan-Kelley, “so, we&#8217;re trying to build a new class of languages that we call user-schedulable languages that give safer and higher-level handles to control what the compiler does or control how the program is optimized.”</p>
+<p><strong>Unlocking hardware: high-level and underserved ways</strong></p>
+<p>Ragan-Kelley and his research group are tackling this through two lines of work: applying machine learning and modern AI techniques to automatically generate optimized schedules, an interface to the compiler, to achieve better compiler performance. Another uses “exocompilation” that he’s working on with the lab. He describes this method as a way to “turn the compiler inside-out,” with a skeleton of a compiler with controls for human guidance and customization. In addition, his team can add their bespoke schedulers on top, which can help target specialized hardware like machine-learning accelerators from IBM Research. Applications for this work span the gamut: computer vision, object recognition, speech synthesis, image synthesis, speech recognition, text generation (large language models), etc.</p>
+<p>A big-picture project of his with the lab takes this another step further, approaching the work through a systems lens. In work led by his advisee and lab intern William Brandon, in collaboration with lab research scientist Rameswar Panda, Ragan-Kelley’s team is rethinking large language models (LLMs), finding ways to change the computation and the model’s programming architecture slightly so that the transformer-based models can run more efficiently on AI hardware without sacrificing accuracy. Their work, Ragan-Kelley says, deviates from the standard ways of thinking in significant ways with potentially large payoffs for cutting costs, improving capabilities, and/or shrinking the LLM to require less memory and run on smaller computers.</p>
+<p>It&#8217;s this more avant-garde thinking, when it comes to computation efficiency and hardware, that Ragan-Kelley excels at and sees value in, especially in the long term. “I think there are areas [of research] that need to be pursued, but are well-established, or obvious, or are conventional-wisdom enough that lots of people either are already or will pursue them,” he says. “We try to find the ideas that have both large leverage to practically impact the world, and at the same time, are things that wouldn&#8217;t necessarily happen, or I think are being underserved relative to their potential by the rest of the community.”</p>
+<p>The course that he now teaches, 6.106 (Software Performance Engineering), exemplifies this. About 15 years ago, there was a shift from single to multiple processors in a device that caused many academic programs to begin teaching parallelism. But, as Ragan-Kelley explains, MIT realized the importance of students understanding not only parallelism but also optimizing memory and using specialized hardware to achieve the best performance possible.</p>
+<p>“By changing how we program, we can unlock the computational potential of new machines, and make it possible for people to continue to rapidly develop new applications and new ideas that are able to exploit that ever-more complicated and challenging hardware.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Natural language boosts LLM performance in coding, planning, and robotics</title>
+		<link>https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Center for Brains Minds and Machines]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Computer vision]]></category>
+		<category><![CDATA[Defense Advanced Research Projects Agency (DARPA)]]></category>
+		<category><![CDATA[Department of Defense (DoD)]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[Quest for Intelligence]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</guid>
+
+					<description><![CDATA[Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important details — and thus sputter when asked to do more sophisticated tasks.</p>
+<p>Luckily, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have found a treasure trove of abstractions within natural language. In three papers to be presented at the International Conference on Learning Representations this month, the group shows how our everyday words are a rich source of context for language models, helping them build better overarching representations for code synthesis, AI planning, and robotic navigation and manipulation.</p>
+<p>The three separate frameworks build libraries of abstractions for their given task: <a href="https://arxiv.org/abs/2310.19791" target="_blank" rel="noopener">LILO</a> (library induction from language observations) can synthesize, compress, and document code; <a href="https://arxiv.org/abs/2312.08566" target="_blank" rel="noopener">Ada</a> (action domain acquisition) explores sequential decision-making for artificial intelligence agents; and <a href="https://arxiv.org/abs/2402.18759" target="_blank" rel="noopener">LGA</a> (language-guided abstraction) helps robots better understand their environments to develop more feasible plans. Each system is a neurosymbolic method, a type of AI that blends human-like neural networks and program-like logical components.</p>
+<p><strong>LILO: A neurosymbolic framework that codes</strong></p>
+<p>Large language models can be used to quickly write solutions to small-scale coding tasks, but cannot yet architect entire software libraries like the ones written by human software engineers. To take their software development capabilities further, AI models need to refactor (cut down and combine) code into libraries of succinct, readable, and reusable programs.</p>
+<p>Refactoring tools like the previously developed MIT-led <a href="https://mlb2251.github.io/stitch_jul11.pdf" target="_blank" rel="noopener">Stitch</a> algorithm can automatically identify abstractions, so, in a nod to the Disney movie “Lilo &amp; Stitch,” CSAIL researchers combined these algorithmic refactoring approaches with LLMs. Their neurosymbolic method LILO uses a standard LLM to write code, then pairs it with Stitch to find abstractions that are comprehensively documented in a library.</p>
+<p>LILO’s unique emphasis on natural language allows the system to do tasks that require human-like commonsense knowledge, such as identifying and removing all vowels from a string of code and drawing a snowflake. In both cases, the CSAIL system outperformed standalone LLMs, as well as a previous library learning algorithm from MIT called DreamCoder, indicating its ability to build a deeper understanding of the words within prompts. These encouraging results point to how LILO could assist with things like writing programs to manipulate documents like Excel spreadsheets, helping AI answer questions about visuals, and drawing 2D graphics.</p>
+<p>“Language models prefer to work with functions that are named in natural language,” says Gabe Grand SM &#8217;23, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and lead author on the research. “Our work creates more straightforward abstractions for language models and assigns natural language names and documentation to each one, leading to more interpretable code for programmers and improved system performance.”</p>
+<p>When prompted on a programming task, LILO first uses an LLM to quickly propose solutions based on data it was trained on, and then the system slowly searches more exhaustively for outside solutions. Next, Stitch efficiently identifies common structures within the code and pulls out useful abstractions. These are then automatically named and documented by LILO, resulting in simplified programs that can be used by the system to solve more complex tasks.</p>
+<p>The MIT framework writes programs in domain-specific programming languages, like Logo, a language developed at MIT in the 1970s to teach children about programming. Scaling up automated refactoring algorithms to handle more general programming languages like Python will be a focus for future research. Still, their work represents a step forward for how language models can facilitate increasingly elaborate coding activities.</p>
+<p><strong>Ada: Natural language guides AI task planning</strong></p>
+<p>Just like in programming, AI models that automate multi-step tasks in households and command-based video games lack abstractions. Imagine you’re cooking breakfast and ask your roommate to bring a hot egg to the table — they’ll intuitively abstract their background knowledge about cooking in your kitchen into a sequence of actions. In contrast, an LLM trained on similar information will still struggle to reason about what they need to build a flexible plan.</p>
+<p>Named after the famed mathematician Ada Lovelace, who many consider the world’s first programmer, the CSAIL-led “Ada” framework makes headway on this issue by developing libraries of useful plans for virtual kitchen chores and gaming. The method trains on potential tasks and their natural language descriptions, then a language model proposes action abstractions from this dataset. A human operator scores and filters the best plans into a library, so that the best possible actions can be implemented into hierarchical plans for different tasks.</p>
+<p>“Traditionally, large language models have struggled with more complex tasks because of problems like reasoning about abstractions,” says Ada lead researcher Lio Wong, an MIT graduate student in brain and cognitive sciences, CSAIL affiliate, and LILO coauthor. “But we can combine the tools that software engineers and roboticists use with LLMs to solve hard problems, such as decision-making in virtual environments.”</p>
+<p>When the researchers incorporated the widely-used large language model GPT-4 into Ada, the system completed more tasks in a kitchen simulator and Mini Minecraft than the AI decision-making baseline “Code as Policies.” Ada used the background information hidden within natural language to understand how to place chilled wine in a cabinet and craft a bed. The results indicated a staggering 59 and 89 percent task accuracy improvement, respectively.</p>
+<p>With this success, the researchers hope to generalize their work to real-world homes, with the hopes that Ada could assist with other household tasks and aid multiple robots in a kitchen. For now, its key limitation is that it uses a generic LLM, so the CSAIL team wants to apply a more powerful, fine-tuned language model that could assist with more extensive planning. Wong and her colleagues are also considering combining Ada with a robotic manipulation framework fresh out of CSAIL: LGA (language-guided abstraction).</p>
+<p><strong>Language-guided abstraction: Representations for robotic tasks</strong></p>
+<p>Andi Peng SM ’23, an MIT graduate student in electrical engineering and computer science and CSAIL affiliate, and her coauthors designed a method to help machines interpret their surroundings more like humans, cutting out unnecessary details in a complex environment like a factory or kitchen. Just like LILO and Ada, LGA has a novel focus on how natural language leads us to those better abstractions.</p>
+<p>In these more unstructured environments, a robot will need some common sense about what it’s tasked with, even with basic training beforehand. Ask a robot to hand you a bowl, for instance, and the machine will need a general understanding of which features are important within its surroundings. From there, it can reason about how to give you the item you want. </p>
+<p>In LGA’s case, humans first provide a pre-trained language model with a general task description using natural language, like “bring me my hat.” Then, the model translates this information into abstractions about the essential elements needed to perform this task. Finally, an imitation policy trained on a few demonstrations can implement these abstractions to guide a robot to grab the desired item.</p>
+<p>Previous work required a person to take extensive notes on different manipulation tasks to pre-train a robot, which can be expensive. Remarkably, LGA guides language models to produce abstractions similar to those of a human annotator, but in less time. To illustrate this, LGA developed robotic policies to help Boston Dynamics’ Spot quadruped pick up fruits and throw drinks in a recycling bin. These experiments show how the MIT-developed method can scan the world and develop effective plans in unstructured environments, potentially guiding autonomous vehicles on the road and robots working in factories and kitchens.</p>
+<p>“In robotics, a truth we often disregard is how much we need to refine our data to make a robot useful in the real world,” says Peng. “Beyond simply memorizing what’s in an image for training robots to perform tasks, we wanted to leverage computer vision and captioning models in conjunction with language. By producing text captions from what a robot sees, we show that language models can essentially build important world knowledge for a robot.”</p>
+<p>The challenge for LGA is that some behaviors can’t be explained in language, making certain tasks underspecified. To expand how they represent features in an environment, Peng and her colleagues are considering incorporating multimodal visualization interfaces into their work. In the meantime, LGA provides a way for robots to gain a better feel for their surroundings when giving humans a helping hand. </p>
+<p><strong>An “exciting frontier” in AI</strong></p>
+<p>“Library learning represents one of the most exciting frontiers in artificial intelligence, offering a path towards discovering and reasoning over compositional abstractions,” says assistant professor at the University of Wisconsin-Madison Robert Hawkins, who was not involved with the papers. Hawkins notes that previous techniques exploring this subject have been “too computationally expensive to use at scale” and have an issue with the lambdas, or keywords used to describe new functions in many languages, that they generate. “They tend to produce opaque &#8216;lambda salads,&#8217; big piles of hard-to-interpret functions. These recent papers demonstrate a compelling way forward by placing large language models in an interactive loop with symbolic search, compression, and planning algorithms. This work enables the rapid acquisition of more interpretable and adaptive libraries for the task at hand.”</p>
+<p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
+<p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
+<p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Programming Languages in 2024</title>
+		<link>https://www.sawberries.com/2024/04/26/top-programming-languages/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 15:02:41 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[C/C++]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[golang]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[Kotlin]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[R]]></category>
+		<category><![CDATA[Swift]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/top-programming-languages/</guid>
+
+					<description><![CDATA[Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction With technology changing all the time, learning the most useful programming languages is super important. Today’s digital world moves really fast, being a skilled coder with the right programming language can give you wings to fly in this digital world or it can give you a big advantage and open doors to cool jobs […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/top-programming-languages/">Top 10 Programming Languages in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

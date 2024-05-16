@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>large language model &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/large-language-model/feed/?simply_static_page=1697157" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 12:01:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>large language model &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RAG Application with Cohere Command-R and Rerank – Part 1</title>
+		<link>https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:15 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[cohere command]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Libraries]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[rag application]]></category>
+		<category><![CDATA[rerank]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/rag-application-with-cohere-command-r-and-rerank/</guid>
+
+					<description><![CDATA[Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction The Retrieval-Augmented Generation approach combines LLMs with a retrieval system to improve response quality. However, inaccurate retrieval can lead to sub-optimal responses. Cohere’s re-ranker model enhances this process by evaluating and ordering search results based on contextual relevance, improving accuracy and saving time for specific information seekers. This article provides a guide on implementing […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/rag-application-with-cohere-command-r-and-rerank/">RAG Application with Cohere Command-R and Rerank – Part 1</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LLMs Exposed: Are They Just Cheating on Math Tests?</title>
+		<link>https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/llms-exposed-are-they-just-cheating-on-math-tests/</guid>
+
+					<description><![CDATA[Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models (LLMs) are advanced natural language processing models that have achieved remarkable success in various benchmarks for mathematical reasoning. These models are designed to process and understand human language, enabling them to perform tasks such as question answering, language translation, and text generation. LLMs are typically trained on large datasets scraped from […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/llms-exposed-are-they-just-cheating-on-math-tests/">LLMs Exposed: Are They Just Cheating on Math Tests?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RAG and Streamlit Chatbot: Chat with Documents Using LLM</title>
+		<link>https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 12:01:35 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[chatbot]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Classification]]></category>
+		<category><![CDATA[documents]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[large language model]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[strealit]]></category>
+		<category><![CDATA[Streamlit]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/30/rag-and-streamlit-chatbot-chat-with-documents-using-llm/</guid>
+
+					<description><![CDATA[Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article aims to create an AI-powered RAG and Streamlit chatbot that can answer users questions based on custom documents. Users can upload documents, and the chatbot can answer questions by referring to those documents. The interface will be generated using Streamlit, and the chatbot will use open-source Large Language Model (LLM) models, making […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/rag-and-streamlit-chatbot-chat-with-documents-using-llm/">RAG and Streamlit Chatbot: Chat with Documents Using LLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

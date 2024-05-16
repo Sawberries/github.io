@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Resource &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/resource/feed/?simply_static_page=1697142" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 12:01:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Resource &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>50+ Machine Learning Resources for Self Study in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 12:01:16 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/machine-learning-resources-for-self-study/</guid>
+
+					<description><![CDATA[Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Are you following the trend or genuinely interested in Machine Learning? Either way, you will need the right resources to TRUST, LEARN and SUCCEED. If you are unable to find the right Machine Learning resource in 2024? We are here to help. Let’s reiterate the definition of Machine Learning… Machine learning is an exciting […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/machine-learning-resources-for-self-study/">50+ Machine Learning Resources for Self Study in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>40+ Free Python Resources that can Help you Become a Pro</title>
+		<link>https://www.sawberries.com/2024/05/04/free-python-resources/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python books]]></category>
+		<category><![CDATA[Python Course]]></category>
+		<category><![CDATA[Python Resources]]></category>
+		<category><![CDATA[Resource]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/free-python-resources/</guid>
+
+					<description><![CDATA[Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Python reigns as the top programming language, offering a career boost with its versatility. From web apps to data analysis and machine learning, Python handles it all. How? Thanks to its vast open-source community, Python boasts a library for every task imaginable, with wrappers for popular packages from other languages. Its extensive libraries cater […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-python-resources/">40+ Free Python Resources that can Help you Become a Pro</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
