@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MIT Energy Initiative &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/nano/mit-energy-initiative/feed/?simply_static_page=1684929" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 00:01:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>MIT Energy Initiative &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Seizing solar’s bright future</title>
+		<link>https://www.sawberries.com/2024/05/07/optigon-seizing-bright-solar-future-0506/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 00:01:15 +0000</pubDate>
+				<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Department of Energy (DoE)]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Energy efficiency]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[MIT Energy Initiative]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Photovoltaics]]></category>
+		<category><![CDATA[Renewable energy]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Supply chains]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/optigon-seizing-bright-solar-future-0506/</guid>
+
+					<description><![CDATA[Consider the dizzying ascent of solar energy in the United States: In the past decade, solar capacity increased nearly 900 percent, with electricity production eight times greater in 2023 than in 2014. The jump from 2022 to 2023 alone was 51 percent, with a record 32 gigawatts (GW) of solar installations coming online. In the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Consider the dizzying ascent of solar energy in the United States: In the past decade, solar capacity increased nearly 900 percent, with electricity production eight times greater in 2023 than in 2014. The jump from 2022 to 2023 alone was 51 percent, with a record 32 gigawatts (GW) of solar installations coming online. In the past four years, more solar has been added to the grid than any other form of generation. Installed solar now tops 179 GW, enough to power nearly 33 million homes. The U.S. Department of Energy (DOE) is so bullish on the sun that its decarbonization plans envision solar satisfying 45 percent of the nation’s electricity demands by 2050.</p>
+<p>But the continued rapid expansion of solar requires advances in technology, notably to improve the efficiency and durability of solar photovoltaic (PV) materials and manufacturing. That’s where Optigon, a three-year-old MIT spinout company, comes in.</p>
+<p>“Our goal is to build tools for research and industry that can accelerate the energy transition,” says Dane deQuilettes, the company’s co-founder and chief science officer. “The technology we have developed for solar will enable measurements and analysis of materials as they are being made both in lab and on the manufacturing line, dramatically speeding up the optimization of PV.”</p>
+<p>With roots in MIT’s vibrant solar research community, Optigon is poised for a 2024 rollout of technology it believes will drastically pick up the pace of solar power and other clean energy projects.</p>
+<p><strong>Beyond silicon</strong></p>
+<p>Silicon, the material mainstay of most PV, is limited by the laws of physics in the efficiencies it can achieve converting photons from the sun into electrical energy. Silicon-based solar cells can theoretically reach power conversion levels of just 30 percent, and real-world efficiency levels hover in the low 20s. But beyond the physical limitations of silicon, there is another issue at play for many researchers and the solar industry in the United States and elsewhere: China dominates the silicon PV market, from supply chains to manufacturing.</p>
+<p>Scientists are eagerly pursuing alternative materials, either for enhancing silicon’s solar conversion capacity or for replacing silicon altogether.</p>
+<p>In the past decade, a family of crystal-structured semiconductors known as perovskites has risen to the fore as a next-generation PV material candidate. Perovskite devices lend themselves to a novel manufacturing process using printing technology that could circumvent the supply chain juggernaut China has built for silicon. Perovskite solar cells can be stacked on each other or layered atop silicon PV, to achieve higher conversion efficiencies. Because perovskite technology is flexible and lightweight, modules can be used on roofs and other structures that cannot support heavier silicon PV, lowering costs and enabling a wider range of building-integrated solar devices.</p>
+<p>But these new materials require testing, both during R&amp;D and then on assembly lines, where missing or defective optical, electrical, or dimensional properties in the nano-sized crystal structures can negatively impact the end product.</p>
+<p>“The actual measurement and data analysis processes have been really, really slow, because you have to use a bunch of separate tools that are all very manual,” says Optigon co-founder and chief executive officer Anthony Troupe ’21. “We wanted to come up with tools for automating detection of a material’s properties, for determining whether it could make a good or bad solar cell, and then for optimizing it.”</p>
+<p>“Our approach packed several non-contact, optical measurements using different types of light sources and detectors into a single system, which together provide a holistic, cross-sectional view of the material,” says Brandon Motes ’21, ME ’22, co-founder and chief technical officer.</p>
+<p>“This breakthrough in achieving millisecond timescales for data collection and analysis means we can take research-quality tools and actually put them on a full production system, getting extremely detailed information about products being built at massive, gigawatt scale in real-time,” says Troupe.</p>
+<p>This streamlined system takes measurements “in the snap of the fingers, unlike the traditional tools,” says Joseph Berry, director of the US Manufacturing of Advanced Perovskites Consortium and a senior research scientist at the National Renewable Energy Laboratory. “Optigon’s techniques are high precision and allow high throughput, which means they can be used in a lot of contexts where you want rapid feedback and the ability to develop materials very, very quickly.”</p>
+<p>According to Berry, Optigon’s technology may give the solar industry not just better materials, but the ability to pump out high-quality PV products at a brisker clip than is currently possible. “If Optigon is successful in deploying their technology, then we can more rapidly develop the materials that we need, manufacturing with the requisite precision again and again,” he says. “This could lead to the next generation of PV modules at a much, much lower cost.”</p>
+<p><strong>Measuring makes the difference</strong></p>
+<p>With Small Business Innovation Research funding from DOE to commercialize its products and a grant from the Massachusetts Clean Energy Center, Optigon has settled into a space at the climate technology incubator Greentown Labs in Somerville, Massachusetts. Here, the team is preparing for this spring’s launch of its first commercial product, whose genesis lies in MIT’s GridEdge Solar Research Program.</p>
+<p>Led by Vladimir Bulović, a professor of electrical engineering and the director of MIT.nano, the GridEdge program was established with funding from the Tata Trusts to develop lightweight, flexible, and inexpensive solar cells for distribution to rural communities around the globe. When deQuilettes joined the group in 2017 as a postdoc, he was tasked with directing the program and building the infrastructure to study and make perovskite solar modules.</p>
+<p>“We were trying to understand once we made the material whether or not it was good,” he recalls. “There were no good commercial metrology [the science of measurements] tools for materials beyond silicon, so we started to build our own.” Recognizing the group’s need for greater expertise on the problem, especially in the areas of electrical, software, and mechanical engineering, deQuilettes put a call out for undergraduate researchers to help build metrology tools for new solar materials.</p>
+<p>“Forty people inquired, but when I met Brandon and Anthony, something clicked; it was clear we had a complementary skill set,” says deQuilettes. “We started working together, with Anthony coming up with beautiful designs to integrate multiple measurements, and Brandon creating boards to control all of the hardware, including different types of lasers. We started filing multiple patents and that was when we saw it all coming together.”</p>
+<p>“We knew from the start that metrology could vastly improve not just materials, but production yields,” says Troupe. Adds deQuilettes, “Our goal was getting to the highest performance orders of magnitude faster than it would ordinarily take, so we developed tools that would not just be useful for research labs but for manufacturing lines to give live feedback on quality.”</p>
+<p>The device Optigon designed for industry is the size of a football, “with sensor packages crammed into a tiny form factor, taking measurements as material flows directly underneath,” says Motes. “We have also thought carefully about ways to make interaction with this tool as seamless and, dare I say, as enjoyable as possible, streaming data to both a dashboard an operator can watch and to a custom database.”</p>
+<p><strong>Photovoltaics is just the start</strong></p>
+<p>The company may have already found its market niche. “A research group paid us to use our in-house prototype because they have such a burning need to get these sorts of measurements,” says Troupe, and according to Motes, “Potential customers ask us if they can buy the system now.” deQuilettes says, “Our hope is that we become the de facto company for doing any sort of characterization metrology in the United States and beyond.”</p>
+<p>Challenges lie ahead for Optigon: product launches, full-scale manufacturing, technical assistance, and sales. Greentown Labs offers support, as does MIT’s own rich community of solar researchers and entrepreneurs. But the founders are already thinking about next phases.</p>
+<p>“We are not limiting ourselves to the photovoltaics area,” says deQuilettes. “We’re planning on working in other clean energy materials such as batteries and fuel cells.”</p>
+<p>That’s because the team wants to make the maximum impact on the climate challenge. “We’ve thought a lot about the potential our tools will have on reducing carbon emissions, and we’ve done a really in-depth analysis looking at how our system can increase production yields of solar panels and other energy technologies, reducing materials and energy wasted in conventional optimization,” deQuilettes says. “If we look across all these sectors, we can expect to offset about 1,000 million metric tons of CO<sub>2 </sub>[carbon<sub></sub>dioxide] per year in the not-too-distant future.”</p>
+<p>The team has written scale into its business plan. “We want to be the key enabler for bringing these new energy technologies to market,” says Motes. “We envision being deployed on every manufacturing line making these types of materials. It’s our goal to walk around and know that if we see a solar panel deployed, there’s a pretty high likelihood that it will be one we measured at some point.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

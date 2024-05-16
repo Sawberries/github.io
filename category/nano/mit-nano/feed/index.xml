@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MIT.nano &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/nano/mit-nano/feed/?simply_static_page=1684933" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>MIT.nano &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Scientists develop an affordable sensor for lead contamination</title>
+		<link>https://www.sawberries.com/2024/05/16/scientists-develop-affordable-sensor-for-lead-contamination-0514/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:49 +0000</pubDate>
+				<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Materials science and engineering]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Photonics]]></category>
+		<category><![CDATA[Public health]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/scientists-develop-affordable-sensor-for-lead-contamination-0514/</guid>
+
+					<description><![CDATA[Engineers at MIT, Nanyang Technological University, and several companies have developed a compact and inexpensive technology for detecting and measuring lead concentrations in water, potentially enabling a significant advance in tackling this persistent global health issue. The World Health Organization estimates that 240 million people worldwide are exposed to drinking water that contains unsafe amounts [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Engineers at MIT, Nanyang Technological University, and several companies have developed a compact and inexpensive technology for detecting and measuring lead concentrations in water, potentially enabling a significant advance in tackling this persistent global health issue.</p>
+<p>The World Health Organization estimates that 240 million people worldwide are exposed to drinking water that contains unsafe amounts of toxic lead, which can affect brain development in children, cause birth defects, and produce a variety of neurological, cardiac, and other damaging effects. In the United States alone, an estimated 10 million households still get drinking water delivered through lead pipes.</p>
+<p>“It’s an unaddressed public health crisis that leads to over 1 million deaths annually,” says Jia Xu Brian Sia, an MIT postdoc and the senior author of the paper describing the new technology.</p>
+<p>But testing for lead in water requires expensive, cumbersome equipment and typically requires days to get results. Or, it uses simple test strips that simply reveal a yes-or-no answer about the presence of lead but no information about its concentration. Current EPA regulations require drinking water to contain no more that 15 parts per billion of lead, a concentration so low it is difficult to detect.</p>
+<p>The new system, which could be ready for commercial deployment within two or three years, could detect lead concentrations as low as 1 part per billion, with high accuracy, using a simple chip-based detector housed in a handheld device. The technology gives nearly instant quantitative measurements and requires just a droplet of water.</p>
+<p>The findings are described in a <a href="https://www.nature.com/articles/s41467-024-47938-6" target="_blank" rel="noopener">paper appearing today</a> in the journal <em>Nature Communications</em>, by Sia, MIT graduate student and lead author Luigi Ranno, Professor Juejun Hu, and 12 others at MIT and other institutions in academia and industry.</p>
+<p>The team set out to find a simple detection method based on the use of photonic chips, which use light to perform measurements. The challenging part was finding a way to attach to the photonic chip surface certain ring-shaped molecules known as crown ethers, which can capture specific ions such as lead. After years of effort, they were able to achieve that attachment via a chemical process known as Fischer esterification. “That is one of the essential breakthroughs we have made in this technology,” Sia says.</p>
+<p>In testing the new chip, the researchers showed that it can detect lead in water at concentrations as low as one part per billion. At much higher concentrations, which may be relevant for testing environmental contamination such as mine tailings, the accuracy is within 4 percent.</p>
+<p>The device works in water with varying levels of acidity, ranging from pH values of 6 to 8, “which covers most environmental samples,” Sia says. They have tested the device with seawater as well as tap water, and verified the accuracy of the measurements.</p>
+<p>In order to achieve such levels of accuracy, current testing requires a device called an inductive coupled plasma mass spectrometer. “These setups can be big and expensive,” Sia says. The sample processing can take days and requires experienced technical personnel.</p>
+<p>While the new chip system they developed is “the core part of the innovation,” Ranno says, further work will be needed to develop this into an integrated, handheld device for practical use. “For making an actual product, you would need to package it into a usable form factor,” he explains. This would involve having a small chip-based laser coupled to the photonic chip. “It’s a matter of mechanical design, some optical design, some chemistry, and figuring out the supply chain,” he says. While that takes time, he says, the underlying concepts are straightforward.</p>
+<p>The system can be adapted to detect other similar contaminants in water, including cadmium, copper, lithium, barium, cesium, and radium, Ranno says. The device could be used with simple cartridges that can be swapped out to detect different elements, each using slightly different crown ethers that can bind to a specific ion.</p>
+<p>“There’s this problem that people don’t measure their water enough, especially in the developing countries,” Ranno says. “And that’s because they need to collect the water, prepare the sample, and bring it to these huge instruments that are extremely expensive.” Instead, “having this handheld device, something compact that even untrained personnel can just bring to the source for on-site monitoring, at low costs,” could make regular, ongoing widespread testing feasible.</p>
+<p>Hu, who is the John F. Elliott Professor of Materials Science and Engineering, says, “I’m hoping this will be quickly implemented, so we can benefit human society. This is a good example of a technology coming from a lab innovation where it may actually make a very tangible impact on society, which is of course very fulfilling.”</p>
+<p>“If this study can be extended to simultaneous detection of multiple metal elements, especially the presently concerning radioactive elements, its potential would be immense,” says Hou Wang, an associate professor of environmental science and engineering at Hunan University in China, who was not associated with this work.</p>
+<p>Wang adds, “This research has engineered a sensor capable of instantaneously detecting lead concentration in water. This can be utilized in real-time to monitor the lead pollution concentration in wastewater discharged from industries such as battery manufacturing and lead smelting, facilitating the establishment of industrial wastewater monitoring systems. I think the innovative aspects and developmental potential of this research are quite commendable.”</p>
+<p>Wang Qian, a principal research scientist at the Institute of Materials Research in Singapore, who also was not affiliated with this work, says, “The ability for the pervasive, portable, and quantitative detection of lead has proved to be challenging primarily due to cost concerns. This work demonstrates the potential to do so in a highly integrated form factor and is compatible with large-scale, low-cost manufacturing.”</p>
+<p>The team included researchers at MIT, at Nanyang Technological University and Temasek Laboratories in Singapore, at the University of Southampton in the U.K., and at companies Fingate Technologies, in Singapore, and Vulcan Photonics, headquartered in Malaysia. The work used facilities at MIT.nano, the Harvard University Center for Nanoscale Systems, NTU’s Center for Micro- and Nano-Electronics, and the Nanyang Nanofabrication Center.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seizing solar’s bright future</title>
+		<link>https://www.sawberries.com/2024/05/07/optigon-seizing-bright-solar-future-0506/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 00:01:15 +0000</pubDate>
+				<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Department of Energy (DoE)]]></category>
+		<category><![CDATA[Energy]]></category>
+		<category><![CDATA[Energy efficiency]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[MIT Energy Initiative]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Photovoltaics]]></category>
+		<category><![CDATA[Renewable energy]]></category>
+		<category><![CDATA[Solar]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Supply chains]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/optigon-seizing-bright-solar-future-0506/</guid>
+
+					<description><![CDATA[Consider the dizzying ascent of solar energy in the United States: In the past decade, solar capacity increased nearly 900 percent, with electricity production eight times greater in 2023 than in 2014. The jump from 2022 to 2023 alone was 51 percent, with a record 32 gigawatts (GW) of solar installations coming online. In the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Consider the dizzying ascent of solar energy in the United States: In the past decade, solar capacity increased nearly 900 percent, with electricity production eight times greater in 2023 than in 2014. The jump from 2022 to 2023 alone was 51 percent, with a record 32 gigawatts (GW) of solar installations coming online. In the past four years, more solar has been added to the grid than any other form of generation. Installed solar now tops 179 GW, enough to power nearly 33 million homes. The U.S. Department of Energy (DOE) is so bullish on the sun that its decarbonization plans envision solar satisfying 45 percent of the nation’s electricity demands by 2050.</p>
+<p>But the continued rapid expansion of solar requires advances in technology, notably to improve the efficiency and durability of solar photovoltaic (PV) materials and manufacturing. That’s where Optigon, a three-year-old MIT spinout company, comes in.</p>
+<p>“Our goal is to build tools for research and industry that can accelerate the energy transition,” says Dane deQuilettes, the company’s co-founder and chief science officer. “The technology we have developed for solar will enable measurements and analysis of materials as they are being made both in lab and on the manufacturing line, dramatically speeding up the optimization of PV.”</p>
+<p>With roots in MIT’s vibrant solar research community, Optigon is poised for a 2024 rollout of technology it believes will drastically pick up the pace of solar power and other clean energy projects.</p>
+<p><strong>Beyond silicon</strong></p>
+<p>Silicon, the material mainstay of most PV, is limited by the laws of physics in the efficiencies it can achieve converting photons from the sun into electrical energy. Silicon-based solar cells can theoretically reach power conversion levels of just 30 percent, and real-world efficiency levels hover in the low 20s. But beyond the physical limitations of silicon, there is another issue at play for many researchers and the solar industry in the United States and elsewhere: China dominates the silicon PV market, from supply chains to manufacturing.</p>
+<p>Scientists are eagerly pursuing alternative materials, either for enhancing silicon’s solar conversion capacity or for replacing silicon altogether.</p>
+<p>In the past decade, a family of crystal-structured semiconductors known as perovskites has risen to the fore as a next-generation PV material candidate. Perovskite devices lend themselves to a novel manufacturing process using printing technology that could circumvent the supply chain juggernaut China has built for silicon. Perovskite solar cells can be stacked on each other or layered atop silicon PV, to achieve higher conversion efficiencies. Because perovskite technology is flexible and lightweight, modules can be used on roofs and other structures that cannot support heavier silicon PV, lowering costs and enabling a wider range of building-integrated solar devices.</p>
+<p>But these new materials require testing, both during R&amp;D and then on assembly lines, where missing or defective optical, electrical, or dimensional properties in the nano-sized crystal structures can negatively impact the end product.</p>
+<p>“The actual measurement and data analysis processes have been really, really slow, because you have to use a bunch of separate tools that are all very manual,” says Optigon co-founder and chief executive officer Anthony Troupe ’21. “We wanted to come up with tools for automating detection of a material’s properties, for determining whether it could make a good or bad solar cell, and then for optimizing it.”</p>
+<p>“Our approach packed several non-contact, optical measurements using different types of light sources and detectors into a single system, which together provide a holistic, cross-sectional view of the material,” says Brandon Motes ’21, ME ’22, co-founder and chief technical officer.</p>
+<p>“This breakthrough in achieving millisecond timescales for data collection and analysis means we can take research-quality tools and actually put them on a full production system, getting extremely detailed information about products being built at massive, gigawatt scale in real-time,” says Troupe.</p>
+<p>This streamlined system takes measurements “in the snap of the fingers, unlike the traditional tools,” says Joseph Berry, director of the US Manufacturing of Advanced Perovskites Consortium and a senior research scientist at the National Renewable Energy Laboratory. “Optigon’s techniques are high precision and allow high throughput, which means they can be used in a lot of contexts where you want rapid feedback and the ability to develop materials very, very quickly.”</p>
+<p>According to Berry, Optigon’s technology may give the solar industry not just better materials, but the ability to pump out high-quality PV products at a brisker clip than is currently possible. “If Optigon is successful in deploying their technology, then we can more rapidly develop the materials that we need, manufacturing with the requisite precision again and again,” he says. “This could lead to the next generation of PV modules at a much, much lower cost.”</p>
+<p><strong>Measuring makes the difference</strong></p>
+<p>With Small Business Innovation Research funding from DOE to commercialize its products and a grant from the Massachusetts Clean Energy Center, Optigon has settled into a space at the climate technology incubator Greentown Labs in Somerville, Massachusetts. Here, the team is preparing for this spring’s launch of its first commercial product, whose genesis lies in MIT’s GridEdge Solar Research Program.</p>
+<p>Led by Vladimir Bulović, a professor of electrical engineering and the director of MIT.nano, the GridEdge program was established with funding from the Tata Trusts to develop lightweight, flexible, and inexpensive solar cells for distribution to rural communities around the globe. When deQuilettes joined the group in 2017 as a postdoc, he was tasked with directing the program and building the infrastructure to study and make perovskite solar modules.</p>
+<p>“We were trying to understand once we made the material whether or not it was good,” he recalls. “There were no good commercial metrology [the science of measurements] tools for materials beyond silicon, so we started to build our own.” Recognizing the group’s need for greater expertise on the problem, especially in the areas of electrical, software, and mechanical engineering, deQuilettes put a call out for undergraduate researchers to help build metrology tools for new solar materials.</p>
+<p>“Forty people inquired, but when I met Brandon and Anthony, something clicked; it was clear we had a complementary skill set,” says deQuilettes. “We started working together, with Anthony coming up with beautiful designs to integrate multiple measurements, and Brandon creating boards to control all of the hardware, including different types of lasers. We started filing multiple patents and that was when we saw it all coming together.”</p>
+<p>“We knew from the start that metrology could vastly improve not just materials, but production yields,” says Troupe. Adds deQuilettes, “Our goal was getting to the highest performance orders of magnitude faster than it would ordinarily take, so we developed tools that would not just be useful for research labs but for manufacturing lines to give live feedback on quality.”</p>
+<p>The device Optigon designed for industry is the size of a football, “with sensor packages crammed into a tiny form factor, taking measurements as material flows directly underneath,” says Motes. “We have also thought carefully about ways to make interaction with this tool as seamless and, dare I say, as enjoyable as possible, streaming data to both a dashboard an operator can watch and to a custom database.”</p>
+<p><strong>Photovoltaics is just the start</strong></p>
+<p>The company may have already found its market niche. “A research group paid us to use our in-house prototype because they have such a burning need to get these sorts of measurements,” says Troupe, and according to Motes, “Potential customers ask us if they can buy the system now.” deQuilettes says, “Our hope is that we become the de facto company for doing any sort of characterization metrology in the United States and beyond.”</p>
+<p>Challenges lie ahead for Optigon: product launches, full-scale manufacturing, technical assistance, and sales. Greentown Labs offers support, as does MIT’s own rich community of solar researchers and entrepreneurs. But the founders are already thinking about next phases.</p>
+<p>“We are not limiting ourselves to the photovoltaics area,” says deQuilettes. “We’re planning on working in other clean energy materials such as batteries and fuel cells.”</p>
+<p>That’s because the team wants to make the maximum impact on the climate challenge. “We’ve thought a lot about the potential our tools will have on reducing carbon emissions, and we’ve done a really in-depth analysis looking at how our system can increase production yields of solar panels and other energy technologies, reducing materials and energy wasted in conventional optimization,” deQuilettes says. “If we look across all these sectors, we can expect to offset about 1,000 million metric tons of CO<sub>2 </sub>[carbon<sub></sub>dioxide] per year in the not-too-distant future.”</p>
+<p>The team has written scale into its business plan. “We want to be the key enabler for bringing these new energy technologies to market,” says Motes. “We envision being deployed on every manufacturing line making these types of materials. It’s our goal to walk around and know that if we see a solar panel deployed, there’s a pretty high likelihood that it will be one we measured at some point.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fostering research, careers, and community in materials science</title>
+		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
+				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
+		<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Digital technology]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
+
+					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
+<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
+<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
+<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
+<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
+<p><strong>Expanding research opportunities</strong></p>
+<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
+<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
+<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
+<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
+<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
+<p><strong>Building community</strong></p>
+<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
+<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
+<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
+<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
+<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
+<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
+<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
+<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

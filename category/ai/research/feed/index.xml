@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Research &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/research/feed/?simply_static_page=1685315" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Research &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Scientists develop an affordable sensor for lead contamination</title>
+		<link>https://www.sawberries.com/2024/05/16/scientists-develop-affordable-sensor-for-lead-contamination-0514/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:49 +0000</pubDate>
+				<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Materials science and engineering]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Photonics]]></category>
+		<category><![CDATA[Public health]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/scientists-develop-affordable-sensor-for-lead-contamination-0514/</guid>
+
+					<description><![CDATA[Engineers at MIT, Nanyang Technological University, and several companies have developed a compact and inexpensive technology for detecting and measuring lead concentrations in water, potentially enabling a significant advance in tackling this persistent global health issue. The World Health Organization estimates that 240 million people worldwide are exposed to drinking water that contains unsafe amounts [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Engineers at MIT, Nanyang Technological University, and several companies have developed a compact and inexpensive technology for detecting and measuring lead concentrations in water, potentially enabling a significant advance in tackling this persistent global health issue.</p>
+<p>The World Health Organization estimates that 240 million people worldwide are exposed to drinking water that contains unsafe amounts of toxic lead, which can affect brain development in children, cause birth defects, and produce a variety of neurological, cardiac, and other damaging effects. In the United States alone, an estimated 10 million households still get drinking water delivered through lead pipes.</p>
+<p>“It’s an unaddressed public health crisis that leads to over 1 million deaths annually,” says Jia Xu Brian Sia, an MIT postdoc and the senior author of the paper describing the new technology.</p>
+<p>But testing for lead in water requires expensive, cumbersome equipment and typically requires days to get results. Or, it uses simple test strips that simply reveal a yes-or-no answer about the presence of lead but no information about its concentration. Current EPA regulations require drinking water to contain no more that 15 parts per billion of lead, a concentration so low it is difficult to detect.</p>
+<p>The new system, which could be ready for commercial deployment within two or three years, could detect lead concentrations as low as 1 part per billion, with high accuracy, using a simple chip-based detector housed in a handheld device. The technology gives nearly instant quantitative measurements and requires just a droplet of water.</p>
+<p>The findings are described in a <a href="https://www.nature.com/articles/s41467-024-47938-6" target="_blank" rel="noopener">paper appearing today</a> in the journal <em>Nature Communications</em>, by Sia, MIT graduate student and lead author Luigi Ranno, Professor Juejun Hu, and 12 others at MIT and other institutions in academia and industry.</p>
+<p>The team set out to find a simple detection method based on the use of photonic chips, which use light to perform measurements. The challenging part was finding a way to attach to the photonic chip surface certain ring-shaped molecules known as crown ethers, which can capture specific ions such as lead. After years of effort, they were able to achieve that attachment via a chemical process known as Fischer esterification. “That is one of the essential breakthroughs we have made in this technology,” Sia says.</p>
+<p>In testing the new chip, the researchers showed that it can detect lead in water at concentrations as low as one part per billion. At much higher concentrations, which may be relevant for testing environmental contamination such as mine tailings, the accuracy is within 4 percent.</p>
+<p>The device works in water with varying levels of acidity, ranging from pH values of 6 to 8, “which covers most environmental samples,” Sia says. They have tested the device with seawater as well as tap water, and verified the accuracy of the measurements.</p>
+<p>In order to achieve such levels of accuracy, current testing requires a device called an inductive coupled plasma mass spectrometer. “These setups can be big and expensive,” Sia says. The sample processing can take days and requires experienced technical personnel.</p>
+<p>While the new chip system they developed is “the core part of the innovation,” Ranno says, further work will be needed to develop this into an integrated, handheld device for practical use. “For making an actual product, you would need to package it into a usable form factor,” he explains. This would involve having a small chip-based laser coupled to the photonic chip. “It’s a matter of mechanical design, some optical design, some chemistry, and figuring out the supply chain,” he says. While that takes time, he says, the underlying concepts are straightforward.</p>
+<p>The system can be adapted to detect other similar contaminants in water, including cadmium, copper, lithium, barium, cesium, and radium, Ranno says. The device could be used with simple cartridges that can be swapped out to detect different elements, each using slightly different crown ethers that can bind to a specific ion.</p>
+<p>“There’s this problem that people don’t measure their water enough, especially in the developing countries,” Ranno says. “And that’s because they need to collect the water, prepare the sample, and bring it to these huge instruments that are extremely expensive.” Instead, “having this handheld device, something compact that even untrained personnel can just bring to the source for on-site monitoring, at low costs,” could make regular, ongoing widespread testing feasible.</p>
+<p>Hu, who is the John F. Elliott Professor of Materials Science and Engineering, says, “I’m hoping this will be quickly implemented, so we can benefit human society. This is a good example of a technology coming from a lab innovation where it may actually make a very tangible impact on society, which is of course very fulfilling.”</p>
+<p>“If this study can be extended to simultaneous detection of multiple metal elements, especially the presently concerning radioactive elements, its potential would be immense,” says Hou Wang, an associate professor of environmental science and engineering at Hunan University in China, who was not associated with this work.</p>
+<p>Wang adds, “This research has engineered a sensor capable of instantaneously detecting lead concentration in water. This can be utilized in real-time to monitor the lead pollution concentration in wastewater discharged from industries such as battery manufacturing and lead smelting, facilitating the establishment of industrial wastewater monitoring systems. I think the innovative aspects and developmental potential of this research are quite commendable.”</p>
+<p>Wang Qian, a principal research scientist at the Institute of Materials Research in Singapore, who also was not affiliated with this work, says, “The ability for the pervasive, portable, and quantitative detection of lead has proved to be challenging primarily due to cost concerns. This work demonstrates the potential to do so in a highly integrated form factor and is compatible with large-scale, low-cost manufacturing.”</p>
+<p>The team included researchers at MIT, at Nanyang Technological University and Temasek Laboratories in Singapore, at the University of Southampton in the U.K., and at companies Fingate Technologies, in Singapore, and Vulcan Photonics, headquartered in Malaysia. The work used facilities at MIT.nano, the Harvard University Center for Nanoscale Systems, NTU’s Center for Micro- and Nano-Electronics, and the Nanyang Nanofabrication Center.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scientists use generative AI to answer complex questions in physics</title>
+		<link>https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</guid>
+
+					<description><![CDATA[When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of study.</p>
+<p>To fully understand these systems, scientists must be able to recognize phases and detect the transitions between. But how to quantify phase changes in an unknown system is often unclear, especially when data are scarce.</p>
+<p>Researchers from MIT and the University of Basel in Switzerland applied generative artificial intelligence models to this problem, developing a new machine-learning framework that can automatically map out phase diagrams for novel physical systems.</p>
+<p>Their physics-informed machine-learning approach is more efficient than laborious, manual techniques which rely on theoretical expertise. Importantly, because their approach leverages generative models, it does not require huge, labeled training datasets used in other machine-learning techniques.</p>
+<p>Such a framework could help scientists investigate the thermodynamic properties of novel materials or detect entanglement in quantum systems, for instance. Ultimately, this technique could make it possible for scientists to discover unknown phases of matter autonomously.</p>
+<p>“If you have a new system with fully unknown properties, how would you choose which observable quantity to study? The hope, at least with data-driven tools, is that you could scan large new systems in an automated way, and it will point you to important changes in the system. This might be a tool in the pipeline of automated scientific discovery of new, exotic properties of phases,” says Frank Schäfer, a postdoc in the Julia Lab in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and co-author of a paper on this approach.</p>
+<p>Joining Schäfer on the paper are first author Julian Arnold, a graduate student at the University of Basel; Alan Edelman, applied mathematics professor in the Department of Mathematics and leader of the Julia Lab; and senior author Christoph Bruder, professor in the Department of Physics at the University of Basel. The research is <a href="https://doi.org/10.1103/PhysRevLett.132.207301" target="_blank" rel="noopener">published today</a> in <em>Physical Review Letters.</em></p>
+<p><strong>Detecting phase transitions using AI</strong></p>
+<p>While water transitioning to ice might be among the most obvious examples of a phase change, more exotic phase changes, like when a material transitions from being a normal conductor to a superconductor, are of keen interest to scientists.</p>
+<p>These transitions can be detected by identifying an “order parameter,” a quantity that is important and expected to change. For instance, water freezes and transitions to a solid phase (ice) when its temperature drops below 0 degrees Celsius. In this case, an appropriate order parameter could be defined in terms of the proportion of water molecules that are part of the crystalline lattice versus those that remain in a disordered state.</p>
+<p>In the past, researchers have relied on physics expertise to build phase diagrams manually, drawing on theoretical understanding to know which order parameters are important. Not only is this tedious for complex systems, and perhaps impossible for unknown systems with new behaviors, but it also introduces human bias into the solution.</p>
+<p>More recently, researchers have begun using machine learning to build discriminative classifiers that can solve this task by learning to classify a measurement statistic as coming from a particular phase of the physical system, the same way such models classify an image as a cat or dog.</p>
+<p>The MIT researchers demonstrated how generative models can be used to solve this classification task much more efficiently, and in a physics-informed manner.</p>
+<p>The <a href="https://julia.mit.edu/" target="_blank" rel="noopener">Julia Programming Language</a>, a popular language for scientific computing that is also used in MIT’s introductory linear algebra classes, offers many tools that make it invaluable for constructing such generative models, Schäfer adds.</p>
+<p>Generative models, like those that underlie ChatGPT and Dall-E, typically work by estimating the probability distribution of some data, which they use to generate new data points that fit the distribution (such as new cat images that are similar to existing cat images).</p>
+<p>However, when simulations of a physical system using tried-and-true scientific techniques are available, researchers get a model of its probability distribution for free. This distribution describes the measurement statistics of the physical system.</p>
+<p><strong>A more knowledgeable model</strong></p>
+<p>The MIT team’s insight is that this probability distribution also defines a generative model upon which a classifier can be constructed. They plug the generative model into standard statistical formulas to directly construct a classifier instead of learning it from samples, as was done with discriminative approaches.</p>
+<p>“This is a really nice way of incorporating something you know about your physical system deep inside your machine-learning scheme. It goes far beyond just performing feature engineering on your data samples or simple inductive biases,” Schäfer says.</p>
+<p>This generative classifier can determine what phase the system is in given some parameter, like temperature or pressure. And because the researchers directly approximate the probability distributions underlying measurements from the physical system, the classifier has system knowledge.</p>
+<p>This enables their method to perform better than other machine-learning techniques. And because it can work automatically without the need for extensive training, their approach significantly enhances the computational efficiency of identifying phase transitions.</p>
+<p>At the end of the day, similar to how one might ask ChatGPT to solve a math problem, the researchers can ask the generative classifier questions like “does this sample belong to phase I or phase II?” or “was this sample generated at high temperature or low temperature?”</p>
+<p>Scientists could also use this approach to solve different binary classification tasks in physical systems, possibly to detect entanglement in quantum systems (Is the state entangled or not?) or determine whether theory A or B is best suited to solve a particular problem. They could also use this approach to better understand and improve large language models like ChatGPT by identifying how certain parameters should be tuned so the chatbot gives the best outputs.</p>
+<p>In the future, the researchers also want to study theoretical guarantees regarding how many measurements they would need to effectively detect phase transitions and estimate the amount of computation that would require.</p>
+<p>This work was funded, in part, by the Swiss National Science Foundation, the MIT-Switzerland Lockheed Martin Seed Fund, and MIT International Science and Technology Initiatives.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Using ideas from game theory to improve the reliability of language models</title>
+		<link>https://www.sawberries.com/2024/05/16/consensus-game-elevates-ai-text-comprehension-generation-skills-0514/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:43 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Game theory]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/consensus-game-elevates-ai-text-comprehension-generation-skills-0514/</guid>
+
+					<description><![CDATA[Imagine you and a friend are playing a game where your goal is to communicate secret messages to each other using only cryptic sentences. Your friend&#8217;s job is to guess the secret message behind your sentences. Sometimes, you give clues directly, and other times, your friend has to guess the message by asking yes-or-no questions [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Imagine you and a friend are playing a game where your goal is to communicate secret messages to each other using only cryptic sentences. Your friend&#8217;s job is to guess the secret message behind your sentences. Sometimes, you give clues directly, and other times, your friend has to guess the message by asking yes-or-no questions about the clues you&#8217;ve given. The challenge is that both of you want to make sure you&#8217;re understanding each other correctly and agreeing on the secret message.</p>
+<p>MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have created a similar &#8220;game&#8221; to help improve how AI understands and generates text. It is known as a “consensus game” and it involves two parts of an AI system — one part tries to generate sentences (like giving clues), and the other part tries to understand and evaluate those sentences (like guessing the secret message).</p>
+<p>The researchers discovered that by treating this interaction as a game, where both parts of the AI work together under specific rules to agree on the right message, they could significantly improve the AI&#8217;s ability to give correct and coherent answers to questions. They tested this new game-like approach on a variety of tasks, such as reading comprehension, solving math problems, and carrying on conversations, and found that it helped the AI perform better across the board.</p>
+<p>Traditionally, large language models answer one of two ways: generating answers directly from the model (generative querying) or using the model to score a set of predefined answers (discriminative querying), which can lead to differing and sometimes incompatible results. With the generative approach, &#8220;Who is the president of the United States?&#8221; might yield a straightforward answer like &#8220;Joe Biden.&#8221; However, a discriminative query could incorrectly dispute this fact when evaluating the same answer, such as &#8220;Barack Obama.&#8221;</p>
+<p>So, how do we reconcile mutually incompatible scoring procedures to achieve coherent, efficient predictions? </p>
+<p>&#8220;Imagine a new way to help language models understand and generate text, like a game. We&#8217;ve developed a training-free, game-theoretic method that treats the whole process as a complex game of clues and signals, where a generator tries to send the right message to a discriminator using natural language. Instead of chess pieces, they&#8217;re using words and sentences,&#8221; says Athul Jacob, an MIT PhD student in electrical engineering and computer science and CSAIL affiliate. &#8220;Our way to navigate this game is finding the &#8216;approximate equilibria,&#8217; leading to a new decoding algorithm called &#8216;equilibrium ranking.&#8217; It&#8217;s a pretty exciting demonstration of how bringing game-theoretic strategies into the mix can tackle some big challenges in making language models more reliable and consistent.&#8221;</p>
+<p>When tested across many tasks, like reading comprehension, commonsense reasoning, math problem-solving, and dialogue, the team&#8217;s algorithm consistently improved how well these models performed. Using the ER algorithm with the LLaMA-7B model even outshone the results from much larger models. &#8220;Given that they are already competitive, that people have been working on it for a while, but the level of improvements we saw being able to outperform a model that&#8217;s 10 times the size was a pleasant surprise,&#8221; says Jacob. </p>
+<p><strong>Game on</strong></p>
+<p>&#8220;Diplomacy,&#8221; a strategic board game set in pre-World War I Europe, where players negotiate alliances, betray friends, and conquer territories without the use of dice — relying purely on skill, strategy, and interpersonal manipulation — recently had a second coming. In November 2022, computer scientists, including Jacob, developed “Cicero,” an AI agent that achieves human-level capabilities in the mixed-motive seven-player game, which requires the same aforementioned skills, but with natural language. The math behind this partially inspired the Consensus Game. </p>
+<p>While the history of AI agents long predates when OpenAI&#8217;s software entered the chat in November 2022, it&#8217;s well documented that they can still cosplay as your well-meaning, yet pathological friend. </p>
+<p>The consensus game system reaches equilibrium as an agreement, ensuring accuracy and fidelity to the model&#8217;s original insights. To achieve this, the method iteratively adjusts the interactions between the generative and discriminative components until they reach a consensus on an answer that accurately reflects reality and aligns with their initial beliefs. This approach effectively bridges the gap between the two querying methods. </p>
+<p>In practice, implementing the consensus game approach to language model querying, especially for question-answering tasks, does involve significant computational challenges. For example, when using datasets like MMLU, which have thousands of questions and multiple-choice answers, the model must apply the mechanism to each query. Then, it must reach a consensus between the generative and discriminative components for every question and its possible answers. </p>
+<p>The system did struggle with a grade school right of passage: math word problems. It couldn&#8217;t generate wrong answers, which is a critical component of understanding the process of coming up with the right one. </p>
+<p>“The last few years have seen really impressive progress in both strategic decision-making and language generation from AI systems, but we’re just starting to figure out how to put the two together. Equilibrium ranking is a first step in this direction, but I think there’s a lot we’ll be able to do to scale this up to more complex problems,” says Jacob.   </p>
+<p>An avenue of future work involves enhancing the base model by integrating the outputs of the current method. This is particularly promising since it can yield more factual and consistent answers across various tasks, including factuality and open-ended generation. The potential for such a method to significantly improve the base model&#8217;s performance is high, which could result in more reliable and factual outputs from ChatGPT and similar language models that people use daily. </p>
+<p>&#8220;Even though modern language models, such as ChatGPT and Gemini, have led to solving various tasks through chat interfaces, the statistical decoding process that generates a response from such models has remained unchanged for decades,&#8221; says Google Research Scientist Ahmad Beirami, who was not involved in the work. &#8220;The proposal by the MIT researchers is an innovative game-theoretic framework for decoding from language models through solving the equilibrium of a consensus game. The significant performance gains reported in the research paper are promising, opening the door to a potential paradigm shift in language model decoding that may fuel a flurry of new applications.&#8221;</p>
+<p>Jacob wrote the paper with MIT-IBM Watson Lab researcher Yikang Shen and MIT Department of Electrical Engineering and Computer Science assistant professors Gabriele Farina and Jacob Andreas, who is also a CSAIL member. They presented their work at the International Conference on Learning Representations (ICLR) earlier this month, where it was highlighted as a &#8220;spotlight paper.&#8221; The research also received a “best paper award” at the NeurIPS R0-FoMo Workshop in December 2023.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HPI-MIT design research collaboration creates powerful teams</title>
+		<link>https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Cleaner industry]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Environmental Solutions Initiative]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[MIT Morningside Academy for Design]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[Renewable energy]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Supply chains]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/hpi-mit-design-research-collaboration-creates-powerful-teams-0503/</guid>
+
+					<description><![CDATA[The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments. This sort of attack and other [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The recent ransomware attack on ChangeHealthcare, which severed the network connecting health care providers, pharmacies, and hospitals with health insurance companies, demonstrates just how disruptive supply chain attacks can be. In this case, it hindered the ability of those providing medical services to submit insurance claims and receive payments.</p>
+<p>This sort of attack and other forms of data theft are becoming increasingly common and often target large, multinational corporations through the small and mid-sized vendors in their corporate supply chains, enabling breaks in these enormous systems of interwoven companies.</p>
+<p>Cybersecurity researchers at MIT and the <a href="https://hpi.de/en/research/research-school/international-branches/hasso-plattner-institute.html">Hasso Plattner Institute</a> (HPI) in Potsdam, Germany, are focused on the different organizational security cultures that exist within large corporations and their vendors because it’s that difference that creates vulnerabilities, often due to the lack of emphasis on cybersecurity by the senior leadership in these small to medium-sized enterprises (SMEs).</p>
+<p>Keri Pearlson, executive director of Cybersecurity at MIT Sloan (CAMS); Jillian Kwong, a research scientist at CAMS; and Christian Doerr, a professor of cybersecurity and enterprise security at HPI, are co-principal investigators (PIs) on the research project, “Culture and the Supply Chain: Transmitting Shared Values, Attitudes and Beliefs across Cybersecurity Supply Chains.”</p>
+<p>Their project was selected in the 2023 inaugural round of grants from the <a href="https://design.mit.edu/about/research">HPI-MIT Designing for Sustainability program</a>, a multiyear partnership funded by HPI and administered by the MIT Morningside Academy for Design (MAD). The program awards about 10 grants annually of up to $200,000 each to multidisciplinary teams with divergent backgrounds in computer science, artificial intelligence, machine learning, engineering, design, architecture, the natural sciences, humanities, and business and management. The <a href="https://design.mit.edu/about/research">2024 Call for Applications</a> is open through June 3.</p>
+<p>Designing for Sustainability grants support scientific research that promotes the United Nations’ Sustainable Development Goals (SDGs) on topics involving sustainable design, innovation, and digital technologies, with teams made up of PIs from both institutions. The PIs on these projects, who have common interests but different strengths, create more powerful teams by working together.</p>
+<p><strong>Transmitting shared values, attitudes, and beliefs to improve cybersecurity across supply chains</strong></p>
+<p>The MIT and HPI cybersecurity researchers say that most ransomware attacks aren’t reported. Smaller companies hit with ransomware attacks just shut down, because they can’t afford the payment to retrieve their data. This makes it difficult to know just how many attacks and data breaches occur. “As more data and processes move online and into the cloud, it becomes even more important to focus on securing supply chains,” Kwong says. “Investing in cybersecurity allows information to be exchanged freely while keeping data safe. Without it, any progress towards sustainability is stalled.”</p>
+<p>One of the first large data breaches in the United States to be widely publicized provides a clear example of how an SME cybersecurity can leave a multinational corporation vulnerable to attack. In 2013, hackers entered the Target Corporation’s own network by obtaining the credentials of a small vendor in its supply chain: a Pennsylvania HVAC company. Through that breach, thieves were able to install malware that stole the financial and personal information of 110 million Target customers, which they sold to card shops on the black market.</p>
+<p>To prevent such attacks, SME vendors in a large corporation’s supply chain are required to agree to follow certain security measures, but the SMEs usually don’t have the expertise or training to make good on these cybersecurity promises, leaving their own systems, and therefore any connected to them, vulnerable to attack.</p>
+<p>“Right now, organizations are connected economically, but not aligned in terms of organizational culture, values, beliefs, and practices around cybersecurity,” explains Kwong. “Basically, the big companies are realizing the smaller ones are not able to implement all the cybersecurity requirements. We have seen some larger companies address this by reducing requirements or making the process shorter. However, this doesn’t mean companies are more secure; it just lowers the bar for the smaller suppliers to clear it.”</p>
+<p>Pearlson emphasizes the importance of board members and senior management taking responsibility for cybersecurity in order to change the culture at SMEs, rather than pushing that down to a single department, IT office, or in some cases, one IT employee.</p>
+<p>The research team is using case studies based on interviews, field studies, focus groups, and direct observation of people in their natural work environments to learn how companies engage with vendors, and the specific ways cybersecurity is implemented, or not, in everyday operations. The goal is to create a shared culture around cybersecurity that can be adopted correctly by all vendors in a supply chain.</p>
+<p>This approach is in line with the goals of the Charter of Trust Initiative, a partnership of large, multinational corporations formed to establish a better means of implementing cybersecurity in the supply chain network. The HPI-MIT team worked with companies from the Charter of Trust and others last year to understand the impacts of cybersecurity regulation on SME participation in supply chains and develop a conceptual framework to implement changes for stabilizing supply chains.</p>
+<p>Cybersecurity is a prerequisite needed to achieve any of the United Nations’ SDGs, explains Kwong. Without secure supply chains, access to key resources and institutions can be abruptly cut off. This could include food, clean water and sanitation, renewable energy, financial systems, health care, education, and resilient infrastructure. Securing supply chains helps enable progress on all SDGs, and the HPI-MIT project specifically supports SMEs, which are a pillar of the U.S. and European economies.</p>
+<p><strong>Personalizing product designs while minimizing material waste</strong></p>
+<p>In a vastly different Designing for Sustainability joint research project that employs AI with engineering, “Personalizing Product Designs While Minimizing Material Waste” will use AI design software to lay out multiple parts of a pattern on a sheet of plywood, acrylic, or other material, so that they can be laser cut to create new products in real time without wasting material.</p>
+<p>Stefanie Mueller, the TIBCO Career Development Associate Professor in the MIT Department of Electrical Engineering and Computer Science and a member of the Computer Science and Artificial Intelligence Laboratory, and Patrick Baudisch, a professor of computer science and chair of the Human Computer Interaction Lab at HPI, are co-PIs on the project. The two have worked together for years; Baudisch was Mueller’s PhD research advisor at HPI.</p>
+<p>Baudisch’s lab developed an online design teaching system called <a href="https://kyub.com/">Kyub</a> that lets students design 3D objects in pieces that are laser cut from sheets of wood and assembled to become chairs, speaker boxes, radio-controlled aircraft, or even functional musical instruments. For instance, each leg of a chair would consist of four identical vertical pieces attached at the edges to create a hollow-centered column, four of which will provide stability to the chair, even though the material is very lightweight.</p>
+<p>“By designing and constructing such furniture, students learn not only design, but also structural engineering,” Baudisch says. “Similarly, by designing and constructing musical instruments, they learn about structural engineering, as well as resonance, types of musical tuning, etc.”</p>
+<p>Mueller was at HPI when Baudisch developed the Kyub software, allowing her to observe “how they were developing and making all the design decisions,” she says. “They built a really neat piece for people to quickly design these types of 3D objects.” However, using Kyub for material-efficient design is not fast; in order to fabricate a model, the software has to break the 3D models down into 2D parts and lay these out on sheets of material. This takes time, and makes it difficult to see the impact of design decisions on material use in real-time.</p>
+<p>Mueller’s lab at MIT developed software based on a layout algorithm that uses AI to lay out pieces on sheets of material in real time. This allows AI to explore multiple potential layouts while the user is still editing, and thus provide ongoing feedback. “As the user develops their design, <a href="https://hcie.csail.mit.edu/research/fabricaide/fabricaide.html">Fabricaide</a> decides good placements of parts onto the user&#8217;s available materials, provides warnings if the user does not have enough material for a design, and makes suggestions for how the user can resolve insufficient material cases,” according to the project website.</p>
+<p>The joint MIT-HPI project integrates Mueller’s AI software with Baudisch’s Kyub software and adds machine learning to train the AI to offer better design suggestions that save material while adhering to the user’s design intent.</p>
+<p>“The project is all about minimizing the waste on these materials sheets,” Mueller says. She already envisions the next step in this AI design process: determining how to integrate the laws of physics into the AI’s knowledge base to ensure the structural integrity and stability of objects it designs.</p>
+<p><strong>AI-powered startup design for the Anthropocene: Providing guidance for novel enterprises</strong></p>
+<p>Through her work with the teams of <a href="https://designx.mit.edu/">MITdesignX</a> and its international programs, Svafa Grönfeldt, faculty director of MITdesignX and professor of the practice in MIT MAD, has helped scores of people in startup companies use the tools and methods of design to ensure that the solution a startup proposes actually fits the problem it seeks to solve. This is often called the problem-solution fit.</p>
+<p>Grönfeldt and MIT postdoc Norhan Bayomi are now extending this work to incorporate AI into the process, in collaboration with MIT Professor John Fernández and graduate student Tyler Kim. The HPI team includes Professor Gerard de Melo; HPI School of Entrepreneurship Director Frank Pawlitschek; and doctoral student Michael Mansfeld.</p>
+<p>“The startup ecosystem is characterized by uncertainty and volatility compounded by growing uncertainties in climate and planetary systems,” Grönfeldt says. “Therefore, there is an urgent need for a robust model that can objectively predict startup success and guide design for the Anthropocene.”</p>
+<p>While startup-success forecasting is gaining popularity, it currently focuses on aiding venture capitalists in selecting companies to fund, rather than guiding the startups in the design of their products, services and business plans.</p>
+<p>“The coupling of climate and environmental priorities with startup agendas requires deeper analytics for effective enterprise design,” Grönfeldt says. The project aims to explore whether AI-augmented decision-support systems can enhance startup-success forecasting.</p>
+<p>“We&#8217;re trying to develop a machine learning approach that will give a forecasting of probability of success based on a number of parameters, including the type of business model proposed, how the team came together, the team members’ backgrounds and skill sets, the market and industry sector they&#8217;re working in and the problem-solution fit,” says Bayomi, who works with Fernández in the MIT Environmental Solutions Initiative. The two are co-founders of the startup Lamarr.AI, which employs robotics and AI to help reduce the carbon dioxide impact of the built environment.</p>
+<p>The team is studying “how company founders make decisions across four key areas, starting from the opportunity recognition, how they are selecting the team members, how they are selecting the business model, identifying the most automatic strategy, all the way through the product market fit to gain an understanding of the key governing parameters in each of these areas,” explains Bayomi.</p>
+<p>The team is “also developing a large language model that will guide the selection of the business model by using large datasets from different companies in Germany and the U.S. We train the model based on the specific industry sector, such as a technology solution or a data solution, to find what would be the most suitable business model that would increase the success probability of a company,” she says.</p>
+<p>The project falls under several of the United Nations’ Sustainable Development Goals, including economic growth, innovation and infrastructure, sustainable cities and communities, and climate action.</p>
+<p><strong>Furthering the goals of the HPI-MIT Joint Research Program</strong></p>
+<p>These three diverse projects all advance the mission of the HPI-MIT collaboration. MIT MAD aims to use design to transform learning, catalyze innovation, and empower society by inspiring people from all disciplines to interweave design into problem-solving. HPI uses digital engineering concentrated on the development and research of user-oriented innovations for all areas of life.</p>
+<p>Interdisciplinary teams with members from both institutions are encouraged to develop and submit proposals for ambitious, sustainable projects that use design strategically to generate measurable, impactful solutions to the world’s problems.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Physicists arrange atoms in extremely close proximity</title>
+		<link>https://www.sawberries.com/2024/05/03/physicists-arrange-atoms-extremely-close-proximity-0502/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 00:01:05 +0000</pubDate>
+				<category><![CDATA[Department of Defense (DoD)]]></category>
+		<category><![CDATA[Light]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Quantum computing]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Research Laboratory of Electronics]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/physicists-arrange-atoms-extremely-close-proximity-0502/</guid>
+
+					<description><![CDATA[Proximity is key for many quantum phenomena, as interactions between atoms are stronger when the particles are close. In many quantum simulators, scientists arrange atoms as close together as possible to explore exotic states of matter and build new quantum materials. They typically do this by cooling the atoms to a stand-still, then using laser [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Proximity is key for many quantum phenomena, as interactions between atoms are stronger when the particles are close. In many quantum simulators, scientists arrange atoms as close together as possible to explore exotic states of matter and build new quantum materials.</p>
+<p>They typically do this by cooling the atoms to a stand-still, then using laser light to position the particles as close as 500 nanometers apart — a limit that is set by the wavelength of light. Now, MIT physicists have developed a technique that allows them to arrange atoms in much closer proximity, down to a mere 50 nanometers. For context, a red blood cell is about 1,000 nanometers wide.</p>
+<p>The physicists demonstrated the new approach in experiments with dysprosium, which is the most magnetic atom in nature. They used the new approach to manipulate two layers of dysprosium atoms, and positioned the layers precisely 50 nanometers apart. At this extreme proximity, the magnetic interactions were 1,000 times stronger than if the layers were separated by 500 nanometers.</p>
+<p>What’s more, the scientists were able to measure two new effects caused by the atoms’ proximity. Their enhanced magnetic forces caused “thermalization,” or the transfer of heat from one layer to another, as well as synchronized oscillations between layers. These effects petered out as the layers were spaced farther apart.</p>
+<p>“We have gone from positioning atoms from 500 nanometers to 50 nanometers apart, and there is a lot you can do with this,” says Wolfgang Ketterle, the John D. MacArthur Professor of Physics at MIT. “At 50 nanometers, the behavior of atoms is so much different that we’re really entering a new regime here.”</p>
+<p>Ketterle and his colleagues say the new approach can be applied to many other atoms to study quantum phenomena. For their part, the group plans to use the technique to manipulate atoms into configurations that could generate the first purely magnetic quantum gate — a key building block for a new type of quantum computer.</p>
+<p>The team has <a href="https://www.science.org/doi/10.1126/science.adh3023" target="_blank" rel="noopener">published their results today</a> in the journal <em>Science</em>. The study’s co-authors include lead author and physics graduate student Li Du, along with Pierre Barral, Michael Cantara, Julius de Hond, and Yu-Kun Lu — all members of the MIT-Harvard Center for Ultracold Atoms, the Department of Physics, and the Research Laboratory of Electronics at MIT.</p>
+<p><strong>Peaks and valleys</strong></p>
+<p>To manipulate and arrange atoms, physicists typically first cool a cloud of atoms to temperatures approaching absolute zero, then use a system of laser beams to corral the atoms into an optical trap.</p>
+<p>Laser light is an electromagnetic wave with a specific wavelength (the distance between maxima of the electric field) and frequency. The wavelength limits the smallest pattern into which light can be shaped to typically 500 nanometers, the so-called optical resolution limit. Since atoms are attracted by laser light of certain frequencies, atoms will be positioned at the points of peak laser intensity. For this reason, existing techniques have been limited in how close they can position atomic particles, and could not be used to explore phenomena that happen at much shorter distances.</p>
+<p>“Conventional techniques stop at 500 nanometers, limited not by the atoms but by the wavelength of light,” Ketterle explains. “We have found now a new trick with light where we can break through that limit.”</p>
+<p>The team’s new approach, like current techniques, starts by cooling a cloud of atoms — in this case, to about 1 microkelvin, just a hair above absolute zero — at which point, the atoms come to a near-standstill. Physicists can then use lasers to move the frozen particles into desired configurations.</p>
+<p>Then, Du and his collaborators worked with two laser beams, each with a different frequency, or color, and circular polarization, or direction of the laser’s electric field. When the two beams travel through a super-cooled cloud of atoms, the atoms can orient their spin in opposite directions, following either of the two lasers’ polarization. The result is that the beams produce two groups of the same atoms, only with opposite spins.</p>
+<p>Each laser beam formed a standing wave, a periodic pattern of electric field intensity with a spatial period of 500 nanometers. Due to their different polarizations, each standing wave attracted and corralled one of two groups of atoms, depending on their spin. The lasers could be overlaid and tuned such that the distance between their respective peaks is as small as 50 nanometers, meaning that the atoms gravitating to each respective laser’s peaks would be separated by the same 50 nanometers.</p>
+<p>But in order for this to happen, the lasers would have to be extremely stable and immune to all external noise, such as from shaking or even breathing on the experiment. The team realized they could stabilize both lasers by directing them through an optical fiber, which served to lock the light beams in place in relation to each other.</p>
+<p>“The idea of sending both beams through the optical fiber meant the whole machine could shake violently, but the two laser beams stayed absolutely stable with respect to each others,” Du says.</p>
+<p><strong>Magnetic forces at close range</strong></p>
+<p>As a first test of their new technique, the team used atoms of dysprosium — a rare-earth metal that is one of the strongest magnetic elements in the periodic table, particularly at ultracold temperatures. However, at the scale of atoms, the element’s magnetic interactions are relatively weak at distances of even 500 nanometers. As with common refrigerator magnets, the magnetic attraction between atoms increases with proximity, and the scientists suspected that if their new technique could space dysprosium atoms as close as 50 nanometers apart, they might observe the emergence of otherwise weak interactions between the magnetic atoms.</p>
+<p>“We could suddenly have magnetic interactions, which used to be almost neglible but now are really strong,” Ketterle says.</p>
+<p>The team applied their technique to dysprosium, first super-cooling the atoms, then passing two lasers through to split the atoms into two spin groups, or layers. They then directed the lasers through an optical fiber to stabilize them, and found that indeed, the two layers of dysprosium atoms gravitated to their respective laser peaks, which in effect separated the layers of atoms by 50 nanometers — the closest distance that any ultracold atom experiment has been able to achieve.</p>
+<p>At this extremely close proximity, the atoms’ natural magnetic interactions were significantly enhanced, and were 1,000 times stronger than if they were positioned 500 nanometers apart. The team observed that these interactions resulted in two novel quantum phenomena: collective oscillation, in which one layer’s vibrations caused the other layer to vibrate in sync; and thermalization, in which one layer transferred heat to the other, purely through magnetic fluctuations in the atoms.</p>
+<p>“Until now, heat between atoms could only by exchanged when they were in the same physical space and could collide,” Du notes. “Now we have seen atomic layers, separated by vacuum, and they exchange heat via fluctuating magnetic fields.”</p>
+<p>The team’s results introduce a new technique that can be used to position many types of atom in close proximity. They also show that atoms, placed close enough together, can exhibit interesting quantum phenomena, that could be harnessed to build new quantum materials, and potentially, magnetically-driven atomic systems for quantum computers.</p>
+<p>“We are really bringing super-resolution methods to the field, and it will become a general tool for doing quantum simulations,” Ketterle says. “There are many variants possible, which we are working on.”</p>
+<p>This research was funded, in part, by the National Science Foundation and the Department of Defense.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fostering research, careers, and community in materials science</title>
+		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
+				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
+		<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Digital technology]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
+
+					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
+<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
+<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
+<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
+<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
+<p><strong>Expanding research opportunities</strong></p>
+<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
+<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
+<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
+<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
+<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
+<p><strong>Building community</strong></p>
+<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
+<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
+<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
+<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
+<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
+<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
+<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
+<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Natural language boosts LLM performance in coding, planning, and robotics</title>
+		<link>https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Brain and cognitive sciences]]></category>
+		<category><![CDATA[Center for Brains Minds and Machines]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Computer vision]]></category>
+		<category><![CDATA[Defense Advanced Research Projects Agency (DARPA)]]></category>
+		<category><![CDATA[Department of Defense (DoD)]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT-IBM Watson AI Lab]]></category>
+		<category><![CDATA[National Science Foundation (NSF)]]></category>
+		<category><![CDATA[Natural language processing]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[programming languages]]></category>
+		<category><![CDATA[Quest for Intelligence]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/natural-language-boosts-llm-performance-coding-planning-robotics-0501/</guid>
+
+					<description><![CDATA[Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Large language models (LLMs) are becoming increasingly useful for programming and robotics tasks, but for more complicated reasoning problems, the gap between these systems and humans looms large. Without the ability to learn new concepts like humans do, these systems fail to form good abstractions — essentially, high-level representations of complex concepts that skip less-important details — and thus sputter when asked to do more sophisticated tasks.</p>
+<p>Luckily, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers have found a treasure trove of abstractions within natural language. In three papers to be presented at the International Conference on Learning Representations this month, the group shows how our everyday words are a rich source of context for language models, helping them build better overarching representations for code synthesis, AI planning, and robotic navigation and manipulation.</p>
+<p>The three separate frameworks build libraries of abstractions for their given task: <a href="https://arxiv.org/abs/2310.19791" target="_blank" rel="noopener">LILO</a> (library induction from language observations) can synthesize, compress, and document code; <a href="https://arxiv.org/abs/2312.08566" target="_blank" rel="noopener">Ada</a> (action domain acquisition) explores sequential decision-making for artificial intelligence agents; and <a href="https://arxiv.org/abs/2402.18759" target="_blank" rel="noopener">LGA</a> (language-guided abstraction) helps robots better understand their environments to develop more feasible plans. Each system is a neurosymbolic method, a type of AI that blends human-like neural networks and program-like logical components.</p>
+<p><strong>LILO: A neurosymbolic framework that codes</strong></p>
+<p>Large language models can be used to quickly write solutions to small-scale coding tasks, but cannot yet architect entire software libraries like the ones written by human software engineers. To take their software development capabilities further, AI models need to refactor (cut down and combine) code into libraries of succinct, readable, and reusable programs.</p>
+<p>Refactoring tools like the previously developed MIT-led <a href="https://mlb2251.github.io/stitch_jul11.pdf" target="_blank" rel="noopener">Stitch</a> algorithm can automatically identify abstractions, so, in a nod to the Disney movie “Lilo &amp; Stitch,” CSAIL researchers combined these algorithmic refactoring approaches with LLMs. Their neurosymbolic method LILO uses a standard LLM to write code, then pairs it with Stitch to find abstractions that are comprehensively documented in a library.</p>
+<p>LILO’s unique emphasis on natural language allows the system to do tasks that require human-like commonsense knowledge, such as identifying and removing all vowels from a string of code and drawing a snowflake. In both cases, the CSAIL system outperformed standalone LLMs, as well as a previous library learning algorithm from MIT called DreamCoder, indicating its ability to build a deeper understanding of the words within prompts. These encouraging results point to how LILO could assist with things like writing programs to manipulate documents like Excel spreadsheets, helping AI answer questions about visuals, and drawing 2D graphics.</p>
+<p>“Language models prefer to work with functions that are named in natural language,” says Gabe Grand SM &#8217;23, an MIT PhD student in electrical engineering and computer science, CSAIL affiliate, and lead author on the research. “Our work creates more straightforward abstractions for language models and assigns natural language names and documentation to each one, leading to more interpretable code for programmers and improved system performance.”</p>
+<p>When prompted on a programming task, LILO first uses an LLM to quickly propose solutions based on data it was trained on, and then the system slowly searches more exhaustively for outside solutions. Next, Stitch efficiently identifies common structures within the code and pulls out useful abstractions. These are then automatically named and documented by LILO, resulting in simplified programs that can be used by the system to solve more complex tasks.</p>
+<p>The MIT framework writes programs in domain-specific programming languages, like Logo, a language developed at MIT in the 1970s to teach children about programming. Scaling up automated refactoring algorithms to handle more general programming languages like Python will be a focus for future research. Still, their work represents a step forward for how language models can facilitate increasingly elaborate coding activities.</p>
+<p><strong>Ada: Natural language guides AI task planning</strong></p>
+<p>Just like in programming, AI models that automate multi-step tasks in households and command-based video games lack abstractions. Imagine you’re cooking breakfast and ask your roommate to bring a hot egg to the table — they’ll intuitively abstract their background knowledge about cooking in your kitchen into a sequence of actions. In contrast, an LLM trained on similar information will still struggle to reason about what they need to build a flexible plan.</p>
+<p>Named after the famed mathematician Ada Lovelace, who many consider the world’s first programmer, the CSAIL-led “Ada” framework makes headway on this issue by developing libraries of useful plans for virtual kitchen chores and gaming. The method trains on potential tasks and their natural language descriptions, then a language model proposes action abstractions from this dataset. A human operator scores and filters the best plans into a library, so that the best possible actions can be implemented into hierarchical plans for different tasks.</p>
+<p>“Traditionally, large language models have struggled with more complex tasks because of problems like reasoning about abstractions,” says Ada lead researcher Lio Wong, an MIT graduate student in brain and cognitive sciences, CSAIL affiliate, and LILO coauthor. “But we can combine the tools that software engineers and roboticists use with LLMs to solve hard problems, such as decision-making in virtual environments.”</p>
+<p>When the researchers incorporated the widely-used large language model GPT-4 into Ada, the system completed more tasks in a kitchen simulator and Mini Minecraft than the AI decision-making baseline “Code as Policies.” Ada used the background information hidden within natural language to understand how to place chilled wine in a cabinet and craft a bed. The results indicated a staggering 59 and 89 percent task accuracy improvement, respectively.</p>
+<p>With this success, the researchers hope to generalize their work to real-world homes, with the hopes that Ada could assist with other household tasks and aid multiple robots in a kitchen. For now, its key limitation is that it uses a generic LLM, so the CSAIL team wants to apply a more powerful, fine-tuned language model that could assist with more extensive planning. Wong and her colleagues are also considering combining Ada with a robotic manipulation framework fresh out of CSAIL: LGA (language-guided abstraction).</p>
+<p><strong>Language-guided abstraction: Representations for robotic tasks</strong></p>
+<p>Andi Peng SM ’23, an MIT graduate student in electrical engineering and computer science and CSAIL affiliate, and her coauthors designed a method to help machines interpret their surroundings more like humans, cutting out unnecessary details in a complex environment like a factory or kitchen. Just like LILO and Ada, LGA has a novel focus on how natural language leads us to those better abstractions.</p>
+<p>In these more unstructured environments, a robot will need some common sense about what it’s tasked with, even with basic training beforehand. Ask a robot to hand you a bowl, for instance, and the machine will need a general understanding of which features are important within its surroundings. From there, it can reason about how to give you the item you want. </p>
+<p>In LGA’s case, humans first provide a pre-trained language model with a general task description using natural language, like “bring me my hat.” Then, the model translates this information into abstractions about the essential elements needed to perform this task. Finally, an imitation policy trained on a few demonstrations can implement these abstractions to guide a robot to grab the desired item.</p>
+<p>Previous work required a person to take extensive notes on different manipulation tasks to pre-train a robot, which can be expensive. Remarkably, LGA guides language models to produce abstractions similar to those of a human annotator, but in less time. To illustrate this, LGA developed robotic policies to help Boston Dynamics’ Spot quadruped pick up fruits and throw drinks in a recycling bin. These experiments show how the MIT-developed method can scan the world and develop effective plans in unstructured environments, potentially guiding autonomous vehicles on the road and robots working in factories and kitchens.</p>
+<p>“In robotics, a truth we often disregard is how much we need to refine our data to make a robot useful in the real world,” says Peng. “Beyond simply memorizing what’s in an image for training robots to perform tasks, we wanted to leverage computer vision and captioning models in conjunction with language. By producing text captions from what a robot sees, we show that language models can essentially build important world knowledge for a robot.”</p>
+<p>The challenge for LGA is that some behaviors can’t be explained in language, making certain tasks underspecified. To expand how they represent features in an environment, Peng and her colleagues are considering incorporating multimodal visualization interfaces into their work. In the meantime, LGA provides a way for robots to gain a better feel for their surroundings when giving humans a helping hand. </p>
+<p><strong>An “exciting frontier” in AI</strong></p>
+<p>“Library learning represents one of the most exciting frontiers in artificial intelligence, offering a path towards discovering and reasoning over compositional abstractions,” says assistant professor at the University of Wisconsin-Madison Robert Hawkins, who was not involved with the papers. Hawkins notes that previous techniques exploring this subject have been “too computationally expensive to use at scale” and have an issue with the lambdas, or keywords used to describe new functions in many languages, that they generate. “They tend to produce opaque &#8216;lambda salads,&#8217; big piles of hard-to-interpret functions. These recent papers demonstrate a compelling way forward by placing large language models in an interactive loop with symbolic search, compression, and planning algorithms. This work enables the rapid acquisition of more interpretable and adaptive libraries for the task at hand.”</p>
+<p>By building libraries of high-quality code abstractions using natural language, the three neurosymbolic methods make it easier for language models to tackle more elaborate problems and environments in the future. This deeper understanding of the precise keywords within a prompt presents a path forward in developing more human-like AI models.</p>
+<p>MIT CSAIL members are senior authors for each paper: Joshua Tenenbaum, a professor of brain and cognitive sciences, for both LILO and Ada; Julie Shah, head of the Department of Aeronautics and Astronautics, for LGA; and Jacob Andreas, associate professor of electrical engineering and computer science, for all three. The additional MIT authors are all PhD students: Maddy Bowers and Theo X. Olausson for LILO, Jiayuan Mao and Pratyusha Sharma for Ada, and Belinda Z. Li for LGA. Muxin Liu of Harvey Mudd College was a coauthor on LILO; Zachary Siegel of Princeton University, Jaihai Feng of the University of California at Berkeley, and Noa Korneev of Microsoft were coauthors on Ada; and Ilia Sucholutsky, Theodore R. Sumers, and Thomas L. Griffiths of Princeton were coauthors on LGA. </p>
+<p>LILO and Ada were supported, in part, by ​​MIT Quest for Intelligence, the MIT-IBM Watson AI Lab, Intel, U.S. Air Force Office of Scientific Research, the U.S. Defense Advanced Research Projects Agency, and the U.S. Office of Naval Research, with the latter project also receiving funding from the Center for Brains, Minds and Machines. LGA received funding from the U.S. National Science Foundation, Open Philanthropy, the Natural Sciences and Engineering Research Council of Canada, and the U.S. Department of Defense.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An AI dataset carves new paths to tornado detection</title>
+		<link>https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:38 +0000</pubDate>
+				<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Disaster response]]></category>
+		<category><![CDATA[Lincoln Laboratory]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Natural disasters]]></category>
+		<category><![CDATA[Radar]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Weather]]></category>
+		<category><![CDATA[Weather modeling]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/tornet-ai-dataset-carves-new-paths-tornado-detection-0429/</guid>
+
+					<description><![CDATA[The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why. A new dataset could hold answers. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>The return of spring in the Northern Hemisphere touches off tornado season. A tornado&#8217;s twisting funnel of dust and debris seems an unmistakable sight. But that sight can be obscured to radar, the tool of meteorologists. It&#8217;s hard to know exactly when a tornado has formed, or even why.</p>
+<p>A new dataset could hold answers. It contains radar returns from thousands of tornadoes that have hit the United States in the past 10 years. Storms that spawned tornadoes are flanked by other severe storms, some with nearly identical conditions, that never did. MIT Lincoln Laboratory researchers who curated the dataset, called <a href="https://github.com/mit-ll/tornet" target="_blank" rel="noopener">TorNet</a>, have now released it open source. They hope to enable breakthroughs in detecting one of nature&#8217;s most mysterious and violent phenomena.</p>
+<p>“A lot of progress is driven by easily available, benchmark datasets. We hope TorNet will lay a foundation for machine learning algorithms to both detect and predict tornadoes,” says Mark Veillette, the project&#8217;s co-principal investigator with James Kurdzo. Both researchers work in the Air Traffic Control Systems Group. </p>
+<p>Along with the dataset, the team is releasing models trained on it. The models show promise for machine learning&#8217;s ability to spot a twister. Building on this work could open new frontiers for forecasters, helping them provide more accurate warnings that might save lives. </p>
+<p><strong>Swirling uncertainty</strong></p>
+<p>About 1,200 tornadoes occur in the United States every year, causing millions to billions of dollars in <a href="https://www.statista.com/statistics/237409/economic-damage-caused-by-tornadoes-in-us/">economic damage</a> and claiming 71 lives on average. Last year, one unusually <a href="https://storymaps.arcgis.com/stories/498732c9fda04e6c85118c8e96e47de7">long-lasting tornado</a> killed 17 people and injured at least 165 others along a 59-mile path in Mississippi.  </p>
+<p>Yet tornadoes are notoriously difficult to forecast because scientists don&#8217;t have a clear picture of why they form. “We can see two storms that look identical, and one will produce a tornado and one won&#8217;t. We don&#8217;t fully understand it,” Kurdzo says.</p>
+<p>A tornado’s basic ingredients are thunderstorms with instability caused by rapidly rising warm air and wind shear that causes rotation. Weather radar is the primary tool used to monitor these conditions. But tornadoes lay too low to be detected, even when moderately close to the radar. As the radar beam with a given tilt angle travels further from the antenna, it gets higher above the ground, mostly seeing reflections from rain and hail carried in the “mesocyclone,” the storm&#8217;s broad, rotating updraft. A mesocyclone doesn&#8217;t always produce a tornado.</p>
+<p>With this limited view, forecasters must decide whether or not to issue a tornado warning. They often err on the side of caution. As a result, the rate of false alarms for tornado warnings is more than 70 percent. “That can lead to boy-who-cried-wolf syndrome,” Kurdzo says.  </p>
+<p>In recent years, researchers have turned to machine learning to better detect and predict tornadoes. However, raw datasets and models have not always been accessible to the broader community, stifling progress. TorNet is filling this gap.</p>
+<p>The dataset contains more than 200,000 radar images, 13,587 of which depict tornadoes. The rest of the images are non-tornadic, taken from storms in one of two categories: randomly selected severe storms or false-alarm storms (those that led a forecaster to issue a warning but that didn’t produce a tornado).</p>
+<p>Each sample of a storm or tornado comprises two sets of six radar images. The two sets correspond to different radar sweep angles. The six images portray different radar data products, such as reflectivity (showing precipitation intensity) or radial velocity (indicating if winds are moving toward or away from the radar).</p>
+<p>A challenge in curating the dataset was first finding tornadoes. Within the corpus of weather radar data, tornadoes are extremely rare events. The team then had to balance those tornado samples with difficult non-tornado samples. If the dataset were too easy, say by comparing tornadoes to snowstorms, an algorithm trained on the data would likely over-classify storms as tornadic.</p>
+<p>“What&#8217;s beautiful about a true benchmark dataset is that we&#8217;re all working with the same data, with the same level of difficulty, and can compare results,” Veillette says. “It also makes meteorology more accessible to data scientists, and vice versa. It becomes easier for these two parties to work on a common problem.”</p>
+<p>Both researchers represent the progress that can come from cross-collaboration. Veillette is a mathematician and algorithm developer who has long been fascinated by tornadoes. Kurdzo is a meteorologist by training and a signal processing expert. In grad school, he chased tornadoes with custom-built mobile radars, collecting data to analyze in new ways.</p>
+<p>“This dataset also means that a grad student doesn&#8217;t have to spend a year or two building a dataset. They can jump right into their research,” Kurdzo says.</p>
+<p>This project was funded by Lincoln Laboratory&#8217;s <a href="https://www.ll.mit.edu/r-d/technology-office/climate-change-technology-national-security">Climate Change Initiative</a>, which aims to leverage the laboratory&#8217;s diverse technical strengths to help address climate problems threatening human health and global security.</p>
+<p><strong>Chasing answers with deep learning</strong></p>
+<p>Using the dataset, the researchers developed baseline artificial intelligence (AI) models. They were particularly eager to apply deep learning, a form of machine learning that excels at processing visual data. On its own, deep learning can extract features (key observations that an algorithm uses to make a decision) from images across a dataset. Other machine learning approaches require humans to first manually label features. </p>
+<p>“We wanted to see if deep learning could rediscover what people normally look for in tornadoes and even identify new things that typically aren&#8217;t searched for by forecasters,” Veillette says.</p>
+<p>The results are promising. Their deep learning model performed similar to or better than all tornado-detecting algorithms known in literature. The trained algorithm correctly classified 50 percent of weaker EF-1 tornadoes and over 85 percent of tornadoes rated EF-2 or higher, which make up the most devastating and costly occurrences of these storms.</p>
+<p>They also evaluated two other types of machine-learning models, and one traditional model to compare against. The source code and parameters of all these models are freely available. The models and dataset are also described in a <a href="https://arxiv.org/abs/2401.16437">paper</a> submitted to a journal of the American Meteorological Society (AMS). Veillette presented this work at the AMS Annual Meeting in January.</p>
+<p>“The biggest reason for putting our models out there is for the community to improve upon them and do other great things,” Kurdzo says. “The best solution could be a deep learning model, or someone might find that a non-deep learning model is actually better.”</p>
+<p>TorNet could be useful in the weather community for others uses too, such as for conducting large-scale case studies on storms. It could also be augmented with other data sources, like satellite imagery or lightning maps. Fusing multiple types of data could improve the accuracy of machine learning models.</p>
+<p><strong>Taking steps toward operations</strong></p>
+<p>On top of detecting tornadoes, Kurdzo hopes that models might help unravel the science of why they form.</p>
+<p>“As scientists, we see all these precursors to tornadoes — an increase in low-level rotation, a hook echo in reflectivity data, specific differential phase (KDP) foot and differential reflectivity (ZDR) arcs. But how do they all go together? And are there physical manifestations we don&#8217;t know about?” he asks.</p>
+<p>Teasing out those answers might be possible with explainable AI. Explainable AI refers to methods that allow a model to provide its reasoning, in a format understandable to humans, of why it came to a certain decision. In this case, these explanations might reveal physical processes that happen before tornadoes. This knowledge could help train forecasters, and models, to recognize the signs sooner. </p>
+<p>“None of this technology is ever meant to replace a forecaster. But perhaps someday it could guide forecasters&#8217; eyes in complex situations, and give a visual warning to an area predicted to have tornadic activity,” Kurdzo says.</p>
+<p>Such assistance could be especially useful as radar technology improves and future networks potentially grow denser. Data refresh rates in a next-generation radar network are expected to increase from every five minutes to approximately one minute, perhaps faster than forecasters can interpret the new information. Because deep learning can process huge amounts of data quickly, it could be well-suited for monitoring radar returns in real time, alongside humans. Tornadoes can form and disappear in minutes.</p>
+<p>But the path to an operational algorithm is a long road, especially in safety-critical situations, Veillette says. “I think the forecaster community is still, understandably, skeptical of machine learning. One way to establish trust and transparency is to have public benchmark datasets like this one. It&#8217;s a first step.”</p>
+<p>The next steps, the team hopes, will be taken by researchers across the world who are inspired by the dataset and energized to build their own algorithms. Those algorithms will in turn go into test beds, where they&#8217;ll eventually be shown to forecasters, to start a process of transitioning into operations.</p>
+<p>In the end, the path could circle back to trust.</p>
+<p>“We may never get more than a 10- to 15-minute tornado warning using these tools. But if we could lower the false-alarm rate, we could start to make headway with public perception,” Kurdzo says. “People are going to use those warnings to take the action they need to save their lives.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>“Nanostitches” enable lighter and tougher composite materials</title>
+		<link>https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:37 +0000</pubDate>
+				<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Aircraft]]></category>
+		<category><![CDATA[Carbon materials]]></category>
+		<category><![CDATA[Materials science and engineering]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/nanostitches-enable-lighter-and-tougher-composite-materials-0416/</guid>
+
+					<description><![CDATA[To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures. But composite [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>To save on fuel and reduce aircraft emissions, engineers are looking to build lighter, stronger airplanes out of advanced composites. These engineered materials are made from high-performance fibers that are embedded in polymer sheets. The sheets can be stacked and pressed into one multilayered material and made into extremely lightweight and durable structures.</p>
+<p>But composite materials have one main vulnerability: the space between layers, which is typically filled with polymer “glue” to bond the layers together. In the event of an impact or strike, cracks can easily spread between layers and weaken the material, even though there may be no visible damage to the layers themselves. Over time, as these hidden cracks spread between layers, the composite could suddenly crumble without warning.</p>
+<p>Now, MIT engineers have shown they can prevent cracks from spreading between composite’s layers, using an approach they developed called “nanostitching,” in which they deposit chemically grown microscopic forests of carbon nanotubes between composite layers. The tiny, densely packed fibers grip and hold the layers together, like ultrastrong Velcro, preventing the layers from peeling or shearing apart.</p>
+<p>In experiments with an advanced composite known as thin-ply carbon fiber laminate, the team demonstrated that layers bonded with nanostitching improved the material’s resistance to cracks by up to 60 percent, compared with composites with conventional polymers. The researchers say the results help to address the main vulnerability in advanced composites.</p>
+<p>“Just like phyllo dough flakes apart, composite layers can peel apart because this interlaminar region is the Achilles’ heel of composites,” says Brian Wardle, professor of aeronautics and astronautics at MIT. “We’re showing that nanostitching makes this normally weak region so strong and tough that a crack will not grow there. So, we could expect the next generation of aircraft to have composites held together with this nano-Velcro, to make aircraft safer and have greater longevity.”</p>
+<p>Wardle and his colleagues have <a href="https://pubs.acs.org/doi/10.1021/acsami.3c17333" target="_blank" rel="noopener">published their results</a> today in the journal <em>ACS Applied Materials and Interfaces</em>. The study’s first author is former MIT visiting graduate student and postdoc Carolina Furtado, along with Reed Kopp, Xinchen Ni, Carlos Sarrado, Estelle Kalfon-Cohen, and Pedro Camanho.</p>
+<p><strong>Forest growth</strong></p>
+<p>At MIT, Wardle is director of the necstlab (pronounced “next lab”), where he and his group <a href="https://news.mit.edu/2016/carbon-nanotube-stitches-strengthen-composites-0803" target="_blank" rel="noopener">first developed</a> the concept for nanostitching. The approach involves “growing” a forest of vertically aligned carbon nanotubes — hollow fibers of carbon, each so small that tens of billions of the the nanotubes can stand in an area smaller than a fingernail. To grow the nanotubes, the team used a process of chemical vapor deposition to react various catalysts in an oven, causing carbon to settle onto a surface as tiny, hair-like supports. The supports are eventually removed, leaving behind a densely packed forest of microscopic, vertical rolls of carbon.</p>
+<p>The lab has previously shown that the nanotube forests can be grown and adhered to layers of composite material, and that this fiber-reinforced compound improves the material’s overall strength. The researchers had also seen some signs that the fibers can improve a composite’s resistance to cracks between layers.</p>
+<p>In their new study, the engineers took a more in-depth look at the between-layer region in composites to test and quantify how nanostitching would improve the region’s resistance to cracks. In particular, the study focused on an advanced composite material known as thin-ply carbon fiber laminates.</p>
+<p>“This is an emerging composite technology, where each layer, or ply, is about 50 microns thin, compared to standard composite plies that are 150 microns, which is about the diameter of a human hair. There’s evidence to suggest they are better than standard-thickness composites. And we wanted to see whether there might be synergy between our nanostitching and this thin-ply technology, since it could lead to more resilient aircraft, high-value aerospace structures, and space and military vehicles,” Wardle says.</p>
+<p><strong>Velcro grip</strong></p>
+<p>The study’s experiments were led by Carolina Furtado, who joined the effort as part of the MIT-Portugal program in 2016, continued the project as a postdoc, and is now a professor at the University of Porto in Portugal, where her research focuses on modeling cracks and damage in advanced composites.</p>
+<p>In her tests, Furtado used the group’s techniques of chemical vapor deposition to grow densely packed forests of vertically aligned carbon nanotubes. She also fabricated samples of thin-ply carbon fiber laminates. The resulting advanced composite was about 3 millimeters thick and comprised 60 layers, each made from stiff, horizontal fibers embedded in a polymer sheet.</p>
+<p>She transferred and adhered the nanotube forest in between the two middle layers of the composite, then cooked the material in an autoclave to cure. To test crack resistance, the researchers placed a crack on the edge of the composite, right at the start of the region between the two middle layers.</p>
+<p>“In fracture testing, we always start with a crack because we want to test whether and how far the crack will spread,” Furtado explains.</p>
+<p>The researchers then placed samples of the nanotube-reinforced composite in an experimental setup to test their resilience to “delamination,” or the potential for layers to separate.</p>
+<p>“There’s lots of ways you can get precursors to delamination, such as from impacts, like tool drop, bird strike, runway kickup in aircraft, and there could be almost no visible damage, but internally it has a delamination,” Wardle says. “Just like a human, if you’ve got a hairline fracture in a bone, it’s not good. Just because you can’t see it doesn’t mean it’s not impacting you. And damage in composites is hard to inspect.”</p>
+<p>To examine nanostitching’s potential to prevent delamination, the team placed their samples in a setup to test three delamination modes, in which a crack could spread through the between-layer region and peel the layers apart or cause them to slide against each other, or do a combination of both. All three of these modes are the most common ways in which conventional composites can internally flake and crumble.</p>
+<p>The tests, in which the researchers precisely measured the force required to peel or shear the composite’s layers, revealed that the nanostitched held fast, and the initial crack that the researchers made was unable to spread further between the layers. The nanostitched samples were up to 62 percent tougher and more resistant to cracks, compared with the same advanced composite material that was held together with conventional polymers.</p>
+<p>“This is a new composite technology, turbocharged by our nanotubes,” Wardle says.</p>
+<p>“The authors have demonsrated that thin plies and nanostitching together have made significant increase in toughness,” says Stephen Tsai, emeritus professor of aeronautics and astronautics at Stanford University. “Composites are degraded by their weak interlaminar strength. Any improvement shown in this work will increase the design allowable, and reduce the weight and cost of composites technology.”</p>
+<p>The researchers envision that any vehicle or structure that incorporates conventional composites could be made lighter, tougher, and more resilient with nanostitching.</p>
+<p>“You could have selective reinforcement of problematic areas, to reinforce holes or bolted joints, or places where delamination might happen,” Furtado says. “This opens a big window of opportunity.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How light can vaporize water without the need for heat</title>
+		<link>https://www.sawberries.com/2024/04/25/how-light-can-vaporize-water-without-heat-0423/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 12:13:37 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Desalination]]></category>
+		<category><![CDATA[Heat]]></category>
+		<category><![CDATA[Light]]></category>
+		<category><![CDATA[Mechanical engineering]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Nanoscience and nanotechnology]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/how-light-can-vaporize-water-without-heat-0423/</guid>
+
+					<description><![CDATA[It’s the most fundamental of processes — the evaporation of water from the surfaces of oceans and lakes, the burning off of fog in the morning sun, and the drying of briny ponds that leaves solid salt behind. Evaporation is all around us, and humans have been observing it and making use of it for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>It’s the most fundamental of processes — the evaporation of water from the surfaces of oceans and lakes, the burning off of fog in the morning sun, and the drying of briny ponds that leaves solid salt behind. Evaporation is all around us, and humans have been observing it and making use of it for as long as we have existed.</p>
+</p>
+<p>And yet, it turns out, we’ve been missing a major part of the picture all along.</p>
+</p>
+<p>In a series of painstakingly precise experiments, a team of researchers at MIT has demonstrated that heat isn’t alone in causing water to evaporate. Light, striking the water’s surface where air and water meet, can break water molecules away and float them into the air, causing evaporation in the absence of any source of heat.</p>
+</p>
+<p>The astonishing new discovery could have a wide range of significant implications. It could help explain mysterious measurements over the years of how sunlight affects clouds, and therefore affect calculations of the effects of climate change on cloud cover and precipitation. It could also lead to new ways of designing industrial processes such as solar-powered desalination or drying of materials.</p>
+</p>
+<p>The findings, and the many different lines of evidence that demonstrate the reality of the phenomenon and the details of how it works, are described today in the journal <em>PNAS, </em>in a <a href="https://www.pnas.org/doi/10.1073/pnas.2320844121" target="_blank" rel="noopener">paper</a> by Carl Richard Soderberg Professor of Power Engineering Gang Chen, postdocs Guangxin Lv and Yaodong Tu, and graduate student James Zhang.</p>
+</p>
+<p>The authors say their study suggests that the effect should happen widely in nature— everywhere from clouds to fogs to the surfaces of oceans, soils, and plants — and that it could also lead to new practical applications, including in energy and clean water production. “I think this has a lot of applications,” Chen says. “We’re exploring all these different directions. And of course, it also affects the basic science, like the effects of clouds on climate, because clouds are the most uncertain aspect of climate models.”</p>
+</p>
+<p><strong>A newfound phenomenon</strong></p>
+</p>
+<p>The new work builds on research <a href="https://news.mit.edu/2023/surprising-finding-light-makes-water-evaporate-without-heat-1031" target="_blank" rel="noopener">reported last year</a>, which described this new “photomolecular effect” but only under very specialized conditions: on the surface of specially prepared hydrogels soaked with water. In the new study, the researchers demonstrate that the hydrogel is not necessary for the process; it occurs at any water surface exposed to light, whether it’s a flat surface like a body of water or a curved surface like a droplet of cloud vapor.</p>
+</p>
+<p>Because the effect was so unexpected, the team worked to prove its existence with as many different lines of evidence as possible. In this study, they report 14 different kinds of tests and measurements they carried out to establish that water was indeed evaporating — that is, molecules of water were being knocked loose from the water’s surface and wafted into the air — due to the light alone, not by heat, which was long assumed to be the only mechanism involved.</p>
+</p>
+<p>One key indicator, which showed up consistently in four different kinds of experiments under different conditions, was that as the water began to evaporate from a test container under visible light, the air temperature measured above the water’s surface cooled down and then leveled off, showing that thermal energy was not the driving force behind the effect.</p>
+</p>
+<p>Other key indicators that showed up included the way the evaporation effect varied depending on the angle of the light, the exact color of the light, and its polarization. None of these varying characteristics should happen because at these wavelengths, water hardly absorbs light at all — and yet the researchers observed them.</p>
+</p>
+<p>The effect is strongest when light hits the water surface at an angle of 45 degrees. It is also strongest with a certain type of polarization, called transverse magnetic polarization. And it peaks in green light — which, oddly, is the color for which water is most transparent and thus interacts the least.</p>
+</p>
+<p>Chen and his co-researchers have proposed a physical mechanism that can explain the angle and polarization dependence of the effect, showing that the photons of light can impart a net force on water molecules at the water surface that is sufficient to knock them loose from the body of water. But they cannot yet account for the color dependence, which they say will require further study.</p>
+</p>
+<p>They have named this the photomolecular effect, by analogy with the photoelectric effect that was discovered by Heinrich Hertz in 1887 and finally explained by Albert Einstein in 1905. That effect was one of the first demonstrations that light also has particle characteristics, which had major implications in physics and led to a wide variety of applications, including LEDs. Just as the photoelectric effect liberates electrons from atoms in a material in response to being hit by a photon of light, the photomolecular effect shows that photons can liberate entire molecules from a liquid surface, the researchers say.</p>
+</p>
+<p>“The finding of evaporation caused by light instead of heat provides new disruptive knowledge of light-water interaction,” says Xiulin Ruan, professor of mechanical engineering at Purdue University, who was not involved in the study. “It could help us gain new understanding of how sunlight interacts with cloud, fog, oceans, and other natural water bodies to affect weather and climate. It has significant potential practical applications such as high-performance water desalination driven by solar energy. This research is among the rare group of truly revolutionary discoveries which are not widely accepted by the community right away but take time, sometimes a long time, to be confirmed.”</p>
+</p>
+<p><strong>Solving a cloud conundrum</strong></p>
+</p>
+<p>The finding may solve an 80-year-old mystery in climate science. Measurements of how clouds absorb sunlight have often shown that they are absorbing more sunlight than conventional physics dictates possible. The additional evaporation caused by this effect could account for the longstanding discrepancy, which has been a subject of dispute since such measurements are difficult to make.</p>
+</p>
+<p>“Those experiments are based on satellite data and flight data,“ Chen explains. “They fly an airplane on top of and below the clouds, and there are also data based on the ocean temperature and radiation balance. And they all conclude that there is more absorption by clouds than theory could calculate. However, due to the complexity of clouds and the difficulties of making such measurements, researchers have been debating whether such discrepancies are real or not. And what we discovered suggests that hey, there’s another mechanism for cloud absorption, which was not accounted for, and this mechanism might explain the discrepancies.”</p>
+</p>
+<p>Chen says he recently spoke about the phenomenon at an American Physical Society conference, and one physicist there who studies clouds and climate said they had never thought about this possibility, which could affect calculations of the complex effects of clouds on climate. The team conducted experiments using LEDs shining on an artificial cloud chamber, and they observed heating of the fog, which was not supposed to happen since water does not absorb in the visible spectrum. “Such heating can be explained based on the photomolecular effect more easily,” he says.</p>
+</p>
+<p>Lv says that of the many lines of evidence, “the flat region in the air-side temperature distribution above hot water will be the easiest for people to reproduce.” That temperature profile “is a signature” that demonstrates the effect clearly, he says.</p>
+</p>
+<p>Zhang adds: “It is quite hard to explain how this kind of flat temperature profile comes about without invoking some other mechanism” beyond the accepted theories of thermal evaporation. “It ties together what a whole lot of people are reporting in their solar desalination devices,” which again show evaporation rates that cannot be explained by the thermal input.</p>
+<p>The effect can be substantial. Under the optimum conditions of color, angle, and polarization, Lv says, “the evaporation rate is four times the thermal limit.”</p>
+</p>
+<p>Already, since publication of the first paper, the team has been approached by companies that hope to harness the effect, Chen says, including for evaporating syrup and drying paper in a paper mill. The likeliest first applications will come in the areas of solar desalinization systems or other industrial drying processes, he says. “Drying consumes 20 percent of all industrial energy usage,” he points out.</p>
+</p>
+<p>Because the effect is so new and unexpected, Chen says, “This phenomenon should be very general, and our experiment is really just the beginning.” The experiments needed to demonstrate and quantify the effect are very time-consuming. “There are many variables, from understanding water itself, to extending to other materials, other liquids and even solids,” he says.</p>
+</p>
+<p>“The observations in the manuscript points to a new physical mechanism that foundationally alters our thinking on the kinetics of evaporation,” says Shannon Yee, an associate professor of mechanical engineering at Georgia Tech, who was not associated with this work. He adds, “Who would have thought that we are still learning about something as quotidian as water evaporating?”</p>
+</p>
+<p>“I think this work is very significant scientifically because it presents a new mechanism,” says University of Alberta Distinguished Professor Janet A.W. Elliott, who also was not associated with this work. “It may also turn out to be practically important for technology and our understanding of nature, because evaporation of water is ubiquitous and the effect appears to deliver significantly higher evaporation rates than the known thermal mechanism. …  My overall impression is this work is outstanding. It appears to be carefully done with many precise experiments lending support for one another.”</p>
+</p>
+<p>The work was partly supported by an MIT Bose Award. The authors are currently working on ways to make use of this effect for water desalination, in a project funded by the Abdul Latif Jameel Water and Food Systems Lab and the MIT-UMRP program.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

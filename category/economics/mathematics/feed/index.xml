@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mathematics &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/economics/mathematics/feed/?simply_static_page=1685268" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Mathematics &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Scientists use generative AI to answer complex questions in physics</title>
+		<link>https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer Science and Artificial Intelligence Laboratory (CSAIL)]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/scientists-use-generative-ai-complex-questions-physics-0516/</guid>
+
+					<description><![CDATA[When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>When water freezes, it transitions from a liquid phase to a solid phase, resulting in a drastic change in properties like density and volume. Phase transitions in water are so common most of us probably don’t even think about them, but phase transitions in novel materials or complex physical systems are an important area of study.</p>
+<p>To fully understand these systems, scientists must be able to recognize phases and detect the transitions between. But how to quantify phase changes in an unknown system is often unclear, especially when data are scarce.</p>
+<p>Researchers from MIT and the University of Basel in Switzerland applied generative artificial intelligence models to this problem, developing a new machine-learning framework that can automatically map out phase diagrams for novel physical systems.</p>
+<p>Their physics-informed machine-learning approach is more efficient than laborious, manual techniques which rely on theoretical expertise. Importantly, because their approach leverages generative models, it does not require huge, labeled training datasets used in other machine-learning techniques.</p>
+<p>Such a framework could help scientists investigate the thermodynamic properties of novel materials or detect entanglement in quantum systems, for instance. Ultimately, this technique could make it possible for scientists to discover unknown phases of matter autonomously.</p>
+<p>“If you have a new system with fully unknown properties, how would you choose which observable quantity to study? The hope, at least with data-driven tools, is that you could scan large new systems in an automated way, and it will point you to important changes in the system. This might be a tool in the pipeline of automated scientific discovery of new, exotic properties of phases,” says Frank Schäfer, a postdoc in the Julia Lab in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and co-author of a paper on this approach.</p>
+<p>Joining Schäfer on the paper are first author Julian Arnold, a graduate student at the University of Basel; Alan Edelman, applied mathematics professor in the Department of Mathematics and leader of the Julia Lab; and senior author Christoph Bruder, professor in the Department of Physics at the University of Basel. The research is <a href="https://doi.org/10.1103/PhysRevLett.132.207301" target="_blank" rel="noopener">published today</a> in <em>Physical Review Letters.</em></p>
+<p><strong>Detecting phase transitions using AI</strong></p>
+<p>While water transitioning to ice might be among the most obvious examples of a phase change, more exotic phase changes, like when a material transitions from being a normal conductor to a superconductor, are of keen interest to scientists.</p>
+<p>These transitions can be detected by identifying an “order parameter,” a quantity that is important and expected to change. For instance, water freezes and transitions to a solid phase (ice) when its temperature drops below 0 degrees Celsius. In this case, an appropriate order parameter could be defined in terms of the proportion of water molecules that are part of the crystalline lattice versus those that remain in a disordered state.</p>
+<p>In the past, researchers have relied on physics expertise to build phase diagrams manually, drawing on theoretical understanding to know which order parameters are important. Not only is this tedious for complex systems, and perhaps impossible for unknown systems with new behaviors, but it also introduces human bias into the solution.</p>
+<p>More recently, researchers have begun using machine learning to build discriminative classifiers that can solve this task by learning to classify a measurement statistic as coming from a particular phase of the physical system, the same way such models classify an image as a cat or dog.</p>
+<p>The MIT researchers demonstrated how generative models can be used to solve this classification task much more efficiently, and in a physics-informed manner.</p>
+<p>The <a href="https://julia.mit.edu/" target="_blank" rel="noopener">Julia Programming Language</a>, a popular language for scientific computing that is also used in MIT’s introductory linear algebra classes, offers many tools that make it invaluable for constructing such generative models, Schäfer adds.</p>
+<p>Generative models, like those that underlie ChatGPT and Dall-E, typically work by estimating the probability distribution of some data, which they use to generate new data points that fit the distribution (such as new cat images that are similar to existing cat images).</p>
+<p>However, when simulations of a physical system using tried-and-true scientific techniques are available, researchers get a model of its probability distribution for free. This distribution describes the measurement statistics of the physical system.</p>
+<p><strong>A more knowledgeable model</strong></p>
+<p>The MIT team’s insight is that this probability distribution also defines a generative model upon which a classifier can be constructed. They plug the generative model into standard statistical formulas to directly construct a classifier instead of learning it from samples, as was done with discriminative approaches.</p>
+<p>“This is a really nice way of incorporating something you know about your physical system deep inside your machine-learning scheme. It goes far beyond just performing feature engineering on your data samples or simple inductive biases,” Schäfer says.</p>
+<p>This generative classifier can determine what phase the system is in given some parameter, like temperature or pressure. And because the researchers directly approximate the probability distributions underlying measurements from the physical system, the classifier has system knowledge.</p>
+<p>This enables their method to perform better than other machine-learning techniques. And because it can work automatically without the need for extensive training, their approach significantly enhances the computational efficiency of identifying phase transitions.</p>
+<p>At the end of the day, similar to how one might ask ChatGPT to solve a math problem, the researchers can ask the generative classifier questions like “does this sample belong to phase I or phase II?” or “was this sample generated at high temperature or low temperature?”</p>
+<p>Scientists could also use this approach to solve different binary classification tasks in physical systems, possibly to detect entanglement in quantum systems (Is the state entangled or not?) or determine whether theory A or B is best suited to solve a particular problem. They could also use this approach to better understand and improve large language models like ChatGPT by identifying how certain parameters should be tuned so the chatbot gives the best outputs.</p>
+<p>In the future, the researchers also want to study theoretical guarantees regarding how many measurements they would need to effectively detect phase transitions and estimate the amount of computation that would require.</p>
+<p>This work was funded, in part, by the Swiss National Science Foundation, the MIT-Switzerland Lockheed Martin Seed Fund, and MIT International Science and Technology Initiatives.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</title>
+		<link>https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 05 May 2024 09:01:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[Gyan AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Maths]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Paramanu-Ganita]]></category>
+		<category><![CDATA[small language models]]></category>
+		<category><![CDATA[training]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/</guid>
+
+					<description><![CDATA[Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large language models (LLMs) have dramatically reshaped computational mathematics. These advanced AI systems, designed to process and mimic human-like text, are now pushing boundaries in mathematical fields. Their ability to understand and manipulate complex concepts has made them invaluable in research and development. Among these innovations stands Paramanu-Ganita, a creation of Gyan AI Research. […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/paramanu-ganita-a-new-mathematical-model-that-outperforms-llama-falcon-and-palm/">Paramanu-Ganita: A New Mathematical Model that Outperforms LLaMa, Falcon, and PaLM</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Chinese Model Outperforms GPT-4 Turbo!</title>
+		<link>https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 10:32:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI model]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Coding]]></category>
+		<category><![CDATA[GPT]]></category>
+		<category><![CDATA[GPT-4 Turbo]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[SenseNova 5.0]]></category>
+		<category><![CDATA[SenseTime]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/26/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/</guid>
+
+					<description><![CDATA[SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>SenseTime, a leading AI company based in China, has launched its latest model, SenseNova 5.0, marking a significant advancement in artificial intelligence. This new model has been shown to outperform many powerful large language models, including GPT-4 Turbo. Despite the lack of buzz surrounding its release, it looks promising in revolutionizing various industries with its […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/04/chinese-ai-model-sensetime-sensenova-outperforms-gpt-4-turbo/">New Chinese Model Outperforms GPT-4 Turbo!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+<p><!-- Disqus thread link for post ID  --></p>
+<div id='disqus_thread'></div>
+<p><script>var disqus_config = function () { this.page.url = 'www.sawberries.com/?p='; this.page.identifier = ''; }; (function() { var d = document, s = d.createElement('script'); s.src = 'https://www-sawberries-com.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();</script><br />
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seven from MIT elected to American Academy of Arts and Sciences for 2024</title>
+		<link>https://www.sawberries.com/2024/04/25/seven-mit-elected-american-academy-arts-and-sciences-0425/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 14:14:54 +0000</pubDate>
+				<category><![CDATA[Aeronautical and astronautical engineering]]></category>
+		<category><![CDATA[Awards, honors and fellowships]]></category>
+		<category><![CDATA[Chemistry]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Mathematics]]></category>
+		<category><![CDATA[Media Lab]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/25/seven-mit-elected-american-academy-arts-and-sciences-0425/</guid>
+
+					<description><![CDATA[Eight MIT faculty members are among the 250 leaders from academia, the arts, industry, public policy, and research elected to the American Academy of Arts and Sciences, the academy announced April 24. One of the nation’s most prestigious honorary societies, the academy is also a leading center for independent policy research. Members contribute to academy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Eight MIT faculty members are among the 250 leaders from academia, the arts, industry, public policy, and research elected to the American Academy of Arts and Sciences, the academy announced April 24.</p>
+</p>
+<p>One of the nation’s most prestigious honorary societies, the academy is also a leading center for independent policy research. Members contribute to academy publications, as well as studies of science and technology policy, energy and global security, social policy and American institutions, the humanities and culture, and education.</p>
+</p>
+<p>Those elected from MIT in 2024 are:</p>
+</p>
+<ul>
+<li>Edward F. Crawley, professor of aeronautics and astronautics, post-tenure;</li>
+<li>Nathaniel Hendren, professor of economics;</li>
+<li>Mei Hong, David A. Leighty Professor of Chemistry;</li>
+<li>Tod Machover, Muriel R. Cooper Professor of Interactive Media Design;</li>
+<li>Anna Mikusheva, professor of economics;</li>
+<li>Elchanan Mossel, professor of mathematics; and</li>
+<li>Xiao-Gang Wen, Cecil and Ida Green Professor of Physics.</li>
+</ul>
+<p>“We honor these artists, scholars, scientists, and leaders in the public, non-profit, and private sectors for their accomplishments and for the curiosity, creativity, and courage required to reach new heights,” says David Oxtoby, president of the academy. “We invite these exceptional individuals to join in the academy’s work to address serious challenges and advance the common good.”</p>
+</p>
+<p>Since its founding in 1780, the academy has elected leading thinkers from each generation, including George Washington and Benjamin Franklin in the 18th century, Maria Mitchell and Daniel Webster in the 19th century, and Toni Morrison and Albert Einstein in the 20th century. The current membership includes more than 250 Nobel and Pulitzer Prize winners.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

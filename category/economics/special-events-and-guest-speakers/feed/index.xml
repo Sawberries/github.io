@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Special events and guest speakers &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/economics/special-events-and-guest-speakers/feed/?simply_static_page=1685107" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Mon, 06 May 2024 15:01:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Special events and guest speakers &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>President Sally Kornbluth and OpenAI CEO Sam Altman discuss the future of AI</title>
+		<link>https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 15:01:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Business and management]]></category>
+		<category><![CDATA[Careers]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[History of science]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Invention]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[President Sally Kornbluth]]></category>
+		<category><![CDATA[School of Architecture and Planning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/president-sally-kornbluth-openai-ceo-sam-altman-discuss-future-ai-0506/</guid>
+
+					<description><![CDATA[How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2. The success of OpenAI’s ChatGPT large language models has helped spur [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How is the field of artificial intelligence evolving and what does it mean for the future of work, education, and humanity? MIT President Sally Kornbluth and OpenAI CEO Sam Altman covered all that and more in a wide-ranging discussion on MIT’s campus May 2.</p>
+<p>The success of OpenAI’s ChatGPT large language models has helped spur a wave of investment and innovation in the field of artificial intelligence. ChatGPT-3.5 became the fastest-growing consumer software application in history after its release at the end of 2022, with hundreds of millions of people using the tool. Since then, OpenAI has also demonstrated AI-driven image-, audio-, and video-generation products and partnered with Microsoft.</p>
+<p>The event, which took place in a packed Kresge Auditorium, captured the excitement of the moment around AI, with an eye toward what’s next.</p>
+<p>“I think most of us remember the first time we saw ChatGPT and were like, ‘Oh my god, that is so cool!’” Kornbluth said. “Now we’re trying to figure out what the next generation of all this is going to be.”</p>
+<p>For his part, Altman welcomes the high expectations around his company and the field of artificial intelligence more broadly.</p>
+<p>“I think it’s awesome that for two weeks, everybody was freaking out about ChatGPT-4, and then by the third week, everyone was like, ‘Come on, where’s GPT-5?’” Altman said. “I think that says something legitimately great about human expectation and striving and why we all have to [be working to] make things better.”</p>
+<p><strong>The problems with AI</strong></p>
+<p>Early on in their discussion, Kornbluth and Altman discussed the many ethical dilemmas posed by AI.</p>
+<p>“I think we’ve made surprisingly good progress around how to align a system around a set of values,” Altman said. “As much as people like to say ‘You can’t use these things because they’re spewing toxic waste all the time,’ GPT-4 behaves kind of the way you want it to, and we’re able to get it to follow a given set of values, not perfectly well, but better than I expected by this point.”</p>
+<p>Altman also pointed out that people don’t agree on exactly how an AI system should behave in many situations, complicating efforts to create a universal code of conduct.</p>
+<p>“How do we decide what values a system should have?” Altman asked. “How do we decide what a system should do? How much does society define boundaries versus trusting the user with these tools? Not everyone will use them the way we like, but that’s just kind of the case with tools. I think it’s important to give people a lot of control … but there are some things a system just shouldn’t do, and we’ll have to collectively negotiate what those are.”</p>
+<p>Kornbluth agreed doing things like eradicating bias in AI systems will be difficult.</p>
+<p>“It’s interesting to think about whether or not we can make models less biased than we are as human beings,” she said.</p>
+<p>Kornbluth also brought up privacy concerns associated with the vast amounts of data needed to train today’s large language models. Altman said society has been grappling with those concerns since the dawn of the internet, but AI is making such considerations more complex and higher-stakes. He also sees entirely new questions raised by the prospect of powerful AI systems.</p>
+<p>“How are we going to navigate the privacy versus utility versus safety tradeoffs?” Altman asked. “Where we all individually decide to set those tradeoffs, and the advantages that will be possible if someone lets the system be trained on their entire life, is a new thing for society to navigate. I don’t know what the answers will be.”</p>
+<p>For both privacy and energy consumption concerns surrounding AI, Altman said he believes progress in future versions of AI models will help.</p>
+<p>&#8220;What we want out of GPT-5 or 6 or whatever is for it to be the best reasoning engine possible,” Altman said. “It is true that right now, the only way we’re able to do that is by training it on tons and tons of data. In that process, it’s learning something about how to do very, very limited reasoning or cognition or whatever you want to call it. But the fact that it can memorize data, or the fact that it’s storing data at all in its parameter space, I think we&#8217;ll look back and say, ‘That was kind of a weird waste of resources.’ I assume at some point, we’ll figure out how to separate the reasoning engine from the need for tons of data or storing the data in [the model], and be able to treat them as separate things.”</p>
+<p>Kornbluth also asked about how AI might lead to job displacement.</p>
+<p>“One of the things that annoys me most about people who work on AI is when they stand up with a straight face and say, ‘This will never cause any job elimination. This is just an additive thing. This is just all going to be great,’” Altman said. “This is going to eliminate a lot of current jobs, and this is going to change the way that a lot of current jobs function, and this is going to create entirely new jobs. That always happens with technology.&#8221;</p>
+<p><strong>The promise of AI</strong></p>
+<p>Altman believes progress in AI will make grappling with all of the field’s current problems worth it.</p>
+<p>“If we spent 1 percent of the world’s electricity training a powerful AI, and that AI helped us figure out how to get to non-carbon-based energy or make deep carbon capture better, that would be a massive win,” Altman said.</p>
+<p>He also said the application of AI he’s most interested in is scientific discovery.</p>
+<p>“I believe [scientific discovery] is the core engine of human progress and that it is the only way we drive sustainable economic growth,” Altman said. “People aren’t content with GPT-4. They want things to get better. Everyone wants life more and better and faster, and science is how we get there.”</p>
+<p>Kornbluth also asked Altman for his advice for students thinking about their careers. He urged students not to limit themselves.</p>
+<p>“The most important lesson to learn early on in your career is that you can kind of figure anything out, and no one has all of the answers when they start out,” Altman said. “You just sort of stumble your way through, have a fast iteration speed, and try to drift toward the most interesting problems to you, and be around the most impressive people and have this trust that you’ll successfully iterate to the right thing. &#8230; You can do more than you think, faster than you think.”</p>
+<p>The advice was part of a broader message Altman had about staying optimistic and working to create a better future.</p>
+<p>“The way we are teaching our young people that the world is totally screwed and that it’s hopeless to try to solve problems, that all we can do is sit in our bedrooms in the dark and think about how awful we are, is a really deeply unproductive streak,” Altman said. “I hope MIT is different than a lot of other college campuses. I assume it is. But you all need to make it part of your life mission to fight against this. Prosperity, abundance, a better life next year, a better life for our children. That is the only path forward. That is the only way to have a functioning society &#8230; and the anti-progress streak, the anti ‘people deserve a great life’ streak, is something I hope you all fight against.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fostering research, careers, and community in materials science</title>
+		<link>https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 07:25:30 +0000</pubDate>
+				<category><![CDATA[Abdul Latif Jameel World Education Lab (J-WEL)]]></category>
+		<category><![CDATA[Algorithms]]></category>
+		<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Computer modeling]]></category>
+		<category><![CDATA[Computer science and technology]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Digital technology]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Mentoring]]></category>
+		<category><![CDATA[MIT.nano]]></category>
+		<category><![CDATA[nano]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[STEM education]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/fostering-research-careers-community-materials-science-0501/</guid>
+
+					<description><![CDATA[Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the Materials Initiative for Comprehensive Research Opportunity (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Gabrielle Wood, a junior at Howard University majoring in chemical engineering, is on a mission to improve the sustainability and life cycles of natural resources and materials. Her work in the <a href="https://www.mse-micro.net/">Materials Initiative for Comprehensive Research Opportunity</a> (MICRO) program has given her hands-on experience with many different aspects of research, including MATLAB programming, experimental design, data analysis, figure-making, and scientific writing.</p>
+<p>Wood is also one of 10 undergraduates from 10 universities around the United States to participate in the first MICRO Summit earlier this year. The internship program, developed by the MIT Department of Materials Science and Engineering (DMSE), first launched in fall 2021. Now in its third year, the program continues to grow, providing even more opportunities for non-MIT undergraduate students — including the MICRO Summit and the program’s expansion to include Northwestern University.</p>
+<p>“I think one of the most valuable aspects of the MICRO program is the ability to do research long term with an experienced professor in materials science and engineering,” says Wood. “My school has limited opportunities for undergraduate research in sustainable polymers, so the MICRO program allowed me to gain valuable experience in this field, which I would not otherwise have.”</p>
+<p>Like Wood, Griheydi Garcia, a senior chemistry major at Manhattan College, values the exposure to materials science, especially since she is not able to learn as much about it at her home institution.</p>
+<p>“I learned a lot about crystallography and defects in materials through the MICRO curriculum, especially through videos,” says Garcia. “The research itself is very valuable, as well, because we get to apply what we’ve learned through the videos in the research we do remotely.”</p>
+<p><strong>Expanding research opportunities</strong></p>
+<p>From the beginning, the MICRO program was designed as a fully remote, rigorous education and mentoring program targeted toward students from underserved backgrounds interested in pursuing graduate school in materials science or related fields. Interns are matched with faculty to work on their specific research interests.</p>
+<p>Jessica Sandland ’99, PhD ’05, principal lecturer in DMSE and co-founder of MICRO, says that research projects for the interns are designed to be work that they can do remotely, such as developing a machine-learning algorithm or a data analysis approach.</p>
+<p>“It’s important to note that it’s not just about what the program and faculty are bringing to the student interns,” says Sandland, a member of the <a href="https://openlearning.mit.edu/mitx-digital-learning-lab">MIT Digital Learning Lab</a>, a joint program between MIT Open Learning and the Institute’s academic departments. “The students are doing real research and work, and creating things of real value. It’s very much an exchange.”</p>
+<p>Cécile Chazot PhD ’22, now an assistant professor of materials science and engineering at Northwestern University, had helped to establish MICRO at MIT from the very beginning. Once at Northwestern, she quickly realized that expanding MICRO to Northwestern would offer even more research opportunities to interns than by relying on MIT alone — leveraging the university’s strong materials science and engineering department, as well as offering resources for biomaterials research through Northwestern’s medical school. The program received funding from 3M and officially launched at Northwestern in fall 2023. Approximately half of the MICRO interns are now in the program with MIT and half are with Northwestern. Wood and Garcia both participate in the program via Northwestern.</p>
+<p>“By expanding to another school, we’ve been able to have interns work with a much broader range of research projects,” says Chazot. “It has become easier for us to place students with faculty and research that match their interests.”</p>
+<p><strong>Building community</strong></p>
+<p>The MICRO program received a Higher Education Innovation grant from the <a href="https://www.jwel.mit.edu/">Abdul Latif Jameel World Education Lab</a>, part of MIT Open Learning, to develop an in-person summit. In January 2024, interns visited MIT for three days of presentations, workshops, and campus tours — including a tour of the MIT.nano building — as well as various community-building activities.</p>
+<p>“A big part of MICRO is the community,” says Chazot. “A highlight of the summit was just seeing the students come together.”</p>
+<p>The summit also included panel discussions that allowed interns to gain insights and advice from graduate students and professionals. The graduate panel discussion included MIT graduate students Sam Figueroa (mechanical engineering), Isabella Caruso (DMSE), and Eliana Feygin (DMSE). The career panel was led by Chazot and included Jatin Patil PhD ’23, head of product at SiTration; Maureen Reitman ’90, ScD ’93, group vice president and principal engineer at Exponent; Lucas Caretta PhD ’19, assistant professor of engineering at Brown University; Raquel D’Oyen ’90, who holds a PhD from Northwestern University and is a senior engineer at Raytheon; and Ashley Kaiser MS ’19, PhD ’21, senior process engineer at 6K.</p>
+<p>Students also had an opportunity to share their work with each other through research presentations. Their presentations covered a wide range of topics, including: developing a computer program to calculate solubility parameters for polymers used in textile manufacturing; performing a life-cycle analysis of a photonic chip and evaluating its environmental impact in comparison to a standard silicon microchip; and applying machine learning algorithms to scanning transmission electron microscopy images of CrSBr, a two-dimensional magnetic material. </p>
+<p>“The summit was wonderful and the best academic experience I have had as a first-year college student,” says MICRO intern Gabriella La Cour, who is pursuing a major in chemistry and dual degree biomedical engineering at Spelman College and participates in MICRO through MIT. “I got to meet so many students who were all in grades above me … and I learned a little about how to navigate college as an upperclassman.” </p>
+<p>“I actually have an extremely close friendship with one of the students, and we keep in touch regularly,” adds La Cour. “Professor Chazot gave valuable advice about applications and recommendation letters that will be useful when I apply to REUs [Research Experiences for Undergraduates] and graduate schools.”</p>
+<p>Looking to the future, MICRO organizers hope to continue to grow the program’s reach.</p>
+<p>“We would love to see other schools taking on this model,” says Sandland. “There are a lot of opportunities out there. The more departments, research groups, and mentors that get involved with this program, the more impact it can have.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIT faculty, instructors, students experiment with generative AI in teaching and learning</title>
+		<link>https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Classes and programs]]></category>
+		<category><![CDATA[Education, teaching, academics]]></category>
+		<category><![CDATA[Electrical Engineering & Computer Science (eecs)]]></category>
+		<category><![CDATA[Faculty]]></category>
+		<category><![CDATA[Human-computer interaction]]></category>
+		<category><![CDATA[Innovation and Entrepreneurship (I&E)]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[K-12 education]]></category>
+		<category><![CDATA[Labor and jobs]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[MIT Schwarzman College of Computing]]></category>
+		<category><![CDATA[MIT Sloan School of Management]]></category>
+		<category><![CDATA[MITx]]></category>
+		<category><![CDATA[Office of Open Learning]]></category>
+		<category><![CDATA[Online learning]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[School of Science]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<category><![CDATA[Staff]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Technology and society]]></category>
+		<category><![CDATA[Vice Chancellor]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/29/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429/</guid>
+
+					<description><![CDATA[How can MIT’s community leverage generative AI to support learning and work on campus and beyond? At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>How can MIT’s community leverage generative AI to support learning and work on campus and beyond?</p>
+<p>At MIT’s Festival of Learning 2024, faculty and instructors, students, staff, and alumni exchanged perspectives about the digital tools and innovations they’re experimenting with in the classroom. Panelists agreed that generative AI should be used to scaffold — not replace — learning experiences.</p>
+<p>This annual event, co-sponsored by MIT Open Learning and the Office of the Vice Chancellor, celebrates teaching and learning innovations. When introducing new teaching and learning technologies, panelists stressed the importance of iteration and teaching students how to develop critical thinking skills while leveraging technologies like generative AI.</p>
+<p>“The Festival of Learning brings the MIT community together to explore and celebrate what we do every day in the classroom,” said Christopher Capozzola, senior associate dean for open learning. “This year&#8217;s deep dive into generative AI was reflective and practical — yet another remarkable instance of ‘mind and hand’ here at the Institute.” <strong> </strong></p>
+<p><strong>Incorporating generative AI into learning experiences </strong></p>
+<p>MIT faculty and instructors aren’t just willing to experiment with generative AI — some believe it’s a necessary tool to prepare students to be competitive in the workforce. “In a future state, we will know how to teach skills with generative AI, but we need to be making iterative steps to get there instead of waiting around,” said Melissa Webster, lecturer in managerial communication at MIT Sloan School of Management. </p>
+<p>Some educators are revisiting their courses’ learning goals and redesigning assignments so students can achieve the desired outcomes in a world with AI. Webster, for example, previously paired written and oral assignments so students would develop ways of thinking. But, she saw an opportunity for teaching experimentation with generative AI. If students are using tools such as ChatGPT to help produce writing, Webster asked, “how do we still get the thinking part in there?”</p>
+<p>One of the new assignments Webster developed asked students to generate cover letters through ChatGPT and critique the results from the perspective of future hiring managers. Beyond learning how to refine generative AI prompts to produce better outputs, Webster shared that “students are thinking more about their thinking.” Reviewing their ChatGPT-generated cover letter helped students determine what to say and how to say it, supporting their development of higher-level strategic skills like persuasion and understanding audiences.</p>
+<p>Takako Aikawa, senior lecturer at the MIT Global Studies and Languages Section, redesigned a vocabulary exercise to ensure students developed a deeper understanding of the Japanese language, rather than just right or wrong answers. Students compared short sentences written by themselves and by ChatGPT and developed broader vocabulary and grammar patterns beyond the textbook. “This type of activity enhances not only their linguistic skills but stimulates their metacognitive or analytical thinking,” said Aikawa. “They have to think in Japanese for these exercises.”</p>
+<p>While these panelists and other Institute faculty and instructors are redesigning their assignments, many MIT undergraduate and graduate students across different academic departments are leveraging generative AI for efficiency: creating presentations, summarizing notes, and quickly retrieving specific ideas from long documents. But this technology can also creatively personalize learning experiences. Its ability to communicate information in different ways allows students with different backgrounds and abilities to adapt course material in a way that’s specific to their particular context. </p>
+<p>Generative AI, for example, can help with student-centered learning at the K-12 level. Joe Diaz, program manager and STEAM educator for MIT pK-12 at Open Learning, encouraged educators to foster learning experiences where the student can take ownership. “Take something that kids care about and they’re passionate about, and they can discern where [generative AI] might not be correct or trustworthy,” said Diaz.</p>
+<p>Panelists encouraged educators to think about generative AI in ways that move beyond a course policy statement. When incorporating generative AI into assignments, the key is to be clear about learning goals and open to sharing examples of how generative AI could be used in ways that align with those goals. </p>
+<p><strong>The importance of critical thinking</strong></p>
+<p>Although generative AI can have positive impacts on educational experiences, users need to understand why large language models might produce incorrect or biased results. Faculty, instructors, and student panelists emphasized that it’s critical to contextualize how generative AI works. “[Instructors] try to explain what goes on in the back end and that really does help my understanding when reading the answers that I’m getting from ChatGPT or Copilot,” said Joyce Yuan, a senior in computer science. </p>
+<p>Jesse Thaler, professor of physics and director of the National Science Foundation Institute for Artificial Intelligence and Fundamental Interactions, warned about trusting a probabilistic tool to give definitive answers without uncertainty bands. “The interface and the output needs to be of a form that there are these pieces that you can verify or things that you can cross-check,” Thaler said.</p>
+<p>When introducing tools like calculators or generative AI, the faculty and instructors on the panel said it’s essential for students to develop critical thinking skills in those particular academic and professional contexts. Computer science courses, for example, could permit students to use ChatGPT for help with their homework if the problem sets are broad enough that generative AI tools wouldn’t capture the full answer. However, introductory students who haven’t developed the understanding of programming concepts need to be able to discern whether the information ChatGPT generated was accurate or not.</p>
+<p>Ana Bell, senior lecturer of the Department of Electrical Engineering and Computer Science and <em>MITx </em>digital learning scientist, dedicated one class toward the end of the semester of Course 6.100L (Introduction to Computer Science and Programming Using Python) to teach students how to use ChatGPT for programming questions. She wanted students to understand why setting up generative AI tools with the context for programming problems, inputting as many details as possible, will help achieve the best possible results. “Even after it gives you a response back, you have to be critical about that response,” said Bell. By waiting to introduce ChatGPT until this stage, students were able to look at generative AI’s answers critically because they had spent the semester developing the skills to be able to identify whether problem sets were incorrect or might not work for every case. </p>
+<p><strong>A scaffold for learning experiences</strong></p>
+<p>The bottom line from the panelists during the Festival of Learning was that generative AI should provide scaffolding for engaging learning experiences where students can still achieve desired learning goals. The MIT undergraduate and graduate student panelists found it invaluable when educators set expectations for the course about when and how it’s appropriate to use AI tools. Informing students of the learning goals allows them to understand whether generative AI will help or hinder their learning. Student panelists asked for trust that they would use generative AI as a starting point, or treat it like a brainstorming session with a friend for a group project. Faculty and instructor panelists said they will continue iterating their lesson plans to best support student learning and critical thinking. </p>
+<p>Panelists from both sides of the classroom discussed the importance of generative AI users being responsible for the content they produce and avoiding automation bias — trusting the technology’s response implicitly without thinking critically about why it produced that answer and whether it’s accurate. But since generative AI is built by people making design decisions, Thaler told students, “You have power to change the behavior of those tools.”</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A musical life: Carlos Prieto ’59 in conversation and concert</title>
+		<link>https://www.sawberries.com/2024/04/28/musical-life-carlos-prieto-conversation-and-concert-0426/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2024 12:53:45 +0000</pubDate>
+				<category><![CDATA[Alumni/ae]]></category>
+		<category><![CDATA[DMSE]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[School of Engineering]]></category>
+		<category><![CDATA[School of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[Special events and guest speakers]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/04/28/musical-life-carlos-prieto-conversation-and-concert-0426/</guid>
+
+					<description><![CDATA[World-renowned cellist Carlos Prieto ’59 returned to campus for an event to perform and to discuss his new memoir, “Mi Vida Musical.” At the April 9 event in the Samberg Conference Center, Prieto spoke about his formative years at MIT and his subsequent career as a professional cellist. The talk was followed by performances of J.S. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>World-renowned cellist Carlos Prieto ’59 returned to campus for an event to perform and to discuss his new memoir, “Mi Vida Musical.”</p>
+<p>At the April 9 event in the Samberg Conference Center, Prieto spoke about his formative years at MIT and his subsequent career as a professional cellist. The talk was <a href="https://www.youtube.com/watch?v=noO9329Er9I" target="_blank" rel="noopener">followed by performances</a> of J.S. Bach’s “Cello Suite No. 3” and Eugenio “Toussaint’s Bachriation.” Valerie Chen, a 2022 Sudler Prize winner and Emerson/Harris Fellow, also performed Phillip Glass’s “Orbit.”</p>
+<p>Prieto was born in Mexico City and began studying the cello when he was 4. He graduated from MIT with BS degrees in 1959 in Course 3, then called the Metallurgical Engineering and today Materials Science and Engineering, and in Course 14 (Economics). He was the first cello and soloist of the MIT Symphony Orchestra. While at MIT, he took all available courses in Russian, which allowed him, years later, to study at Lomonosov University in Moscow.</p>
+<p>After graduation from MIT, Prieto returned to Mexico, where he rose to become the head of an integrated iron and steel company.</p>
+<p>“When I returned to Mexico, I was very active in my business life, but I was also very active in my music life,” he told the audience. “And at one moment, the music overcame all the other activities and I left my business activities to devote all my time to the cello and I’ve been doing this for the past 50 years.”</p>
+<p>During his musical career, Prieto played all over the world and has played and recorded the world premieres of 115 compositions, most of which were written for him. He is the author of 14 books, some of which have been translated into English, Russian, and Portuguese.</p>
+<p>Prieto’s honors include the Order of the Arts and Letters from France, the Order of Civil Merit from the King of Spain, and the National Prize for Arts and Sciences from the president of Mexico. In 1993 he was appointed member of the MIT Music and Theater Advisory Committee. In 2014, the School of Humanities, Arts, and Social Sciences awarded Prieto the Robert A. Muh Alumni Award.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
