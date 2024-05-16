@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Generative AI &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/generative-ai/feed/?simply_static_page=1692925" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Tue, 07 May 2024 18:01:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>Generative AI &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>12 AI Courses Per Your Current Requirement and Experience in 2024</title>
+		<link>https://www.sawberries.com/2024/05/07/ai-courses-online/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Tue, 07 May 2024 18:01:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI courses]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Free AI Courses]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/07/ai-courses-online/</guid>
+
+					<description><![CDATA[Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Do you feel overwhelmed after seeing a lot of AI courses online and wonder where to begin? Then, you are not alone. I have curated a list of courses for you. Just pick one per your requirement and start. Artificial intelligence is advancing unprecedentedly, and staying ahead of the curve has become crucial for […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/ai-courses-online/">12 AI Courses Per Your Current Requirement and Experience in 2024</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Advanced RAG Technique : Langchain ReAct and Cohere</title>
+		<link>https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:14 +0000</pubDate>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[langchaian]]></category>
+		<category><![CDATA[Langchain]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[query]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[vector]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/advanced-rag-technique-langchain-react-and-cohere/</guid>
+
+					<description><![CDATA[Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction This article explores Adaptive Question-Answering (QA) frameworks, specifically the Adaptive RAG strategy. It discusses how this framework dynamically selects the most suitable method for large language models (LLMs) based on query complexity. It highlights the learning objectives, features, and implementation of Adaptive RAG, its efficiency, and its integration with Langchain and Cohere LLM. The […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/">Advanced RAG Technique : Langchain ReAct and Cohere</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</title>
+		<link>https://www.sawberries.com/2024/05/06/googles-codegemma/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 09:01:12 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Gemma]]></category>
+		<category><![CDATA[Gemma AI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/06/googles-codegemma/</guid>
+
+					<description><![CDATA[Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction CodeGemma 7B is a specialized open code model built on top of Gemma, a family of language models developed by Google DeepMind. It is designed for a variety of code and natural language generation tasks. The 7B model is part of the Gemma family and is further trained on more than 500 billion tokens […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/googles-codegemma/">Is Coding Dead? Google’s CodeGemma 1.1 7B Explained</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is OpenAI’s Sora Diffusion Transformer (DiT)?</title>
+		<link>https://www.sawberries.com/2024/05/04/what-is-openais-sora-diffusion-transformer-dit/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Diffusion Models]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Intermediate]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/what-is-openais-sora-diffusion-transformer-dit/</guid>
+
+					<description><![CDATA[Introduction OpenAI Sora is back and making waves with its first-ever commissioned music video, “Washed Out – The Hardest Part” This mind-blowing creation was stitched together from 55 individual clips, each generated by Sora itself. Sounds almost too good to be true, right? Well, believe it! Back in February 2024, OpenAI’s Sora took the world [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction OpenAI Sora is back and making waves with its first-ever commissioned music video, “Washed Out – The Hardest Part” This mind-blowing creation was stitched together from 55 individual clips, each generated by Sora itself. Sounds almost too good to be true, right? Well, believe it! Back in February 2024, OpenAI’s Sora took the world […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/what-is-openais-sora-diffusion-transformer-dit/">What is OpenAI’s Sora Diffusion Transformer (DiT)?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</title>
+		<link>https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Sat, 04 May 2024 12:01:13 +0000</pubDate>
+				<category><![CDATA[AI Application]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[GenAI]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Mongo DB]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/04/mongodb-ai-applications-program/</guid>
+
+					<description><![CDATA[Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction MongoDB announced MAAP – MongoDB AI Applications Program, designed to help organizations rapidly build and deploy applications enriched with generative AI technology. MongoDB’s AI Applications Program represents a significant initiative within the AI industry. It aims to assist companies in effectively integrating generative AI into their applications. The program emerged when major players like […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/mongodb-ai-applications-program/">Read for EARLY Access: MongoDB’s AI Applications Program(MAAP)</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gemini vs ChatGPT: Which is Better for Coding?</title>
+		<link>https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 21:01:14 +0000</pubDate>
+				<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT]]></category>
+		<category><![CDATA[Gemini vs ChatGPT for code]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/gemini-vs-chatgpt-which-is-better-for-coding/</guid>
+
+					<description><![CDATA[Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Feeling lost in the world of code? Don’t worry, you’re not alone! AI assistants like Gemini and ChatGPT are here to help. But with two strong options, how do you choose? This guide will compares ChatGPT vs Gemini for code. We’ll see which one explains things better, helps you write cleaner code, and tackles […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/gemini-vs-chatgpt-which-is-better-for-coding/">Gemini vs ChatGPT: Which is Better for Coding?</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>30+ Free Generative AI Short Courses by Deeplearning.ai</title>
+		<link>https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 18:01:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Courses]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Deeplearning.ai]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[Listicle]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Short Courses]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/03/free-generative-ai-short-courses-by-deeplearning-ai/</guid>
+
+					<description><![CDATA[Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Today Generative AI is the technology behind basically everything from creating realistic images to composing music and is rapidly transforming various fields. Wondering where to start with this cool technology? Or how to learn about it without spending too much time or signing up for long courses? If that’s you, you’ve found the right […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/free-generative-ai-short-courses-by-deeplearning-ai/">30+ Free Generative AI Short Courses by Deeplearning.ai</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Explore the World through your Photos with GeoSpy.AI</title>
+		<link>https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 15:01:16 +0000</pubDate>
+				<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Find Location]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[GeoSpy.AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/explore-the-world-through-your-photos-with-geospy-ai/</guid>
+
+					<description><![CDATA[Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction In the age of advanced technology, GeoSpy.AI emerges as an AI powered intel platform that utilizes the power of geospatial vision large language models (LLMs) to predict locations from photos. Whether it’s a snapshot of a suburban street, a rural landscape, or a city corner, GeoSpy.AI can pinpoint the coordinates of the location within […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/explore-the-world-through-your-photos-with-geospy-ai/">Explore the World through your Photos with GeoSpy.AI</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Finetuning Llama 3 with Odds Ratio Preference Optimization</title>
+		<link>https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:18 +0000</pubDate>
+				<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[blogathon]]></category>
+		<category><![CDATA[dataset]]></category>
+		<category><![CDATA[fine tuning]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Guide]]></category>
+		<category><![CDATA[HuggingFace]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[language models]]></category>
+		<category><![CDATA[Large Language Models]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Models]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[PyTorch]]></category>
+		<category><![CDATA[Supervised]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[Unsupervised]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/finetuning-llama-3-with-odds-ratio-preference-optimization/</guid>
+
+					<description><![CDATA[Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction Large Language Models are often trained rather than built, requiring multiple steps to perform well. These steps, including Supervised Fine Tuning (SFT) and Preference Alignment, are crucial for learning new things and aligning with human responses. However, each step takes a significant amount of time and computing resources. One solution is the Odd Ratio […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/finetuning-llama-3-with-odds-ratio-preference-optimization/">Finetuning Llama 3 with Odds Ratio Preference Optimization</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet India’s ChatGPT Rival – Hanooman GPT is Here!</title>
+		<link>https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 02 May 2024 11:02:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI Tools]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[Hanooman]]></category>
+		<category><![CDATA[Krutrim AI]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Ola]]></category>
+		<category><![CDATA[Reliance AI]]></category>
+		<category><![CDATA[supertools]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/02/meet-indias-chatgpt-rival-hanooman-gpt-is-here/</guid>
+
+					<description><![CDATA[Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<p>Introduction It’s not Tuesday, but it’s still a Hanooman’s day. Finally, the SML-powered Hanooman GPT is here! India now has its own indigenous alternative to OpenAI’s viral ChatGPT model. Hanooman GPT is a series of open-source Indic large language models developed by the Indian Institute of Technology (IIT) Bombay in partnership with healthcare AI firm […]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2024/05/meet-indias-chatgpt-rival-hanooman-gpt-is-here/">Meet India’s ChatGPT Rival – Hanooman GPT is Here!</a> appeared first on <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a>.</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
