@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gpt-4o &#8211; sawberries</title>
+	<atom:link href="http://localhost/sawberries/category/ai/gpt-4o/feed/?simply_static_page=1688513" rel="self" type="application/rss+xml" />
+	<link>https://www.sawberries.com</link>
+	<description>www.sawberry.com site</description>
+	<lastBuildDate>Thu, 16 May 2024 07:55:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://www.sawberries.com/wp-content/uploads/2024/04/cropped-DALL·E-2024-04-26-12.21.04-A-512x512-favicon-design-that-incorporates-a-playful-twist-on-the-concept-of-a-strawberry-symbolizing-connections-between-people.-The-strawberry-shou-32x32.webp</url>
+	<title>gpt-4o &#8211; sawberries</title>
+	<link>https://www.sawberries.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenAI Spring Update: Next Flagship Model Is the ‘Natively Multimodal’ GPT-4o</title>
+		<link>https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</link>
+		
+		<dc:creator><![CDATA[ross]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 07:55:46 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[CXO]]></category>
+		<category><![CDATA[GPT-4]]></category>
+		<category><![CDATA[gpt-4o]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[International]]></category>
+		<category><![CDATA[macos]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.sawberries.com/2024/05/16/openai-next-flagship-model-gpt-4o/</guid>
+
+					<description><![CDATA[OpenAI added a desktop ChatGPT application for macOS with GPT-4o. Separately, all ChatGPT users have access to Memory and some other features for free.]]></description>
+										<content:encoded><![CDATA[<div>OpenAI added a desktop ChatGPT application for macOS with GPT-4o. Separately, all ChatGPT users have access to Memory and some other features for free.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
